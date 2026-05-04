@@ -1,0 +1,2374 @@
+[
+  {
+    "q": "Solve for x: 2x + 5 = 15",
+    "opts": [
+      "5",
+      "10",
+      "7.5",
+      "5.5"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "2x = 10 → x = 5"
+  },
+  {
+    "q": "What is the value of x in x² - 5x + 6 = 0?",
+    "opts": [
+      "2,3",
+      "-2,-3",
+      "2,-3",
+      "-2,3"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "Factors: (x-2)(x-3)=0 → x=2,3"
+  },
+  {
+    "q": "Simplify (x³)(x⁴)",
+    "opts": [
+      "x⁷",
+      "x¹²",
+      "x¹"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "Add exponents: 3+4=7"
+  },
+  {
+    "q": "What is the slope of the line y = 3x - 4?",
+    "opts": [
+      "3",
+      "-4",
+      "4",
+      "-3"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "Slope is coefficient of x = 3"
+  },
+  {
+    "q": "Solve the system: x + y = 5, x - y = 1",
+    "opts": [
+      "(3,2)",
+      "(2,3)",
+      "(4,1)",
+      "(1,4)"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "Adding gives 2x=6 → x=3, then y=2"
+  },
+  {
+    "q": "What is the discriminant of x² + 4x + 4 = 0?",
+    "opts": [
+      "0",
+      "16",
+      "4",
+      "8"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "b²-4ac = 16-16=0"
+  },
+  {
+    "q": "Factor: x² - 9",
+    "opts": [
+      "(x-3)(x+3)",
+      "(x-3)²",
+      "(x+3)²",
+      "x²-9"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "Difference of squares"
+  },
+  {
+    "q": "What is the sum of the roots of 2x² - 6x + 4 = 0?",
+    "opts": [
+      "3",
+      "-3",
+      "2",
+      "-2"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "Sum = -b/a = -(-6)/2 = 3"
+  },
+  {
+    "q": "What is the product of the roots of x² + 5x + 6 = 0?",
+    "opts": [
+      "6",
+      "-6",
+      "5",
+      "-5"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "Product = c/a = 6/1 = 6"
+  },
+  {
+    "q": "Solve for x: 3(x-2) = 12",
+    "opts": [
+      "6",
+      "4",
+      "8",
+      "2"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "3x-6=12 → 3x=18 → x=6"
+  },
+  {
+    "q": "What is the y-intercept of y = -2x + 7?",
+    "opts": [
+      "7",
+      "-2",
+      "0",
+      "2"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "y-intercept is constant term 7"
+  },
+  {
+    "q": "Simplify (2x²y³)³",
+    "opts": [
+      "8x⁶y⁹",
+      "6x⁵y⁶",
+      "8x⁵y⁶",
+      "2x⁶y⁹"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "Cube each factor: 2³=8, (x²)³=x⁶, (y³)³=y⁹"
+  },
+  {
+    "q": "What is the vertex of y = x² - 4x + 3?",
+    "opts": [
+      "(2,-1)",
+      "(-2,1)",
+      "(2,1)",
+      "(-2,-1)"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "x = -b/2a = 4/2=2, then y=4-8+3=-1"
+  },
+  {
+    "q": "Solve the inequality: 2x - 3 > 7",
+    "opts": [
+      "x > 5",
+      "x < 5",
+      "x > 2",
+      "x < 2"
+    ],
+    "ans": 0,
+    "subj": "Algebra",
+    "exp": "2x > 10 → x > 5"
+  },
+  {
+    "q": "What is sin(90°)?",
+    "opts": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "sin 90° = 1"
+  },
+  {
+    "q": "What is cos(0°)?",
+    "opts": [
+      "0",
+      "1",
+      "-1",
+      "∞"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "cos 0° = 1"
+  },
+  {
+    "q": "What is tan(45°)?",
+    "opts": [
+      "0",
+      "1",
+      "√3",
+      "1/√3"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "tan 45° = 1"
+  },
+  {
+    "q": "What is the period of sin(x)?",
+    "opts": [
+      "π",
+      "2π",
+      "π/2",
+      "4π"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "Sine repeats every 2π"
+  },
+  {
+    "q": "If sin θ = 3/5, what is cos θ? (θ acute)",
+    "opts": [
+      "4/5",
+      "3/4",
+      "5/3",
+      "2/5"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "Using identity sin²+cos²=1 → cos=4/5"
+  },
+  {
+    "q": "What is the value of sin(30°)?",
+    "opts": [
+      "1/2",
+      "√3/2",
+      "1/√2",
+      "1"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "sin 30° = 0.5"
+  },
+  {
+    "q": "What is cos(60°)?",
+    "opts": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "cos 60° = 0.5"
+  },
+  {
+    "q": "What is tan(30°)?",
+    "opts": [
+      "1/√3",
+      "√3",
+      "1",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "tan 30° = 1/√3"
+  },
+  {
+    "q": "Simplify sin²x + cos²x",
+    "opts": [
+      "1",
+      "0",
+      "sin2x",
+      "cos2x"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "Pythagorean identity"
+  },
+  {
+    "q": "What is the derivative of sin(x)?",
+    "opts": [
+      "cos(x)",
+      "-cos(x)",
+      "sin(x)",
+      "-sin(x)"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "d/dx sin x = cos x"
+  },
+  {
+    "q": "What is the integral of cos(x) dx?",
+    "opts": [
+      "sin(x) + C",
+      "-sin(x) + C",
+      "cos(x) + C",
+      "-cos(x) + C"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "∫cos x dx = sin x + C"
+  },
+  {
+    "q": "What is the amplitude of y = 3 sin(2x)?",
+    "opts": [
+      "3",
+      "2",
+      "1",
+      "6"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "Amplitude = coefficient of sin = 3"
+  },
+  {
+    "q": "What is the period of y = tan(x/2)?",
+    "opts": [
+      "2π",
+      "π",
+      "4π",
+      "π/2"
+    ],
+    "ans": 0,
+    "subj": "Trigonometry",
+    "exp": "Period of tan(kx) = π/k → π/(1/2)=2π"
+  },
+  {
+    "q": "What is the distance between (1,2) and (4,6)?",
+    "opts": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "√((4-1)²+(6-2)²)=√(9+16)=5"
+  },
+  {
+    "q": "What is the midpoint of (0,0) and (6,8)?",
+    "opts": [
+      "(3,4)",
+      "(2,4)",
+      "(3,5)",
+      "(4,3)"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "((0+6)/2, (0+8)/2) = (3,4)"
+  },
+  {
+    "q": "What is the slope of the line through (2,3) and (5,11)?",
+    "opts": [
+      "8/3",
+      "3/8",
+      "2",
+      "4"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "(11-3)/(5-2)=8/3"
+  },
+  {
+    "q": "What is the equation of a circle with center (0,0) radius 5?",
+    "opts": [
+      "x²+y²=25",
+      "x²+y²=5",
+      "x²+y²=10",
+      "x²+y²=50"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "Standard form: x²+y²=r²"
+  },
+  {
+    "q": "What is the center of the circle (x-3)²+(y+2)²=16?",
+    "opts": [
+      "(3,-2)",
+      "(-3,2)",
+      "(3,2)",
+      "(-3,-2)"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "Center (h,k) = (3,-2)"
+  },
+  {
+    "q": "What is the radius of x²+y²-6x+8y=0?",
+    "opts": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "Complete square: (x-3)²+(y+4)²=25 → r=5"
+  },
+  {
+    "q": "What is the slope of the line 3x - 4y = 12?",
+    "opts": [
+      "3/4",
+      "4/3",
+      "-3/4",
+      "-4/3"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "Rewrite: y = (3/4)x - 3 → slope=3/4"
+  },
+  {
+    "q": "What is the equation of the line with slope 2 passing through (1,3)?",
+    "opts": [
+      "y=2x+1",
+      "y=2x-1",
+      "y=2x+2",
+      "y=2x-2"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "y-3=2(x-1) → y=2x+1"
+  },
+  {
+    "q": "What is the x-intercept of the line 2x+3y=6?",
+    "opts": [
+      "3",
+      "2",
+      "6",
+      "-3"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "Set y=0 → 2x=6 → x=3"
+  },
+  {
+    "q": "What is the y-intercept of the line 4x-5y=20?",
+    "opts": [
+      "-4",
+      "4",
+      "5",
+      "-5"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "Set x=0 → -5y=20 → y=-4"
+  },
+  {
+    "q": "What is the eccentricity of a circle?",
+    "opts": [
+      "0",
+      "1",
+      "2",
+      "√2"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "Circle has eccentricity 0"
+  },
+  {
+    "q": "What is the focus of the parabola y²=4ax?",
+    "opts": [
+      "(a,0)",
+      "(0,a)",
+      "(-a,0)"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "Standard parabola focus (a,0)"
+  },
+  {
+    "q": "What is the directrix of x²=4ay?",
+    "opts": [
+      "y=-a",
+      "y=a",
+      "x=-a",
+      "x=a"
+    ],
+    "ans": 0,
+    "subj": "Analytical Geometry",
+    "exp": "For x²=4ay, directrix y=-a"
+  },
+  {
+    "q": "What is the derivative of x³?",
+    "opts": [
+      "3x²",
+      "x²",
+      "3x³",
+      "2x²"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "Power rule: d/dx x^n = n x^{n-1}"
+  },
+  {
+    "q": "What is ∫ 2x dx?",
+    "opts": [
+      "x² + C",
+      "2x² + C",
+      "x²",
+      "2x"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "∫2x dx = x² + C"
+  },
+  {
+    "q": "What is ∫ cos(x) dx?",
+    "opts": [
+      "sin(x) + C",
+      "-sin(x) + C",
+      "cos(x) + C",
+      "-cos(x) + C"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "∫ cos x dx = sin x + C"
+  },
+  {
+    "q": "What is the limit of (x²-4)/(x-2) as x→2?",
+    "opts": [
+      "4",
+      "2",
+      "0",
+      "∞"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "Factor: (x-2)(x+2)/(x-2)=x+2 → 4"
+  },
+  {
+    "q": "What is the derivative of e^x?",
+    "opts": [
+      "e^x",
+      "xe^{x-1}",
+      "ln x",
+      "1/x"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "d/dx e^x = e^x"
+  },
+  {
+    "q": "What is ∫ e^x dx?",
+    "opts": [
+      "e^x + C",
+      "xe^x + C",
+      "ln x + C",
+      "1/e^x + C"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "∫ e^x dx = e^x + C"
+  },
+  {
+    "q": "What is the derivative of ln(x)?",
+    "opts": [
+      "1/x",
+      "x",
+      "e^x",
+      "1"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "d/dx ln x = 1/x"
+  },
+  {
+    "q": "What is ∫ 1/x dx?",
+    "opts": [
+      "ln|x| + C",
+      "x ln x + C",
+      "1/x² + C",
+      "e^x + C"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "∫ 1/x dx = ln|x| + C"
+  },
+  {
+    "q": "What is the derivative of tan(x)?",
+    "opts": [
+      "sec²(x)",
+      "csc²(x)",
+      "sec(x)tan(x)",
+      "csc(x)cot(x)"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "d/dx tan x = sec² x"
+  },
+  {
+    "q": "What is ∫ sec²(x) dx?",
+    "opts": [
+      "tan(x) + C",
+      "sec(x) + C",
+      "csc(x) + C",
+      "cot(x) + C"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "∫ sec² x dx = tan x + C"
+  },
+  {
+    "q": "What is the derivative of x² sin(x)?",
+    "opts": [
+      "2x sin x + x² cos x",
+      "2x sin x - x² cos x",
+      "x² cos x",
+      "2x cos x"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "Product rule: (2x)(sin x) + (x²)(cos x)"
+  },
+  {
+    "q": "What is ∫ x² dx from 0 to 3?",
+    "opts": [
+      "9",
+      "27",
+      "3",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "∫x² = x³/3, evaluate: 27/3 - 0 = 9"
+  },
+  {
+    "q": "What is the derivative of cos(x)?",
+    "opts": [
+      "-sin(x)",
+      "sin(x)",
+      "-cos(x)",
+      "cos(x)"
+    ],
+    "ans": 0,
+    "subj": "Differential & Integral Calculus",
+    "exp": "d/dx cos x = -sin x"
+  },
+  {
+    "q": "What is the order of y''' + 2y'' - y' = 0?",
+    "opts": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Highest derivative is 3rd order"
+  },
+  {
+    "q": "Solve: dy/dx = 2x",
+    "opts": [
+      "y = x² + C",
+      "y = 2x + C",
+      "y = x²",
+      "y = 2x² + C"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Integrate both sides: y = x² + C"
+  },
+  {
+    "q": "What is the integrating factor for dy/dx + 2y = 4?",
+    "opts": [
+      "e^{2x}",
+      "e^{-2x}",
+      "e^{x}",
+      "e^{-x}"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "IF = e^{∫2 dx} = e^{2x}"
+  },
+  {
+    "q": "What is the characteristic equation of y'' - 3y' + 2y = 0?",
+    "opts": [
+      "r² - 3r + 2 = 0",
+      "r² + 3r + 2 = 0",
+      "r² - 3r - 2 = 0",
+      "r² + 3r - 2 = 0"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Replace y'' with r², y' with r, y with 1"
+  },
+  {
+    "q": "Solve: y' = ky (exponential growth)",
+    "opts": [
+      "y = Ce^{kt}",
+      "y = Ce^{-kt}",
+      "y = kt + C",
+      "y = C e^{kt} + C"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Separable: dy/y = k dt → ln y = kt + C → y = Ce^{kt}"
+  },
+  {
+    "q": "What is the general solution of y'' + 4y = 0?",
+    "opts": [
+      "y = C1 cos 2x + C2 sin 2x",
+      "y = C1 e^{2x} + C2 e^{-2x}",
+      "y = C1 cos 4x + C2 sin 4x",
+      "y = C1 e^{4x} + C2 e^{-4x}"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Characteristic r²+4=0 → r=±2i → sin/cos solution"
+  },
+  {
+    "q": "What is the degree of (y'')² + (y')³ = 0?",
+    "opts": [
+      "2",
+      "1",
+      "3",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Highest power of highest derivative (y'')² → degree 2"
+  },
+  {
+    "q": "Solve: y' = y, y(0)=1",
+    "opts": [
+      "y = e^x",
+      "y = e^{-x}",
+      "y = x + 1",
+      "y = 1"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "y = Ce^x, using y(0)=1 → C=1"
+  },
+  {
+    "q": "What is the auxiliary equation for y''' - y = 0?",
+    "opts": [
+      "r³ - 1 = 0",
+      "r³ + 1 = 0",
+      "r² - 1 = 0",
+      "r² + 1 = 0"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Substitute y = e^{rx} → r³ e^{rx} - e^{rx}=0 → r³-1=0"
+  },
+  {
+    "q": "Solve: dy/dx = (1+y²)/x",
+    "opts": [
+      "arctan y = ln|x| + C",
+      "y = ln|x| + C",
+      "y = x + C",
+      "y = Cx"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Separate: dy/(1+y²) = dx/x → arctan y = ln|x| + C"
+  },
+  {
+    "q": "What is the integrating factor for x dy/dx + y = x²?",
+    "opts": [
+      "x",
+      "1/x",
+      "e^x",
+      "ln x"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Divide by x: dy/dx + (1/x)y = x → IF = e^{∫1/x dx} = x"
+  },
+  {
+    "q": "What is the order of (d²y/dx²)³ + dy/dx = 0?",
+    "opts": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Highest derivative is 2nd order (d²y/dx²)"
+  },
+  {
+    "q": "Solve: y'' - y = 0",
+    "opts": [
+      "y = C1 e^x + C2 e^{-x}",
+      "y = C1 cos x + C2 sin x",
+      "y = C1 e^{ix} + C2 e^{-ix}",
+      "y = C1 x + C2"
+    ],
+    "ans": 0,
+    "subj": "Differential Equations",
+    "exp": "Characteristic r²-1=0 → r=±1 → exponential solution"
+  },
+  {
+    "q": "What is i²?",
+    "opts": [
+      "-1",
+      "1",
+      "i",
+      "-i"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "i² = -1"
+  },
+  {
+    "q": "Simplify (3+2i) + (4-5i)",
+    "opts": [
+      "7 - 3i",
+      "7 + 7i",
+      "7 - 7i",
+      "1 + 3i"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "Real: 3+4=7, imag: 2-5=-3"
+  },
+  {
+    "q": "What is the conjugate of 2 - 3i?",
+    "opts": [
+      "2 + 3i",
+      "-2 - 3i",
+      "-2 + 3i",
+      "2 - 3i"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "Change sign of imaginary part"
+  },
+  {
+    "q": "What is |3 + 4i|?",
+    "opts": [
+      "5",
+      "7",
+      "1",
+      "25"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "√(3²+4²)=√25=5"
+  },
+  {
+    "q": "Multiply (1+i)(1-i)",
+    "opts": [
+      "2",
+      "0",
+      "1+i",
+      "1-i"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "1² - i² = 1 - (-1) = 2"
+  },
+  {
+    "q": "What is i³?",
+    "opts": [
+      "-i",
+      "i",
+      "-1",
+      "1"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "i³ = i² * i = (-1)*i = -i"
+  },
+  {
+    "q": "What is i⁴?",
+    "opts": [
+      "1",
+      "i",
+      "-1",
+      "-i"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "(i²)² = (-1)² = 1"
+  },
+  {
+    "q": "What is the argument of 1 + i?",
+    "opts": [
+      "45°",
+      "90°",
+      "0°",
+      "135°"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "tan θ = 1/1 = 1 → θ = 45°"
+  },
+  {
+    "q": "Write in polar form: 1 + i",
+    "opts": [
+      "√2 cis 45°",
+      "√2 cis 135°",
+      "2 cis 45°",
+      "2 cis 135°"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "r = √2, θ = 45°"
+  },
+  {
+    "q": "What is the product of 2 cis 30° and 3 cis 60°?",
+    "opts": [
+      "6 cis 90°",
+      "5 cis 90°",
+      "6 cis 30°",
+      "5 cis 30°"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "Multiply magnitudes, add angles: 2*3=6, 30+60=90°"
+  },
+  {
+    "q": "What is the square root of -9?",
+    "opts": [
+      "3i",
+      "-3i",
+      "±3i",
+      "9i"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "√(-9) = √9 * √(-1) = ±3i"
+  },
+  {
+    "q": "Solve: x² + 1 = 0",
+    "opts": [
+      "x = ±i",
+      "x = ±1",
+      "x = i",
+      "x = -i"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "x² = -1 → x = ±i"
+  },
+  {
+    "q": "What is the complex conjugate of i?",
+    "opts": [
+      "-i",
+      "i",
+      "1",
+      "-1"
+    ],
+    "ans": 0,
+    "subj": "Complex Numbers",
+    "exp": "Conjugate of 0+1i is 0-1i = -i"
+  },
+  {
+    "q": "What is the probability of getting a head in a fair coin toss?",
+    "opts": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "Favorable outcomes: 1, total: 2 → 1/2"
+  },
+  {
+    "q": "What is the probability of rolling a 6 on a fair die?",
+    "opts": [
+      "1/6",
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "One favorable out of six possible"
+  },
+  {
+    "q": "If you draw a card from a standard deck, what is P(heart)?",
+    "opts": [
+      "1/4",
+      "1/2",
+      "1/13",
+      "1/52"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "13 hearts out of 52 → 1/4"
+  },
+  {
+    "q": "What is the probability of rolling an even number on a die?",
+    "opts": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "2/3"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "Even: 2,4,6 → 3/6 = 1/2"
+  },
+  {
+    "q": "If P(A)=0.3 and P(B)=0.4, and A and B are mutually exclusive, what is P(A∪B)?",
+    "opts": [
+      "0.7",
+      "0.12",
+      "0.1",
+      "0.5"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "Mutually exclusive: P(A∪B)=P(A)+P(B)=0.7"
+  },
+  {
+    "q": "What is the probability of getting at least one head in two coin tosses?",
+    "opts": [
+      "3/4",
+      "1/2",
+      "1/4",
+      "1"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "Complement: no heads (TT) has prob 1/4 → 1-1/4=3/4"
+  },
+  {
+    "q": "What is P(red card) from a standard deck?",
+    "opts": [
+      "1/2",
+      "1/4",
+      "1/3",
+      "1/26"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "26 red out of 52 = 1/2"
+  },
+  {
+    "q": "If two dice are rolled, what is the probability of sum 7?",
+    "opts": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "5/36"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "Combinations: (1,6),(2,5),(3,4),(4,3),(5,2),(6,6) → 6/36=1/6"
+  },
+  {
+    "q": "What is the probability of drawing a face card (J,Q,K) from a deck?",
+    "opts": [
+      "3/13",
+      "1/13",
+      "4/13",
+      "1/4"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "12 face cards out of 52 = 12/52 = 3/13"
+  },
+  {
+    "q": "If P(A)=0.6 and P(B)=0.5, and A and B are independent, what is P(A∩B)?",
+    "opts": [
+      "0.3",
+      "1.1",
+      "0.1",
+      "0.5"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "P(A∩B)=P(A)P(B)=0.6*0.5=0.3"
+  },
+  {
+    "q": "What is the probability of getting a sum of 10 with two dice?",
+    "opts": [
+      "1/12",
+      "1/18",
+      "1/9",
+      "5/36"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "Combinations: (4,6),(5,5),(6,4) → 3/36=1/12"
+  },
+  {
+    "q": "What is the probability of selecting a vowel from the English alphabet?",
+    "opts": [
+      "5/26",
+      "1/5",
+      "1/26",
+      "5/21"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "5 vowels out of 26 letters"
+  },
+  {
+    "q": "If P(A)=0.2, P(B)=0.3, and P(A∩B)=0.06, are A and B independent?",
+    "opts": [
+      "Yes",
+      "No",
+      "Cannot determine",
+      "Maybe"
+    ],
+    "ans": 0,
+    "subj": "Probability",
+    "exp": "P(A)P(B)=0.06 equals P(A∩B) → independent"
+  },
+  {
+    "q": "What is the mean of 2, 4, 6, 8, 10?",
+    "opts": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "Sum=30, count=5 → 6"
+  },
+  {
+    "q": "What is the median of 3, 5, 7, 9, 11?",
+    "opts": [
+      "7",
+      "5",
+      "9",
+      "8"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "Middle value is 7"
+  },
+  {
+    "q": "What is the mode of 1,2,2,3,4?",
+    "opts": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "2 appears most often"
+  },
+  {
+    "q": "What is the range of 5, 10, 15, 20?",
+    "opts": [
+      "15",
+      "5",
+      "10",
+      "20"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "Max-min = 20-5=15"
+  },
+  {
+    "q": "What is the variance of 2,4,6,8,10?",
+    "opts": [
+      "8",
+      "4",
+      "6",
+      "10"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "Mean=6, squared differences sum=40, variance=40/5=8"
+  },
+  {
+    "q": "What is the standard deviation of the same set?",
+    "opts": [
+      "2.828",
+      "4",
+      "8",
+      "6"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "√8 ≈ 2.828"
+  },
+  {
+    "q": "What is the coefficient of variation if mean=50, sd=10?",
+    "opts": [
+      "20%",
+      "10%",
+      "50%",
+      "5%"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "(10/50)*100 = 20%"
+  },
+  {
+    "q": "What is the median of 1,3,3,6,7,8,9?",
+    "opts": [
+      "6",
+      "3",
+      "7",
+      "5"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "Middle value (4th) = 6"
+  },
+  {
+    "q": "What is the interquartile range of 1,3,5,7,9,11,13?",
+    "opts": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "Q3=11, Q1=3, IQR=8"
+  },
+  {
+    "q": "What is the sample variance formula?",
+    "opts": [
+      "∑(x-x̄)²/(n-1)",
+      "∑(x-x̄)²/n",
+      "∑x²/n",
+      "∑(x-μ)²/N"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "Sample variance uses n-1 degrees of freedom"
+  },
+  {
+    "q": "What is the population variance symbol?",
+    "opts": [
+      "σ²",
+      "s²",
+      "μ",
+      "σ"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "σ² is population variance"
+  },
+  {
+    "q": "What is the mean of the numbers 0,0,0,10,10?",
+    "opts": [
+      "4",
+      "2",
+      "5",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "Sum=20, count=5 → 4"
+  },
+  {
+    "q": "What is the mode of the set 1,1,2,3,4,4,4,5?",
+    "opts": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "ans": 0,
+    "subj": "Statistics",
+    "exp": "4 appears three times, most frequent"
+  },
+  {
+    "q": "What is the order of a 3x4 matrix?",
+    "opts": [
+      "3 rows, 4 columns",
+      "4 rows, 3 columns",
+      "3x3",
+      "4x4"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "First number is rows, second is columns"
+  },
+  {
+    "q": "Add matrices: [[1,2],[3,4]] + [[5,6],[7,8]]",
+    "opts": [
+      "[[6,8],[10,12]]",
+      "[[5,12],[21,32]]"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "Element-wise addition"
+  },
+  {
+    "q": "What is the determinant of [[a,b],[c,d]]?",
+    "opts": [
+      "ad - bc",
+      "ab - cd",
+      "ac - bd",
+      "ad + bc"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "Standard formula for 2x2 determinant"
+  },
+  {
+    "q": "What is the determinant of [[1,2],[3,4]]?",
+    "opts": [
+      "-2",
+      "2",
+      "10",
+      "-10"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "1*4 - 2*3 = 4 - 6 = -2"
+  },
+  {
+    "q": "What is the product of [[1,0],[0,1]] (identity) and any matrix A?",
+    "opts": [
+      "A",
+      "0",
+      "I",
+      "A²"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "Identity matrix acts as 1 in multiplication"
+  },
+  {
+    "q": "What is the transpose of [[1,2],[3,4]]?",
+    "opts": [
+      "[[1,3],[2,4]]",
+      "[[1,2],[3,4]]",
+      "[[2,1],[4,3]]",
+      "[[4,3],[2,1]]"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "Swap rows and columns"
+  },
+  {
+    "q": "What is the inverse of [[1,0],[0,1]]?",
+    "opts": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[1,1]]",
+      "does not exist"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "Inverse of identity is itself"
+  },
+  {
+    "q": "If A is 2x3 and B is 3x4, what is the size of AB?",
+    "opts": [
+      "2x4",
+      "3x3",
+      "2x3",
+      "3x4"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "Inner dimensions must match, result is outer dimensions"
+  },
+  {
+    "q": "What is the trace of [[1,2],[3,4]]?",
+    "opts": [
+      "5",
+      "3",
+      "4",
+      "7"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "Sum of diagonal elements: 1+4=5"
+  },
+  {
+    "q": "What is the determinant of [[2,0],[0,2]]?",
+    "opts": [
+      "4",
+      "2",
+      "0",
+      "1"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "2*2 - 0*0 = 4"
+  },
+  {
+    "q": "What is the zero matrix of order 2?",
+    "opts": [
+      "[[0,0],[0,0]]",
+      "[[0,0]]",
+      "[[0]]",
+      "[[0,0,0],[0,0,0]]"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "All entries zero"
+  },
+  {
+    "q": "What is the rank of a non-singular 3x3 matrix?",
+    "opts": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "Full rank = number of rows/columns"
+  },
+  {
+    "q": "What is the product of a matrix and its inverse?",
+    "opts": [
+      "Identity",
+      "Zero matrix",
+      "Original matrix",
+      "Transpose"
+    ],
+    "ans": 0,
+    "subj": "Matrices",
+    "exp": "A * A⁻¹ = I"
+  },
+  {
+    "q": "What is the interval of convergence for ∑ xⁿ?",
+    "opts": [
+      "|x| < 1",
+      "|x| ≤ 1",
+      "x=0 only",
+      "all x"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "Geometric series converges when |x|<1"
+  },
+  {
+    "q": "What is the radius of convergence for ∑ (xⁿ)/n²?",
+    "opts": [
+      "1",
+      "∞",
+      "0",
+      "2"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "Ratio test gives R=1"
+  },
+  {
+    "q": "What is the Maclaurin series for sin x?",
+    "opts": [
+      "x - x³/3! + x⁵/5! - ...",
+      "1 - x²/2! + x⁴/4! - ...",
+      "x + x³/3! + x⁵/5! + ...",
+      "1 + x + x²/2! + ..."
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "sin x = Σ (-1)ⁿ x^{2n+1}/(2n+1)!"
+  },
+  {
+    "q": "What is the Maclaurin series for cos x?",
+    "opts": [
+      "1 - x²/2! + x⁴/4! - ...",
+      "x - x³/3! + x⁵/5! - ...",
+      "1 + x + x²/2! + ...",
+      "x + x³/3! + ..."
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "cos x = Σ (-1)ⁿ x^{2n}/(2n)!"
+  },
+  {
+    "q": "What is the Maclaurin series for eˣ?",
+    "opts": [
+      "1 + x + x²/2! + x³/3! + ...",
+      "x + x²/2 + x³/3 + ...",
+      "1 - x + x²/2! - ...",
+      "∑ xⁿ"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "eˣ = Σ xⁿ/n!"
+  },
+  {
+    "q": "What is the series expansion for ln(1+x) around x=0?",
+    "opts": [
+      "x - x²/2 + x³/3 - ...",
+      "x + x²/2 + x³/3 + ...",
+      "1 - x + x² - ...",
+      "x + x² + x³ + ..."
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "ln(1+x) = Σ (-1)^{n+1} xⁿ/n"
+  },
+  {
+    "q": "What is the radius of convergence for ∑ n! xⁿ?",
+    "opts": [
+      "0",
+      "1",
+      "∞",
+      "2"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "Ratio test: limit of (n+1) → ∞, so R=0"
+  },
+  {
+    "q": "What is the Taylor series of f(x) about x=a?",
+    "opts": [
+      "∑ f^{(n)}(a)/n! (x-a)ⁿ",
+      "∑ f^{(n)}(0)/n! xⁿ",
+      "∑ f(a) (x-a)ⁿ",
+      "∑ f^{(n)}(a) (x-a)ⁿ"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "Definition of Taylor series"
+  },
+  {
+    "q": "What is the first term of the Maclaurin series for tan x?",
+    "opts": [
+      "x",
+      "1",
+      "x²",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "tan x ≈ x + x³/3 + ..."
+  },
+  {
+    "q": "What is the interval of convergence for ∑ (x-2)ⁿ / n?",
+    "opts": [
+      "[1,3)",
+      "(1,3]",
+      "[1,3]",
+      "(1,3)"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "Radius 1, center 2, check endpoints: at x=1 gives alternating harmonic (converges), at x=3 gives harmonic (diverges)"
+  },
+  {
+    "q": "What is the sum of the geometric series ∑_{n=0}^∞ (1/2)ⁿ?",
+    "opts": [
+      "2",
+      "1",
+      "3",
+      "∞"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "1/(1-1/2)=2"
+  },
+  {
+    "q": "What is the radius of convergence for ∑ xⁿ/√n?",
+    "opts": [
+      "1",
+      "0",
+      "∞",
+      "2"
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "Ratio test gives R=1"
+  },
+  {
+    "q": "What is the Maclaurin series for 1/(1-x)?",
+    "opts": [
+      "1 + x + x² + x³ + ...",
+      "1 - x + x² - ...",
+      "x + x² + x³ + ...",
+      "1 + x² + x⁴ + ..."
+    ],
+    "ans": 0,
+    "subj": "Power Series",
+    "exp": "Geometric series"
+  },
+  {
+    "q": "What is the fundamental period of sin(2x)?",
+    "opts": [
+      "π",
+      "2π",
+      "π/2",
+      "4π"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Period = 2π/2 = π"
+  },
+  {
+    "q": "What is the Fourier series of an even function contains?",
+    "opts": [
+      "Only cosine terms",
+      "Only sine terms",
+      "Both sine and cosine",
+      "Constant only"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Even functions have cosine series"
+  },
+  {
+    "q": "What is the Fourier series of an odd function contains?",
+    "opts": [
+      "Only sine terms",
+      "Only cosine terms",
+      "Both",
+      "Constant only"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Odd functions have sine series"
+  },
+  {
+    "q": "What is the constant term a₀ in Fourier series of f(x) over [-π,π]?",
+    "opts": [
+      "(1/π)∫_{-π}^{π} f(x) dx",
+      "(1/2π)∫ f dx",
+      "∫ f dx",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "a₀ = (1/π)∫ f(x) dx"
+  },
+  {
+    "q": "What is the coefficient aₙ for cosine terms?",
+    "opts": [
+      "(1/π)∫ f(x) cos(nx) dx",
+      "(1/π)∫ f(x) sin(nx) dx",
+      "(1/2π)∫ f(x) cos(nx) dx",
+      "∫ f(x) cos(nx) dx"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Standard formula for Fourier coefficients"
+  },
+  {
+    "q": "What is the coefficient bₙ for sine terms?",
+    "opts": [
+      "(1/π)∫ f(x) sin(nx) dx",
+      "(1/π)∫ f(x) cos(nx) dx",
+      "(1/2π)∫ f(x) sin(nx) dx",
+      "∫ f(x) sin(nx) dx"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Standard formula"
+  },
+  {
+    "q": "What is the Fourier transform of a rectangular pulse?",
+    "opts": [
+      "sinc function",
+      "Gaussian",
+      "Delta function",
+      "Exponential"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Rect ↔ sinc"
+  },
+  {
+    "q": "What is the Parseval's theorem for Fourier series?",
+    "opts": [
+      "(1/π)∫ f² dx = a₀²/2 + ∑(aₙ²+bₙ²)",
+      "∫ f dx = a₀",
+      "∑ aₙ = f(0)",
+      "None"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Energy conservation in frequency domain"
+  },
+  {
+    "q": "What is the Fourier series of a constant function?",
+    "opts": [
+      "Constant only",
+      "Sine series",
+      "Cosine series",
+      "Zero"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Only a₀ term"
+  },
+  {
+    "q": "What is the period of cos(3x)?",
+    "opts": [
+      "2π/3",
+      "π/3",
+      "2π",
+      "π"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Period = 2π/3"
+  },
+  {
+    "q": "What is the Fourier transform of a delta function?",
+    "opts": [
+      "1",
+      "δ(ω)",
+      "0",
+      "∞"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "F{δ(t)} = 1"
+  },
+  {
+    "q": "What is the inverse Fourier transform of 1?",
+    "opts": [
+      "δ(t)",
+      "1",
+      "0",
+      "∞"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "F⁻¹{1} = δ(t)"
+  },
+  {
+    "q": "What is the Fourier series of a square wave contains?",
+    "opts": [
+      "Odd harmonics",
+      "Even harmonics",
+      "All harmonics",
+      "Only fundamental"
+    ],
+    "ans": 0,
+    "subj": "Fourier Analysis",
+    "exp": "Square wave has only odd harmonics"
+  },
+  {
+    "q": "What is the Laplace transform of 1?",
+    "opts": [
+      "1/s",
+      "s",
+      "1",
+      "0"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "L{1} = 1/s for s>0"
+  },
+  {
+    "q": "What is the Laplace transform of e^{at}?",
+    "opts": [
+      "1/(s-a)",
+      "1/(s+a)",
+      "s/(s-a)",
+      "s/(s+a)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "L{e^{at}} = 1/(s-a)"
+  },
+  {
+    "q": "What is the Laplace transform of sin(at)?",
+    "opts": [
+      "a/(s²+a²)",
+      "s/(s²+a²)",
+      "1/(s²+a²)",
+      "a/(s²-a²)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "Standard transform"
+  },
+  {
+    "q": "What is the Laplace transform of cos(at)?",
+    "opts": [
+      "s/(s²+a²)",
+      "a/(s²+a²)",
+      "1/(s²+a²)",
+      "s/(s²-a²)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "Standard transform"
+  },
+  {
+    "q": "What is the Laplace transform of tⁿ?",
+    "opts": [
+      "n!/s^{n+1}",
+      "n!/sⁿ",
+      "1/s^{n+1}",
+      "n/s^{n+1}"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "L{tⁿ} = n! / s^{n+1}"
+  },
+  {
+    "q": "What is the inverse Laplace of 1/s?",
+    "opts": [
+      "1",
+      "t",
+      "e^t",
+      "δ(t)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "L⁻¹{1/s} = 1"
+  },
+  {
+    "q": "What is the inverse Laplace of 1/(s²+4)?",
+    "opts": [
+      "(1/2) sin(2t)",
+      "sin(2t)",
+      "cos(2t)",
+      "(1/2) cos(2t)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "L⁻¹{a/(s²+a²)} = sin(at)"
+  },
+  {
+    "q": "What is the Laplace transform of f'(t)?",
+    "opts": [
+      "sF(s) - f(0)",
+      "sF(s)",
+      "F(s)/s",
+      "F(s) - f(0)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "Derivative property"
+  },
+  {
+    "q": "What is the Laplace transform of ∫₀ᵗ f(τ) dτ?",
+    "opts": [
+      "F(s)/s",
+      "sF(s)",
+      "F(s) - f(0)",
+      "F(s)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "Integration property"
+  },
+  {
+    "q": "What is the final value theorem?",
+    "opts": [
+      "lim_{t→∞} f(t) = lim_{s→0} sF(s)",
+      "lim_{t→0} f(t) = lim_{s→∞} sF(s)",
+      "lim_{t→∞} f(t) = lim_{s→∞} sF(s)",
+      "lim_{t→0} f(t) = lim_{s→0} sF(s)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "Final value theorem"
+  },
+  {
+    "q": "What is the Laplace transform of δ(t) (Dirac delta)?",
+    "opts": [
+      "1",
+      "0",
+      "∞",
+      "1/s"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "L{δ(t)} = 1"
+  },
+  {
+    "q": "What is the inverse Laplace of 1/(s+3)?",
+    "opts": [
+      "e^{-3t}",
+      "e^{3t}",
+      "1",
+      "t"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "L⁻¹{1/(s+a)} = e^{-at}"
+  },
+  {
+    "q": "What is the Laplace transform of e^{-2t} sin(3t)?",
+    "opts": [
+      "3/((s+2)²+9)",
+      "3/((s-2)²+9)",
+      "s/((s+2)²+9)",
+      "s/((s-2)²+9)"
+    ],
+    "ans": 0,
+    "subj": "Laplace Transforms",
+    "exp": "Frequency shift: L{e^{-2t} sin 3t} = 3/((s+2)²+9)"
+  },
+  {
+    "q": "What is Newton's second law?",
+    "opts": [
+      "F = ma",
+      "F = mv",
+      "E = mc²",
+      "V = IR"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "Force = mass × acceleration"
+  },
+  {
+    "q": "What is the acceleration due to gravity on Earth?",
+    "opts": [
+      "9.8 m/s²",
+      "9.8 m/s",
+      "98 m/s²",
+      "0.98 m/s²"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "g ≈ 9.8 m/s²"
+  },
+  {
+    "q": "What is Ohm's law?",
+    "opts": [
+      "V = IR",
+      "I = VR",
+      "R = IV",
+      "V = I/R"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "Voltage = Current × Resistance"
+  },
+  {
+    "q": "What is the unit of force?",
+    "opts": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "Force is measured in Newtons (N)"
+  },
+  {
+    "q": "What is the speed of light in vacuum?",
+    "opts": [
+      "3×10⁸ m/s",
+      "3×10⁶ m/s",
+      "3×10⁷ m/s",
+      "3×10⁹ m/s"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "c = 3 × 10⁸ m/s"
+  },
+  {
+    "q": "What is the kinetic energy of a 2 kg object moving at 3 m/s?",
+    "opts": [
+      "9 J",
+      "6 J",
+      "18 J",
+      "3 J"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "KE = ½mv² = ½*2*9 = 9 J"
+  },
+  {
+    "q": "What is the potential energy of a 5 kg object at 10 m height? (g=10 m/s²)",
+    "opts": [
+      "500 J",
+      "50 J",
+      "5 J",
+      "100 J"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "PE = mgh = 5*10*10 = 500 J"
+  },
+  {
+    "q": "What is the power of a device that does 100 J of work in 5 seconds?",
+    "opts": [
+      "20 W",
+      "500 W",
+      "100 W",
+      "5 W"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "P = W/t = 100/5 = 20 W"
+  },
+  {
+    "q": "What is the equivalent resistance of two 10 Ω resistors in parallel?",
+    "opts": [
+      "5 Ω",
+      "10 Ω",
+      "20 Ω",
+      "2 Ω"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "1/R = 1/10+1/10 = 2/10 → R=5 Ω"
+  },
+  {
+    "q": "What is the frequency of a wave with period 0.02 s?",
+    "opts": [
+      "50 Hz",
+      "20 Hz",
+      "0.02 Hz",
+      "5 Hz"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "f = 1/T = 1/0.02 = 50 Hz"
+  },
+  {
+    "q": "What is the wavelength of a 100 Hz wave traveling at 340 m/s?",
+    "opts": [
+      "3.4 m",
+      "34 m",
+      "0.34 m",
+      "340 m"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "λ = v/f = 340/100 = 3.4 m"
+  },
+  {
+    "q": "What is the first law of thermodynamics?",
+    "opts": [
+      "Energy conservation",
+      "Entropy increases",
+      "Absolute zero",
+      "Heat transfer"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "ΔU = Q - W"
+  },
+  {
+    "q": "What is the unit of electric current?",
+    "opts": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "Current is measured in Amperes"
+  },
+  {
+    "q": "What is the charge of an electron?",
+    "opts": [
+      "1.6×10⁻¹⁹ C",
+      "1.6×10⁻¹⁹ J",
+      "1.6×10⁻¹⁹ N",
+      "1.6×10⁻¹⁹ V"
+    ],
+    "ans": 0,
+    "subj": "Physics",
+    "exp": "e = 1.6 × 10⁻¹⁹ C"
+  },
+  {
+    "q": "What is the chemical symbol for Gold?",
+    "opts": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Pb"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Au from Latin 'aurum'"
+  },
+  {
+    "q": "What is the pH of pure water?",
+    "opts": [
+      "7",
+      "0",
+      "14",
+      "1"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Pure water has neutral pH 7"
+  },
+  {
+    "q": "What is the atomic number of Carbon?",
+    "opts": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Carbon has 6 protons"
+  },
+  {
+    "q": "What is the chemical formula for water?",
+    "opts": [
+      "H₂O",
+      "CO₂",
+      "O₂",
+      "NaCl"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Water is H₂O"
+  },
+  {
+    "q": "What is the most abundant gas in Earth's atmosphere?",
+    "opts": [
+      "Nitrogen",
+      "Oxygen",
+      "Argon",
+      "CO₂"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Nitrogen ~78%"
+  },
+  {
+    "q": "What is the molar mass of CO₂?",
+    "opts": [
+      "44 g/mol",
+      "28 g/mol",
+      "32 g/mol",
+      "12 g/mol"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "C=12, O=16 → 12+32=44"
+  },
+  {
+    "q": "What is the balanced equation for combustion of methane?",
+    "opts": [
+      "CH₄ + 2O₂ → CO₂ + 2H₂O",
+      "CH₄ + O₂ → CO₂ + H₂O",
+      "CH₄ + 2O₂ → CO₂ + H₂O",
+      "CH₄ + O₂ → CO₂ + 2H₂O"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Complete combustion needs 2 O₂"
+  },
+  {
+    "q": "What type of bond is in NaCl?",
+    "opts": [
+      "Ionic",
+      "Covalent",
+      "Metallic",
+      "Hydrogen"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Metal + nonmetal = ionic"
+  },
+  {
+    "q": "What is the oxidation state of oxygen in H₂O?",
+    "opts": [
+      "-2",
+      "+2",
+      "0",
+      "-1"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Oxygen typically has -2 oxidation state"
+  },
+  {
+    "q": "What is the electron configuration of Oxygen (atomic number 8)?",
+    "opts": [
+      "1s² 2s² 2p⁴",
+      "1s² 2s² 2p⁶",
+      "1s² 2s² 2p²",
+      "1s² 2s² 2p⁵"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "8 electrons: 2 in 1s, 2 in 2s, 4 in 2p"
+  },
+  {
+    "q": "What is the product of acid-base neutralization?",
+    "opts": [
+      "Salt + Water",
+      "Salt + Hydrogen",
+      "Base + Water",
+      "Acid + Water"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "H⁺ + OH⁻ → H₂O"
+  },
+  {
+    "q": "What is the pH of 0.001 M HCl?",
+    "opts": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "pH = -log(0.001) = 3"
+  },
+  {
+    "q": "What is the chemical formula for ammonia?",
+    "opts": [
+      "NH₃",
+      "NH₄",
+      "NO₃",
+      "N₂H₄"
+    ],
+    "ans": 0,
+    "subj": "Chemistry",
+    "exp": "Ammonia is NH₃"
+  },
+  {
+    "q": "What is the present value of ₱10,000 received after 5 years at 10% interest?",
+    "opts": [
+      "₱6,209",
+      "₱16,105",
+      "₱10,000",
+      "₱5,000"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "PV = FV/(1+r)^n = 10000/1.6105 = 6209"
+  },
+  {
+    "q": "What is the future value of ₱5,000 at 8% for 3 years?",
+    "opts": [
+      "₱6,298",
+      "₱5,400",
+      "₱6,200",
+      "₱5,800"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "FV = 5000(1.08)^3 = 6298"
+  },
+  {
+    "q": "What is the simple interest on ₱20,000 at 6% for 2 years?",
+    "opts": [
+      "₱2,400",
+      "₱2,472",
+      "₱1,200",
+      "₱4,800"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "I = Prt = 20000×0.06×2 = 2400"
+  },
+  {
+    "q": "What is the effective annual rate of 12% compounded monthly?",
+    "opts": [
+      "12.68%",
+      "12%",
+      "13%",
+      "11.5%"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "EAR = (1+0.12/12)^12 - 1 = 12.68%"
+  },
+  {
+    "q": "What is the payback period for ₱100,000 investment with annual return of ₱30,000?",
+    "opts": [
+      "3.33 years",
+      "4 years",
+      "5 years",
+      "2.5 years"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "Payback = 100000/30000 = 3.33"
+  },
+  {
+    "q": "What is the straight-line depreciation for asset cost ₱50,000, salvage ₱5,000, life 5 years?",
+    "opts": [
+      "₱9,000",
+      "₱10,000",
+      "₱8,000",
+      "₱11,000"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "(50000-5000)/5 = 9000"
+  },
+  {
+    "q": "What is the NPV of a project with initial cost ₱10,000 and cash inflows ₱4,000 for 3 years at 10%?",
+    "opts": [
+      "-₱48",
+      "₱2,000",
+      "₱1,000",
+      "₱500"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "NPV = -10000 + 4000/1.1 + 4000/1.21 + 4000/1.331 = -48"
+  },
+  {
+    "q": "What is the IRR if initial investment ₱10,000 returns ₱5,000 for 3 years?",
+    "opts": [
+      "~23%",
+      "~15%",
+      "~20%",
+      "~25%"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "NPV=0 at r≈23%"
+  },
+  {
+    "q": "What is the capitalized cost of a machine with initial ₱20,000 and annual maintenance ₱1,000 at 5%?",
+    "opts": [
+      "₱40,000",
+      "₱20,000",
+      "₱30,000",
+      "₱25,000"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "CC = 20000 + 1000/0.05 = 40000"
+  },
+  {
+    "q": "What is the benefit-cost ratio if benefits = ₱50,000, costs = ₱40,000?",
+    "opts": [
+      "1.25",
+      "0.8",
+      "1.5",
+      "2.0"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "BCR = 50000/40000 = 1.25"
+  },
+  {
+    "q": "What is the sinking fund factor formula?",
+    "opts": [
+      "i/((1+i)^n - 1)",
+      "(1+i)^n - 1)/i",
+      "i(1+i)^n/((1+i)^n-1)",
+      "(1+i)^n"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "Sinking fund factor = i/((1+i)^n-1)"
+  },
+  {
+    "q": "What is the capital recovery factor?",
+    "opts": [
+      "i(1+i)^n/((1+i)^n-1)",
+      "i/((1+i)^n-1)",
+      "(1+i)^n",
+      "1/(1+i)^n"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "Capital recovery factor = [i(1+i)^n]/[(1+i)^n-1]"
+  },
+  {
+    "q": "What is the present worth of a perpetuity of ₱1,000 at 10%?",
+    "opts": [
+      "₱10,000",
+      "₱1,000",
+      "₱100",
+      "₱100,000"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "PW = A/i = 1000/0.10 = 10000"
+  },
+  {
+    "q": "What is the annual equivalent cost of a machine with initial cost ₱50,000, life 5 years, interest 10%?",
+    "opts": [
+      "₱13,190",
+      "₱10,000",
+      "₱15,000",
+      "₱12,000"
+    ],
+    "ans": 0,
+    "subj": "Engineering Economics",
+    "exp": "A = P(A/P,10%,5) = 50000×0.2638 = 13190"
+  }
+]

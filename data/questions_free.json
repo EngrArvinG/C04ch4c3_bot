@@ -1,0 +1,2251 @@
+{
+  "algebra": {
+    "subject": "Algebra",
+    "questions": [
+      {
+        "question": "Solve for x: 2x + 5 = 15",
+        "options": [
+          "5",
+          "10",
+          "7.5",
+          "5.5"
+        ],
+        "correct": "A",
+        "explanation": "2x = 10 → x = 5"
+      },
+      {
+        "question": "What is the value of x in x² - 5x + 6 = 0?",
+        "options": [
+          "2,3",
+          "-2,-3",
+          "2,-3",
+          "-2,3"
+        ],
+        "correct": "A",
+        "explanation": "Factors: (x-2)(x-3)=0 → x=2,3"
+      },
+      {
+        "question": "Simplify (x³)(x⁴)",
+        "options": [
+          "x⁷",
+          "x¹²",
+          "x¹"
+        ],
+        "correct": "A",
+        "explanation": "Add exponents: 3+4=7"
+      },
+      {
+        "question": "What is the slope of the line y = 3x - 4?",
+        "options": [
+          "3",
+          "-4",
+          "4",
+          "-3"
+        ],
+        "correct": "A",
+        "explanation": "Slope is coefficient of x = 3"
+      },
+      {
+        "question": "Solve the system: x + y = 5, x - y = 1",
+        "options": [
+          "(3,2)",
+          "(2,3)",
+          "(4,1)",
+          "(1,4)"
+        ],
+        "correct": "A",
+        "explanation": "Adding gives 2x=6 → x=3, then y=2"
+      },
+      {
+        "question": "What is the discriminant of x² + 4x + 4 = 0?",
+        "options": [
+          "0",
+          "16",
+          "4",
+          "8"
+        ],
+        "correct": "A",
+        "explanation": "b²-4ac = 16-16=0"
+      },
+      {
+        "question": "Factor: x² - 9",
+        "options": [
+          "(x-3)(x+3)",
+          "(x-3)²",
+          "(x+3)²",
+          "x²-9"
+        ],
+        "correct": "A",
+        "explanation": "Difference of squares"
+      },
+      {
+        "question": "What is the sum of the roots of 2x² - 6x + 4 = 0?",
+        "options": [
+          "3",
+          "-3",
+          "2",
+          "-2"
+        ],
+        "correct": "A",
+        "explanation": "Sum = -b/a = -(-6)/2 = 3"
+      },
+      {
+        "question": "What is the product of the roots of x² + 5x + 6 = 0?",
+        "options": [
+          "6",
+          "-6",
+          "5",
+          "-5"
+        ],
+        "correct": "A",
+        "explanation": "Product = c/a = 6/1 = 6"
+      },
+      {
+        "question": "Solve for x: 3(x-2) = 12",
+        "options": [
+          "6",
+          "4",
+          "8",
+          "2"
+        ],
+        "correct": "A",
+        "explanation": "3x-6=12 → 3x=18 → x=6"
+      },
+      {
+        "question": "What is the y-intercept of y = -2x + 7?",
+        "options": [
+          "7",
+          "-2",
+          "0",
+          "2"
+        ],
+        "correct": "A",
+        "explanation": "y-intercept is constant term 7"
+      },
+      {
+        "question": "Simplify (2x²y³)³",
+        "options": [
+          "8x⁶y⁹",
+          "6x⁵y⁶",
+          "8x⁵y⁶",
+          "2x⁶y⁹"
+        ],
+        "correct": "A",
+        "explanation": "Cube each factor: 2³=8, (x²)³=x⁶, (y³)³=y⁹"
+      },
+      {
+        "question": "What is the vertex of y = x² - 4x + 3?",
+        "options": [
+          "(2,-1)",
+          "(-2,1)",
+          "(2,1)",
+          "(-2,-1)"
+        ],
+        "correct": "A",
+        "explanation": "x = -b/2a = 4/2=2, then y=4-8+3=-1"
+      },
+      {
+        "question": "Solve the inequality: 2x - 3 > 7",
+        "options": [
+          "x > 5",
+          "x < 5",
+          "x > 2",
+          "x < 2"
+        ],
+        "correct": "A",
+        "explanation": "2x > 10 → x > 5"
+      }
+    ]
+  },
+  "trigonometry": {
+    "subject": "Trigonometry",
+    "questions": [
+      {
+        "question": "What is sin(90°)?",
+        "options": [
+          "0",
+          "1",
+          "-1",
+          "undefined"
+        ],
+        "correct": "B",
+        "explanation": "sin 90° = 1"
+      },
+      {
+        "question": "What is cos(0°)?",
+        "options": [
+          "0",
+          "1",
+          "-1",
+          "∞"
+        ],
+        "correct": "B",
+        "explanation": "cos 0° = 1"
+      },
+      {
+        "question": "What is tan(45°)?",
+        "options": [
+          "0",
+          "1",
+          "√3",
+          "1/√3"
+        ],
+        "correct": "B",
+        "explanation": "tan 45° = 1"
+      },
+      {
+        "question": "What is the period of sin(x)?",
+        "options": [
+          "π",
+          "2π",
+          "π/2",
+          "4π"
+        ],
+        "correct": "B",
+        "explanation": "Sine repeats every 2π"
+      },
+      {
+        "question": "If sin θ = 3/5, what is cos θ? (θ acute)",
+        "options": [
+          "4/5",
+          "3/4",
+          "5/3",
+          "2/5"
+        ],
+        "correct": "A",
+        "explanation": "Using identity sin²+cos²=1 → cos=4/5"
+      },
+      {
+        "question": "What is the value of sin(30°)?",
+        "options": [
+          "1/2",
+          "√3/2",
+          "1/√2",
+          "1"
+        ],
+        "correct": "A",
+        "explanation": "sin 30° = 0.5"
+      },
+      {
+        "question": "What is cos(60°)?",
+        "options": [
+          "1/2",
+          "√3/2",
+          "1",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "cos 60° = 0.5"
+      },
+      {
+        "question": "What is tan(30°)?",
+        "options": [
+          "1/√3",
+          "√3",
+          "1",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "tan 30° = 1/√3"
+      },
+      {
+        "question": "Simplify sin²x + cos²x",
+        "options": [
+          "1",
+          "0",
+          "sin2x",
+          "cos2x"
+        ],
+        "correct": "A",
+        "explanation": "Pythagorean identity"
+      },
+      {
+        "question": "What is the derivative of sin(x)?",
+        "options": [
+          "cos(x)",
+          "-cos(x)",
+          "sin(x)",
+          "-sin(x)"
+        ],
+        "correct": "A",
+        "explanation": "d/dx sin x = cos x"
+      },
+      {
+        "question": "What is the integral of cos(x) dx?",
+        "options": [
+          "sin(x) + C",
+          "-sin(x) + C",
+          "cos(x) + C",
+          "-cos(x) + C"
+        ],
+        "correct": "A",
+        "explanation": "∫cos x dx = sin x + C"
+      },
+      {
+        "question": "What is the amplitude of y = 3 sin(2x)?",
+        "options": [
+          "3",
+          "2",
+          "1",
+          "6"
+        ],
+        "correct": "A",
+        "explanation": "Amplitude = coefficient of sin = 3"
+      },
+      {
+        "question": "What is the period of y = tan(x/2)?",
+        "options": [
+          "2π",
+          "π",
+          "4π",
+          "π/2"
+        ],
+        "correct": "A",
+        "explanation": "Period of tan(kx) = π/k → π/(1/2)=2π"
+      }
+    ]
+  },
+  "analytical_geometry": {
+    "subject": "Analytical Geometry",
+    "questions": [
+      {
+        "question": "What is the distance between (1,2) and (4,6)?",
+        "options": [
+          "5",
+          "4",
+          "3",
+          "6"
+        ],
+        "correct": "A",
+        "explanation": "√((4-1)²+(6-2)²)=√(9+16)=5"
+      },
+      {
+        "question": "What is the midpoint of (0,0) and (6,8)?",
+        "options": [
+          "(3,4)",
+          "(2,4)",
+          "(3,5)",
+          "(4,3)"
+        ],
+        "correct": "A",
+        "explanation": "((0+6)/2, (0+8)/2) = (3,4)"
+      },
+      {
+        "question": "What is the slope of the line through (2,3) and (5,11)?",
+        "options": [
+          "8/3",
+          "3/8",
+          "2",
+          "4"
+        ],
+        "correct": "A",
+        "explanation": "(11-3)/(5-2)=8/3"
+      },
+      {
+        "question": "What is the equation of a circle with center (0,0) radius 5?",
+        "options": [
+          "x²+y²=25",
+          "x²+y²=5",
+          "x²+y²=10",
+          "x²+y²=50"
+        ],
+        "correct": "A",
+        "explanation": "Standard form: x²+y²=r²"
+      },
+      {
+        "question": "What is the center of the circle (x-3)²+(y+2)²=16?",
+        "options": [
+          "(3,-2)",
+          "(-3,2)",
+          "(3,2)",
+          "(-3,-2)"
+        ],
+        "correct": "A",
+        "explanation": "Center (h,k) = (3,-2)"
+      },
+      {
+        "question": "What is the radius of x²+y²-6x+8y=0?",
+        "options": [
+          "5",
+          "3",
+          "4",
+          "6"
+        ],
+        "correct": "A",
+        "explanation": "Complete square: (x-3)²+(y+4)²=25 → r=5"
+      },
+      {
+        "question": "What is the slope of the line 3x - 4y = 12?",
+        "options": [
+          "3/4",
+          "4/3",
+          "-3/4",
+          "-4/3"
+        ],
+        "correct": "A",
+        "explanation": "Rewrite: y = (3/4)x - 3 → slope=3/4"
+      },
+      {
+        "question": "What is the equation of the line with slope 2 passing through (1,3)?",
+        "options": [
+          "y=2x+1",
+          "y=2x-1",
+          "y=2x+2",
+          "y=2x-2"
+        ],
+        "correct": "A",
+        "explanation": "y-3=2(x-1) → y=2x+1"
+      },
+      {
+        "question": "What is the x-intercept of the line 2x+3y=6?",
+        "options": [
+          "3",
+          "2",
+          "6",
+          "-3"
+        ],
+        "correct": "A",
+        "explanation": "Set y=0 → 2x=6 → x=3"
+      },
+      {
+        "question": "What is the y-intercept of the line 4x-5y=20?",
+        "options": [
+          "-4",
+          "4",
+          "5",
+          "-5"
+        ],
+        "correct": "A",
+        "explanation": "Set x=0 → -5y=20 → y=-4"
+      },
+      {
+        "question": "What is the eccentricity of a circle?",
+        "options": [
+          "0",
+          "1",
+          "2",
+          "√2"
+        ],
+        "correct": "A",
+        "explanation": "Circle has eccentricity 0"
+      },
+      {
+        "question": "What is the focus of the parabola y²=4ax?",
+        "options": [
+          "(a,0)",
+          "(0,a)",
+          "(-a,0)"
+        ],
+        "correct": "A",
+        "explanation": "Standard parabola focus (a,0)"
+      },
+      {
+        "question": "What is the directrix of x²=4ay?",
+        "options": [
+          "y=-a",
+          "y=a",
+          "x=-a",
+          "x=a"
+        ],
+        "correct": "A",
+        "explanation": "For x²=4ay, directrix y=-a"
+      }
+    ]
+  },
+  "differential_and_integral_calculus": {
+    "subject": "Differential & Integral Calculus",
+    "questions": [
+      {
+        "question": "What is the derivative of x³?",
+        "options": [
+          "3x²",
+          "x²",
+          "3x³",
+          "2x²"
+        ],
+        "correct": "A",
+        "explanation": "Power rule: d/dx x^n = n x^{n-1}"
+      },
+      {
+        "question": "What is ∫ 2x dx?",
+        "options": [
+          "x² + C",
+          "2x² + C",
+          "x²",
+          "2x"
+        ],
+        "correct": "A",
+        "explanation": "∫2x dx = x² + C"
+      },
+      {
+        "question": "What is ∫ cos(x) dx?",
+        "options": [
+          "sin(x) + C",
+          "-sin(x) + C",
+          "cos(x) + C",
+          "-cos(x) + C"
+        ],
+        "correct": "A",
+        "explanation": "∫ cos x dx = sin x + C"
+      },
+      {
+        "question": "What is the limit of (x²-4)/(x-2) as x→2?",
+        "options": [
+          "4",
+          "2",
+          "0",
+          "∞"
+        ],
+        "correct": "A",
+        "explanation": "Factor: (x-2)(x+2)/(x-2)=x+2 → 4"
+      },
+      {
+        "question": "What is the derivative of e^x?",
+        "options": [
+          "e^x",
+          "xe^{x-1}",
+          "ln x",
+          "1/x"
+        ],
+        "correct": "A",
+        "explanation": "d/dx e^x = e^x"
+      },
+      {
+        "question": "What is ∫ e^x dx?",
+        "options": [
+          "e^x + C",
+          "xe^x + C",
+          "ln x + C",
+          "1/e^x + C"
+        ],
+        "correct": "A",
+        "explanation": "∫ e^x dx = e^x + C"
+      },
+      {
+        "question": "What is the derivative of ln(x)?",
+        "options": [
+          "1/x",
+          "x",
+          "e^x",
+          "1"
+        ],
+        "correct": "A",
+        "explanation": "d/dx ln x = 1/x"
+      },
+      {
+        "question": "What is ∫ 1/x dx?",
+        "options": [
+          "ln|x| + C",
+          "x ln x + C",
+          "1/x² + C",
+          "e^x + C"
+        ],
+        "correct": "A",
+        "explanation": "∫ 1/x dx = ln|x| + C"
+      },
+      {
+        "question": "What is the derivative of tan(x)?",
+        "options": [
+          "sec²(x)",
+          "csc²(x)",
+          "sec(x)tan(x)",
+          "csc(x)cot(x)"
+        ],
+        "correct": "A",
+        "explanation": "d/dx tan x = sec² x"
+      },
+      {
+        "question": "What is ∫ sec²(x) dx?",
+        "options": [
+          "tan(x) + C",
+          "sec(x) + C",
+          "csc(x) + C",
+          "cot(x) + C"
+        ],
+        "correct": "A",
+        "explanation": "∫ sec² x dx = tan x + C"
+      },
+      {
+        "question": "What is the derivative of x² sin(x)?",
+        "options": [
+          "2x sin x + x² cos x",
+          "2x sin x - x² cos x",
+          "x² cos x",
+          "2x cos x"
+        ],
+        "correct": "A",
+        "explanation": "Product rule: (2x)(sin x) + (x²)(cos x)"
+      },
+      {
+        "question": "What is ∫ x² dx from 0 to 3?",
+        "options": [
+          "9",
+          "27",
+          "3",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "∫x² = x³/3, evaluate: 27/3 - 0 = 9"
+      },
+      {
+        "question": "What is the derivative of cos(x)?",
+        "options": [
+          "-sin(x)",
+          "sin(x)",
+          "-cos(x)",
+          "cos(x)"
+        ],
+        "correct": "A",
+        "explanation": "d/dx cos x = -sin x"
+      }
+    ]
+  },
+  "differential_equations": {
+    "subject": "Differential Equations",
+    "questions": [
+      {
+        "question": "What is the order of y''' + 2y'' - y' = 0?",
+        "options": [
+          "3",
+          "2",
+          "1",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "Highest derivative is 3rd order"
+      },
+      {
+        "question": "Solve: dy/dx = 2x",
+        "options": [
+          "y = x² + C",
+          "y = 2x + C",
+          "y = x²",
+          "y = 2x² + C"
+        ],
+        "correct": "A",
+        "explanation": "Integrate both sides: y = x² + C"
+      },
+      {
+        "question": "What is the integrating factor for dy/dx + 2y = 4?",
+        "options": [
+          "e^{2x}",
+          "e^{-2x}",
+          "e^{x}",
+          "e^{-x}"
+        ],
+        "correct": "A",
+        "explanation": "IF = e^{∫2 dx} = e^{2x}"
+      },
+      {
+        "question": "What is the characteristic equation of y'' - 3y' + 2y = 0?",
+        "options": [
+          "r² - 3r + 2 = 0",
+          "r² + 3r + 2 = 0",
+          "r² - 3r - 2 = 0",
+          "r² + 3r - 2 = 0"
+        ],
+        "correct": "A",
+        "explanation": "Replace y'' with r², y' with r, y with 1"
+      },
+      {
+        "question": "Solve: y' = ky (exponential growth)",
+        "options": [
+          "y = Ce^{kt}",
+          "y = Ce^{-kt}",
+          "y = kt + C",
+          "y = C e^{kt} + C"
+        ],
+        "correct": "A",
+        "explanation": "Separable: dy/y = k dt → ln y = kt + C → y = Ce^{kt}"
+      },
+      {
+        "question": "What is the general solution of y'' + 4y = 0?",
+        "options": [
+          "y = C1 cos 2x + C2 sin 2x",
+          "y = C1 e^{2x} + C2 e^{-2x}",
+          "y = C1 cos 4x + C2 sin 4x",
+          "y = C1 e^{4x} + C2 e^{-4x}"
+        ],
+        "correct": "A",
+        "explanation": "Characteristic r²+4=0 → r=±2i → sin/cos solution"
+      },
+      {
+        "question": "What is the degree of (y'')² + (y')³ = 0?",
+        "options": [
+          "2",
+          "1",
+          "3",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "Highest power of highest derivative (y'')² → degree 2"
+      },
+      {
+        "question": "Solve: y' = y, y(0)=1",
+        "options": [
+          "y = e^x",
+          "y = e^{-x}",
+          "y = x + 1",
+          "y = 1"
+        ],
+        "correct": "A",
+        "explanation": "y = Ce^x, using y(0)=1 → C=1"
+      },
+      {
+        "question": "What is the auxiliary equation for y''' - y = 0?",
+        "options": [
+          "r³ - 1 = 0",
+          "r³ + 1 = 0",
+          "r² - 1 = 0",
+          "r² + 1 = 0"
+        ],
+        "correct": "A",
+        "explanation": "Substitute y = e^{rx} → r³ e^{rx} - e^{rx}=0 → r³-1=0"
+      },
+      {
+        "question": "Solve: dy/dx = (1+y²)/x",
+        "options": [
+          "arctan y = ln|x| + C",
+          "y = ln|x| + C",
+          "y = x + C",
+          "y = Cx"
+        ],
+        "correct": "A",
+        "explanation": "Separate: dy/(1+y²) = dx/x → arctan y = ln|x| + C"
+      },
+      {
+        "question": "What is the integrating factor for x dy/dx + y = x²?",
+        "options": [
+          "x",
+          "1/x",
+          "e^x",
+          "ln x"
+        ],
+        "correct": "A",
+        "explanation": "Divide by x: dy/dx + (1/x)y = x → IF = e^{∫1/x dx} = x"
+      },
+      {
+        "question": "What is the order of (d²y/dx²)³ + dy/dx = 0?",
+        "options": [
+          "2",
+          "3",
+          "1",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "Highest derivative is 2nd order (d²y/dx²)"
+      },
+      {
+        "question": "Solve: y'' - y = 0",
+        "options": [
+          "y = C1 e^x + C2 e^{-x}",
+          "y = C1 cos x + C2 sin x",
+          "y = C1 e^{ix} + C2 e^{-ix}",
+          "y = C1 x + C2"
+        ],
+        "correct": "A",
+        "explanation": "Characteristic r²-1=0 → r=±1 → exponential solution"
+      }
+    ]
+  },
+  "complex_numbers": {
+    "subject": "Complex Numbers",
+    "questions": [
+      {
+        "question": "What is i²?",
+        "options": [
+          "-1",
+          "1",
+          "i",
+          "-i"
+        ],
+        "correct": "A",
+        "explanation": "i² = -1"
+      },
+      {
+        "question": "Simplify (3+2i) + (4-5i)",
+        "options": [
+          "7 - 3i",
+          "7 + 7i",
+          "7 - 7i",
+          "1 + 3i"
+        ],
+        "correct": "A",
+        "explanation": "Real: 3+4=7, imag: 2-5=-3"
+      },
+      {
+        "question": "What is the conjugate of 2 - 3i?",
+        "options": [
+          "2 + 3i",
+          "-2 - 3i",
+          "-2 + 3i",
+          "2 - 3i"
+        ],
+        "correct": "A",
+        "explanation": "Change sign of imaginary part"
+      },
+      {
+        "question": "What is |3 + 4i|?",
+        "options": [
+          "5",
+          "7",
+          "1",
+          "25"
+        ],
+        "correct": "A",
+        "explanation": "√(3²+4²)=√25=5"
+      },
+      {
+        "question": "Multiply (1+i)(1-i)",
+        "options": [
+          "2",
+          "0",
+          "1+i",
+          "1-i"
+        ],
+        "correct": "A",
+        "explanation": "1² - i² = 1 - (-1) = 2"
+      },
+      {
+        "question": "What is i³?",
+        "options": [
+          "-i",
+          "i",
+          "-1",
+          "1"
+        ],
+        "correct": "A",
+        "explanation": "i³ = i² * i = (-1)*i = -i"
+      },
+      {
+        "question": "What is i⁴?",
+        "options": [
+          "1",
+          "i",
+          "-1",
+          "-i"
+        ],
+        "correct": "A",
+        "explanation": "(i²)² = (-1)² = 1"
+      },
+      {
+        "question": "What is the argument of 1 + i?",
+        "options": [
+          "45°",
+          "90°",
+          "0°",
+          "135°"
+        ],
+        "correct": "A",
+        "explanation": "tan θ = 1/1 = 1 → θ = 45°"
+      },
+      {
+        "question": "Write in polar form: 1 + i",
+        "options": [
+          "√2 cis 45°",
+          "√2 cis 135°",
+          "2 cis 45°",
+          "2 cis 135°"
+        ],
+        "correct": "A",
+        "explanation": "r = √2, θ = 45°"
+      },
+      {
+        "question": "What is the product of 2 cis 30° and 3 cis 60°?",
+        "options": [
+          "6 cis 90°",
+          "5 cis 90°",
+          "6 cis 30°",
+          "5 cis 30°"
+        ],
+        "correct": "A",
+        "explanation": "Multiply magnitudes, add angles: 2*3=6, 30+60=90°"
+      },
+      {
+        "question": "What is the square root of -9?",
+        "options": [
+          "3i",
+          "-3i",
+          "±3i",
+          "9i"
+        ],
+        "correct": "C",
+        "explanation": "√(-9) = √9 * √(-1) = ±3i"
+      },
+      {
+        "question": "Solve: x² + 1 = 0",
+        "options": [
+          "x = ±i",
+          "x = ±1",
+          "x = i",
+          "x = -i"
+        ],
+        "correct": "A",
+        "explanation": "x² = -1 → x = ±i"
+      },
+      {
+        "question": "What is the complex conjugate of i?",
+        "options": [
+          "-i",
+          "i",
+          "1",
+          "-1"
+        ],
+        "correct": "A",
+        "explanation": "Conjugate of 0+1i is 0-1i = -i"
+      }
+    ]
+  },
+  "probability": {
+    "subject": "Probability",
+    "questions": [
+      {
+        "question": "What is the probability of getting a head in a fair coin toss?",
+        "options": [
+          "1/2",
+          "1/3",
+          "1/4",
+          "1"
+        ],
+        "correct": "A",
+        "explanation": "Favorable outcomes: 1, total: 2 → 1/2"
+      },
+      {
+        "question": "What is the probability of rolling a 6 on a fair die?",
+        "options": [
+          "1/6",
+          "1/2",
+          "1/3",
+          "1/4"
+        ],
+        "correct": "A",
+        "explanation": "One favorable out of six possible"
+      },
+      {
+        "question": "If you draw a card from a standard deck, what is P(heart)?",
+        "options": [
+          "1/4",
+          "1/2",
+          "1/13",
+          "1/52"
+        ],
+        "correct": "A",
+        "explanation": "13 hearts out of 52 → 1/4"
+      },
+      {
+        "question": "What is the probability of rolling an even number on a die?",
+        "options": [
+          "1/2",
+          "1/3",
+          "1/6",
+          "2/3"
+        ],
+        "correct": "A",
+        "explanation": "Even: 2,4,6 → 3/6 = 1/2"
+      },
+      {
+        "question": "If P(A)=0.3 and P(B)=0.4, and A and B are mutually exclusive, what is P(A∪B)?",
+        "options": [
+          "0.7",
+          "0.12",
+          "0.1",
+          "0.5"
+        ],
+        "correct": "A",
+        "explanation": "Mutually exclusive: P(A∪B)=P(A)+P(B)=0.7"
+      },
+      {
+        "question": "What is the probability of getting at least one head in two coin tosses?",
+        "options": [
+          "3/4",
+          "1/2",
+          "1/4",
+          "1"
+        ],
+        "correct": "A",
+        "explanation": "Complement: no heads (TT) has prob 1/4 → 1-1/4=3/4"
+      },
+      {
+        "question": "What is P(red card) from a standard deck?",
+        "options": [
+          "1/2",
+          "1/4",
+          "1/3",
+          "1/26"
+        ],
+        "correct": "A",
+        "explanation": "26 red out of 52 = 1/2"
+      },
+      {
+        "question": "If two dice are rolled, what is the probability of sum 7?",
+        "options": [
+          "1/6",
+          "1/12",
+          "1/36",
+          "5/36"
+        ],
+        "correct": "A",
+        "explanation": "Combinations: (1,6),(2,5),(3,4),(4,3),(5,2),(6,6) → 6/36=1/6"
+      },
+      {
+        "question": "What is the probability of drawing a face card (J,Q,K) from a deck?",
+        "options": [
+          "3/13",
+          "1/13",
+          "4/13",
+          "1/4"
+        ],
+        "correct": "A",
+        "explanation": "12 face cards out of 52 = 12/52 = 3/13"
+      },
+      {
+        "question": "If P(A)=0.6 and P(B)=0.5, and A and B are independent, what is P(A∩B)?",
+        "options": [
+          "0.3",
+          "1.1",
+          "0.1",
+          "0.5"
+        ],
+        "correct": "A",
+        "explanation": "P(A∩B)=P(A)P(B)=0.6*0.5=0.3"
+      },
+      {
+        "question": "What is the probability of getting a sum of 10 with two dice?",
+        "options": [
+          "1/12",
+          "1/18",
+          "1/9",
+          "5/36"
+        ],
+        "correct": "A",
+        "explanation": "Combinations: (4,6),(5,5),(6,4) → 3/36=1/12"
+      },
+      {
+        "question": "What is the probability of selecting a vowel from the English alphabet?",
+        "options": [
+          "5/26",
+          "1/5",
+          "1/26",
+          "5/21"
+        ],
+        "correct": "A",
+        "explanation": "5 vowels out of 26 letters"
+      },
+      {
+        "question": "If P(A)=0.2, P(B)=0.3, and P(A∩B)=0.06, are A and B independent?",
+        "options": [
+          "Yes",
+          "No",
+          "Cannot determine",
+          "Maybe"
+        ],
+        "correct": "A",
+        "explanation": "P(A)P(B)=0.06 equals P(A∩B) → independent"
+      }
+    ]
+  },
+  "statistics": {
+    "subject": "Statistics",
+    "questions": [
+      {
+        "question": "What is the mean of 2, 4, 6, 8, 10?",
+        "options": [
+          "6",
+          "5",
+          "7",
+          "8"
+        ],
+        "correct": "A",
+        "explanation": "Sum=30, count=5 → 6"
+      },
+      {
+        "question": "What is the median of 3, 5, 7, 9, 11?",
+        "options": [
+          "7",
+          "5",
+          "9",
+          "8"
+        ],
+        "correct": "A",
+        "explanation": "Middle value is 7"
+      },
+      {
+        "question": "What is the mode of 1,2,2,3,4?",
+        "options": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "correct": "A",
+        "explanation": "2 appears most often"
+      },
+      {
+        "question": "What is the range of 5, 10, 15, 20?",
+        "options": [
+          "15",
+          "5",
+          "10",
+          "20"
+        ],
+        "correct": "A",
+        "explanation": "Max-min = 20-5=15"
+      },
+      {
+        "question": "What is the variance of 2,4,6,8,10?",
+        "options": [
+          "8",
+          "4",
+          "6",
+          "10"
+        ],
+        "correct": "A",
+        "explanation": "Mean=6, squared differences sum=40, variance=40/5=8"
+      },
+      {
+        "question": "What is the standard deviation of the same set?",
+        "options": [
+          "2.828",
+          "4",
+          "8",
+          "6"
+        ],
+        "correct": "A",
+        "explanation": "√8 ≈ 2.828"
+      },
+      {
+        "question": "What is the coefficient of variation if mean=50, sd=10?",
+        "options": [
+          "20%",
+          "10%",
+          "50%",
+          "5%"
+        ],
+        "correct": "A",
+        "explanation": "(10/50)*100 = 20%"
+      },
+      {
+        "question": "What is the median of 1,3,3,6,7,8,9?",
+        "options": [
+          "6",
+          "3",
+          "7",
+          "5"
+        ],
+        "correct": "A",
+        "explanation": "Middle value (4th) = 6"
+      },
+      {
+        "question": "What is the interquartile range of 1,3,5,7,9,11,13?",
+        "options": [
+          "8",
+          "6",
+          "4",
+          "2"
+        ],
+        "correct": "A",
+        "explanation": "Q3=11, Q1=3, IQR=8"
+      },
+      {
+        "question": "What is the sample variance formula?",
+        "options": [
+          "∑(x-x̄)²/(n-1)",
+          "∑(x-x̄)²/n",
+          "∑x²/n",
+          "∑(x-μ)²/N"
+        ],
+        "correct": "A",
+        "explanation": "Sample variance uses n-1 degrees of freedom"
+      },
+      {
+        "question": "What is the population variance symbol?",
+        "options": [
+          "σ²",
+          "s²",
+          "μ",
+          "σ"
+        ],
+        "correct": "A",
+        "explanation": "σ² is population variance"
+      },
+      {
+        "question": "What is the mean of the numbers 0,0,0,10,10?",
+        "options": [
+          "4",
+          "2",
+          "5",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "Sum=20, count=5 → 4"
+      },
+      {
+        "question": "What is the mode of the set 1,1,2,3,4,4,4,5?",
+        "options": [
+          "4",
+          "1",
+          "2",
+          "3"
+        ],
+        "correct": "A",
+        "explanation": "4 appears three times, most frequent"
+      }
+    ]
+  },
+  "matrices": {
+    "subject": "Matrices",
+    "questions": [
+      {
+        "question": "What is the order of a 3x4 matrix?",
+        "options": [
+          "3 rows, 4 columns",
+          "4 rows, 3 columns",
+          "3x3",
+          "4x4"
+        ],
+        "correct": "A",
+        "explanation": "First number is rows, second is columns"
+      },
+      {
+        "question": "Add matrices: [[1,2],[3,4]] + [[5,6],[7,8]]",
+        "options": [
+          "[[6,8],[10,12]]",
+          "[[5,12],[21,32]]"
+        ],
+        "correct": "A",
+        "explanation": "Element-wise addition"
+      },
+      {
+        "question": "What is the determinant of [[a,b],[c,d]]?",
+        "options": [
+          "ad - bc",
+          "ab - cd",
+          "ac - bd",
+          "ad + bc"
+        ],
+        "correct": "A",
+        "explanation": "Standard formula for 2x2 determinant"
+      },
+      {
+        "question": "What is the determinant of [[1,2],[3,4]]?",
+        "options": [
+          "-2",
+          "2",
+          "10",
+          "-10"
+        ],
+        "correct": "A",
+        "explanation": "1*4 - 2*3 = 4 - 6 = -2"
+      },
+      {
+        "question": "What is the product of [[1,0],[0,1]] (identity) and any matrix A?",
+        "options": [
+          "A",
+          "0",
+          "I",
+          "A²"
+        ],
+        "correct": "A",
+        "explanation": "Identity matrix acts as 1 in multiplication"
+      },
+      {
+        "question": "What is the transpose of [[1,2],[3,4]]?",
+        "options": [
+          "[[1,3],[2,4]]",
+          "[[1,2],[3,4]]",
+          "[[2,1],[4,3]]",
+          "[[4,3],[2,1]]"
+        ],
+        "correct": "A",
+        "explanation": "Swap rows and columns"
+      },
+      {
+        "question": "What is the inverse of [[1,0],[0,1]]?",
+        "options": [
+          "[[1,0],[0,1]]",
+          "[[0,1],[1,0]]",
+          "[[1,1],[1,1]]",
+          "does not exist"
+        ],
+        "correct": "A",
+        "explanation": "Inverse of identity is itself"
+      },
+      {
+        "question": "If A is 2x3 and B is 3x4, what is the size of AB?",
+        "options": [
+          "2x4",
+          "3x3",
+          "2x3",
+          "3x4"
+        ],
+        "correct": "A",
+        "explanation": "Inner dimensions must match, result is outer dimensions"
+      },
+      {
+        "question": "What is the trace of [[1,2],[3,4]]?",
+        "options": [
+          "5",
+          "3",
+          "4",
+          "7"
+        ],
+        "correct": "A",
+        "explanation": "Sum of diagonal elements: 1+4=5"
+      },
+      {
+        "question": "What is the determinant of [[2,0],[0,2]]?",
+        "options": [
+          "4",
+          "2",
+          "0",
+          "1"
+        ],
+        "correct": "A",
+        "explanation": "2*2 - 0*0 = 4"
+      },
+      {
+        "question": "What is the zero matrix of order 2?",
+        "options": [
+          "[[0,0],[0,0]]",
+          "[[0,0]]",
+          "[[0]]",
+          "[[0,0,0],[0,0,0]]"
+        ],
+        "correct": "A",
+        "explanation": "All entries zero"
+      },
+      {
+        "question": "What is the rank of a non-singular 3x3 matrix?",
+        "options": [
+          "3",
+          "2",
+          "1",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "Full rank = number of rows/columns"
+      },
+      {
+        "question": "What is the product of a matrix and its inverse?",
+        "options": [
+          "Identity",
+          "Zero matrix",
+          "Original matrix",
+          "Transpose"
+        ],
+        "correct": "A",
+        "explanation": "A * A⁻¹ = I"
+      }
+    ]
+  },
+  "power_series": {
+    "subject": "Power Series",
+    "questions": [
+      {
+        "question": "What is the interval of convergence for ∑ xⁿ?",
+        "options": [
+          "|x| < 1",
+          "|x| ≤ 1",
+          "x=0 only",
+          "all x"
+        ],
+        "correct": "A",
+        "explanation": "Geometric series converges when |x|<1"
+      },
+      {
+        "question": "What is the radius of convergence for ∑ (xⁿ)/n²?",
+        "options": [
+          "1",
+          "∞",
+          "0",
+          "2"
+        ],
+        "correct": "A",
+        "explanation": "Ratio test gives R=1"
+      },
+      {
+        "question": "What is the Maclaurin series for sin x?",
+        "options": [
+          "x - x³/3! + x⁵/5! - ...",
+          "1 - x²/2! + x⁴/4! - ...",
+          "x + x³/3! + x⁵/5! + ...",
+          "1 + x + x²/2! + ..."
+        ],
+        "correct": "A",
+        "explanation": "sin x = Σ (-1)ⁿ x^{2n+1}/(2n+1)!"
+      },
+      {
+        "question": "What is the Maclaurin series for cos x?",
+        "options": [
+          "1 - x²/2! + x⁴/4! - ...",
+          "x - x³/3! + x⁵/5! - ...",
+          "1 + x + x²/2! + ...",
+          "x + x³/3! + ..."
+        ],
+        "correct": "A",
+        "explanation": "cos x = Σ (-1)ⁿ x^{2n}/(2n)!"
+      },
+      {
+        "question": "What is the Maclaurin series for eˣ?",
+        "options": [
+          "1 + x + x²/2! + x³/3! + ...",
+          "x + x²/2 + x³/3 + ...",
+          "1 - x + x²/2! - ...",
+          "∑ xⁿ"
+        ],
+        "correct": "A",
+        "explanation": "eˣ = Σ xⁿ/n!"
+      },
+      {
+        "question": "What is the series expansion for ln(1+x) around x=0?",
+        "options": [
+          "x - x²/2 + x³/3 - ...",
+          "x + x²/2 + x³/3 + ...",
+          "1 - x + x² - ...",
+          "x + x² + x³ + ..."
+        ],
+        "correct": "A",
+        "explanation": "ln(1+x) = Σ (-1)^{n+1} xⁿ/n"
+      },
+      {
+        "question": "What is the radius of convergence for ∑ n! xⁿ?",
+        "options": [
+          "0",
+          "1",
+          "∞",
+          "2"
+        ],
+        "correct": "A",
+        "explanation": "Ratio test: limit of (n+1) → ∞, so R=0"
+      },
+      {
+        "question": "What is the Taylor series of f(x) about x=a?",
+        "options": [
+          "∑ f^{(n)}(a)/n! (x-a)ⁿ",
+          "∑ f^{(n)}(0)/n! xⁿ",
+          "∑ f(a) (x-a)ⁿ",
+          "∑ f^{(n)}(a) (x-a)ⁿ"
+        ],
+        "correct": "A",
+        "explanation": "Definition of Taylor series"
+      },
+      {
+        "question": "What is the first term of the Maclaurin series for tan x?",
+        "options": [
+          "x",
+          "1",
+          "x²",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "tan x ≈ x + x³/3 + ..."
+      },
+      {
+        "question": "What is the interval of convergence for ∑ (x-2)ⁿ / n?",
+        "options": [
+          "[1,3)",
+          "(1,3]",
+          "[1,3]",
+          "(1,3)"
+        ],
+        "correct": "A",
+        "explanation": "Radius 1, center 2, check endpoints: at x=1 gives alternating harmonic (converges), at x=3 gives harmonic (diverges)"
+      },
+      {
+        "question": "What is the sum of the geometric series ∑_{n=0}^∞ (1/2)ⁿ?",
+        "options": [
+          "2",
+          "1",
+          "3",
+          "∞"
+        ],
+        "correct": "A",
+        "explanation": "1/(1-1/2)=2"
+      },
+      {
+        "question": "What is the radius of convergence for ∑ xⁿ/√n?",
+        "options": [
+          "1",
+          "0",
+          "∞",
+          "2"
+        ],
+        "correct": "A",
+        "explanation": "Ratio test gives R=1"
+      },
+      {
+        "question": "What is the Maclaurin series for 1/(1-x)?",
+        "options": [
+          "1 + x + x² + x³ + ...",
+          "1 - x + x² - ...",
+          "x + x² + x³ + ...",
+          "1 + x² + x⁴ + ..."
+        ],
+        "correct": "A",
+        "explanation": "Geometric series"
+      }
+    ]
+  },
+  "fourier_analysis": {
+    "subject": "Fourier Analysis",
+    "questions": [
+      {
+        "question": "What is the fundamental period of sin(2x)?",
+        "options": [
+          "π",
+          "2π",
+          "π/2",
+          "4π"
+        ],
+        "correct": "A",
+        "explanation": "Period = 2π/2 = π"
+      },
+      {
+        "question": "What is the Fourier series of an even function contains?",
+        "options": [
+          "Only cosine terms",
+          "Only sine terms",
+          "Both sine and cosine",
+          "Constant only"
+        ],
+        "correct": "A",
+        "explanation": "Even functions have cosine series"
+      },
+      {
+        "question": "What is the Fourier series of an odd function contains?",
+        "options": [
+          "Only sine terms",
+          "Only cosine terms",
+          "Both",
+          "Constant only"
+        ],
+        "correct": "A",
+        "explanation": "Odd functions have sine series"
+      },
+      {
+        "question": "What is the constant term a₀ in Fourier series of f(x) over [-π,π]?",
+        "options": [
+          "(1/π)∫_{-π}^{π} f(x) dx",
+          "(1/2π)∫ f dx",
+          "∫ f dx",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "a₀ = (1/π)∫ f(x) dx"
+      },
+      {
+        "question": "What is the coefficient aₙ for cosine terms?",
+        "options": [
+          "(1/π)∫ f(x) cos(nx) dx",
+          "(1/π)∫ f(x) sin(nx) dx",
+          "(1/2π)∫ f(x) cos(nx) dx",
+          "∫ f(x) cos(nx) dx"
+        ],
+        "correct": "A",
+        "explanation": "Standard formula for Fourier coefficients"
+      },
+      {
+        "question": "What is the coefficient bₙ for sine terms?",
+        "options": [
+          "(1/π)∫ f(x) sin(nx) dx",
+          "(1/π)∫ f(x) cos(nx) dx",
+          "(1/2π)∫ f(x) sin(nx) dx",
+          "∫ f(x) sin(nx) dx"
+        ],
+        "correct": "A",
+        "explanation": "Standard formula"
+      },
+      {
+        "question": "What is the Fourier transform of a rectangular pulse?",
+        "options": [
+          "sinc function",
+          "Gaussian",
+          "Delta function",
+          "Exponential"
+        ],
+        "correct": "A",
+        "explanation": "Rect ↔ sinc"
+      },
+      {
+        "question": "What is the Parseval's theorem for Fourier series?",
+        "options": [
+          "(1/π)∫ f² dx = a₀²/2 + ∑(aₙ²+bₙ²)",
+          "∫ f dx = a₀",
+          "∑ aₙ = f(0)",
+          "None"
+        ],
+        "correct": "A",
+        "explanation": "Energy conservation in frequency domain"
+      },
+      {
+        "question": "What is the Fourier series of a constant function?",
+        "options": [
+          "Constant only",
+          "Sine series",
+          "Cosine series",
+          "Zero"
+        ],
+        "correct": "A",
+        "explanation": "Only a₀ term"
+      },
+      {
+        "question": "What is the period of cos(3x)?",
+        "options": [
+          "2π/3",
+          "π/3",
+          "2π",
+          "π"
+        ],
+        "correct": "A",
+        "explanation": "Period = 2π/3"
+      },
+      {
+        "question": "What is the Fourier transform of a delta function?",
+        "options": [
+          "1",
+          "δ(ω)",
+          "0",
+          "∞"
+        ],
+        "correct": "A",
+        "explanation": "F{δ(t)} = 1"
+      },
+      {
+        "question": "What is the inverse Fourier transform of 1?",
+        "options": [
+          "δ(t)",
+          "1",
+          "0",
+          "∞"
+        ],
+        "correct": "A",
+        "explanation": "F⁻¹{1} = δ(t)"
+      },
+      {
+        "question": "What is the Fourier series of a square wave contains?",
+        "options": [
+          "Odd harmonics",
+          "Even harmonics",
+          "All harmonics",
+          "Only fundamental"
+        ],
+        "correct": "A",
+        "explanation": "Square wave has only odd harmonics"
+      }
+    ]
+  },
+  "laplace_transforms": {
+    "subject": "Laplace Transforms",
+    "questions": [
+      {
+        "question": "What is the Laplace transform of 1?",
+        "options": [
+          "1/s",
+          "s",
+          "1",
+          "0"
+        ],
+        "correct": "A",
+        "explanation": "L{1} = 1/s for s>0"
+      },
+      {
+        "question": "What is the Laplace transform of e^{at}?",
+        "options": [
+          "1/(s-a)",
+          "1/(s+a)",
+          "s/(s-a)",
+          "s/(s+a)"
+        ],
+        "correct": "A",
+        "explanation": "L{e^{at}} = 1/(s-a)"
+      },
+      {
+        "question": "What is the Laplace transform of sin(at)?",
+        "options": [
+          "a/(s²+a²)",
+          "s/(s²+a²)",
+          "1/(s²+a²)",
+          "a/(s²-a²)"
+        ],
+        "correct": "A",
+        "explanation": "Standard transform"
+      },
+      {
+        "question": "What is the Laplace transform of cos(at)?",
+        "options": [
+          "s/(s²+a²)",
+          "a/(s²+a²)",
+          "1/(s²+a²)",
+          "s/(s²-a²)"
+        ],
+        "correct": "A",
+        "explanation": "Standard transform"
+      },
+      {
+        "question": "What is the Laplace transform of tⁿ?",
+        "options": [
+          "n!/s^{n+1}",
+          "n!/sⁿ",
+          "1/s^{n+1}",
+          "n/s^{n+1}"
+        ],
+        "correct": "A",
+        "explanation": "L{tⁿ} = n! / s^{n+1}"
+      },
+      {
+        "question": "What is the inverse Laplace of 1/s?",
+        "options": [
+          "1",
+          "t",
+          "e^t",
+          "δ(t)"
+        ],
+        "correct": "A",
+        "explanation": "L⁻¹{1/s} = 1"
+      },
+      {
+        "question": "What is the inverse Laplace of 1/(s²+4)?",
+        "options": [
+          "(1/2) sin(2t)",
+          "sin(2t)",
+          "cos(2t)",
+          "(1/2) cos(2t)"
+        ],
+        "correct": "A",
+        "explanation": "L⁻¹{a/(s²+a²)} = sin(at)"
+      },
+      {
+        "question": "What is the Laplace transform of f'(t)?",
+        "options": [
+          "sF(s) - f(0)",
+          "sF(s)",
+          "F(s)/s",
+          "F(s) - f(0)"
+        ],
+        "correct": "A",
+        "explanation": "Derivative property"
+      },
+      {
+        "question": "What is the Laplace transform of ∫₀ᵗ f(τ) dτ?",
+        "options": [
+          "F(s)/s",
+          "sF(s)",
+          "F(s) - f(0)",
+          "F(s)"
+        ],
+        "correct": "A",
+        "explanation": "Integration property"
+      },
+      {
+        "question": "What is the final value theorem?",
+        "options": [
+          "lim_{t→∞} f(t) = lim_{s→0} sF(s)",
+          "lim_{t→0} f(t) = lim_{s→∞} sF(s)",
+          "lim_{t→∞} f(t) = lim_{s→∞} sF(s)",
+          "lim_{t→0} f(t) = lim_{s→0} sF(s)"
+        ],
+        "correct": "A",
+        "explanation": "Final value theorem"
+      },
+      {
+        "question": "What is the Laplace transform of δ(t) (Dirac delta)?",
+        "options": [
+          "1",
+          "0",
+          "∞",
+          "1/s"
+        ],
+        "correct": "A",
+        "explanation": "L{δ(t)} = 1"
+      },
+      {
+        "question": "What is the inverse Laplace of 1/(s+3)?",
+        "options": [
+          "e^{-3t}",
+          "e^{3t}",
+          "1",
+          "t"
+        ],
+        "correct": "A",
+        "explanation": "L⁻¹{1/(s+a)} = e^{-at}"
+      },
+      {
+        "question": "What is the Laplace transform of e^{-2t} sin(3t)?",
+        "options": [
+          "3/((s+2)²+9)",
+          "3/((s-2)²+9)",
+          "s/((s+2)²+9)",
+          "s/((s-2)²+9)"
+        ],
+        "correct": "A",
+        "explanation": "Frequency shift: L{e^{-2t} sin 3t} = 3/((s+2)²+9)"
+      }
+    ]
+  },
+  "physics": {
+    "subject": "Physics",
+    "questions": [
+      {
+        "question": "What is Newton's second law?",
+        "options": [
+          "F = ma",
+          "F = mv",
+          "E = mc²",
+          "V = IR"
+        ],
+        "correct": "A",
+        "explanation": "Force = mass × acceleration"
+      },
+      {
+        "question": "What is the acceleration due to gravity on Earth?",
+        "options": [
+          "9.8 m/s²",
+          "9.8 m/s",
+          "98 m/s²",
+          "0.98 m/s²"
+        ],
+        "correct": "A",
+        "explanation": "g ≈ 9.8 m/s²"
+      },
+      {
+        "question": "What is Ohm's law?",
+        "options": [
+          "V = IR",
+          "I = VR",
+          "R = IV",
+          "V = I/R"
+        ],
+        "correct": "A",
+        "explanation": "Voltage = Current × Resistance"
+      },
+      {
+        "question": "What is the unit of force?",
+        "options": [
+          "Newton",
+          "Joule",
+          "Watt",
+          "Pascal"
+        ],
+        "correct": "A",
+        "explanation": "Force is measured in Newtons (N)"
+      },
+      {
+        "question": "What is the speed of light in vacuum?",
+        "options": [
+          "3×10⁸ m/s",
+          "3×10⁶ m/s",
+          "3×10⁷ m/s",
+          "3×10⁹ m/s"
+        ],
+        "correct": "A",
+        "explanation": "c = 3 × 10⁸ m/s"
+      },
+      {
+        "question": "What is the kinetic energy of a 2 kg object moving at 3 m/s?",
+        "options": [
+          "9 J",
+          "6 J",
+          "18 J",
+          "3 J"
+        ],
+        "correct": "A",
+        "explanation": "KE = ½mv² = ½*2*9 = 9 J"
+      },
+      {
+        "question": "What is the potential energy of a 5 kg object at 10 m height? (g=10 m/s²)",
+        "options": [
+          "500 J",
+          "50 J",
+          "5 J",
+          "100 J"
+        ],
+        "correct": "A",
+        "explanation": "PE = mgh = 5*10*10 = 500 J"
+      },
+      {
+        "question": "What is the power of a device that does 100 J of work in 5 seconds?",
+        "options": [
+          "20 W",
+          "500 W",
+          "100 W",
+          "5 W"
+        ],
+        "correct": "A",
+        "explanation": "P = W/t = 100/5 = 20 W"
+      },
+      {
+        "question": "What is the equivalent resistance of two 10 Ω resistors in parallel?",
+        "options": [
+          "5 Ω",
+          "10 Ω",
+          "20 Ω",
+          "2 Ω"
+        ],
+        "correct": "A",
+        "explanation": "1/R = 1/10+1/10 = 2/10 → R=5 Ω"
+      },
+      {
+        "question": "What is the frequency of a wave with period 0.02 s?",
+        "options": [
+          "50 Hz",
+          "20 Hz",
+          "0.02 Hz",
+          "5 Hz"
+        ],
+        "correct": "A",
+        "explanation": "f = 1/T = 1/0.02 = 50 Hz"
+      },
+      {
+        "question": "What is the wavelength of a 100 Hz wave traveling at 340 m/s?",
+        "options": [
+          "3.4 m",
+          "34 m",
+          "0.34 m",
+          "340 m"
+        ],
+        "correct": "A",
+        "explanation": "λ = v/f = 340/100 = 3.4 m"
+      },
+      {
+        "question": "What is the first law of thermodynamics?",
+        "options": [
+          "Energy conservation",
+          "Entropy increases",
+          "Absolute zero",
+          "Heat transfer"
+        ],
+        "correct": "A",
+        "explanation": "ΔU = Q - W"
+      },
+      {
+        "question": "What is the unit of electric current?",
+        "options": [
+          "Ampere",
+          "Volt",
+          "Ohm",
+          "Watt"
+        ],
+        "correct": "A",
+        "explanation": "Current is measured in Amperes"
+      },
+      {
+        "question": "What is the charge of an electron?",
+        "options": [
+          "1.6×10⁻¹⁹ C",
+          "1.6×10⁻¹⁹ J",
+          "1.6×10⁻¹⁹ N",
+          "1.6×10⁻¹⁹ V"
+        ],
+        "correct": "A",
+        "explanation": "e = 1.6 × 10⁻¹⁹ C"
+      }
+    ]
+  },
+  "chemistry": {
+    "subject": "Chemistry",
+    "questions": [
+      {
+        "question": "What is the chemical symbol for Gold?",
+        "options": [
+          "Au",
+          "Ag",
+          "Fe",
+          "Pb"
+        ],
+        "correct": "A",
+        "explanation": "Au from Latin 'aurum'"
+      },
+      {
+        "question": "What is the pH of pure water?",
+        "options": [
+          "7",
+          "0",
+          "14",
+          "1"
+        ],
+        "correct": "A",
+        "explanation": "Pure water has neutral pH 7"
+      },
+      {
+        "question": "What is the atomic number of Carbon?",
+        "options": [
+          "6",
+          "4",
+          "5",
+          "7"
+        ],
+        "correct": "A",
+        "explanation": "Carbon has 6 protons"
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "options": [
+          "H₂O",
+          "CO₂",
+          "O₂",
+          "NaCl"
+        ],
+        "correct": "A",
+        "explanation": "Water is H₂O"
+      },
+      {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": [
+          "Nitrogen",
+          "Oxygen",
+          "Argon",
+          "CO₂"
+        ],
+        "correct": "A",
+        "explanation": "Nitrogen ~78%"
+      },
+      {
+        "question": "What is the molar mass of CO₂?",
+        "options": [
+          "44 g/mol",
+          "28 g/mol",
+          "32 g/mol",
+          "12 g/mol"
+        ],
+        "correct": "A",
+        "explanation": "C=12, O=16 → 12+32=44"
+      },
+      {
+        "question": "What is the balanced equation for combustion of methane?",
+        "options": [
+          "CH₄ + 2O₂ → CO₂ + 2H₂O",
+          "CH₄ + O₂ → CO₂ + H₂O",
+          "CH₄ + 2O₂ → CO₂ + H₂O",
+          "CH₄ + O₂ → CO₂ + 2H₂O"
+        ],
+        "correct": "A",
+        "explanation": "Complete combustion needs 2 O₂"
+      },
+      {
+        "question": "What type of bond is in NaCl?",
+        "options": [
+          "Ionic",
+          "Covalent",
+          "Metallic",
+          "Hydrogen"
+        ],
+        "correct": "A",
+        "explanation": "Metal + nonmetal = ionic"
+      },
+      {
+        "question": "What is the oxidation state of oxygen in H₂O?",
+        "options": [
+          "-2",
+          "+2",
+          "0",
+          "-1"
+        ],
+        "correct": "A",
+        "explanation": "Oxygen typically has -2 oxidation state"
+      },
+      {
+        "question": "What is the electron configuration of Oxygen (atomic number 8)?",
+        "options": [
+          "1s² 2s² 2p⁴",
+          "1s² 2s² 2p⁶",
+          "1s² 2s² 2p²",
+          "1s² 2s² 2p⁵"
+        ],
+        "correct": "A",
+        "explanation": "8 electrons: 2 in 1s, 2 in 2s, 4 in 2p"
+      },
+      {
+        "question": "What is the product of acid-base neutralization?",
+        "options": [
+          "Salt + Water",
+          "Salt + Hydrogen",
+          "Base + Water",
+          "Acid + Water"
+        ],
+        "correct": "A",
+        "explanation": "H⁺ + OH⁻ → H₂O"
+      },
+      {
+        "question": "What is the pH of 0.001 M HCl?",
+        "options": [
+          "3",
+          "1",
+          "2",
+          "4"
+        ],
+        "correct": "A",
+        "explanation": "pH = -log(0.001) = 3"
+      },
+      {
+        "question": "What is the chemical formula for ammonia?",
+        "options": [
+          "NH₃",
+          "NH₄",
+          "NO₃",
+          "N₂H₄"
+        ],
+        "correct": "A",
+        "explanation": "Ammonia is NH₃"
+      }
+    ]
+  },
+  "engineering_economics": {
+    "subject": "Engineering Economics",
+    "questions": [
+      {
+        "question": "What is the present value of ₱10,000 received after 5 years at 10% interest?",
+        "options": [
+          "₱6,209",
+          "₱16,105",
+          "₱10,000",
+          "₱5,000"
+        ],
+        "correct": "A",
+        "explanation": "PV = FV/(1+r)^n = 10000/1.6105 = 6209"
+      },
+      {
+        "question": "What is the future value of ₱5,000 at 8% for 3 years?",
+        "options": [
+          "₱6,298",
+          "₱5,400",
+          "₱6,200",
+          "₱5,800"
+        ],
+        "correct": "A",
+        "explanation": "FV = 5000(1.08)^3 = 6298"
+      },
+      {
+        "question": "What is the simple interest on ₱20,000 at 6% for 2 years?",
+        "options": [
+          "₱2,400",
+          "₱2,472",
+          "₱1,200",
+          "₱4,800"
+        ],
+        "correct": "A",
+        "explanation": "I = Prt = 20000×0.06×2 = 2400"
+      },
+      {
+        "question": "What is the effective annual rate of 12% compounded monthly?",
+        "options": [
+          "12.68%",
+          "12%",
+          "13%",
+          "11.5%"
+        ],
+        "correct": "A",
+        "explanation": "EAR = (1+0.12/12)^12 - 1 = 12.68%"
+      },
+      {
+        "question": "What is the payback period for ₱100,000 investment with annual return of ₱30,000?",
+        "options": [
+          "3.33 years",
+          "4 years",
+          "5 years",
+          "2.5 years"
+        ],
+        "correct": "A",
+        "explanation": "Payback = 100000/30000 = 3.33"
+      },
+      {
+        "question": "What is the straight-line depreciation for asset cost ₱50,000, salvage ₱5,000, life 5 years?",
+        "options": [
+          "₱9,000",
+          "₱10,000",
+          "₱8,000",
+          "₱11,000"
+        ],
+        "correct": "A",
+        "explanation": "(50000-5000)/5 = 9000"
+      },
+      {
+        "question": "What is the NPV of a project with initial cost ₱10,000 and cash inflows ₱4,000 for 3 years at 10%?",
+        "options": [
+          "-₱48",
+          "₱2,000",
+          "₱1,000",
+          "₱500"
+        ],
+        "correct": "A",
+        "explanation": "NPV = -10000 + 4000/1.1 + 4000/1.21 + 4000/1.331 = -48"
+      },
+      {
+        "question": "What is the IRR if initial investment ₱10,000 returns ₱5,000 for 3 years?",
+        "options": [
+          "~23%",
+          "~15%",
+          "~20%",
+          "~25%"
+        ],
+        "correct": "A",
+        "explanation": "NPV=0 at r≈23%"
+      },
+      {
+        "question": "What is the capitalized cost of a machine with initial ₱20,000 and annual maintenance ₱1,000 at 5%?",
+        "options": [
+          "₱40,000",
+          "₱20,000",
+          "₱30,000",
+          "₱25,000"
+        ],
+        "correct": "A",
+        "explanation": "CC = 20000 + 1000/0.05 = 40000"
+      },
+      {
+        "question": "What is the benefit-cost ratio if benefits = ₱50,000, costs = ₱40,000?",
+        "options": [
+          "1.25",
+          "0.8",
+          "1.5",
+          "2.0"
+        ],
+        "correct": "A",
+        "explanation": "BCR = 50000/40000 = 1.25"
+      },
+      {
+        "question": "What is the sinking fund factor formula?",
+        "options": [
+          "i/((1+i)^n - 1)",
+          "(1+i)^n - 1)/i",
+          "i(1+i)^n/((1+i)^n-1)",
+          "(1+i)^n"
+        ],
+        "correct": "A",
+        "explanation": "Sinking fund factor = i/((1+i)^n-1)"
+      },
+      {
+        "question": "What is the capital recovery factor?",
+        "options": [
+          "i(1+i)^n/((1+i)^n-1)",
+          "i/((1+i)^n-1)",
+          "(1+i)^n",
+          "1/(1+i)^n"
+        ],
+        "correct": "A",
+        "explanation": "Capital recovery factor = [i(1+i)^n]/[(1+i)^n-1]"
+      },
+      {
+        "question": "What is the present worth of a perpetuity of ₱1,000 at 10%?",
+        "options": [
+          "₱10,000",
+          "₱1,000",
+          "₱100",
+          "₱100,000"
+        ],
+        "correct": "A",
+        "explanation": "PW = A/i = 1000/0.10 = 10000"
+      },
+      {
+        "question": "What is the annual equivalent cost of a machine with initial cost ₱50,000, life 5 years, interest 10%?",
+        "options": [
+          "₱13,190",
+          "₱10,000",
+          "₱15,000",
+          "₱12,000"
+        ],
+        "correct": "A",
+        "explanation": "A = P(A/P,10%,5) = 50000×0.2638 = 13190"
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "electric_circuits": {
+    "subject": "Electric Circuits",
+    "questions": [
+      {
+        "question": "What is the SI unit of electric current?",
+        "options": ["Ampere", "Volt", "Ohm", "Watt"],
+        "correct": "A",
+        "explanation": "Electric current is measured in amperes."
+      },
+      {
+        "question": "What does resistance oppose in a circuit?",
+        "options": ["Current flow", "Voltage flow", "Power flow", "Energy flow"],
+        "correct": "A",
+        "explanation": "Resistance opposes the flow of current."
+      },
+      {
+        "question": "Which law states that V = IR?",
+        "options": ["Ohm's law", "Kirchhoff's voltage law", "Faraday's law", "Coulomb's law"],
+        "correct": "A",
+        "explanation": "Ohm's law relates voltage, current, and resistance."
+      },
+      {
+        "question": "What is the unit of resistance?",
+        "options": ["Ohm", "Farad", "Henry", "Tesla"],
+        "correct": "A",
+        "explanation": "Resistance is measured in ohms."
+      },
+      {
+        "question": "What is the symbol for capacitance unit?",
+        "options": ["F", "H", "Ω", "V"],
+        "correct": "A",
+        "explanation": "Capacitance is measured in farads."
+      },
+      {
+        "question": "What is the unit of inductance?",
+        "options": ["Henry", "Farad", "Ohm", "Ampere"],
+        "correct": "A",
+        "explanation": "Inductance is measured in henries."
+      },
+      {
+        "question": "In a purely resistive AC circuit, the phase angle between voltage and current is",
+        "options": ["0 degrees", "90 degrees", "180 degrees", "45 degrees"],
+        "correct": "A",
+        "explanation": "Voltage and current are in phase in a pure resistor."
+      },
+      {
+        "question": "What is the power factor of a purely resistive circuit?",
+        "options": ["1", "0", "0.5", "Infinity"],
+        "correct": "A",
+        "explanation": "Power factor is unity when V and I are in phase."
+      },
+      {
+        "question": "What does impedance represent in AC circuits?",
+        "options": ["Total opposition to current", "Only resistance", "Only reactance", "Only capacitance"],
+        "correct": "A",
+        "explanation": "Impedance is the total opposition to AC current."
+      },
+      {
+        "question": "What is reactance?",
+        "options": ["Opposition due to inductors or capacitors", "Opposition due to resistors", "Voltage divided by current", "Power consumed"],
+        "correct": "A",
+        "explanation": "Reactance is opposition caused by inductance or capacitance."
+      },
+      {
+        "question": "Which component causes current to lead voltage?",
+        "options": ["Capacitor", "Resistor", "Fuse", "Battery"],
+        "correct": "A",
+        "explanation": "In a capacitor, current leads voltage."
+      },
+      {
+        "question": "Which component causes current to lag voltage?",
+        "options": ["Inductor", "Resistor", "Capacitor", "Switch"],
+        "correct": "A",
+        "explanation": "In an inductor, current lags voltage."
+      },
+      {
+        "question": "What is the unit of frequency?",
+        "options": ["Hertz", "Joule", "Coulomb", "Newton"],
+        "correct": "A",
+        "explanation": "Frequency is measured in hertz."
+      },
+      {
+        "question": "What is the period of a waveform?",
+        "options": ["Time for one cycle", "Number of cycles per second", "Maximum amplitude", "Average value"],
+        "correct": "A",
+        "explanation": "Period is the time for one complete cycle."
+      },
+      {
+        "question": "What is a series circuit?",
+        "options": ["A circuit with one path for current", "A circuit with many paths", "A circuit with no resistance", "A circuit with only AC"],
+        "correct": "A",
+        "explanation": "Series circuits have a single current path."
+      },
+      {
+        "question": "What is a parallel circuit?",
+        "options": ["A circuit with multiple current paths", "A circuit with one resistor only", "A circuit with no current", "A circuit with only one loop"],
+        "correct": "A",
+        "explanation": "Parallel circuits provide multiple paths for current."
+      },
+      {
+        "question": "Kirchhoff's Current Law states that",
+        "options": ["Current entering a node equals current leaving", "Voltage around a loop is zero", "Power is conserved", "Resistance is constant"],
+        "correct": "A",
+        "explanation": "KCL is based on charge conservation."
+      },
+      {
+        "question": "Kirchhoff's Voltage Law states that",
+        "options": ["Sum of voltages around a closed loop is zero", "Current at a node is zero", "Power equals current times voltage", "Resistance is voltage divided by current"],
+        "correct": "A",
+        "explanation": "KVL says loop voltages add to zero."
+      },
+      {
+        "question": "What is the SI unit of power?",
+        "options": ["Watt", "Volt", "Ampere", "Ohm"],
+        "correct": "A",
+        "explanation": "Power is measured in watts."
+      },
+      {
+        "question": "What is real power in AC circuits measured in?",
+        "options": ["Watts", "VAR", "VA", "Ohms"],
+        "correct": "A",
+        "explanation": "Real power is measured in watts."
+      },
+      {
+        "question": "What is reactive power measured in?",
+        "options": ["VAR", "Watt", "VA", "Joule"],
+        "correct": "A",
+        "explanation": "Reactive power is measured in volt-ampere reactive."
+      },
+      {
+        "question": "What is apparent power measured in?",
+        "options": ["VA", "W", "VAR", "Ohm"],
+        "correct": "A",
+        "explanation": "Apparent power is measured in volt-amperes."
+      },
+      {
+        "question": "What is resonance in an RLC circuit?",
+        "options": ["When XL equals XC", "When R equals X", "When current is zero", "When voltage is zero"],
+        "correct": "A",
+        "explanation": "Resonance occurs when inductive and capacitive reactances are equal."
+      },
+      {
+        "question": "At resonance in a series RLC circuit, impedance is",
+        "options": ["Minimum", "Maximum", "Infinite", "Zero always"],
+        "correct": "A",
+        "explanation": "Series RLC impedance becomes minimum at resonance."
+      },
+      {
+        "question": "What is the unit of capacitance?",
+        "options": ["Farad", "Henry", "Ohm", "Volt"],
+        "correct": "A",
+        "explanation": "Capacitance is measured in farads."
+      },
+      {
+        "question": "What is the current in a circuit with 12 V and 4 Ω?",
+        "options": ["3 A", "4 A", "2 A", "6 A"],
+        "correct": "A",
+        "explanation": "Using Ohm's law: I = V/R = 12/4 = 3 A."
+      },
+      {
+        "question": "What is the resistance of a device with 10 V and 2 A?",
+        "options": ["5 Ω", "20 Ω", "8 Ω", "0.2 Ω"],
+        "correct": "A",
+        "explanation": "Using Ohm's law: R = V/I = 10/2 = 5 Ω."
+      },
+      {
+        "question": "What is the voltage across a 6 Ω resistor carrying 2 A?",
+        "options": ["12 V", "3 V", "8 V", "18 V"],
+        "correct": "A",
+        "explanation": "V = IR = 2 × 6 = 12 V."
+      },
+      {
+        "question": "What is the total resistance of two 5 Ω resistors in series?",
+        "options": ["10 Ω", "2.5 Ω", "5 Ω", "15 Ω"],
+        "correct": "A",
+        "explanation": "Series resistances add directly."
+      },
+      {
+        "question": "What is the equivalent resistance of two 6 Ω resistors in parallel?",
+        "options": ["3 Ω", "12 Ω", "6 Ω", "9 Ω"],
+        "correct": "A",
+        "explanation": "For equal resistors in parallel, Req = R/2 = 3 Ω."
+      },
+      {
+        "question": "What is the total current if a 24 V source is applied to 12 Ω?",
+        "options": ["2 A", "3 A", "4 A", "1 A"],
+        "correct": "A",
+        "explanation": "I = V/R = 24/12 = 2 A."
+      },
+      {
+        "question": "What is the power consumed by a 10 Ω resistor carrying 2 A?",
+        "options": ["40 W", "20 W", "10 W", "5 W"],
+        "correct": "A",
+        "explanation": "P = I^2R = 2^2 × 10 = 40 W."
+      },
+      {
+        "question": "What is the power of a 12 V source delivering 3 A?",
+        "options": ["36 W", "9 W", "15 W", "24 W"],
+        "correct": "A",
+        "explanation": "P = VI = 12 × 3 = 36 W."
+      },
+      {
+        "question": "What is the capacitive reactance of a 10 μF capacitor at 50 Hz?",
+        "options": ["318 Ω", "31.8 Ω", "3.18 Ω", "3180 Ω"],
+        "correct": "A",
+        "explanation": "Xc = 1/(2πfC) ≈ 1/(2π × 50 × 10e-6) ≈ 318 Ω."
+      },
+      {
+        "question": "What is the inductive reactance of a 0.2 H inductor at 50 Hz?",
+        "options": ["62.8 Ω", "6.28 Ω", "628 Ω", "31.4 Ω"],
+        "correct": "A",
+        "explanation": "Xl = 2πfL = 2π × 50 × 0.2 ≈ 62.8 Ω."
+      },
+      {
+        "question": "What is the impedance of a series circuit with R = 3 Ω and Xl = 4 Ω?",
+        "options": ["5 Ω", "7 Ω", "1 Ω", "12 Ω"],
+        "correct": "A",
+        "explanation": "Z = sqrt(R^2 + X^2) = sqrt(3^2 + 4^2) = 5 Ω."
+      },
+      {
+        "question": "What is the current in a 10 Ω resistor connected to 20 V?",
+        "options": ["2 A", "5 A", "10 A", "1 A"],
+        "correct": "A",
+        "explanation": "I = V/R = 20/10 = 2 A."
+      },
+      {
+        "question": "What is the frequency of a waveform with period 0.02 s?",
+        "options": ["50 Hz", "20 Hz", "100 Hz", "25 Hz"],
+        "correct": "A",
+        "explanation": "f = 1/T = 1/0.02 = 50 Hz."
+      },
+      {
+        "question": "What is the rms value of a 100 V peak sine wave?",
+        "options": ["70.7 V", "100 V", "50 V", "141.4 V"],
+        "correct": "A",
+        "explanation": "Vrms = Vp/√2 = 100/1.414 ≈ 70.7 V."
+      },
+      {
+        "question": "What is the average value of a full-wave rectified sine wave with peak 10 V?",
+        "options": ["6.37 V", "7.07 V", "5 V", "10 V"],
+        "correct": "A",
+        "explanation": "Vavg = 2Vp/π = 20/π ≈ 6.37 V."
+      },
+      {
+        "question": "What is the power factor of a circuit with phase angle 60 degrees?",
+        "options": ["0.5", "0.866", "1", "0"],
+        "correct": "A",
+        "explanation": "Power factor = cos 60° = 0.5."
+      },
+      {
+        "question": "What is the current in a 5 Ω resistor with 15 V across it?",
+        "options": ["3 A", "5 A", "10 A", "15 A"],
+        "correct": "A",
+        "explanation": "I = V/R = 15/5 = 3 A."
+      },
+      {
+        "question": "What is the equivalent resistance of 2 Ω, 3 Ω, and 5 Ω in series?",
+        "options": ["10 Ω", "30 Ω", "5 Ω", "8 Ω"],
+        "correct": "A",
+        "explanation": "Series resistance adds: 2 + 3 + 5 = 10 Ω."
+      },
+      {
+        "question": "What is the equivalent resistance of 2 Ω and 2 Ω in parallel?",
+        "options": ["1 Ω", "2 Ω", "4 Ω", "0.5 Ω"],
+        "correct": "A",
+        "explanation": "Equal resistors in parallel give half the value."
+      },
+      {
+        "question": "What is the charge stored in a 2 F capacitor at 5 V?",
+        "options": ["10 C", "7 C", "2.5 C", "0.4 C"],
+        "correct": "A",
+        "explanation": "Q = CV = 2 × 5 = 10 C."
+      },
+      {
+        "question": "What is the energy stored in a 2 F capacitor charged to 5 V?",
+        "options": ["25 J", "10 J", "5 J", "50 J"],
+        "correct": "A",
+        "explanation": "W = 1/2 CV^2 = 0.5 × 2 × 25 = 25 J."
+      },
+      {
+        "question": "What is the inductive reactance of a 1 H coil at 10 Hz?",
+        "options": ["62.8 Ω", "6.28 Ω", "10 Ω", "31.4 Ω"],
+        "correct": "A",
+        "explanation": "Xl = 2πfL = 2π × 10 × 1 ≈ 62.8 Ω."
+      },
+      {
+        "question": "What is the resonant frequency of an LC circuit with L = 1 H and C = 1 F?",
+        "options": ["0.159 Hz", "1 Hz", "3.142 Hz", "0.5 Hz"],
+        "correct": "A",
+        "explanation": "f0 = 1/(2π√LC) = 1/(2π) ≈ 0.159 Hz."
+      },
+      {
+        "question": "What is the total current in a parallel circuit with branch currents 2 A, 3 A, and 5 A?",
+        "options": ["10 A", "8 A", "5 A", "15 A"],
+        "correct": "A",
+        "explanation": "Total current in parallel is the sum of branch currents."
+      },
+      {
+        "question": "What is the voltage drop across a 4 Ω resistor carrying 0.5 A?",
+        "options": ["2 V", "4 V", "1 V", "8 V"],
+        "correct": "A",
+        "explanation": "V = IR = 0.5 × 4 = 2 V."
+      }
+    ]
+  }
+}
