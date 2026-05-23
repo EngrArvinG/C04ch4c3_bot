@@ -1,9 +1,8 @@
 {
   "category": "ESAS",
-  "total": 320,
+  "total": 319,
   "questions": [
     {
-      "id": "ESAS-0001",
       "question": "What is the minimum size of copper conductor allowed for general wiring?",
       "choices": [
         "14 AWG",
@@ -17,7 +16,6 @@
       "tutor": "PEC allows 14 AWG as minimum copper for general branch circuits (except fixtures)."
     },
     {
-      "id": "ESAS-0002",
       "question": "What is the maximum overcurrent protection for 14 AWG copper wire?",
       "choices": [
         "15 A",
@@ -31,7 +29,6 @@
       "tutor": "14 AWG copper is rated 15 A maximum overcurrent device."
     },
     {
-      "id": "ESAS-0003",
       "question": "What color is the grounding conductor?",
       "choices": [
         "Green or bare",
@@ -45,7 +42,6 @@
       "tutor": "Grounding conductors must be green, green with yellow stripe, or bare."
     },
     {
-      "id": "ESAS-0004",
       "question": "What is the minimum burial depth for direct burial UF cable under a driveway?",
       "choices": [
         "24 inches",
@@ -59,7 +55,6 @@
       "tutor": "Direct burial under driveways requires 24 inches cover."
     },
     {
-      "id": "ESAS-0005",
       "question": "What is the maximum number of current-carrying conductors in a 1-inch EMT before derating?",
       "choices": [
         "3",
@@ -73,7 +68,6 @@
       "tutor": "Derating applies when more than 3 current-carrying conductors are bundled."
     },
     {
-      "id": "ESAS-0006",
       "question": "What is the minimum clearance of service drop conductors over a residential roof?",
       "choices": [
         "3 ft",
@@ -87,7 +81,6 @@
       "tutor": "Service drop must have at least 3 ft clearance over roof with slope ≥ 4:12."
     },
     {
-      "id": "ESAS-0007",
       "question": "What is the maximum distance between outlet boxes in a residential wall?",
       "choices": [
         "6 ft",
@@ -101,7 +94,6 @@
       "tutor": "No point along floor line more than 6 ft from an outlet."
     },
     {
-      "id": "ESAS-0008",
       "question": "What is the required height for receptacle outlets above floor in residences?",
       "choices": [
         "12 inches",
@@ -115,7 +107,6 @@
       "tutor": "Standard height is 15 inches (measured to top of box)."
     },
     {
-      "id": "ESAS-0009",
       "question": "What is the minimum size of service entrance for a single-family dwelling of 150 sq m?",
       "choices": [
         "60 A",
@@ -129,7 +120,6 @@
       "tutor": "Minimum service for dwelling is 100 A regardless of calculated load."
     },
     {
-      "id": "ESAS-0010",
       "question": "What is the maximum voltage drop for branch circuits?",
       "choices": [
         "3%",
@@ -143,7 +133,6 @@
       "tutor": "PEC recommends max 3% for branch circuits, 5% total (feeder+branch)."
     },
     {
-      "id": "ESAS-0011",
       "question": "What type of protection is required for 15A and 20A receptacles in a wet location?",
       "choices": [
         "GFCI",
@@ -157,7 +146,6 @@
       "tutor": "Wet locations (outdoors, bathrooms, kitchens) require GFCI."
     },
     {
-      "id": "ESAS-0012",
       "question": "What is the minimum clearance for a service head above grade?",
       "choices": [
         "6 ft",
@@ -171,7 +159,6 @@
       "tutor": "Service head must be at least 10 ft above finished grade."
     },
     {
-      "id": "ESAS-0013",
       "question": "What is the maximum number of quarter bends in a conduit run?",
       "choices": [
         "4",
@@ -185,7 +172,6 @@
       "tutor": "Maximum is 360 degrees total (four 90° bends)."
     },
     {
-      "id": "ESAS-0014",
       "question": "What is the minimum ampacity for a small appliance branch circuit in a kitchen?",
       "choices": [
         "15 A",
@@ -199,7 +185,6 @@
       "tutor": "Small appliance circuits must be 20 A rated."
     },
     {
-      "id": "ESAS-0015",
       "question": "How many small appliance branch circuits are required for a residence?",
       "choices": [
         "1",
@@ -213,7 +198,6 @@
       "tutor": "At least two 20 A small appliance circuits for kitchen, pantry, dining."
     },
     {
-      "id": "ESAS-0016",
       "question": "What is the minimum working space in front of an electrical panel?",
       "choices": [
         "24 inches",
@@ -227,7 +211,6 @@
       "tutor": "Minimum depth of working space is 30 inches (or width of equipment)."
     },
     {
-      "id": "ESAS-0017",
       "question": "What is the required width of working space for electrical equipment?",
       "choices": [
         "24 inches",
@@ -241,7 +224,6 @@
       "tutor": "Working space width must be at least 30 inches."
     },
     {
-      "id": "ESAS-0018",
       "question": "What is the maximum height of a service disconnect switch?",
       "choices": [
         "5 ft",
@@ -255,7 +237,6 @@
       "tutor": "Service disconnect handle must not exceed 6 ft 7 inches above floor."
     },
     {
-      "id": "ESAS-0019",
       "question": "What is the minimum size grounding electrode conductor for a 100 A service?",
       "choices": [
         "8 AWG Cu",
@@ -269,7 +250,6 @@
       "tutor": "For 100 A service, min GEC is 8 AWG copper (Table 250.66)."
     },
     {
-      "id": "ESAS-0020",
       "question": "What is the required length of a driven ground rod?",
       "choices": [
         "4 ft",
@@ -283,7 +263,6 @@
       "tutor": "Minimum ground rod length is 8 ft (250.52)."
     },
     {
-      "id": "ESAS-0021",
       "question": "What is the maximum resistance of a single ground electrode?",
       "choices": [
         "10 ohms",
@@ -297,7 +276,6 @@
       "tutor": "If resistance >25 ohms, a second electrode must be added."
     },
     {
-      "id": "ESAS-0022",
       "question": "What is the minimum spacing between two ground rods?",
       "choices": [
         "4 ft",
@@ -311,7 +289,6 @@
       "tutor": "Multiple rods must be at least 6 ft apart (250.53)."
     },
     {
-      "id": "ESAS-0023",
       "question": "What is the maximum load on a 15 A branch circuit for non-continuous loads?",
       "choices": [
         "12 A",
@@ -325,7 +302,6 @@
       "tutor": "Continuous load max 80% (12A), non-continuous up to 15A."
     },
     {
-      "id": "ESAS-0024",
       "question": "What is the maximum continuous load on a 20 A branch circuit?",
       "choices": [
         "16 A",
@@ -339,7 +315,6 @@
       "tutor": "Continuous load max = 80% of rating = 20×0.8=16 A."
     },
     {
-      "id": "ESAS-0025",
       "question": "What is the minimum number of lighting outlets for a residential hallway?",
       "choices": [
         "0",
@@ -353,7 +328,6 @@
       "tutor": "Hallways of 10 ft or more require at least one lighting outlet."
     },
     {
-      "id": "ESAS-0026",
       "question": "What is the required AFCI protection for residential bedrooms?",
       "choices": [
         "Yes",
@@ -367,7 +341,6 @@
       "tutor": "AFCI protection required for all 120V, 15/20A branch circuits in dwelling units."
     },
     {
-      "id": "ESAS-0027",
       "question": "What is the minimum clearance for overhead conductors over public streets?",
       "choices": [
         "12 ft",
@@ -381,7 +354,6 @@
       "tutor": "Minimum 18 ft over public streets (Table 230.24)."
     },
     {
-      "id": "ESAS-0028",
       "question": "What is the minimum clearance for conductors over a residential driveway?",
       "choices": [
         "10 ft",
@@ -395,7 +367,6 @@
       "tutor": "Minimum 12 ft over residential driveways."
     },
     {
-      "id": "ESAS-0029",
       "question": "What is the minimum size of THHN conductor for a 30 A circuit?",
       "choices": [
         "14 AWG",
@@ -409,7 +380,6 @@
       "tutor": "30 A circuit requires at least 10 AWG copper."
     },
     {
-      "id": "ESAS-0030",
       "question": "What is the maximum rating of a branch circuit supplying fixed lighting?",
       "choices": [
         "15 A",
@@ -423,7 +393,6 @@
       "tutor": "Branch circuit for fixed lighting max 30 A."
     },
     {
-      "id": "ESAS-0031",
       "question": "What is the minimum conductor size for a service neutral for a 200 A dwelling?",
       "choices": [
         "6 AWG Cu",
@@ -437,7 +406,6 @@
       "tutor": "Neutral can be reduced but not smaller than 2 AWG Cu for 200 A service."
     },
     {
-      "id": "ESAS-0032",
       "question": "What is the maximum distance from a pool to a receptacle?",
       "choices": [
         "6 ft",
@@ -451,7 +419,6 @@
       "tutor": "Receptacles must be at least 20 ft from inside pool wall."
     },
     {
-      "id": "ESAS-0033",
       "question": "What is the required GFCI protection for pool lighting?",
       "choices": [
         "Yes",
@@ -465,7 +432,6 @@
       "tutor": "All pool lighting circuits require GFCI protection."
     },
     {
-      "id": "ESAS-0034",
       "question": "What is the minimum size of conductor for a feeder tap?",
       "choices": [
         "14 AWG",
@@ -479,7 +445,6 @@
       "tutor": "Feeder tap conductors must be at least 10 AWG."
     },
     {
-      "id": "ESAS-0035",
       "question": "What is the maximum length of a 10 AWG feeder tap?",
       "choices": [
         "10 ft",
@@ -493,7 +458,6 @@
       "tutor": "Tap not over 10 ft long if ampacity not less than tap load."
     },
     {
-      "id": "ESAS-0036",
       "question": "What is the minimum size of EGC for a 60 A circuit?",
       "choices": [
         "14 AWG",
@@ -507,7 +471,6 @@
       "tutor": "Table 250.122: 60 A circuit needs 10 AWG Cu EGC."
     },
     {
-      "id": "ESAS-0037",
       "question": "What is the maximum number of disconnecting throws to cut all service power?",
       "choices": [
         "2",
@@ -521,7 +484,6 @@
       "tutor": "Service can be disconnected by max 6 switches or breakers."
     },
     {
-      "id": "ESAS-0038",
       "question": "What is the minimum clearance for service conductors above a roof?",
       "choices": [
         "3 ft",
@@ -535,7 +497,6 @@
       "tutor": "Minimum 8 ft clearance over roofs (with exceptions)."
     },
     {
-      "id": "ESAS-0039",
       "question": "What is the minimum size of conduit for 2 #12 THHN conductors?",
       "choices": [
         "1/2 inch",
@@ -549,7 +510,6 @@
       "tutor": "1/2 EMT can hold up to 5 #12 THHN (Table C.1)."
     },
     {
-      "id": "ESAS-0040",
       "question": "What is the maximum ampacity of 8 AWG THHN copper in a 60°C terminal?",
       "choices": [
         "40 A",
@@ -563,7 +523,6 @@
       "tutor": "8 AWG THHN is 55A at 90°C but limited by terminal rating (60°C = 40A)."
     },
     {
-      "id": "ESAS-0041",
       "question": "What is the required number of ground rods if first has 30 ohms resistance?",
       "choices": [
         "1 more",
@@ -577,7 +536,6 @@
       "tutor": "If resistance >25 ohms, add a second rod."
     },
     {
-      "id": "ESAS-0042",
       "question": "What is the minimum distance of a wall receptacle from a doorway?",
       "choices": [
         "3 ft",
@@ -591,7 +549,6 @@
       "tutor": "No specific distance; but no point >6 ft from receptacle."
     },
     {
-      "id": "ESAS-0043",
       "question": "What is the minimum size of main bonding jumper for 400 A service?",
       "choices": [
         "4 AWG Cu",
@@ -605,7 +562,6 @@
       "tutor": "Table 250.66: 400 A service uses 1/0 AWG Cu bonding jumper."
     },
     {
-      "id": "ESAS-0044",
       "question": "What is the maximum voltage drop for feeders?",
       "choices": [
         "2%",
@@ -619,7 +575,6 @@
       "tutor": "Feeder max 2% drop, total including branch max 5%."
     },
     {
-      "id": "ESAS-0045",
       "question": "What is the minimum depth for rigid metal conduit under a driveway?",
       "choices": [
         "6 inches",
@@ -633,7 +588,6 @@
       "tutor": "RMC requires only 6 inches cover under driveways."
     },
     {
-      "id": "ESAS-0046",
       "question": "What is the required GFCI protection for kitchen countertop receptacles?",
       "choices": [
         "Yes",
@@ -647,7 +601,6 @@
       "tutor": "All kitchen countertop receptacles require GFCI protection."
     },
     {
-      "id": "ESAS-0047",
       "question": "What is the minimum size of service entrance for a commercial building with 80 A load?",
       "choices": [
         "60 A",
@@ -661,7 +614,6 @@
       "tutor": "Minimum service size for commercial is 100 A (not dwelling)."
     },
     {
-      "id": "ESAS-0048",
       "question": "What is the maximum rating of a receptacle on a 15 A individual branch circuit?",
       "choices": [
         "10 A",
@@ -675,7 +627,6 @@
       "tutor": "Receptacle rating must not exceed branch circuit rating."
     },
     {
-      "id": "ESAS-0049",
       "question": "What is the minimum size of THWN for a 100 A feeder in a dry location?",
       "choices": [
         "4 AWG Cu",
@@ -689,7 +640,6 @@
       "tutor": "Table 310.16: 2 AWG Cu at 75°C is rated 115 A, sufficient for 100 A."
     },
     {
-      "id": "ESAS-0050",
       "question": "What is the maximum number of 14 AWG conductors in 3/4 EMT?",
       "choices": [
         "9",
@@ -703,7 +653,6 @@
       "tutor": "3/4 EMT max fill for #14 THHN is 12 conductors (Chapter 9 Table)."
     },
     {
-      "id": "ESAS-0051",
       "question": "What is the atomic number of an element?",
       "choices": [
         "Number of neutrons",
@@ -717,7 +666,6 @@
       "tutor": "The atomic number (Z) is the number of protons in the nucleus, which defines the element."
     },
     {
-      "id": "ESAS-0052",
       "question": "Which subatomic particle has a negative charge?",
       "choices": [
         "Proton",
@@ -731,7 +679,6 @@
       "tutor": "Electrons are negatively charged particles orbiting the nucleus."
     },
     {
-      "id": "ESAS-0053",
       "question": "What is the maximum number of electrons that can occupy the first energy level (n=1)?",
       "choices": [
         "2",
@@ -745,7 +692,6 @@
       "tutor": "The maximum number of electrons in a shell is 2n². For n=1, 2(1)² = 2 electrons."
     },
     {
-      "id": "ESAS-0054",
       "question": "Which of the following is a noble gas?",
       "choices": [
         "Oxygen",
@@ -759,7 +705,6 @@
       "tutor": "Helium (He) is a noble gas in Group 18, characterized by a full valence shell."
     },
     {
-      "id": "ESAS-0055",
       "question": "What is the pH of a neutral solution at 25°C?",
       "choices": [
         "0",
@@ -773,7 +718,6 @@
       "tutor": "A neutral solution has pH = 7, where [H⁺] = [OH⁻] = 10⁻⁷ M."
     },
     {
-      "id": "ESAS-0056",
       "question": "What type of bond is formed by the sharing of electrons between atoms?",
       "choices": [
         "Ionic bond",
@@ -787,7 +731,6 @@
       "tutor": "Covalent bonds involve sharing of electron pairs between nonmetal atoms."
     },
     {
-      "id": "ESAS-0057",
       "question": "What is the molar mass of water (H₂O)?",
       "choices": [
         "16 g/mol",
@@ -801,7 +744,6 @@
       "tutor": "H: 1.008×2 = 2.016, O: 16.00, total ≈ 18.016 g/mol."
     },
     {
-      "id": "ESAS-0058",
       "question": "How many moles are present in 36 grams of water (H₂O)?",
       "choices": [
         "1 mol",
@@ -815,7 +757,6 @@
       "tutor": "Moles = mass/molar mass = 36 g / 18 g/mol = 2 mol."
     },
     {
-      "id": "ESAS-0059",
       "question": "Which law states that the volume of a gas is directly proportional to its absolute temperature at constant pressure?",
       "choices": [
         "Boyle's Law",
@@ -829,7 +770,6 @@
       "tutor": "Charles's Law: V ∝ T at constant P and n."
     },
     {
-      "id": "ESAS-0060",
       "question": "What is the oxidation number of oxygen in most compounds?",
       "choices": [
         "+1",
@@ -843,7 +783,6 @@
       "tutor": "Oxygen typically has an oxidation state of -2, except in peroxides (-1) and OF₂ (+2)."
     },
     {
-      "id": "ESAS-0061",
       "question": "What is the balanced equation for the combustion of methane (CH₄)?",
       "choices": [
         "CH₄ + O₂ → CO₂ + H₂O",
@@ -857,7 +796,6 @@
       "tutor": "Balanced: CH₄ + 2O₂ → CO₂ + 2H₂O."
     },
     {
-      "id": "ESAS-0062",
       "question": "Which of the following is an example of a physical change?",
       "choices": [
         "Rusting of iron",
@@ -871,7 +809,6 @@
       "tutor": "Melting of ice is a phase change (solid to liquid) without changing chemical composition."
     },
     {
-      "id": "ESAS-0063",
       "question": "What is the electron configuration of sodium (atomic number 11)?",
       "choices": [
         "1s² 2s² 2p⁶ 3s¹",
@@ -885,7 +822,6 @@
       "tutor": "Na (Z=11): 1s² 2s² 2p⁶ 3s¹."
     },
     {
-      "id": "ESAS-0064",
       "question": "What is the concentration in ppm of a solution containing 0.005 g of solute in 1 kg of solvent?",
       "choices": [
         "5 ppm",
@@ -899,7 +835,6 @@
       "tutor": "ppm = (mass of solute / mass of solution) × 10⁶ = (0.005/1000)×10⁶ = 5 ppm."
     },
     {
-      "id": "ESAS-0065",
       "question": "Which of the following is a strong electrolyte?",
       "choices": [
         "Sugar solution",
@@ -913,7 +848,6 @@
       "tutor": "NaCl dissociates completely into ions in water, making it a strong electrolyte."
     },
     {
-      "id": "ESAS-0066",
       "question": "A radioactive isotope decays from 100 g to 12.5 g in 3 half-lives. What is the half-life in terms of the total time T?",
       "choices": [
         "T/3",
@@ -927,7 +861,6 @@
       "tutor": "After 3 half-lives, remaining = initial × (1/2)³ = 12.5 g. Half-life = total time T / 3."
     },
     {
-      "id": "ESAS-0067",
       "question": "What is the Lewis structure for carbon dioxide (CO₂)?",
       "choices": [
         "O=C=O",
@@ -941,7 +874,6 @@
       "tutor": "CO₂ has two double bonds: O=C=O, with carbon as central atom."
     },
     {
-      "id": "ESAS-0068",
       "question": "What is the pH of a 0.001 M HCl solution?",
       "choices": [
         "1",
@@ -955,7 +887,6 @@
       "tutor": "pH = -log[H⁺] = -log(1×10⁻³) = 3."
     },
     {
-      "id": "ESAS-0069",
       "question": "Which of the following is a property of acids?",
       "choices": [
         "Turns red litmus blue",
@@ -969,7 +900,6 @@
       "tutor": "Acids turn blue litmus paper red. Bases turn red litmus blue."
     },
     {
-      "id": "ESAS-0070",
       "question": "What is the wavelength region of light emitted when an electron in a hydrogen atom falls from n=3 to n=2?",
       "choices": [
         "Infrared",
@@ -983,7 +913,6 @@
       "tutor": "The transition n=3 to n=2 emits visible red light (Balmer series, 656 nm)."
     },
     {
-      "id": "ESAS-0071",
       "question": "Newton's first law of motion is also known as the law of:",
       "choices": [
         "Acceleration",
@@ -997,7 +926,6 @@
       "tutor": "Newton's first law states that an object at rest stays at rest and an object in motion stays in motion unless acted upon by a net external force. This is the law of inertia."
     },
     {
-      "id": "ESAS-0072",
       "question": "What is the SI unit of force?",
       "choices": [
         "Joule",
@@ -1011,7 +939,6 @@
       "tutor": "The Newton (N) is the SI unit of force, defined as 1 kg·m/s²."
     },
     {
-      "id": "ESAS-0073",
       "question": "A 2 kg object is moving with a velocity of 5 m/s. What is its kinetic energy?",
       "choices": [
         "10 J",
@@ -1025,7 +952,6 @@
       "tutor": "KE = ½mv² = ½ × 2 × (5)² = ½ × 2 × 25 = 25 J."
     },
     {
-      "id": "ESAS-0074",
       "question": "What is the acceleration due to gravity on Earth's surface approximately?",
       "choices": [
         "9.8 m/s²",
@@ -1039,7 +965,6 @@
       "tutor": "Standard acceleration due to gravity g ≈ 9.8 m/s² (or 9.81 m/s²)."
     },
     {
-      "id": "ESAS-0075",
       "question": "Which of the following is a scalar quantity?",
       "choices": [
         "Velocity",
@@ -1053,7 +978,6 @@
       "tutor": "Mass has magnitude only; velocity, force, and displacement have both magnitude and direction (vectors)."
     },
     {
-      "id": "ESAS-0076",
       "question": "Ohm's law states the relationship between:",
       "choices": [
         "Power and current",
@@ -1067,7 +991,6 @@
       "tutor": "Ohm's Law: V = IR, where V is voltage, I is current, and R is resistance."
     },
     {
-      "id": "ESAS-0077",
       "question": "A 10 Ω resistor carries a current of 2 A. What is the voltage across it?",
       "choices": [
         "5 V",
@@ -1081,7 +1004,6 @@
       "tutor": "V = IR = 2 A × 10 Ω = 20 V."
     },
     {
-      "id": "ESAS-0078",
       "question": "What is the frequency of a wave with period 0.02 seconds?",
       "choices": [
         "50 Hz",
@@ -1095,7 +1017,6 @@
       "tutor": "f = 1/T = 1/0.02 = 50 Hz."
     },
     {
-      "id": "ESAS-0079",
       "question": "The speed of light in vacuum is approximately:",
       "choices": [
         "3 × 10⁶ m/s",
@@ -1109,7 +1030,6 @@
       "tutor": "The speed of light in vacuum c = 3.00 × 10⁸ m/s."
     },
     {
-      "id": "ESAS-0080",
       "question": "A car accelerates uniformly from rest to 20 m/s in 5 seconds. What is its acceleration?",
       "choices": [
         "4 m/s²",
@@ -1123,7 +1043,6 @@
       "tutor": "a = (v - u)/t = (20 - 0)/5 = 4 m/s²."
     },
     {
-      "id": "ESAS-0081",
       "question": "What is the work done when a force of 10 N moves an object 5 m in the direction of the force?",
       "choices": [
         "2 J",
@@ -1137,7 +1056,6 @@
       "tutor": "W = F × d = 10 N × 5 m = 50 J."
     },
     {
-      "id": "ESAS-0082",
       "question": "What is the principle of conservation of energy?",
       "choices": [
         "Energy can be created but not destroyed",
@@ -1151,7 +1069,6 @@
       "tutor": "The law of conservation of energy states that energy cannot be created or destroyed, only converted from one form to another."
     },
     {
-      "id": "ESAS-0083",
       "question": "A 5 kg object is lifted 2 meters above the ground. What is its gravitational potential energy?",
       "choices": [
         "10 J",
@@ -1165,7 +1082,6 @@
       "tutor": "PE = mgh = 5 kg × 9.8 m/s² × 2 m = 98 J."
     },
     {
-      "id": "ESAS-0084",
       "question": "What is the momentum of a 10 kg object moving at 3 m/s?",
       "choices": [
         "30 kg·m/s",
@@ -1179,7 +1095,6 @@
       "tutor": "p = mv = 10 kg × 3 m/s = 30 kg·m/s."
     },
     {
-      "id": "ESAS-0085",
       "question": "The bending of light as it passes from one medium to another is called:",
       "choices": [
         "Reflection",
@@ -1193,7 +1108,6 @@
       "tutor": "Refraction is the bending of light due to a change in speed when passing between different media."
     },
     {
-      "id": "ESAS-0086",
       "question": "What is the efficiency of a machine that does 200 J of useful work from 500 J of input energy?",
       "choices": [
         "40%",
@@ -1207,7 +1121,6 @@
       "tutor": "Efficiency = (useful output / input) × 100% = (200/500)×100% = 40%."
     },
     {
-      "id": "ESAS-0087",
       "question": "What is the resonant frequency of an LC circuit with L = 0.1 H and C = 10 μF?",
       "choices": [
         "159 Hz",
@@ -1221,7 +1134,6 @@
       "tutor": "f₀ = 1/(2π√(LC)) = 1/(2π√(0.1 × 10×10⁻⁶)) = 1/(2π√(10⁻⁶)) = 1/(2π×0.001) ≈ 159 Hz."
     },
     {
-      "id": "ESAS-0088",
       "question": "Two resistors of 4 Ω and 6 Ω are connected in series. What is the total resistance?",
       "choices": [
         "2.4 Ω",
@@ -1235,7 +1147,6 @@
       "tutor": "Series: R_total = R₁ + R₂ = 4 + 6 = 10 Ω."
     },
     {
-      "id": "ESAS-0089",
       "question": "What is the image distance for an object placed at the center of curvature of a concave mirror?",
       "choices": [
         "At infinity",
@@ -1249,7 +1160,6 @@
       "tutor": "For a concave mirror, when object is at C, image is also at C, real, inverted, and same size."
     },
     {
-      "id": "ESAS-0090",
       "question": "A force of 50 N is applied to a spring with spring constant 200 N/m. What is the extension?",
       "choices": [
         "0.25 m",
@@ -1263,7 +1173,6 @@
       "tutor": "Hooke's Law: F = kx → x = F/k = 50/200 = 0.25 m."
     },
     {
-      "id": "ESAS-0091",
       "question": "What does CPU stand for?",
       "choices": [
         "Central Processing Unit",
@@ -1277,7 +1186,6 @@
       "tutor": "CPU (Central Processing Unit) is the primary component that executes instructions in a computer."
     },
     {
-      "id": "ESAS-0092",
       "question": "Which of the following is a volatile memory?",
       "choices": [
         "ROM",
@@ -1291,7 +1199,6 @@
       "tutor": "RAM (Random Access Memory) loses its data when power is turned off, making it volatile."
     },
     {
-      "id": "ESAS-0093",
       "question": "What is the binary equivalent of the decimal number 13?",
       "choices": [
         "1101",
@@ -1305,7 +1212,6 @@
       "tutor": "13 in binary: 8+4+1 = 1101₂."
     },
     {
-      "id": "ESAS-0094",
       "question": "Which programming language is primarily used for artificial intelligence and machine learning?",
       "choices": [
         "C++",
@@ -1319,7 +1225,6 @@
       "tutor": "Python is widely used in AI/ML due to libraries like TensorFlow, PyTorch, and scikit-learn."
     },
     {
-      "id": "ESAS-0095",
       "question": "What does HTML stand for?",
       "choices": [
         "Hyper Text Markup Language",
@@ -1333,7 +1238,6 @@
       "tutor": "HTML (Hyper Text Markup Language) is the standard language for creating web pages."
     },
     {
-      "id": "ESAS-0096",
       "question": "Which operator is used for integer division in Python?",
       "choices": [
         "/",
@@ -1347,7 +1251,6 @@
       "tutor": "// is floor division operator in Python, returning the integer quotient."
     },
     {
-      "id": "ESAS-0097",
       "question": "What is the output of 2 ** 3 in Python?",
       "choices": [
         "6",
@@ -1361,7 +1264,6 @@
       "tutor": "** is the exponentiation operator. 2³ = 8."
     },
     {
-      "id": "ESAS-0098",
       "question": "What is the decimal equivalent of hexadecimal number 1A?",
       "choices": [
         "26",
@@ -1375,7 +1277,6 @@
       "tutor": "1A₁₆ = 1×16¹ + 10×16⁰ = 16 + 10 = 26."
     },
     {
-      "id": "ESAS-0099",
       "question": "Which of the following is a non-volatile memory?",
       "choices": [
         "RAM",
@@ -1389,7 +1290,6 @@
       "tutor": "ROM (Read-Only Memory) retains data even when power is off."
     },
     {
-      "id": "ESAS-0100",
       "question": "What is the correct way to write a comment in C language?",
       "choices": [
         "// comment",
@@ -1403,7 +1303,6 @@
       "tutor": "C supports single-line comments (//) and multi-line comments (/* */)."
     },
     {
-      "id": "ESAS-0101",
       "question": "What does an AND gate output?",
       "choices": [
         "1 if both inputs are 1",
@@ -1417,7 +1316,6 @@
       "tutor": "AND gate outputs 1 only when both inputs are 1."
     },
     {
-      "id": "ESAS-0102",
       "question": "What is the output of the Boolean expression A·(A+B)?",
       "choices": [
         "A",
@@ -1431,7 +1329,6 @@
       "tutor": "A·(A+B) = A·A + A·B = A + AB = A(1+B) = A."
     },
     {
-      "id": "ESAS-0103",
       "question": "Which data structure follows Last-In-First-Out (LIFO) principle?",
       "choices": [
         "Queue",
@@ -1445,7 +1342,6 @@
       "tutor": "Stack follows LIFO: last element pushed is the first popped."
     },
     {
-      "id": "ESAS-0104",
       "question": "What is the function of an operating system?",
       "choices": [
         "Manage hardware and software resources",
@@ -1459,7 +1355,6 @@
       "tutor": "OS manages hardware, software, processes, memory, and provides user interface."
     },
     {
-      "id": "ESAS-0105",
       "question": "What is the octal equivalent of binary 101101?",
       "choices": [
         "55",
@@ -1473,7 +1368,6 @@
       "tutor": "101101₂ = 101 101 = 5 5 = 55₈."
     },
     {
-      "id": "ESAS-0106",
       "question": "Which loop guarantees at least one execution in C?",
       "choices": [
         "for loop",
@@ -1487,7 +1381,6 @@
       "tutor": "do-while loop executes the body first, then checks condition, ensuring at least one iteration."
     },
     {
-      "id": "ESAS-0107",
       "question": "What does SQL stand for?",
       "choices": [
         "Structured Query Language",
@@ -1501,7 +1394,6 @@
       "tutor": "SQL is used to manage and query relational databases."
     },
     {
-      "id": "ESAS-0108",
       "question": "What is the value of the binary number 1111 in decimal?",
       "choices": [
         "8",
@@ -1515,7 +1407,6 @@
       "tutor": "1111₂ = 8+4+2+1 = 15."
     },
     {
-      "id": "ESAS-0109",
       "question": "Which of the following is a high-level programming language?",
       "choices": [
         "Assembly",
@@ -1529,7 +1420,6 @@
       "tutor": "Python is a high-level language; assembly and machine code are low-level."
     },
     {
-      "id": "ESAS-0110",
       "question": "What is the purpose of a compiler?",
       "choices": [
         "Converts high-level code to machine code",
@@ -1543,7 +1433,6 @@
       "tutor": "A compiler translates entire high-level source code into machine code before execution."
     },
     {
-      "id": "ESAS-0111",
       "question": "What is the primary constituent of mild steel?",
       "choices": [
         "Carbon",
@@ -1557,7 +1446,6 @@
       "tutor": "Mild steel is primarily iron (Fe) with small amounts of carbon (0.05-0.25%) and other elements."
     },
     {
-      "id": "ESAS-0112",
       "question": "What is the property of a material to absorb energy and plastically deform without fracturing?",
       "choices": [
         "Hardness",
@@ -1571,7 +1459,6 @@
       "tutor": "Toughness is the ability to absorb energy and deform plastically before fracture."
     },
     {
-      "id": "ESAS-0113",
       "question": "Which of the following is a non-ferrous metal?",
       "choices": [
         "Cast iron",
@@ -1585,7 +1472,6 @@
       "tutor": "Copper is a non-ferrous metal (contains no significant iron). Cast iron and steel are ferrous."
     },
     {
-      "id": "ESAS-0114",
       "question": "What does the modulus of elasticity (Young's modulus) measure?",
       "choices": [
         "Plastic deformation",
@@ -1599,7 +1485,6 @@
       "tutor": "Young's modulus (E) measures a material's stiffness or resistance to elastic deformation."
     },
     {
-      "id": "ESAS-0115",
       "question": "What is the approximate carbon content of cast iron?",
       "choices": [
         "0.1-0.3%",
@@ -1613,7 +1498,6 @@
       "tutor": "Cast iron contains 2-4% carbon, making it hard but brittle."
     },
     {
-      "id": "ESAS-0116",
       "question": "Which of the following materials is a good electrical conductor?",
       "choices": [
         "Rubber",
@@ -1627,7 +1511,6 @@
       "tutor": "Copper has high electrical conductivity, widely used in wires and cables."
     },
     {
-      "id": "ESAS-0117",
       "question": "What is the process of heating and cooling metals to alter their physical properties?",
       "choices": [
         "Machining",
@@ -1641,7 +1524,6 @@
       "tutor": "Heat treatment processes like annealing, quenching, and tempering modify metal properties."
     },
     {
-      "id": "ESAS-0118",
       "question": "What is the main alloying element in stainless steel?",
       "choices": [
         "Nickel",
@@ -1655,7 +1537,6 @@
       "tutor": "Chromium (at least 10.5%) provides corrosion resistance in stainless steel."
     },
     {
-      "id": "ESAS-0119",
       "question": "What is the unit of electrical resistivity?",
       "choices": [
         "Ohm",
@@ -1669,7 +1550,6 @@
       "tutor": "Electrical resistivity is measured in ohm-meters (Ω·m)."
     },
     {
-      "id": "ESAS-0120",
       "question": "Which type of bond is characteristic of metals?",
       "choices": [
         "Ionic bond",
@@ -1683,7 +1563,6 @@
       "tutor": "Metallic bonds involve a 'sea' of delocalized electrons around positive metal ions."
     },
     {
-      "id": "ESAS-0121",
       "question": "What is the purpose of annealing in metals?",
       "choices": [
         "Increase hardness",
@@ -1697,7 +1576,6 @@
       "tutor": "Annealing softens metals, reduces internal stress, and improves ductility."
     },
     {
-      "id": "ESAS-0122",
       "question": "Which of the following is a thermosetting polymer?",
       "choices": [
         "Polyethylene",
@@ -1711,7 +1589,6 @@
       "tutor": "Bakelite is thermosetting (irreversibly hardens when heated). Polyethylene and PVC are thermoplastics."
     },
     {
-      "id": "ESAS-0123",
       "question": "What is the Poisson's ratio of a perfectly incompressible material?",
       "choices": [
         "0",
@@ -1725,7 +1602,6 @@
       "tutor": "Poisson's ratio ν = 0.5 for perfectly incompressible materials (e.g., rubber)."
     },
     {
-      "id": "ESAS-0124",
       "question": "What is the purpose of adding carbon to iron?",
       "choices": [
         "Increase ductility",
@@ -1739,7 +1615,6 @@
       "tutor": "Carbon increases hardness and strength but reduces ductility in steel."
     },
     {
-      "id": "ESAS-0125",
       "question": "What is the most common crystal structure for metals?",
       "choices": [
         "Simple cubic",
@@ -1753,7 +1628,6 @@
       "tutor": "Common metal structures: BCC (iron at room temp), FCC (aluminum, copper), HCP (zinc)."
     },
     {
-      "id": "ESAS-0126",
       "question": "Which of the following is a ceramic material?",
       "choices": [
         "Brass",
@@ -1767,7 +1641,6 @@
       "tutor": "Alumina is a ceramic; brass is metal, polycarbonate is polymer, carbon steel is metal."
     },
     {
-      "id": "ESAS-0127",
       "question": "What is the difference between hardness and toughness?",
       "choices": [
         "Hardness resists scratching; toughness resists impact",
@@ -1781,7 +1654,6 @@
       "tutor": "Hardness resists indentation/scratching; toughness resists fracture under impact."
     },
     {
-      "id": "ESAS-0128",
       "question": "What does the term 'creep' refer to in materials?",
       "choices": [
         "Sudden fracture",
@@ -1795,7 +1667,6 @@
       "tutor": "Creep is slow, continuous deformation under constant load, especially at high temperatures."
     },
     {
-      "id": "ESAS-0129",
       "question": "What is the purpose of galvanizing steel?",
       "choices": [
         "Increase strength",
@@ -1809,7 +1680,6 @@
       "tutor": "Galvanizing applies a zinc coating to steel to prevent rusting (sacrificial protection)."
     },
     {
-      "id": "ESAS-0130",
       "question": "Which of the following has the highest thermal conductivity?",
       "choices": [
         "Steel",
@@ -1823,21 +1693,6 @@
       "tutor": "Copper has very high thermal conductivity (≈400 W/m·K), higher than aluminum and steel."
     },
     {
-      "id": "ESAS-0131",
-      "question": "What is the SI unit of force?",
-      "choices": [
-        "Joule",
-        "Newton",
-        "Pascal",
-        "Watt"
-      ],
-      "answer": 1,
-      "topic": "Engineering Mechanics - Fundamentals",
-      "difficulty": "Easy",
-      "tutor": "The Newton (N) is the SI unit of force, defined as 1 kg·m/s²."
-    },
-    {
-      "id": "ESAS-0132",
       "question": "What is the sum of all forces acting on a body in equilibrium?",
       "choices": [
         "Maximum",
@@ -1851,7 +1706,6 @@
       "tutor": "For a body in equilibrium, the net force (vector sum) must be zero: ΣF = 0."
     },
     {
-      "id": "ESAS-0133",
       "question": "A 10 kg mass is suspended by a rope. What is the tension in the rope (g = 9.8 m/s²)?",
       "choices": [
         "10 N",
@@ -1865,7 +1719,6 @@
       "tutor": "Tension = weight = mg = 10 kg × 9.8 m/s² = 98 N."
     },
     {
-      "id": "ESAS-0134",
       "question": "What is the moment of a force?",
       "choices": [
         "Force × distance",
@@ -1879,7 +1732,6 @@
       "tutor": "Moment (torque) = Force × perpendicular distance from pivot point."
     },
     {
-      "id": "ESAS-0135",
       "question": "A force of 50 N is applied perpendicular to a wrench handle 0.3 m long. What is the torque?",
       "choices": [
         "15 N·m",
@@ -1893,7 +1745,6 @@
       "tutor": "τ = F × d = 50 N × 0.3 m = 15 N·m."
     },
     {
-      "id": "ESAS-0136",
       "question": "What is the condition for translational equilibrium?",
       "choices": [
         "ΣF = 0",
@@ -1907,7 +1758,6 @@
       "tutor": "Translational equilibrium requires net force = 0 (ΣF = 0)."
     },
     {
-      "id": "ESAS-0137",
       "question": "What is the condition for rotational equilibrium?",
       "choices": [
         "ΣF = 0",
@@ -1921,7 +1771,6 @@
       "tutor": "Rotational equilibrium requires net moment = 0 (ΣM = 0)."
     },
     {
-      "id": "ESAS-0138",
       "question": "A 200 N weight is placed 2 m from the left end of a 5 m uniform beam. Where must the fulcrum be for balance?",
       "choices": [
         "At the center",
@@ -1935,7 +1784,6 @@
       "tutor": "Beam weight acts at center, so both beam weight and load position affect fulcrum location."
     },
     {
-      "id": "ESAS-0139",
       "question": "What is the efficiency of an ideal machine?",
       "choices": [
         "0%",
@@ -1949,7 +1797,6 @@
       "tutor": "An ideal machine has 100% efficiency (no friction losses)."
     },
     {
-      "id": "ESAS-0140",
       "question": "Which of Newton's laws states that action and reaction are equal and opposite?",
       "choices": [
         "First law",
@@ -1963,7 +1810,6 @@
       "tutor": "Newton's third law: For every action, there is an equal and opposite reaction."
     },
     {
-      "id": "ESAS-0141",
       "question": "A car accelerates from rest to 20 m/s in 5 seconds. What is the average acceleration?",
       "choices": [
         "4 m/s²",
@@ -1977,7 +1823,6 @@
       "tutor": "a = (v - u)/t = (20 - 0)/5 = 4 m/s²."
     },
     {
-      "id": "ESAS-0142",
       "question": "What is the frictional force on a 10 kg box on a horizontal surface with μ = 0.4 (g=9.8 m/s²)?",
       "choices": [
         "39.2 N",
@@ -1991,7 +1836,6 @@
       "tutor": "F_friction = μ × N = 0.4 × (10×9.8) = 0.4 × 98 = 39.2 N."
     },
     {
-      "id": "ESAS-0143",
       "question": "What is the mechanical advantage of a lever with effort arm 4 m and load arm 1 m?",
       "choices": [
         "0.25",
@@ -2005,7 +1849,6 @@
       "tutor": "MA = effort arm / load arm = 4/1 = 4."
     },
     {
-      "id": "ESAS-0144",
       "question": "What is the center of gravity of a uniform rod?",
       "choices": [
         "At one end",
@@ -2019,7 +1862,6 @@
       "tutor": "For a uniform rod, the center of gravity is at its geometric center (midpoint)."
     },
     {
-      "id": "ESAS-0145",
       "question": "A 5 kg block is pulled with 20 N force on a frictionless surface. What is its acceleration?",
       "choices": [
         "4 m/s²",
@@ -2033,7 +1875,6 @@
       "tutor": "a = F/m = 20 N / 5 kg = 4 m/s² (Newton's second law)."
     },
     {
-      "id": "ESAS-0146",
       "question": "What is the resultant of two perpendicular forces of 3 N and 4 N?",
       "choices": [
         "1 N",
@@ -2047,7 +1888,6 @@
       "tutor": "R = √(3² + 4²) = √(9+16) = √25 = 5 N."
     },
     {
-      "id": "ESAS-0147",
       "question": "What is the principle of moments?",
       "choices": [
         "Sum of clockwise moments = Sum of anticlockwise moments",
@@ -2061,7 +1901,6 @@
       "tutor": "The principle of moments states that for equilibrium, clockwise moments = anticlockwise moments."
     },
     {
-      "id": "ESAS-0148",
       "question": "A ladder rests against a wall. What forces act at the contact point with the wall?",
       "choices": [
         "Normal reaction only",
@@ -2075,7 +1914,6 @@
       "tutor": "Wall exerts both normal force (perpendicular) and friction (parallel) to prevent slipping."
     },
     {
-      "id": "ESAS-0149",
       "question": "What is the slope of a velocity-time graph?",
       "choices": [
         "Displacement",
@@ -2089,7 +1927,6 @@
       "tutor": "The slope of velocity-time graph gives acceleration (a = dv/dt)."
     },
     {
-      "id": "ESAS-0150",
       "question": "What is the area under a force-displacement graph?",
       "choices": [
         "Work done",
@@ -2103,7 +1940,6 @@
       "tutor": "Work done = ∫F·dx, which is the area under force-displacement curve."
     },
     {
-      "id": "ESAS-0151",
       "question": "What is the SI unit of dynamic viscosity?",
       "choices": [
         "Pa·s",
@@ -2117,7 +1953,6 @@
       "tutor": "Dynamic viscosity μ is measured in Pascal-seconds (Pa·s) or N·s/m²."
     },
     {
-      "id": "ESAS-0152",
       "question": "What is the pressure at a depth of 10 m in water (ρ = 1000 kg/m³, g = 9.8 m/s²) assuming atmospheric pressure is neglected?",
       "choices": [
         "98 kPa",
@@ -2131,7 +1966,6 @@
       "tutor": "P = ρgh = 1000 × 9.8 × 10 = 98,000 Pa = 98 kPa."
     },
     {
-      "id": "ESAS-0153",
       "question": "Which principle explains the buoyant force on a submerged object?",
       "choices": [
         "Bernoulli's principle",
@@ -2145,7 +1979,6 @@
       "tutor": "Archimedes' principle: buoyant force equals weight of displaced fluid."
     },
     {
-      "id": "ESAS-0154",
       "question": "What is the continuity equation in fluid mechanics?",
       "choices": [
         "A₁v₁ = A₂v₂",
@@ -2159,7 +1992,6 @@
       "tutor": "Continuity equation: Q = A₁v₁ = A₂v₂ (incompressible flow)."
     },
     {
-      "id": "ESAS-0155",
       "question": "What is the Reynolds number used to determine?",
       "choices": [
         "Flow regime (laminar or turbulent)",
@@ -2173,7 +2005,6 @@
       "tutor": "Reynolds number Re = ρvD/μ determines laminar (Re<2000) or turbulent (Re>4000) flow."
     },
     {
-      "id": "ESAS-0156",
       "question": "What does Pascal's principle state?",
       "choices": [
         "Pressure applied to an enclosed fluid is transmitted undiminished",
@@ -2187,7 +2018,6 @@
       "tutor": "Pascal's principle: pressure change in an enclosed incompressible fluid is transmitted equally throughout."
     },
     {
-      "id": "ESAS-0157",
       "question": "What is the specific gravity of a fluid with density 800 kg/m³? (ρ_water = 1000 kg/m³)",
       "choices": [
         "0.8",
@@ -2201,7 +2031,6 @@
       "tutor": "SG = ρ_fluid / ρ_water = 800/1000 = 0.8."
     },
     {
-      "id": "ESAS-0158",
       "question": "What is the kinematic viscosity ν if μ = 0.001 Pa·s and ρ = 1000 kg/m³?",
       "choices": [
         "1 × 10⁻⁶ m²/s",
@@ -2215,7 +2044,6 @@
       "tutor": "ν = μ/ρ = 0.001/1000 = 1 × 10⁻⁶ m²/s (1 cSt)."
     },
     {
-      "id": "ESAS-0159",
       "question": "What is the pressure head equivalent to 50 kPa in water? (ρ = 1000 kg/m³, g=9.8 m/s²)",
       "choices": [
         "5.1 m",
@@ -2229,7 +2057,6 @@
       "tutor": "h = P/(ρg) = 50,000/(1000×9.8) = 5.102 m."
     },
     {
-      "id": "ESAS-0160",
       "question": "Which flow meter operates on the principle of Bernoulli's equation?",
       "choices": [
         "Rotameter",
@@ -2243,7 +2070,6 @@
       "tutor": "Venturi meter uses pressure difference (Bernoulli) to measure flow rate."
     },
     {
-      "id": "ESAS-0161",
       "question": "What is the force on a 2 m² gate submerged vertically in water with its top at the surface? (ρ=1000 kg/m³, g=9.8 m/s²)",
       "choices": [
         "19,600 N",
@@ -2257,7 +2083,6 @@
       "tutor": "F = ρg × h_c × A = 1000×9.8×(1)×2 = 19,600 N (h_c is centroid depth)."
     },
     {
-      "id": "ESAS-0162",
       "question": "What does Bernoulli's equation assume?",
       "choices": [
         "Steady, incompressible, inviscid flow along a streamline",
@@ -2271,7 +2096,6 @@
       "tutor": "Bernoulli assumes steady, incompressible, frictionless flow along a streamline."
     },
     {
-      "id": "ESAS-0163",
       "question": "What is the hydraulic grade line (HGL)?",
       "choices": [
         "P/ρg + z",
@@ -2285,7 +2109,6 @@
       "tutor": "HGL = pressure head + elevation head = P/ρg + z."
     },
     {
-      "id": "ESAS-0164",
       "question": "What is the flow rate in a pipe of diameter 0.2 m if average velocity is 3 m/s?",
       "choices": [
         "0.0942 m³/s",
@@ -2299,7 +2122,6 @@
       "tutor": "A = πd²/4 = π(0.2)²/4 = 0.0314 m², Q = A×v = 0.0314×3 = 0.0942 m³/s."
     },
     {
-      "id": "ESAS-0165",
       "question": "What is the difference between absolute pressure and gauge pressure?",
       "choices": [
         "Absolute = gauge + atmospheric",
@@ -2313,7 +2135,6 @@
       "tutor": "Absolute pressure = gauge pressure + atmospheric pressure."
     },
     {
-      "id": "ESAS-0166",
       "question": "What is the Darcy-Weisbach equation used for?",
       "choices": [
         "Calculating head loss due to friction in pipes",
@@ -2327,7 +2148,6 @@
       "tutor": "Darcy-Weisbach: h_f = f × (L/D) × (v²/2g) for friction head loss."
     },
     {
-      "id": "ESAS-0167",
       "question": "What does the Moody chart provide?",
       "choices": [
         "Friction factor f as function of Re and ε/D",
@@ -2341,7 +2161,6 @@
       "tutor": "Moody chart gives Darcy friction factor f for pipe flow based on Re and relative roughness."
     },
     {
-      "id": "ESAS-0168",
       "question": "What is the purpose of a pitot tube?",
       "choices": [
         "Measure local fluid velocity",
@@ -2355,7 +2174,6 @@
       "tutor": "Pitot tube measures stagnation pressure to compute local velocity via Bernoulli."
     },
     {
-      "id": "ESAS-0169",
       "question": "What is the definition of specific weight?",
       "choices": [
         "Weight per unit volume",
@@ -2369,7 +2187,6 @@
       "tutor": "Specific weight γ = ρg = weight/volume (N/m³)."
     },
     {
-      "id": "ESAS-0170",
       "question": "What happens to fluid velocity in a converging section of a pipe?",
       "choices": [
         "Increases",
@@ -2383,7 +2200,6 @@
       "tutor": "By continuity A₁v₁ = A₂v₂, when area decreases, velocity increases."
     },
     {
-      "id": "ESAS-0171",
       "question": "What is the SI unit of stress?",
       "choices": [
         "Newton",
@@ -2397,7 +2213,6 @@
       "tutor": "Stress is force per unit area, measured in Pascals (Pa) or N/m²."
     },
     {
-      "id": "ESAS-0172",
       "question": "What is the definition of strain?",
       "choices": [
         "Change in length / Original length",
@@ -2411,7 +2226,6 @@
       "tutor": "Strain ε = ΔL / L₀, a dimensionless measure of deformation."
     },
     {
-      "id": "ESAS-0173",
       "question": "Hooke's law states that stress is proportional to strain within the:",
       "choices": [
         "Plastic region",
@@ -2425,7 +2239,6 @@
       "tutor": "Hooke's law: σ = Eε, valid within the elastic limit where deformation is reversible."
     },
     {
-      "id": "ESAS-0174",
       "question": "A steel rod of length 2 m and cross-sectional area 100 mm² is subjected to a tensile force of 20 kN. What is the stress? (1 mm² = 10⁻⁶ m²)",
       "choices": [
         "200 MPa",
@@ -2439,7 +2252,6 @@
       "tutor": "σ = F/A = 20,000 N / (100 × 10⁻⁶ m²) = 20,000 / 0.0001 = 200 × 10⁶ Pa = 200 MPa."
     },
     {
-      "id": "ESAS-0175",
       "question": "What is Young's modulus a measure of?",
       "choices": [
         "Stiffness of a material",
@@ -2453,7 +2265,6 @@
       "tutor": "Young's modulus E = σ/ε, representing material stiffness or resistance to elastic deformation."
     },
     {
-      "id": "ESAS-0176",
       "question": "What is the bending moment at the fixed end of a cantilever beam with a point load P at the free end?",
       "choices": [
         "0",
@@ -2467,7 +2278,6 @@
       "tutor": "For cantilever with end load, maximum moment at fixed end M = P × L."
     },
     {
-      "id": "ESAS-0177",
       "question": "What is the formula for the deflection of a simply supported beam with a central point load?",
       "choices": [
         "δ = PL³/(48EI)",
@@ -2481,7 +2291,6 @@
       "tutor": "δ_max = PL³/(48EI) for simply supported beam with central point load."
     },
     {
-      "id": "ESAS-0178",
       "question": "What is the Poisson's ratio of a material?",
       "choices": [
         "Negative ratio of lateral strain to axial strain",
@@ -2495,7 +2304,6 @@
       "tutor": "Poisson's ratio ν = - (lateral strain)/(axial strain), typically 0.25-0.35 for metals."
     },
     {
-      "id": "ESAS-0179",
       "question": "What is the maximum shear stress in a solid circular shaft under torsion?",
       "choices": [
         "At the center",
@@ -2509,7 +2317,6 @@
       "tutor": "τ_max = T×r/J occurs at outer surface (r = radius)."
     },
     {
-      "id": "ESAS-0180",
       "question": "What is the polar moment of inertia for a solid circular shaft of diameter d?",
       "choices": [
         "πd⁴/32",
@@ -2523,7 +2330,6 @@
       "tutor": "J = πd⁴/32 for solid circular shaft (polar moment)."
     },
     {
-      "id": "ESAS-0181",
       "question": "A force of 5000 N is applied to a rod of diameter 10 mm. What is the tensile stress?",
       "choices": [
         "63.66 MPa",
@@ -2537,7 +2343,6 @@
       "tutor": "A = πd²/4 = π(0.01)²/4 = 7.854×10⁻⁵ m², σ = 5000/7.854e-5 = 63.66×10⁶ Pa = 63.66 MPa."
     },
     {
-      "id": "ESAS-0182",
       "question": "What is the factor of safety?",
       "choices": [
         "Ultimate stress / Allowable stress",
@@ -2551,7 +2356,6 @@
       "tutor": "FOS = Ultimate strength / Allowable working stress (or yield/working)."
     },
     {
-      "id": "ESAS-0183",
       "question": "What is the neutral axis in a beam?",
       "choices": [
         "Axis where bending stress is zero",
@@ -2565,7 +2369,6 @@
       "tutor": "Neutral axis experiences zero longitudinal stress under pure bending."
     },
     {
-      "id": "ESAS-0184",
       "question": "What is the section modulus Z for a rectangular beam of width b and depth h?",
       "choices": [
         "bh²/6",
@@ -2579,7 +2382,6 @@
       "tutor": "Z = I/c = (bh³/12) / (h/2) = bh²/6."
     },
     {
-      "id": "ESAS-0185",
       "question": "What is the maximum bending stress formula for a beam?",
       "choices": [
         "σ = Mc/I",
@@ -2593,7 +2395,6 @@
       "tutor": "Bending stress σ = M×c / I, where c is distance from neutral axis to outer fiber."
     },
     {
-      "id": "ESAS-0186",
       "question": "What is the thermal stress in a rod fixed at both ends when temperature increases by ΔT?",
       "choices": [
         "σ = EαΔT",
@@ -2607,7 +2408,6 @@
       "tutor": "Thermal stress σ = EαΔT when expansion is fully constrained."
     },
     {
-      "id": "ESAS-0187",
       "question": "What is the shear stress formula for a circular shaft in torsion?",
       "choices": [
         "τ = Tr/J",
@@ -2621,7 +2421,6 @@
       "tutor": "Shear stress τ = T×r / J, where T = torque, r = radius, J = polar moment."
     },
     {
-      "id": "ESAS-0188",
       "question": "What is the modulus of rigidity G?",
       "choices": [
         "Shear stress / Shear strain",
@@ -2635,7 +2434,6 @@
       "tutor": "G = τ/γ (shear stress over shear strain), also called shear modulus."
     },
     {
-      "id": "ESAS-0189",
       "question": "What is the relationship between E, G, and ν?",
       "choices": [
         "G = E / [2(1+ν)]",
@@ -2649,7 +2447,6 @@
       "tutor": "G = E / [2(1+ν)] relates Young's modulus, shear modulus, and Poisson's ratio."
     },
     {
-      "id": "ESAS-0190",
       "question": "What is the endurance limit of a material?",
       "choices": [
         "Maximum stress for infinite fatigue life",
@@ -2663,7 +2460,6 @@
       "tutor": "Endurance limit is the stress below which material can withstand infinite cycles without failure."
     },
     {
-      "id": "ESAS-0191",
       "question": "What is the zeroth law of thermodynamics?",
       "choices": [
         "Energy cannot be created or destroyed",
@@ -2677,7 +2473,6 @@
       "tutor": "Zeroth law establishes the concept of temperature and thermal equilibrium."
     },
     {
-      "id": "ESAS-0192",
       "question": "What is the SI unit of temperature?",
       "choices": [
         "Celsius",
@@ -2691,7 +2486,6 @@
       "tutor": "Kelvin (K) is the SI base unit of thermodynamic temperature."
     },
     {
-      "id": "ESAS-0193",
       "question": "What is the first law of thermodynamics?",
       "choices": [
         "Energy cannot be created or destroyed, only transformed",
@@ -2705,7 +2499,6 @@
       "tutor": "First law: ΔU = Q - W, energy conservation in thermodynamic systems."
     },
     {
-      "id": "ESAS-0194",
       "question": "What is the efficiency of a Carnot engine operating between 500 K and 300 K?",
       "choices": [
         "40%",
@@ -2719,7 +2512,6 @@
       "tutor": "η = 1 - T_C/T_H = 1 - 300/500 = 1 - 0.6 = 0.4 = 40%."
     },
     {
-      "id": "ESAS-0195",
       "question": "What does the second law of thermodynamics state about entropy?",
       "choices": [
         "Entropy of an isolated system always increases or remains constant",
@@ -2733,7 +2525,6 @@
       "tutor": "Second law: ΔS ≥ 0 for isolated systems (entropy never decreases)."
     },
     {
-      "id": "ESAS-0196",
       "question": "What is an isothermal process?",
       "choices": [
         "Constant temperature",
@@ -2747,7 +2538,6 @@
       "tutor": "Isothermal process occurs at constant temperature (ΔT = 0)."
     },
     {
-      "id": "ESAS-0197",
       "question": "What is the work done in an isobaric process?",
       "choices": [
         "W = PΔV",
@@ -2761,7 +2551,6 @@
       "tutor": "For isobaric (constant pressure), W = P(V₂ - V₁) = PΔV."
     },
     {
-      "id": "ESAS-0198",
       "question": "What is an adiabatic process?",
       "choices": [
         "No heat transfer",
@@ -2775,7 +2564,6 @@
       "tutor": "Adiabatic process: Q = 0, no heat exchange with surroundings."
     },
     {
-      "id": "ESAS-0199",
       "question": "What is the specific gas constant R for air? (R_universal = 8.314 kJ/kmol·K, M_air = 28.97 kg/kmol)",
       "choices": [
         "0.287 kJ/kg·K",
@@ -2789,7 +2577,6 @@
       "tutor": "R = R_universal / M = 8.314 / 28.97 = 0.287 kJ/kg·K."
     },
     {
-      "id": "ESAS-0200",
       "question": "What is the triple point of water?",
       "choices": [
         "0°C, 1 atm",
@@ -2803,7 +2590,6 @@
       "tutor": "Triple point of water is 0.01°C (273.16 K) at 611.2 Pa, where ice, liquid, vapor coexist."
     },
     {
-      "id": "ESAS-0201",
       "question": "What is the heat required to change 1 kg of water at 100°C to steam at 100°C? (latent heat of vaporization = 2257 kJ/kg)",
       "choices": [
         "2257 kJ",
@@ -2817,7 +2603,6 @@
       "tutor": "Q = m × h_fg = 1 kg × 2257 kJ/kg = 2257 kJ."
     },
     {
-      "id": "ESAS-0202",
       "question": "What is the coefficient of performance (COP) of a refrigerator?",
       "choices": [
         "Q_c / W_in",
@@ -2831,7 +2616,6 @@
       "tutor": "COP_R = Q_c / W_net (heat removed from cold reservoir divided by work input)."
     },
     {
-      "id": "ESAS-0203",
       "question": "What is an isentropic process?",
       "choices": [
         "Constant entropy",
@@ -2845,7 +2629,6 @@
       "tutor": "Isentropic process: ΔS = 0 (reversible and adiabatic)."
     },
     {
-      "id": "ESAS-0204",
       "question": "What is the thermal efficiency of a heat engine?",
       "choices": [
         "η = W_net / Q_in",
@@ -2859,7 +2642,6 @@
       "tutor": "η = W_net / Q_in = (Q_in - Q_out)/Q_in."
     },
     {
-      "id": "ESAS-0205",
       "question": "What is absolute zero in Celsius?",
       "choices": [
         "-273.15°C",
@@ -2873,7 +2655,6 @@
       "tutor": "Absolute zero is 0 K = -273.15°C, theoretically lowest possible temperature."
     },
     {
-      "id": "ESAS-0206",
       "question": "What is the work done in a cycle?",
       "choices": [
         "Net area enclosed in PV diagram",
@@ -2887,7 +2668,6 @@
       "tutor": "Net work for a cycle equals area enclosed by the path on PV diagram."
     },
     {
-      "id": "ESAS-0207",
       "question": "What is the specific heat capacity at constant pressure (cp) for an ideal gas related to cv?",
       "choices": [
         "cp = cv + R",
@@ -2901,7 +2681,6 @@
       "tutor": "For ideal gas, cp - cv = R (specific gas constant)."
     },
     {
-      "id": "ESAS-0208",
       "question": "What is the ratio of specific heats γ for a diatomic gas like air?",
       "choices": [
         "1.4",
@@ -2915,7 +2694,6 @@
       "tutor": "γ = cp/cv ≈ 1.4 for diatomic gases (air, N₂, O₂)."
     },
     {
-      "id": "ESAS-0209",
       "question": "What is a throttling process?",
       "choices": [
         "Constant enthalpy",
@@ -2929,7 +2707,6 @@
       "tutor": "Throttling (Joule-Thomson) is isenthalpic: h₁ = h₂, pressure drops."
     },
     {
-      "id": "ESAS-0210",
       "question": "What is the entropy change for a reversible isothermal process?",
       "choices": [
         "ΔS = Q/T",
@@ -2943,7 +2720,6 @@
       "tutor": "For reversible isothermal, ΔS = Q_rev / T."
     },
     {
-      "id": "ESAS-0211",
       "question": "What law created the Professional Regulation Commission (PRC)?",
       "choices": [
         "RA 8981",
@@ -2957,7 +2733,6 @@
       "tutor": "RA 8981 (PRC Modernization Act) reorganized and strengthened the PRC."
     },
     {
-      "id": "ESAS-0212",
       "question": "What is the implementing body of RA 7920?",
       "choices": [
         "PRC",
@@ -2971,7 +2746,6 @@
       "tutor": "RA 7920 (New Electrical Engineering Law) is implemented by the Board of Electrical Engineering under PRC."
     },
     {
-      "id": "ESAS-0213",
       "question": "What is the official term of a Board of Electrical Engineering member?",
       "choices": [
         "2 years",
@@ -2985,7 +2759,6 @@
       "tutor": "BOE members serve a term of 3 years under RA 7920."
     },
     {
-      "id": "ESAS-0214",
       "question": "How many members compose the Board of Electrical Engineering?",
       "choices": [
         "1",
@@ -2999,7 +2772,6 @@
       "tutor": "The BOE has 3 members: a Chairman and 2 members."
     },
     {
-      "id": "ESAS-0215",
       "question": "What is the required number of years of practice before one can be appointed to the BOE?",
       "choices": [
         "5 years",
@@ -3013,7 +2785,6 @@
       "tutor": "BOE appointees must have at least 10 years of active EE practice."
     },
     {
-      "id": "ESAS-0216",
       "question": "What RA is known as the 'Electrical Engineering Law'?",
       "choices": [
         "RA 7920",
@@ -3027,7 +2798,6 @@
       "tutor": "RA 7920 is the Philippine Electrical Engineering Law, enacted in 1995."
     },
     {
-      "id": "ESAS-0217",
       "question": "What law requires a Professional Identification Card (PIC) from PRC?",
       "choices": [
         "RA 7920",
@@ -3041,7 +2811,6 @@
       "tutor": "RA 8981 mandates the issuance of PRC ID cards for registered professionals."
     },
     {
-      "id": "ESAS-0218",
       "question": "What is the Continuing Professional Development (CPD) law?",
       "choices": [
         "RA 10912",
@@ -3055,7 +2824,6 @@
       "tutor": "RA 10912 is the CPD Act of 2016, requiring CPD units for license renewal."
     },
     {
-      "id": "ESAS-0219",
       "question": "How many CPD units are required for electrical engineers per renewal cycle?",
       "choices": [
         "15 units",
@@ -3069,7 +2837,6 @@
       "tutor": "PRC requires 45 CPD units for EEs every 3-year renewal cycle."
     },
     {
-      "id": "ESAS-0220",
       "question": "What law penalizes unethical practices and graft in government?",
       "choices": [
         "RA 6713",
@@ -3083,7 +2850,6 @@
       "tutor": "RA 3019 (Anti-Graft and Corrupt Practices Act) and RA 6713 (Code of Conduct for Public Officials)."
     },
     {
-      "id": "ESAS-0221",
       "question": "What is the maximum penalty for practicing EE without a valid license?",
       "choices": [
         "P10,000 fine",
@@ -3097,7 +2863,6 @@
       "tutor": "RA 7920 penalizes unlicensed practice with fine up to P100,000 and/or imprisonment up to 2 years."
     },
     {
-      "id": "ESAS-0222",
       "question": "What is the lowest passing grade for a subject in the REE board exam?",
       "choices": [
         "50%",
@@ -3111,7 +2876,6 @@
       "tutor": "No subject grade below 50%, and average of all subjects at least 70%."
     },
     {
-      "id": "ESAS-0223",
       "question": "What is the required average passing grade for REE board exam?",
       "choices": [
         "60%",
@@ -3125,7 +2889,6 @@
       "tutor": "General average of 70% with no subject below 50%."
     },
     {
-      "id": "ESAS-0224",
       "question": "What is the validity period of a Professional Electrical Engineer (PEE) certificate?",
       "choices": [
         "1 year",
@@ -3139,7 +2902,6 @@
       "tutor": "PEE certificate, like other professional licenses, is valid for 3 years."
     },
     {
-      "id": "ESAS-0225",
       "question": "What PD created the PRC originally?",
       "choices": [
         "PD 223",
@@ -3153,7 +2915,6 @@
       "tutor": "PD 223 (1973) created the Professional Regulation Commission."
     },
     {
-      "id": "ESAS-0226",
       "question": "Who appoints the members of the Board of Electrical Engineering?",
       "choices": [
         "President of the Philippines",
@@ -3167,7 +2928,6 @@
       "tutor": "BOE members are appointed by the President of the Philippines upon PRC recommendation."
     },
     {
-      "id": "ESAS-0227",
       "question": "What law mandates the use of Filipino technical terms in engineering?",
       "choices": [
         "RA 7920",
@@ -3181,7 +2941,6 @@
       "tutor": "No specific law mandates exclusively Filipino technical terms; English remains standard."
     },
     {
-      "id": "ESAS-0228",
       "question": "What is the primary purpose of RA 9184?",
       "choices": [
         "Electrical safety",
@@ -3195,7 +2954,6 @@
       "tutor": "RA 9184 (Government Procurement Reform Act) governs public bidding and contracts."
     },
     {
-      "id": "ESAS-0229",
       "question": "What is the maximum CPD units that can be earned from self-directed learning?",
       "choices": [
         "5 units",
@@ -3209,7 +2967,6 @@
       "tutor": "PRC allows max 5 CPD units from self-directed learning per renewal period."
     },
     {
-      "id": "ESAS-0230",
       "question": "What law requires electrical plans to be signed by a PEE?",
       "choices": [
         "PD 1096",
@@ -3223,7 +2980,6 @@
       "tutor": "PD 1096 (NBC) and RA 7920 both require licensed PEE to sign electrical plans for large installations."
     },
     {
-      "id": "ESAS-0231",
       "question": "What is the Code of Ethics for Electrical Engineers embodied in?",
       "choices": [
         "RA 7920",
@@ -3237,7 +2993,6 @@
       "tutor": "PRC Resolution and IIEE Code of Ethics govern EE professional conduct."
     },
     {
-      "id": "ESAS-0232",
       "question": "What law is known as the 'National Building Code'?",
       "choices": [
         "PD 1096",
@@ -3251,7 +3006,6 @@
       "tutor": "PD 1096 (1977) is the National Building Code of the Philippines."
     },
     {
-      "id": "ESAS-0233",
       "question": "What law is known as the 'Fire Code of the Philippines'?",
       "choices": [
         "RA 9514",
@@ -3265,7 +3019,6 @@
       "tutor": "RA 9514 (2008) replaced PD 1185 as the Fire Code of the Philippines."
     },
     {
-      "id": "ESAS-0234",
       "question": "What is the minimum percentage of Filipino participation in engineering consultancy under RA 9184?",
       "choices": [
         "60%",
@@ -3279,7 +3032,6 @@
       "tutor": "RA 9184 requires at least 60% Filipino equity for consultancy services."
     },
     {
-      "id": "ESAS-0235",
       "question": "What law mandates EE as a profession requiring state regulation?",
       "choices": [
         "RA 7920",
@@ -3293,7 +3045,6 @@
       "tutor": "1987 Constitution Article II, Section 14 mandates state regulation of professions."
     },
     {
-      "id": "ESAS-0236",
       "question": "What is the penalty for impersonating a registered EE?",
       "choices": [
         "Fine only",
@@ -3307,7 +3058,6 @@
       "tutor": "RA 7920 penalizes impersonation with fine and imprisonment."
     },
     {
-      "id": "ESAS-0237",
       "question": "Who may file a complaint against a registered EE?",
       "choices": [
         "Any person",
@@ -3321,7 +3071,6 @@
       "tutor": "Any person may file a verified complaint before the BOE."
     },
     {
-      "id": "ESAS-0238",
       "question": "What is the maximum fine for violating RA 7920?",
       "choices": [
         "P20,000",
@@ -3335,7 +3084,6 @@
       "tutor": "RA 7920 Section 46 imposes fine up to P100,000."
     },
     {
-      "id": "ESAS-0239",
       "question": "What is the maximum imprisonment term under RA 7920?",
       "choices": [
         "6 months",
@@ -3349,7 +3097,6 @@
       "tutor": "Imprisonment up to 2 years for violations of RA 7920."
     },
     {
-      "id": "ESAS-0240",
       "question": "What law created the IIEE as a professional organization?",
       "choices": [
         "RA 7920",
@@ -3363,7 +3110,6 @@
       "tutor": "IIEE is a private organization; RA 7920 recognizes it as the accredited professional organization (APO)."
     },
     {
-      "id": "ESAS-0241",
       "question": "What is the official journal of the PRC?",
       "choices": [
         "The Philippine Gazette",
@@ -3377,7 +3123,6 @@
       "tutor": "PRC publishes The Professional Regulation Commission Journal."
     },
     {
-      "id": "ESAS-0242",
       "question": "What is the requirement for REE license renewal without CPD?",
       "choices": [
         "Allowed with penalty",
@@ -3391,7 +3136,6 @@
       "tutor": "CPD units are mandatory for license renewal under RA 10912."
     },
     {
-      "id": "ESAS-0243",
       "question": "What is the validity of a Special Professional License (SPL)?",
       "choices": [
         "1 year",
@@ -3405,7 +3149,6 @@
       "tutor": "SPL for foreign EEs is valid for 1 year, renewable."
     },
     {
-      "id": "ESAS-0244",
       "question": "Who issues the Certificate of Registration for EEs?",
       "choices": [
         "BOE",
@@ -3419,7 +3162,6 @@
       "tutor": "PRC Commissioner issues Certificate of Registration upon BOE recommendation."
     },
     {
-      "id": "ESAS-0245",
       "question": "What law is known as the 'Philippine Electrical Code'?",
       "choices": [
         "RA 7920",
@@ -3433,7 +3175,6 @@
       "tutor": "PEC is part of the implementing rules of RA 7920, not a separate law."
     },
     {
-      "id": "ESAS-0246",
       "question": "What is the required number of years to become a PEE?",
       "choices": [
         "3 years",
@@ -3447,7 +3188,6 @@
       "tutor": "At least 7 years of EE practice required for PEE eligibility."
     },
     {
-      "id": "ESAS-0247",
       "question": "What is the passing rate target per REE board exam?",
       "choices": [
         "None fixed",
@@ -3461,7 +3201,6 @@
       "tutor": "No fixed passing rate; it depends on exam difficulty and candidate performance."
     },
     {
-      "id": "ESAS-0248",
       "question": "What government agency oversees the BOE?",
       "choices": [
         "DOLE",
@@ -3475,7 +3214,6 @@
       "tutor": "PRC has administrative supervision over all BOEs including Electrical Engineering."
     },
     {
-      "id": "ESAS-0249",
       "question": "What law mandates the use of English as medium of instruction in engineering?",
       "choices": [
         "RA 7722",
@@ -3489,7 +3227,6 @@
       "tutor": "No law mandates English; it's standard practice from CHED policies."
     },
     {
-      "id": "ESAS-0250",
       "question": "What is the effect of non-renewal of license for 3 consecutive cycles?",
       "choices": [
         "Fine",
@@ -3503,7 +3240,6 @@
       "tutor": "PRC may require re-examination if license expired for 3 cycles (9 years)."
     },
     {
-      "id": "ESAS-0251",
       "question": "What law provides for professional civil service eligibility for licensed EEs?",
       "choices": [
         "PD 1080",
@@ -3517,7 +3253,6 @@
       "tutor": "PD 1080 grants civil service eligibility to board passers."
     },
     {
-      "id": "ESAS-0252",
       "question": "What is the requirement for signing electrical permits for low-voltage installations?",
       "choices": [
         "REE only",
@@ -3531,7 +3266,6 @@
       "tutor": "REE can sign for low-voltage (up to 600V), PEE for higher voltages."
     },
     {
-      "id": "ESAS-0253",
       "question": "What law punishes sexual harassment in the workplace including engineering firms?",
       "choices": [
         "RA 7877",
@@ -3545,7 +3279,6 @@
       "tutor": "RA 7877 (Anti-Sexual Harassment Act of 1995)."
     },
     {
-      "id": "ESAS-0254",
       "question": "What law protects intellectual property of engineering designs?",
       "choices": [
         "RA 8293",
@@ -3559,7 +3292,6 @@
       "tutor": "RA 8293 (IP Code) amended by RA 10372 protects copyrights and patents."
     },
     {
-      "id": "ESAS-0255",
       "question": "What law mandates data privacy in engineering records?",
       "choices": [
         "RA 10173",
@@ -3573,7 +3305,6 @@
       "tutor": "RA 10173 (Data Privacy Act of 2012) protects personal information."
     },
     {
-      "id": "ESAS-0256",
       "question": "What is the minimum passing score per subject in REE board?",
       "choices": [
         "40%",
@@ -3587,7 +3318,6 @@
       "tutor": "No subject grade below 50% as per BOE resolution."
     },
     {
-      "id": "ESAS-0257",
       "question": "What law provides for mandatory CPD for all professionals?",
       "choices": [
         "RA 10912",
@@ -3601,7 +3331,6 @@
       "tutor": "RA 10912 (CPD Act of 2016) makes CPD mandatory for all PRC-regulated professions."
     },
     {
-      "id": "ESAS-0258",
       "question": "What is the supervising agency for CPD implementation?",
       "choices": [
         "CHED",
@@ -3615,7 +3344,6 @@
       "tutor": "PRC through the CPD Council implements RA 10912."
     },
     {
-      "id": "ESAS-0259",
       "question": "What is the maximum number of years a license may be suspended?",
       "choices": [
         "1 year",
@@ -3629,7 +3357,6 @@
       "tutor": "BOE may suspend license for up to 3 years under RA 7920."
     },
     {
-      "id": "ESAS-0260",
       "question": "What law mandates the use of renewable energy in the Philippines?",
       "choices": [
         "RA 9513",
@@ -3643,7 +3370,6 @@
       "tutor": "RA 9513 (Renewable Energy Act of 2008) promotes RE development."
     },
     {
-      "id": "ESAS-0261",
       "question": "What is the time value of money?",
       "choices": [
         "Money loses value over time",
@@ -3657,7 +3383,6 @@
       "tutor": "Money today is worth more than same amount in future due to earning potential."
     },
     {
-      "id": "ESAS-0262",
       "question": "What is the formula for simple interest?",
       "choices": [
         "I = Prt",
@@ -3671,7 +3396,6 @@
       "tutor": "Simple interest: I = Principal × rate × time."
     },
     {
-      "id": "ESAS-0263",
       "question": "What is compound interest?",
       "choices": [
         "Interest on principal only",
@@ -3685,7 +3409,6 @@
       "tutor": "Compound interest earns interest on both principal and prior interest."
     },
     {
-      "id": "ESAS-0264",
       "question": "What is the future worth of P10,000 after 3 years at 10% compound interest?",
       "choices": [
         "P13,310",
@@ -3699,7 +3422,6 @@
       "tutor": "F = P(1+i)^n = 10000(1.1)^3 = 10000×1.331 = P13,310."
     },
     {
-      "id": "ESAS-0265",
       "question": "What is present worth factor (P/F)?",
       "choices": [
         "(1+i)^n",
@@ -3713,7 +3435,6 @@
       "tutor": "(P/F,i,n) = 1/(1+i)^n to find present given future."
     },
     {
-      "id": "ESAS-0266",
       "question": "What is the annual worth of a project?",
       "choices": [
         "Equivalent uniform annual cash flow",
@@ -3727,7 +3448,6 @@
       "tutor": "Annual Worth (AW) converts all cash flows to equivalent uniform annual amounts."
     },
     {
-      "id": "ESAS-0267",
       "question": "What is the payback period?",
       "choices": [
         "Time to recover initial investment",
@@ -3741,7 +3461,6 @@
       "tutor": "Payback period is time needed to recoup initial investment from cash inflows."
     },
     {
-      "id": "ESAS-0268",
       "question": "What is the formula for Capital Recovery Factor (CRF)?",
       "choices": [
         "i(1+i)^n/((1+i)^n -1)",
@@ -3755,7 +3474,6 @@
       "tutor": "CRF (A/P,i,n) = i(1+i)^n / [(1+i)^n - 1]."
     },
     {
-      "id": "ESAS-0269",
       "question": "What is the effective interest rate for 12% compounded monthly?",
       "choices": [
         "12%",
@@ -3769,7 +3487,6 @@
       "tutor": "i_eff = (1 + r/m)^m -1 = (1+0.12/12)^12 -1 = 1.01^12 -1 = 12.68%."
     },
     {
-      "id": "ESAS-0270",
       "question": "What does IRR stand for?",
       "choices": [
         "Internal Rate of Return",
@@ -3783,7 +3500,6 @@
       "tutor": "IRR is discount rate where NPV = 0."
     },
     {
-      "id": "ESAS-0271",
       "question": "A project requires P100,000 investment and returns P30,000/year for 5 years. What is the simple payback?",
       "choices": [
         "3.33 years",
@@ -3797,7 +3513,6 @@
       "tutor": "Payback = Investment / Annual return = 100,000/30,000 = 3.33 years."
     },
     {
-      "id": "ESAS-0272",
       "question": "What is the sinking fund factor (A/F)?",
       "choices": [
         "i/[(1+i)^n -1]",
@@ -3811,7 +3526,6 @@
       "tutor": "(A/F,i,n) = i / [(1+i)^n - 1]."
     },
     {
-      "id": "ESAS-0273",
       "question": "What is depreciation?",
       "choices": [
         "Decrease in asset value over time",
@@ -3825,7 +3539,6 @@
       "tutor": "Depreciation allocates cost of asset over its useful life."
     },
     {
-      "id": "ESAS-0274",
       "question": "What is straight line depreciation annual rate?",
       "choices": [
         "(Cost - Salvage)/Life",
@@ -3839,7 +3552,6 @@
       "tutor": "SL = (Initial Cost - Salvage Value) / Useful Life."
     },
     {
-      "id": "ESAS-0275",
       "question": "What is the present worth of a perpetuity of P10,000/year at 8%?",
       "choices": [
         "P125,000",
@@ -3853,7 +3565,6 @@
       "tutor": "P = A / i = 10,000 / 0.08 = P125,000."
     },
     {
-      "id": "ESAS-0276",
       "question": "What is the benefit-cost ratio (BCR)?",
       "choices": [
         "Present worth of benefits / Present worth of costs",
@@ -3867,7 +3578,6 @@
       "tutor": "BCR = PV(Benefits) / PV(Costs). Project acceptable if BCR ≥ 1."
     },
     {
-      "id": "ESAS-0277",
       "question": "What does MARR stand for?",
       "choices": [
         "Minimum Attractive Rate of Return",
@@ -3881,7 +3591,6 @@
       "tutor": "MARR is the minimum acceptable return on an investment."
     },
     {
-      "id": "ESAS-0278",
       "question": "What is the capitalized cost of an asset?",
       "choices": [
         "Initial cost + present worth of infinite renewals",
@@ -3895,7 +3604,6 @@
       "tutor": "CC = First cost + (Annual cost / i) for perpetual projects."
     },
     {
-      "id": "ESAS-0279",
       "question": "What is salvage value?",
       "choices": [
         "Estimated value at end of useful life",
@@ -3909,7 +3617,6 @@
       "tutor": "Salvage value is residual worth after asset's useful life."
     },
     {
-      "id": "ESAS-0280",
       "question": "What is the decision rule for NPV?",
       "choices": [
         "Accept if NPV > 0",
@@ -3923,7 +3630,6 @@
       "tutor": "Positive NPV means project exceeds required return."
     },
     {
-      "id": "ESAS-0281",
       "question": "What is the primary function of management?",
       "choices": [
         "Planning",
@@ -3937,7 +3643,6 @@
       "tutor": "Management functions include planning, organizing, staffing, directing, and controlling."
     },
     {
-      "id": "ESAS-0282",
       "question": "Who is considered the father of scientific management?",
       "choices": [
         "Henry Fayol",
@@ -3951,7 +3656,6 @@
       "tutor": "Frederick Taylor pioneered scientific management and time-motion studies."
     },
     {
-      "id": "ESAS-0283",
       "question": "What does SWOT analysis stand for?",
       "choices": [
         "Strengths, Weaknesses, Opportunities, Threats",
@@ -3965,7 +3669,6 @@
       "tutor": "SWOT analyzes internal strengths/weaknesses and external opportunities/threats."
     },
     {
-      "id": "ESAS-0284",
       "question": "What is the span of control?",
       "choices": [
         "Number of subordinates a manager supervises",
@@ -3979,7 +3682,6 @@
       "tutor": "Span of control refers to how many direct reports a manager has."
     },
     {
-      "id": "ESAS-0285",
       "question": "What is a Gantt chart used for?",
       "choices": [
         "Project scheduling",
@@ -3993,7 +3695,6 @@
       "tutor": "Gantt charts visually show task durations and dependencies over time."
     },
     {
-      "id": "ESAS-0286",
       "question": "What is the critical path in a project network?",
       "choices": [
         "Longest path determining project duration",
@@ -4007,7 +3708,6 @@
       "tutor": "Critical path has zero slack; any delay extends project completion."
     },
     {
-      "id": "ESAS-0287",
       "question": "What does PERT stand for?",
       "choices": [
         "Program Evaluation and Review Technique",
@@ -4021,7 +3721,6 @@
       "tutor": "PERT uses three time estimates (optimistic, pessimistic, most likely) for uncertain tasks."
     },
     {
-      "id": "ESAS-0288",
       "question": "What is Maslow's hierarchy top need?",
       "choices": [
         "Safety",
@@ -4035,7 +3734,6 @@
       "tutor": "Maslow's pyramid: physiological, safety, love, esteem, self-actualization."
     },
     {
-      "id": "ESAS-0289",
       "question": "Who proposed Theory X and Theory Y?",
       "choices": [
         "Douglas McGregor",
@@ -4049,7 +3747,6 @@
       "tutor": "Theory X assumes workers are lazy; Theory Y assumes they are self-motivated."
     },
     {
-      "id": "ESAS-0290",
       "question": "What is the break-even point?",
       "choices": [
         "Total revenue = Total cost",
@@ -4063,7 +3760,6 @@
       "tutor": "Break-even is where no profit or loss occurs."
     },
     {
-      "id": "ESAS-0291",
       "question": "What is delegation of authority?",
       "choices": [
         "Assigning tasks with responsibility",
@@ -4077,7 +3773,6 @@
       "tutor": "Delegation transfers authority and responsibility to subordinates."
     },
     {
-      "id": "ESAS-0292",
       "question": "What is the primary purpose of quality control?",
       "choices": [
         "Ensure products meet standards",
@@ -4091,7 +3786,6 @@
       "tutor": "QC checks products against specifications to maintain quality."
     },
     {
-      "id": "ESAS-0293",
       "question": "What does PDCA cycle stand for?",
       "choices": [
         "Plan-Do-Check-Act",
@@ -4105,7 +3799,6 @@
       "tutor": "PDCA (Deming cycle) is for continuous process improvement."
     },
     {
-      "id": "ESAS-0294",
       "question": "What is the difference between leader and manager?",
       "choices": [
         "Leader inspires; manager controls",
@@ -4119,7 +3812,6 @@
       "tutor": "Leaders focus on vision and motivation; managers focus on processes and control."
     },
     {
-      "id": "ESAS-0295",
       "question": "What is the main purpose of staffing?",
       "choices": [
         "Hiring qualified personnel",
@@ -4133,7 +3825,6 @@
       "tutor": "Staffing involves recruitment, selection, training, and development of employees."
     },
     {
-      "id": "ESAS-0296",
       "question": "What is the formula for labor productivity?",
       "choices": [
         "Output / Labor hours",
@@ -4147,7 +3838,6 @@
       "tutor": "Labor productivity measures output per unit of labor input."
     },
     {
-      "id": "ESAS-0297",
       "question": "What is the purpose of a feasibility study?",
       "choices": [
         "Determine project viability",
@@ -4161,7 +3851,6 @@
       "tutor": "Feasibility studies assess technical, economic, legal, and operational viability."
     },
     {
-      "id": "ESAS-0298",
       "question": "What is unity of command principle?",
       "choices": [
         "Each employee reports to one boss",
@@ -4175,7 +3864,6 @@
       "tutor": "Unity of command avoids conflicting instructions from multiple supervisors."
     },
     {
-      "id": "ESAS-0299",
       "question": "What is the primary role of an engineering manager?",
       "choices": [
         "Technical decisions + people management",
@@ -4189,7 +3877,6 @@
       "tutor": "Engineering managers blend technical expertise with management skills."
     },
     {
-      "id": "ESAS-0300",
       "question": "What does KPI stand for?",
       "choices": [
         "Key Performance Indicator",
@@ -4203,7 +3890,6 @@
       "tutor": "KPIs measure how effectively an organization achieves key objectives."
     },
     {
-      "id": "ESAS-0301",
       "question": "What is the primary duty of an electrical engineer according to the Code of Ethics?",
       "choices": [
         "Public safety and welfare",
@@ -4217,7 +3903,6 @@
       "tutor": "The paramount duty is to protect public safety, health, and welfare."
     },
     {
-      "id": "ESAS-0302",
       "question": "Can an engineer advertise their services in a self-laudatory manner?",
       "choices": [
         "Yes, freely",
@@ -4231,7 +3916,6 @@
       "tutor": "Self-praise or misleading advertising is considered unprofessional."
     },
     {
-      "id": "ESAS-0303",
       "question": "What should an engineer do if they discover a colleague's unethical act?",
       "choices": [
         "Report to proper authorities",
@@ -4245,7 +3929,6 @@
       "tutor": "Engineers have a duty to report ethical violations to the Board or PRC."
     },
     {
-      "id": "ESAS-0304",
       "question": "May an engineer sign plans not prepared under their supervision?",
       "choices": [
         "Yes",
@@ -4259,7 +3942,6 @@
       "tutor": "Engineers sign only work they personally supervised or reviewed."
     },
     {
-      "id": "ESAS-0305",
       "question": "What is conflict of interest?",
       "choices": [
         "Personal interest vs professional duty",
@@ -4273,7 +3955,6 @@
       "tutor": "Conflict of interest arises when personal gain influences professional judgment."
     },
     {
-      "id": "ESAS-0306",
       "question": "Can an engineer accept commissions from contractors on projects they supervise?",
       "choices": [
         "Yes",
@@ -4287,7 +3968,6 @@
       "tutor": "Accepting kickbacks or hidden commissions is strictly prohibited."
     },
     {
-      "id": "ESAS-0307",
       "question": "What is the engineer's duty regarding confidential information?",
       "choices": [
         "Protect it",
@@ -4301,7 +3981,6 @@
       "tutor": "Engineers must safeguard client's confidential business or technical information."
     },
     {
-      "id": "ESAS-0308",
       "question": "May an engineer bid against another engineer using the same original design?",
       "choices": [
         "Yes",
@@ -4315,7 +3994,6 @@
       "tutor": "Using another's design without compensation is unfair competition."
     },
     {
-      "id": "ESAS-0309",
       "question": "What should an engineer do if a project violates safety codes?",
       "choices": [
         "Refuse to approve",
@@ -4329,7 +4007,6 @@
       "tutor": "Engineers must not approve any plan or work violating safety laws."
     },
     {
-      "id": "ESAS-0310",
       "question": "Can an engineer serve two clients with competing interests?",
       "choices": [
         "Yes, always",
@@ -4343,7 +4020,6 @@
       "tutor": "Simultaneous service to competing clients requires informed consent from both."
     },
     {
-      "id": "ESAS-0311",
       "question": "What is the penalty for practicing EE without a valid license?",
       "choices": [
         "Fine and imprisonment",
@@ -4357,7 +4033,6 @@
       "tutor": "RA 7920 imposes fine up to P100,000 and/or imprisonment up to 2 years."
     },
     {
-      "id": "ESAS-0312",
       "question": "May an engineer use their position to obtain personal favors?",
       "choices": [
         "Yes",
@@ -4371,7 +4046,6 @@
       "tutor": "Engineers must not use professional position for personal gain."
     },
     {
-      "id": "ESAS-0313",
       "question": "What is the engineer's obligation regarding continuing education?",
       "choices": [
         "Mandatory CPD",
@@ -4385,7 +4059,6 @@
       "tutor": "RA 10912 mandates CPD units for license renewal to maintain competence."
     },
     {
-      "id": "ESAS-0314",
       "question": "Can an engineer publicly criticize another engineer's work?",
       "choices": [
         "Yes, freely",
@@ -4399,7 +4072,6 @@
       "tutor": "Criticism must be constructive, factual, and through proper professional channels."
     },
     {
-      "id": "ESAS-0315",
       "question": "What should an engineer do if offered a bribe?",
       "choices": [
         "Refuse and report",
@@ -4413,7 +4085,6 @@
       "tutor": "Bribery is unethical and illegal; must be refused and reported."
     },
     {
-      "id": "ESAS-0316",
       "question": "May an engineer sign plans for a project they didn't design?",
       "choices": [
         "Yes",
@@ -4427,7 +4098,6 @@
       "tutor": "Engineers may sign after thorough review and assuming full responsibility."
     },
     {
-      "id": "ESAS-0317",
       "question": "What is the engineer's duty to the environment?",
       "choices": [
         "Protect and enhance",
@@ -4441,7 +4111,6 @@
       "tutor": "Engineers must promote sustainable development and environmental protection."
     },
     {
-      "id": "ESAS-0318",
       "question": "Can an engineer claim credit for work done by others?",
       "choices": [
         "Yes",
@@ -4455,7 +4124,6 @@
       "tutor": "Credit must be given to those who actually performed the work."
     },
     {
-      "id": "ESAS-0319",
       "question": "What is the IIEE's role in ethics enforcement?",
       "choices": [
         "Recommend sanctions to BOE",
@@ -4469,7 +4137,6 @@
       "tutor": "IIEE investigates complaints and recommends disciplinary action to BOE."
     },
     {
-      "id": "ESAS-0320",
       "question": "What does 'primum non nocere' mean in engineering ethics?",
       "choices": [
         "First, do no harm",

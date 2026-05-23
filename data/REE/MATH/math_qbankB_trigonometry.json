@@ -1,0 +1,166 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "What is sin(30°)?",
+      "choices": ["1/2", "√3/2", "√2/2", "1"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "sin(30°) = 1/2. This is a standard trigonometric value."
+    },
+    {
+      "question": "What is cos(60°)?",
+      "choices": ["1/2", "√3/2", "√2/2", "0"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "cos(60°) = 1/2. This is a standard trigonometric value."
+    },
+    {
+      "question": "What is tan(45°)?",
+      "choices": ["1", "√3", "1/√3", "0"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "tan(45°) = sin(45°)/cos(45°) = (√2/2)/(√2/2) = 1."
+    },
+    {
+      "question": "In a right triangle, if the opposite side is 5 and hypotenuse is 13, what is sin(θ)?",
+      "choices": ["5/13", "12/13", "5/12", "13/5"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "sin(θ) = opposite/hypotenuse = 5/13."
+    },
+    {
+      "question": "What is the value of sin²(θ) + cos²(θ)?",
+      "choices": ["1", "0", "2", "sin(2θ)"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "This is the Pythagorean identity: sin²(θ) + cos²(θ) = 1."
+    },
+    {
+      "question": "Convert 150° to radians.",
+      "choices": ["5π/6", "π/3", "2π/3", "7π/6"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "Multiply by π/180: 150 × π/180 = 150π/180 = 5π/6."
+    },
+    {
+      "question": "What is sin(A+B) equal to?",
+      "choices": ["sinA cosB + cosA sinB", "sinA cosB - cosA sinB", "cosA cosB - sinA sinB", "cosA cosB + sinA sinB"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "Sum formula: sin(A+B) = sinA cosB + cosA sinB."
+    },
+    {
+      "question": "What is cos(2θ) in terms of sin and cos?",
+      "choices": ["cos²θ - sin²θ", "2sinθ cosθ", "1 - 2sin²θ", "2cos²θ - 1"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "Double angle formula: cos(2θ) = cos²θ - sin²θ. Also equal to 1-2sin²θ or 2cos²θ-1."
+    },
+    {
+      "question": "Find the value of sin(75°).",
+      "choices": ["(√6+√2)/4", "(√6-√2)/4", "√3/2", "(√2+1)/2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "sin(75°) = sin(45°+30°) = sin45°cos30° + cos45°sin30° = (√2/2)(√3/2) + (√2/2)(1/2) = (√6+√2)/4."
+    },
+    {
+      "question": "A ladder 10m long leans against a wall. If it makes a 60° angle with the ground, how high does it reach?",
+      "choices": ["5√3 m", "5 m", "10 m", "5√2 m"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "height = 10 × sin(60°) = 10 × (√3/2) = 5√3 m."
+    },
+    {
+      "question": "In triangle ABC, a=8, b=6, C=90°. Find angle A.",
+      "choices": ["53.13°", "36.87°", "45°", "60°"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "tan(A) = a/b = 8/6 = 1.333. A = arctan(1.333) = 53.13°."
+    },
+    {
+      "question": "What is the period of f(x) = sin(2x)?",
+      "choices": ["π", "2π", "π/2", "4π"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "Period = 2π/|B| where B is the coefficient of x. Period = 2π/2 = π."
+    },
+    {
+      "question": "Using the law of cosines, find side c if a=5, b=7, C=60°.",
+      "choices": ["√39", "√61", "√74", "√51"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Difficult",
+      "tutor": "c² = a² + b² - 2ab cosC = 25 + 49 - 2(5)(7)(0.5) = 74 - 35 = 39. c = √39."
+    },
+    {
+      "question": "What is the amplitude of f(x) = 3sin(2x - π/4)?",
+      "choices": ["3", "2", "π/4", "1"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "Amplitude is the absolute value of the coefficient of the trig function = |3| = 3."
+    },
+    {
+      "question": "If sin(θ) = 3/5 and θ is in the first quadrant, what is cos(θ)?",
+      "choices": ["4/5", "3/4", "5/3", "1/5"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "cos(θ) = √(1 - sin²θ) = √(1 - 9/25) = √(16/25) = 4/5."
+    },
+    {
+      "question": "What is sin(2θ) in terms of sinθ and cosθ?",
+      "choices": ["2sinθ cosθ", "sin²θ - cos²θ", "2sin²θ", "cos²θ - sin²θ"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "Double angle formula: sin(2θ) = 2sinθ cosθ."
+    },
+    {
+      "question": "Find the value of cos(120°).",
+      "choices": ["-1/2", "1/2", "-√3/2", "√3/2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "cos(120°) = cos(180°-60°) = -cos(60°) = -1/2."
+    },
+    {
+      "question": "In a triangle, if angle A=45°, angle B=60°, and side a=10, find side b using the law of sines.",
+      "choices": ["10√6/√2", "10√3/√2", "5√6", "10√2"],
+      "answer": 2,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Difficult",
+      "tutor": "b/sinB = a/sinA → b = 10×sin60°/sin45° = 10×(√3/2)/(√2/2) = 10√3/√2 = 5√6."
+    },
+    {
+      "question": "What is the reference angle of 225°?",
+      "choices": ["45°", "135°", "55°", "35°"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "225° is in the third quadrant. Reference angle = 225° - 180° = 45°."
+    },
+    {
+      "question": "What is sec(60°)?",
+      "choices": ["2", "√2", "√3", "1/2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "sec(60°) = 1/cos(60°) = 1/(1/2) = 2."
+    }
+  ]
+}

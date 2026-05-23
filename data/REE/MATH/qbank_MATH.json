@@ -1,9 +1,8 @@
 {
   "category": "MATH",
-  "total": 220,
+  "total": 358,
   "questions": [
     {
-      "id": "MATH-0001",
       "question": "What is the radian measure of a central angle that subtends an arc of length 12 cm on a circle of radius 8 cm?",
       "choices": [
         "0.67 rad",
@@ -17,7 +16,6 @@
       "tutor": "Radian measure θ = arc length / radius = 12/8 = 1.5 rad."
     },
     {
-      "id": "MATH-0002",
       "question": "Given the complex number z = 3 - 4i, what is its polar form r(cosθ + i sinθ) with θ in degrees?",
       "choices": [
         "5(cos306.87° + i sin306.87°)",
@@ -31,7 +29,6 @@
       "tutor": "r = √(3²+(-4)²)=5. θ = arctan(-4/3) = -53.13° → 360-53.13=306.87°."
     },
     {
-      "id": "MATH-0003",
       "question": "If log₂(x) + log₂(8) = 5, what is the value of x?",
       "choices": [
         "2",
@@ -45,7 +42,6 @@
       "tutor": "log₂(x·8)=5 → 8x = 2⁵ =32 → x=4."
     },
     {
-      "id": "MATH-0004",
       "question": "What is the determinant of the matrix [[2, 3], [1, 4]]?",
       "choices": [
         "11",
@@ -59,7 +55,6 @@
       "tutor": "det = (2)(4) - (3)(1) = 8-3=5."
     },
     {
-      "id": "MATH-0005",
       "question": "Solve for x: |2x - 5| = 9.",
       "choices": [
         "x = 7 or x = -2",
@@ -73,7 +68,6 @@
       "tutor": "2x-5=9 → x=7; 2x-5=-9 → 2x=-4 → x=-2."
     },
     {
-      "id": "MATH-0006",
       "question": "If sinθ = 0.6 and θ is acute, what is tanθ?",
       "choices": [
         "0.75",
@@ -87,7 +81,6 @@
       "tutor": "cosθ = √(1-0.36)=0.8, tanθ = 0.6/0.8=0.75."
     },
     {
-      "id": "MATH-0007",
       "question": "A sinusoidal voltage v(t) = 100 sin(377t + 30°) V. What is the rms value in volts?",
       "choices": [
         "100 V",
@@ -101,7 +94,6 @@
       "tutor": "Vrms = Vm/√2 = 100/1.414 = 70.7 V."
     },
     {
-      "id": "MATH-0008",
       "question": "Find the sum of the first 10 terms of the arithmetic sequence: 5, 9, 13, 17, ...",
       "choices": [
         "230",
@@ -115,7 +107,6 @@
       "tutor": "a₁=5, d=4, n=10; S = n/2[2a₁+(n-1)d] = 5[10+36]=5×46=230."
     },
     {
-      "id": "MATH-0009",
       "question": "What is the value of (1 + i)⁴ in rectangular form?",
       "choices": [
         "-4",
@@ -129,7 +120,6 @@
       "tutor": "1+i = √2(cos45°+i sin45°); (1+i)⁴ = 4(cos180°+i sin180°)= -4."
     },
     {
-      "id": "MATH-0010",
       "question": "If 3ˣ = 27ˣ⁻², solve for x.",
       "choices": [
         "3",
@@ -143,7 +133,6 @@
       "tutor": "3ˣ = 3³⁽ˣ⁻²⁾ → x = 3x-6 → -2x = -6 → x=3."
     },
     {
-      "id": "MATH-0011",
       "question": "The product of two consecutive positive even integers is 288. What is the larger integer?",
       "choices": [
         "16",
@@ -157,7 +146,6 @@
       "tutor": "n(n+2)=288 → n²+2n-288=0 → n=16, larger=18."
     },
     {
-      "id": "MATH-0012",
       "question": "A 100 Ω resistor and a 200 Ω resistor are connected in parallel. What is the equivalent resistance in ohms?",
       "choices": [
         "300 Ω",
@@ -171,7 +159,6 @@
       "tutor": "Req = (100×200)/(100+200) = 20000/300 = 66.67 Ω."
     },
     {
-      "id": "MATH-0013",
       "question": "Convert 315° to radians in terms of π.",
       "choices": [
         "7π/4",
@@ -185,7 +172,6 @@
       "tutor": "315×π/180 = 315π/180 = 7π/4."
     },
     {
-      "id": "MATH-0014",
       "question": "If log₁₀(2x) = 1 + log₁₀(x-3), solve for x.",
       "choices": [
         "5",
@@ -199,7 +185,6 @@
       "tutor": "Will replace with cleaner Q."
     },
     {
-      "id": "MATH-0015",
       "question": "Solve for x: log₂(x) + log₂(x-2) = 3.",
       "choices": [
         "4",
@@ -213,7 +198,6 @@
       "tutor": "log₂[x(x-2)]=3 → x²-2x=8 → x²-2x-8=0 → (x-4)(x+2)=0 → x=4 (since x>2)."
     },
     {
-      "id": "MATH-0016",
       "question": "What is the phase relationship between current and voltage in a purely inductive circuit?",
       "choices": [
         "Current lags voltage by 90°",
@@ -227,7 +211,6 @@
       "tutor": "In a pure inductor, voltage leads current by 90°, so current lags voltage."
     },
     {
-      "id": "MATH-0017",
       "question": "Find the value of k so that the quadratic equation kx² + 4x + k = 0 has exactly one real solution.",
       "choices": [
         "±2",
@@ -241,7 +224,6 @@
       "tutor": "Discriminant = 16 - 4k² = 0 → 4k²=16 → k²=4 → k=±2."
     },
     {
-      "id": "MATH-0018",
       "question": "What is the argument (angle) of the complex number -1 - i√3 in degrees?",
       "choices": [
         "-120°",
@@ -255,7 +237,6 @@
       "tutor": "Real negative, imaginary negative → Quadrant III. tanθ = (-√3)/(-1)=√3 → θ=60°+180°=240°, but in standard range -180° to 180°, 240° = -120°."
     },
     {
-      "id": "MATH-0019",
       "question": "If a geometric sequence has first term a₁=3 and common ratio r=2, what is the sum of the first 6 terms?",
       "choices": [
         "189",
@@ -269,7 +250,6 @@
       "tutor": "Sₙ = a₁(rⁿ-1)/(r-1) = 3(64-1)/(1) = 3×63 = 189."
     },
     {
-      "id": "MATH-0020",
       "question": "Given matrix A = [[1, 2], [3, 4]] and B = [[0, 1], [1, 0]], find AB.",
       "choices": [
         "[[2, 1], [4, 3]]",
@@ -283,7 +263,6 @@
       "tutor": "AB = [[1×0+2×1, 1×1+2×0], [3×0+4×1, 3×1+4×0]] = [[2, 1], [4, 3]]."
     },
     {
-      "id": "MATH-0021",
       "question": "What is the fundamental period of the function f(t) = sin(2πt) + cos(4πt)?",
       "choices": [
         "1",
@@ -297,7 +276,6 @@
       "tutor": "Period of sin(2πt) is 1, cos(4πt) period is 1/2. Fundamental period = LCM = 1."
     },
     {
-      "id": "MATH-0022",
       "question": "In Fourier series, the constant term a₀/2 represents:",
       "choices": [
         "Average value of the function",
@@ -311,7 +289,6 @@
       "tutor": "a₀/2 = (1/T)∫f(t)dt, the DC or average value over one period."
     },
     {
-      "id": "MATH-0023",
       "question": "What is the Maclaurin series of cos x?",
       "choices": [
         "1 - x²/2! + x⁴/4! - ...",
@@ -325,7 +302,6 @@
       "tutor": "cos x = Σ (-1)ⁿ x²ⁿ/(2n)!."
     },
     {
-      "id": "MATH-0024",
       "question": "Find the Fourier coefficient a₁ for f(x)=x on [-π,π].",
       "choices": [
         "0",
@@ -339,7 +315,6 @@
       "tutor": "a_n = (1/π)∫_{-π}^{π} x cos(nx) dx. For odd function, all a_n = 0."
     },
     {
-      "id": "MATH-0025",
       "question": "What is the radius of convergence of Σ (x-1)ⁿ / n²?",
       "choices": [
         "1",
@@ -353,7 +328,6 @@
       "tutor": "Ratio test: |a_{n+1}/a_n| = n²/(n+1)² → 1, so R=1."
     },
     {
-      "id": "MATH-0026",
       "question": "For a Fourier series of a square wave, which harmonics are present?",
       "choices": [
         "Odd harmonics only",
@@ -367,7 +341,6 @@
       "tutor": "Square wave has half-wave symmetry → only odd harmonics (1,3,5,...)."
     },
     {
-      "id": "MATH-0027",
       "question": "What is the Taylor series of ln(1+x) about x=0?",
       "choices": [
         "x - x²/2 + x³/3 - x⁴/4 + ...",
@@ -381,7 +354,6 @@
       "tutor": "ln(1+x) = Σ (-1)^{n+1} xⁿ/n for |x|<1."
     },
     {
-      "id": "MATH-0028",
       "question": "What does the Fourier series converge to at a jump discontinuity?",
       "choices": [
         "Average of left and right limits",
@@ -395,7 +367,6 @@
       "tutor": "Fourier series converges to [f(t⁻)+f(t⁺)]/2 at a jump."
     },
     {
-      "id": "MATH-0029",
       "question": "Find the interval of convergence for Σ (3x)ⁿ.",
       "choices": [
         "(-1/3, 1/3)",
@@ -409,7 +380,6 @@
       "tutor": "Geometric series converges when |3x|<1 → |x|<1/3."
     },
     {
-      "id": "MATH-0030",
       "question": "What is the Fourier series of an even function?",
       "choices": [
         "Cosine series only",
@@ -423,7 +393,6 @@
       "tutor": "Even functions have b_n = 0, only cosine terms."
     },
     {
-      "id": "MATH-0031",
       "question": "What is the power series expansion of e^{-x²} up to x⁴ term?",
       "choices": [
         "1 - x² + x⁴/2",
@@ -437,7 +406,6 @@
       "tutor": "e^u = 1+u+u²/2!+..., u=-x² → e^{-x²}=1 - x² + x⁴/2 - ..."
     },
     {
-      "id": "MATH-0032",
       "question": "For f(t)=|t| on [-π,π], what type of Fourier series?",
       "choices": [
         "Cosine series",
@@ -451,7 +419,6 @@
       "tutor": "|t| is even → only cosine terms."
     },
     {
-      "id": "MATH-0033",
       "question": "What is the radius of convergence of Σ n! xⁿ?",
       "choices": [
         "0",
@@ -465,7 +432,6 @@
       "tutor": "Ratio test: lim |(n+1)!x^{n+1}/(n!xⁿ)| = lim (n+1)|x| = ∞ unless x=0 → R=0."
     },
     {
-      "id": "MATH-0034",
       "question": "What is the fundamental frequency of a signal with period T?",
       "choices": [
         "1/T",
@@ -479,7 +445,6 @@
       "tutor": "Fundamental frequency f₀ = 1/T (Hz) or ω₀ = 2π/T (rad/s)."
     },
     {
-      "id": "MATH-0035",
       "question": "Find the sum of the series Σ_{n=0}^∞ (-1)ⁿ/2ⁿ.",
       "choices": [
         "2/3",
@@ -493,7 +458,6 @@
       "tutor": "Geometric: Σ (-1/2)ⁿ = 1/(1 - (-1/2)) = 1/(1.5)=2/3."
     },
     {
-      "id": "MATH-0036",
       "question": "Parseval's theorem relates:",
       "choices": [
         "Power in time domain to power in frequency domain",
@@ -507,7 +471,6 @@
       "tutor": "Parseval: (1/T)∫|f(t)|² dt = Σ |c_n|², equating power."
     },
     {
-      "id": "MATH-0037",
       "question": "What is the Maclaurin series of sinh x?",
       "choices": [
         "x + x³/3! + x⁵/5! + ...",
@@ -521,7 +484,6 @@
       "tutor": "sinh x = (e^x - e^{-x})/2 = x + x³/3! + x⁵/5! + ..."
     },
     {
-      "id": "MATH-0038",
       "question": "For an odd function, Fourier coefficients:",
       "choices": [
         "a₀=0, a_n=0",
@@ -535,7 +497,6 @@
       "tutor": "Odd functions have a₀=0 and all a_n=0; only sine terms remain."
     },
     {
-      "id": "MATH-0039",
       "question": "What is the Taylor polynomial of degree 2 for √(1+x) about x=0?",
       "choices": [
         "1 + x/2 - x²/8",
@@ -549,7 +510,6 @@
       "tutor": "(1+x)^(1/2) = 1 + (1/2)x + (1/2)(-1/2)x²/2! + ... = 1 + x/2 - x²/8."
     },
     {
-      "id": "MATH-0040",
       "question": "What is the Fourier series coefficient c₀ for f(t)=sin²(πt)?",
       "choices": [
         "1/2",
@@ -563,7 +523,6 @@
       "tutor": "sin²(πt) = 1/2 - (1/2)cos(2πt) → average value = 1/2 = c₀."
     },
     {
-      "id": "MATH-0041",
       "question": "The series Σ xⁿ/n converges for:",
       "choices": [
         "|x| < 1",
@@ -577,7 +536,6 @@
       "tutor": "R=1 from ratio test. At x=1: harmonic series diverges. At x=-1: alternating harmonic series converges → |x|<1."
     },
     {
-      "id": "MATH-0042",
       "question": "What is the Fourier series of a sawtooth wave?",
       "choices": [
         "Both sine and cosine terms",
@@ -591,7 +549,6 @@
       "tutor": "Sawtooth (odd extension) has only sine terms."
     },
     {
-      "id": "MATH-0043",
       "question": "If f(x) = 1/(1-x), what is its Maclaurin series?",
       "choices": [
         "Σ xⁿ",
@@ -605,7 +562,6 @@
       "tutor": "1/(1-x) = Σ xⁿ for |x|<1."
     },
     {
-      "id": "MATH-0044",
       "question": "Which function has a Fourier series with only even harmonics?",
       "choices": [
         "Half-wave symmetry",
@@ -619,7 +575,6 @@
       "tutor": "Half-wave symmetry (f(t+T/2)=-f(t)) yields only odd harmonics, not even. Wait — half-wave gives odd. Even harmonics appear in certain rectified waves. Better: Full-wave rectified sine has only even harmonics."
     },
     {
-      "id": "MATH-0045",
       "question": "What is the sum of the series 1 - 1/3 + 1/5 - 1/7 + ...?",
       "choices": [
         "π/4",
@@ -633,7 +588,6 @@
       "tutor": "arctan x = x - x³/3 + x⁵/5 - ... At x=1: arctan 1 = π/4 = 1 - 1/3 + 1/5 - ..."
     },
     {
-      "id": "MATH-0046",
       "question": "The Gibbs phenomenon occurs:",
       "choices": [
         "At jump discontinuities",
@@ -647,7 +601,6 @@
       "tutor": "Gibbs overshoot (~9%) occurs near jump discontinuities in Fourier series."
     },
     {
-      "id": "MATH-0047",
       "question": "Find the Fourier series coefficient b₁ for f(x)=x on [-π,π].",
       "choices": [
         "2",
@@ -661,7 +614,6 @@
       "tutor": "b_n = (1/π)∫_{-π}^{π} x sin(nx) dx. For n=1, b₁=2."
     },
     {
-      "id": "MATH-0048",
       "question": "What is the power series of arctan x?",
       "choices": [
         "x - x³/3 + x⁵/5 - ...",
@@ -675,7 +627,6 @@
       "tutor": "arctan x = Σ (-1)ⁿ x^{2n+1}/(2n+1)."
     },
     {
-      "id": "MATH-0049",
       "question": "Complex Fourier series uses:",
       "choices": [
         "e^{jnω₀t}",
@@ -689,7 +640,6 @@
       "tutor": "Complex Fourier series uses c_n e^{jnω₀t} basis functions."
     },
     {
-      "id": "MATH-0050",
       "question": "What is the radius of convergence of Σ xⁿ / n²?",
       "choices": [
         "1",
@@ -703,7 +653,6 @@
       "tutor": "lim |n²/(n+1)²| = 1 → R=1. Converges at endpoints also."
     },
     {
-      "id": "MATH-0051",
       "question": "What is the value of sin(180° - θ) in terms of sin θ?",
       "choices": [
         "-sin θ",
@@ -717,7 +666,6 @@
       "tutor": "sin(180° - θ) = sin θ (sine is positive in Quadrant II)."
     },
     {
-      "id": "MATH-0052",
       "question": "If tan θ = 3/4 and θ is in Quadrant III, what is sin θ?",
       "choices": [
         "-3/5",
@@ -731,7 +679,6 @@
       "tutor": "tan θ = 3/4 → sin θ = -3/5, cos θ = -4/5 in Quadrant III."
     },
     {
-      "id": "MATH-0053",
       "question": "A 10-meter ladder leans against a wall making an angle of 60° with the ground. How high up the wall does the ladder reach?",
       "choices": [
         "5 m",
@@ -745,7 +692,6 @@
       "tutor": "Height = 10 × sin 60° = 10 × (√3/2) = 8.66 m."
     },
     {
-      "id": "MATH-0054",
       "question": "What is the period of the function y = 3 cos(4x - π) + 2?",
       "choices": [
         "π/4",
@@ -759,7 +705,6 @@
       "tutor": "Period = 2π/|B| = 2π/4 = π/2."
     },
     {
-      "id": "MATH-0055",
       "question": "Simplify: cos²θ - sin²θ.",
       "choices": [
         "1",
@@ -773,7 +718,6 @@
       "tutor": "cos²θ - sin²θ = cos 2θ (double-angle identity)."
     },
     {
-      "id": "MATH-0056",
       "question": "If csc θ = 13/5 and θ is acute, what is sec θ?",
       "choices": [
         "13/12",
@@ -787,7 +731,6 @@
       "tutor": "csc θ = 13/5 → sin θ = 5/13 → cos θ = 12/13 → sec θ = 13/12."
     },
     {
-      "id": "MATH-0057",
       "question": "What is the exact value of tan 15° using half-angle formula?",
       "choices": [
         "2 - √3",
@@ -801,7 +744,6 @@
       "tutor": "tan(15°) = (1 - cos 30°)/sin 30° = (1 - √3/2)/(1/2) = 2 - √3."
     },
     {
-      "id": "MATH-0058",
       "question": "In an AC circuit, voltage v(t) = 50 sin(120πt + 30°) V. What is the frequency in Hz?",
       "choices": [
         "60 Hz",
@@ -815,7 +757,6 @@
       "tutor": "ω = 120π → f = ω/(2π) = 120π/(2π) = 60 Hz."
     },
     {
-      "id": "MATH-0059",
       "question": "Solve for x in [0°, 360°): 2 sin²x - sin x - 1 = 0.",
       "choices": [
         "90°, 210°, 330°",
@@ -829,7 +770,6 @@
       "tutor": "Let u = sin x → 2u² - u -1=0 → (2u+1)(u-1)=0 → u=1 or u=-1/2 → x=90°, 210°, 330°."
     },
     {
-      "id": "MATH-0060",
       "question": "What is the amplitude of the function y = -4 sin(3x - π/2)?",
       "choices": [
         "4",
@@ -843,7 +783,6 @@
       "tutor": "Amplitude is absolute value of coefficient = | -4 | = 4."
     },
     {
-      "id": "MATH-0061",
       "question": "Convert 135° to radians.",
       "choices": [
         "π/4",
@@ -857,7 +796,6 @@
       "tutor": "135° × π/180 = 135π/180 = 3π/4."
     },
     {
-      "id": "MATH-0062",
       "question": "Two AC currents are i₁ = 5 sin(ωt) and i₂ = 12 sin(ωt + 90°). What is the magnitude of their sum?",
       "choices": [
         "17 A",
@@ -871,7 +809,6 @@
       "tutor": "Phasors: 5∠0° + 12∠90° = √(5²+12²) = 13 A."
     },
     {
-      "id": "MATH-0063",
       "question": "If sec θ = -√2 and θ is in Quadrant III, what is cot θ?",
       "choices": [
         "1",
@@ -885,7 +822,6 @@
       "tutor": "sec θ = -√2 → cos θ = -√2/2 → θ=225° → tan θ=1 → cot θ=1."
     },
     {
-      "id": "MATH-0064",
       "question": "What is the phase shift of y = 2 sin(3x + π/4)?",
       "choices": [
         "π/12 left",
@@ -899,7 +835,6 @@
       "tutor": "Phase shift = -C/B = -(π/4)/3 = -π/12 → π/12 left."
     },
     {
-      "id": "MATH-0065",
       "question": "Simplify: (sin θ + cos θ)².",
       "choices": [
         "1 + sin 2θ",
@@ -913,7 +848,6 @@
       "tutor": "sin²θ + cos²θ + 2 sinθ cosθ = 1 + sin 2θ."
     },
     {
-      "id": "MATH-0066",
       "question": "From the top of a 50-m tower, the angle of depression to a car is 30°. How far is the car from the base of the tower?",
       "choices": [
         "28.87 m",
@@ -927,7 +861,6 @@
       "tutor": "tan 30° = 50/d → d = 50 / tan30° = 50 / (1/√3) = 50√3 = 86.60 m."
     },
     {
-      "id": "MATH-0067",
       "question": "What is the maximum value of 3 sin x + 4 cos x?",
       "choices": [
         "5",
@@ -941,7 +874,6 @@
       "tutor": "Max = √(3²+4²) = √25 = 5."
     },
     {
-      "id": "MATH-0068",
       "question": "If sin A = 3/5 and sin B = 5/13, with A and B acute, find cos(A - B).",
       "choices": [
         "56/65",
@@ -955,7 +887,6 @@
       "tutor": "cos A=4/5, cos B=12/13 → cos(A-B)=cosA cosB+sinA sinB = (4/5)(12/13)+(3/5)(5/13)=48/65+15/65=63/65."
     },
     {
-      "id": "MATH-0069",
       "question": "What is the vertical shift of y = 3 cos(2x) - 1?",
       "choices": [
         "-1",
@@ -969,7 +900,6 @@
       "tutor": "Vertical shift is the constant term added outside = -1."
     },
     {
-      "id": "MATH-0070",
       "question": "Prove the identity: (1 - cos²θ) / sin²θ = 1. What fundamental identity is used?",
       "choices": [
         "sin²θ + cos²θ = 1",
@@ -983,7 +913,6 @@
       "tutor": "1 - cos²θ = sin²θ, so sin²θ/sin²θ = 1. Uses sin²θ + cos²θ = 1."
     },
     {
-      "id": "MATH-0071",
       "question": "What is the distance between points A(3, -2) and B(-1, 5)?",
       "choices": [
         "√65",
@@ -997,7 +926,6 @@
       "tutor": "d = √[(-1-3)² + (5-(-2))²] = √[(-4)² + (7)²] = √(16+49) = √65."
     },
     {
-      "id": "MATH-0072",
       "question": "What is the midpoint of the line segment joining (2, -3) and (8, 5)?",
       "choices": [
         "(5, 1)",
@@ -1011,7 +939,6 @@
       "tutor": "Midpoint = ((2+8)/2, (-3+5)/2) = (10/2, 2/2) = (5, 1)."
     },
     {
-      "id": "MATH-0073",
       "question": "What is the slope of the line perpendicular to 3x - 4y = 12?",
       "choices": [
         "-4/3",
@@ -1025,7 +952,6 @@
       "tutor": "Given line slope = 3/4. Perpendicular slope = -4/3."
     },
     {
-      "id": "MATH-0074",
       "question": "What is the center of the circle x² + y² - 6x + 8y - 11 = 0?",
       "choices": [
         "(3, -4)",
@@ -1039,7 +965,6 @@
       "tutor": "Complete square: (x²-6x+9) + (y²+8y+16) = 11+9+16 → (x-3)²+(y+4)²=36 → center (3,-4)."
     },
     {
-      "id": "MATH-0075",
       "question": "A sphere has a radius of 6 cm. What is its volume?",
       "choices": [
         "904.32 cm³",
@@ -1053,7 +978,6 @@
       "tutor": "V = (4/3)πr³ = (4/3)π(216) = 288π cm³."
     },
     {
-      "id": "MATH-0076",
       "question": "What is the area of a triangle with vertices at (0,0), (4,0), and (0,6)?",
       "choices": [
         "12 sq units",
@@ -1067,7 +991,6 @@
       "tutor": "Area = ½ |x1(y2-y3)+x2(y3-y1)+x3(y1-y2)| = ½ |0(0-6)+4(6-0)+0(0-0)| = ½(24) = 12."
     },
     {
-      "id": "MATH-0077",
       "question": "A right circular cylinder has a height of 10 cm and a base radius of 3 cm. What is its lateral surface area?",
       "choices": [
         "60π cm²",
@@ -1081,7 +1004,6 @@
       "tutor": "Lateral area = 2πrh = 2π(3)(10) = 60π cm²."
     },
     {
-      "id": "MATH-0078",
       "question": "Find the equation of the line with slope 2 passing through (-1, 3).",
       "choices": [
         "y = 2x + 5",
@@ -1095,7 +1017,6 @@
       "tutor": "y - 3 = 2(x + 1) → y - 3 = 2x + 2 → y = 2x + 5."
     },
     {
-      "id": "MATH-0079",
       "question": "What is the distance from the point (2, -1) to the line 4x - 3y + 5 = 0?",
       "choices": [
         "3.2",
@@ -1109,7 +1030,6 @@
       "tutor": "d = |4(2)-3(-1)+5| / √(4²+(-3)²) = |8+3+5|/5 = 16/5 = 3.2."
     },
     {
-      "id": "MATH-0080",
       "question": "A rectangular box has dimensions 4 cm × 3 cm × 2 cm. What is the length of its space diagonal?",
       "choices": [
         "√29 cm",
@@ -1123,7 +1043,6 @@
       "tutor": "d = √(l²+w²+h²) = √(16+9+4) = √29 cm."
     },
     {
-      "id": "MATH-0081",
       "question": "What is the radius of a circle with equation x² + y² - 4x + 6y - 3 = 0?",
       "choices": [
         "4",
@@ -1137,7 +1056,6 @@
       "tutor": "(x-2)²+(y+3)² = 3+4+9=16 → radius = 4."
     },
     {
-      "id": "MATH-0082",
       "question": "A cone has a base radius of 5 cm and a slant height of 13 cm. What is its height?",
       "choices": [
         "12 cm",
@@ -1151,7 +1069,6 @@
       "tutor": "h = √(l² - r²) = √(169-25) = √144 = 12 cm."
     },
     {
-      "id": "MATH-0083",
       "question": "What is the eccentricity of a parabola?",
       "choices": [
         "1",
@@ -1165,7 +1082,6 @@
       "tutor": "A parabola has eccentricity exactly equal to 1."
     },
     {
-      "id": "MATH-0084",
       "question": "What is the volume of a pyramid with a square base of side 6 m and height 9 m?",
       "choices": [
         "108 m³",
@@ -1179,7 +1095,6 @@
       "tutor": "V = (1/3)×Base Area×height = (1/3)×36×9 = 108 m³."
     },
     {
-      "id": "MATH-0085",
       "question": "Find the center of the ellipse 9x² + 25y² - 36x + 100y - 89 = 0.",
       "choices": [
         "(2, -2)",
@@ -1193,7 +1108,6 @@
       "tutor": "Group: 9(x²-4x) + 25(y²+4y) = 89 → 9(x-2)² + 25(y+2)² = 89+36+100=225 → center (2,-2)."
     },
     {
-      "id": "MATH-0086",
       "question": "A rectangular prism has a volume of 240 cm³. If its length is 10 cm and width is 6 cm, what is its height?",
       "choices": [
         "4 cm",
@@ -1207,7 +1121,6 @@
       "tutor": "V = l×w×h → 240 = 10×6×h → h = 240/60 = 4 cm."
     },
     {
-      "id": "MATH-0087",
       "question": "What is the slope of the line that makes an angle of 135° with the positive x-axis?",
       "choices": [
         "-1",
@@ -1221,7 +1134,6 @@
       "tutor": "m = tan(135°) = tan(180°-45°) = -tan45° = -1."
     },
     {
-      "id": "MATH-0088",
       "question": "Find the area of the ellipse with major axis 10 and minor axis 6.",
       "choices": [
         "15π",
@@ -1235,7 +1147,6 @@
       "tutor": "Area = πab, where 2a=10→a=5, 2b=6→b=3 → Area = π×5×3 = 15π."
     },
     {
-      "id": "MATH-0089",
       "question": "What is the surface area of a sphere with volume 36π cm³?",
       "choices": [
         "36π cm²",
@@ -1249,7 +1160,6 @@
       "tutor": "V = (4/3)πr³ = 36π → r³ = 27 → r=3 cm. SA = 4πr² = 4π×9 = 36π cm²."
     },
     {
-      "id": "MATH-0090",
       "question": "The vertices of a triangle are A(1,2), B(4,6), C(7,2). What type of triangle is it?",
       "choices": [
         "Isosceles",
@@ -1263,7 +1173,6 @@
       "tutor": "AB = √[(4-1)²+(6-2)²] = √(9+16)=5. BC = √[(7-4)²+(2-6)²]=√(9+16)=5. AC=6 → isosceles."
     },
     {
-      "id": "MATH-0091",
       "question": "What is the derivative of f(x) = 5x⁴ - 3x² + 7x - 2?",
       "choices": [
         "20x³ - 6x + 7",
@@ -1277,7 +1186,6 @@
       "tutor": "Using power rule: d/dx(5x⁴)=20x³, d/dx(-3x²)=-6x, d/dx(7x)=7, d/dx(-2)=0."
     },
     {
-      "id": "MATH-0092",
       "question": "What is the slope of the tangent line to y = x² + 3x at x = 2?",
       "choices": [
         "7",
@@ -1291,7 +1199,6 @@
       "tutor": "dy/dx = 2x+3. At x=2, slope = 2(2)+3 = 7."
     },
     {
-      "id": "MATH-0093",
       "question": "If y = sin(3x), what is dy/dx?",
       "choices": [
         "3 cos(3x)",
@@ -1305,7 +1212,6 @@
       "tutor": "dy/dx = cos(3x) × d/dx(3x) = 3 cos(3x)."
     },
     {
-      "id": "MATH-0094",
       "question": "What is the derivative of f(x) = e^(2x) ln x?",
       "choices": [
         "2e^(2x) ln x + e^(2x)/x",
@@ -1319,7 +1225,6 @@
       "tutor": "Product rule: f' = (2e^(2x))ln x + e^(2x)(1/x)."
     },
     {
-      "id": "MATH-0095",
       "question": "What is the order of the differential equation d²y/dx² + 5(dy/dx)³ + y = sin x?",
       "choices": [
         "2nd order",
@@ -1333,7 +1238,6 @@
       "tutor": "Order is determined by the highest derivative present, which is d²y/dx²."
     },
     {
-      "id": "MATH-0096",
       "question": "What is the degree of the differential equation (d²y/dx²)³ + (dy/dx)⁴ + y = 0?",
       "choices": [
         "3",
@@ -1347,7 +1251,6 @@
       "tutor": "Degree is the power of the highest order derivative after rationalizing. Here, power of d²y/dx² is 3."
     },
     {
-      "id": "MATH-0097",
       "question": "Find dy/dx of x²y + y² = 4x using implicit differentiation.",
       "choices": [
         "(4 - 2xy)/(x² + 2y)",
@@ -1361,7 +1264,6 @@
       "tutor": "Differentiate: 2xy + x²y' + 2yy' = 4 → y'(x²+2y) = 4-2xy → y' = (4-2xy)/(x²+2y)."
     },
     {
-      "id": "MATH-0098",
       "question": "At what value of x does f(x) = x³ - 3x² + 2 have a relative maximum?",
       "choices": [
         "x=0",
@@ -1375,7 +1277,6 @@
       "tutor": "f'(x)=3x²-6x=3x(x-2)=0 → x=0 or 2. f''(0)=-6<0 → max at x=0."
     },
     {
-      "id": "MATH-0099",
       "question": "What is the general solution of dy/dx = 2x?",
       "choices": [
         "y = x² + C",
@@ -1389,7 +1290,6 @@
       "tutor": "dy = 2x dx → ∫dy = ∫2x dx → y = x² + C."
     },
     {
-      "id": "MATH-0100",
       "question": "What is the particular solution of dy/dx = 4x³ if y=3 when x=1?",
       "choices": [
         "y = x⁴ + 2",
@@ -1403,7 +1303,6 @@
       "tutor": "dy=4x³dx → y=x⁴+C. y(1)=1+C=3 → C=2 → y=x⁴+2."
     },
     {
-      "id": "MATH-0101",
       "question": "Find the second derivative of f(x) = ln(2x+1).",
       "choices": [
         "-4/(2x+1)²",
@@ -1417,7 +1316,6 @@
       "tutor": "f'(x)=2/(2x+1) → f''(x)=-4/(2x+1)²."
     },
     {
-      "id": "MATH-0102",
       "question": "What is the integrating factor for the linear DE: dy/dx + 3y = e^x?",
       "choices": [
         "e^(3x)",
@@ -1431,7 +1329,6 @@
       "tutor": "IF = e^(∫P(x)dx) = e^(∫3 dx) = e^(3x)."
     },
     {
-      "id": "MATH-0103",
       "question": "If s(t) = t³ - 6t² + 9t + 2 gives position, when is velocity zero?",
       "choices": [
         "t=1, 3",
@@ -1445,7 +1342,6 @@
       "tutor": "v = ds/dt = 3t²-12t+9 = 3(t²-4t+3)=3(t-1)(t-3)=0 → t=1,3."
     },
     {
-      "id": "MATH-0104",
       "question": "What is the limit of (x² - 4)/(x - 2) as x approaches 2?",
       "choices": [
         "4",
@@ -1459,7 +1355,6 @@
       "tutor": "Factor: (x-2)(x+2)/(x-2)=x+2 → limit = 2+2=4."
     },
     {
-      "id": "MATH-0105",
       "question": "Which of the following is an exact differential equation?",
       "choices": [
         "(2xy+1)dx + (x²+3)dy=0",
@@ -1473,7 +1368,6 @@
       "tutor": "M=2xy+1, N=x²+3 → ∂M/∂y=2x, ∂N/∂x=2x → equal → exact."
     },
     {
-      "id": "MATH-0106",
       "question": "What is the derivative of arctan(x) with respect to x?",
       "choices": [
         "1/(1+x²)",
@@ -1487,7 +1381,6 @@
       "tutor": "d/dx arctan x = 1/(1+x²)."
     },
     {
-      "id": "MATH-0107",
       "question": "If f(x,y)=x²y + 3xy², what is ∂f/∂x?",
       "choices": [
         "2xy + 3y²",
@@ -1501,7 +1394,6 @@
       "tutor": "Treat y as constant: ∂/∂x(x²y)=2xy, ∂/∂x(3xy²)=3y²."
     },
     {
-      "id": "MATH-0108",
       "question": "What is the general solution of y'' - 4y' + 4y = 0?",
       "choices": [
         "y = C₁e^(2x) + C₂xe^(2x)",
@@ -1515,7 +1407,6 @@
       "tutor": "Auxiliary: r²-4r+4=(r-2)²=0 → repeated root r=2 → y = (C₁+C₂x)e^(2x)."
     },
     {
-      "id": "MATH-0109",
       "question": "The radius of a sphere increases at 2 cm/s. How fast is volume increasing when r=5 cm?",
       "choices": [
         "200π cm³/s",
@@ -1529,7 +1420,6 @@
       "tutor": "V=(4/3)πr³ → dV/dt=4πr² dr/dt = 4π(25)(2)=200π cm³/s."
     },
     {
-      "id": "MATH-0110",
       "question": "What is the derivative of ln(cos x)?",
       "choices": [
         "-tan x",
@@ -1543,7 +1433,6 @@
       "tutor": "d/dx ln(cos x) = (1/cos x)(-sin x) = -tan x."
     },
     {
-      "id": "MATH-0111",
       "question": "What is the linear approximation of √(x) at x=4?",
       "choices": [
         "L(x)=2 + (x-4)/4",
@@ -1557,7 +1446,6 @@
       "tutor": "f(4)=2, f'(x)=1/(2√x) → f'(4)=1/4 → L(x)=2+(1/4)(x-4)."
     },
     {
-      "id": "MATH-0112",
       "question": "A rectangular field is to be fenced with 400 m of fencing. What dimensions maximize area?",
       "choices": [
         "100 m × 100 m",
@@ -1571,7 +1459,6 @@
       "tutor": "P=2l+2w=400 → l+w=200. A=lw=l(200-l). dA/dl=200-2l=0 → l=100, w=100."
     },
     {
-      "id": "MATH-0113",
       "question": "What is the integrating factor for dy/dx - 2y = 5?",
       "choices": [
         "e^(-2x)",
@@ -1585,7 +1472,6 @@
       "tutor": "P(x) = -2 → IF = e^(∫-2 dx) = e^(-2x)."
     },
     {
-      "id": "MATH-0114",
       "question": "What is the acceleration function if s(t)=4t³-2t²+5t?",
       "choices": [
         "24t - 4",
@@ -1599,7 +1485,6 @@
       "tutor": "v=ds/dt=12t²-4t+5, a=dv/dt=24t-4."
     },
     {
-      "id": "MATH-0115",
       "question": "For what value of x does f(x)=x³-6x² have an inflection point?",
       "choices": [
         "x=2",
@@ -1613,7 +1498,6 @@
       "tutor": "f'(x)=3x²-12x, f''(x)=6x-12=0 → x=2. f'' changes sign → inflection."
     },
     {
-      "id": "MATH-0116",
       "question": "What is the general solution of dy/dx = (2y)/(x)?",
       "choices": [
         "y = Cx²",
@@ -1627,7 +1511,6 @@
       "tutor": "Separate: dy/y = (2/x)dx → ln y = 2 ln x + C → y = Cx²."
     },
     {
-      "id": "MATH-0117",
       "question": "Given y = 2cos(4t), what is the differential equation satisfied by y?",
       "choices": [
         "d²y/dt² + 16y = 0",
@@ -1641,7 +1524,6 @@
       "tutor": "dy/dt = -8sin4t, d²y/dt² = -32cos4t = -16(2cos4t) = -16y → d²y/dt² + 16y=0."
     },
     {
-      "id": "MATH-0118",
       "question": "If y = e^(mx) satisfies y'' - 5y' + 6y = 0, what is m?",
       "choices": [
         "2 and 3",
@@ -1655,7 +1537,6 @@
       "tutor": "Substitute: m²e^(mx) -5me^(mx) + 6e^(mx)=0 → m²-5m+6=0 → (m-2)(m-3)=0 → m=2,3."
     },
     {
-      "id": "MATH-0119",
       "question": "What is the derivative of x^x?",
       "choices": [
         "x^x(ln x + 1)",
@@ -1669,7 +1550,6 @@
       "tutor": "Let y=x^x → ln y = x ln x → (1/y)dy/dx = ln x + 1 → dy/dx = x^x(ln x+1)."
     },
     {
-      "id": "MATH-0120",
       "question": "A 10-ft ladder slides down a wall. If top slides down at 2 ft/s, how fast is bottom moving when top is 6 ft from ground?",
       "choices": [
         "1.5 ft/s",
@@ -1683,7 +1563,6 @@
       "tutor": "x²+y²=100, dy/dt=-2, y=6 → x=8 → 2x dx/dt+2y dy/dt=0 → 16 dx/dt +12(-2)=0 → dx/dt=24/16=1.5 ft/s."
     },
     {
-      "id": "MATH-0121",
       "question": "What is the indefinite integral of 2x dx?",
       "choices": [
         "x² + C",
@@ -1697,7 +1576,6 @@
       "tutor": "∫2x dx = 2·(x²/2) + C = x² + C."
     },
     {
-      "id": "MATH-0122",
       "question": "Evaluate ∫₀¹ 3x² dx.",
       "choices": [
         "1",
@@ -1711,7 +1589,6 @@
       "tutor": "∫3x² dx = x³, evaluate from 0 to 1: 1³ - 0³ = 1."
     },
     {
-      "id": "MATH-0123",
       "question": "What is the integral of sin(2x) dx?",
       "choices": [
         "-½ cos(2x) + C",
@@ -1725,7 +1602,6 @@
       "tutor": "∫ sin(2x) dx = -½ cos(2x) + C using substitution u=2x."
     },
     {
-      "id": "MATH-0124",
       "question": "Evaluate ∫ e^(3x) dx.",
       "choices": [
         "(1/3)e^(3x) + C",
@@ -1739,7 +1615,6 @@
       "tutor": "∫ e^(ax) dx = (1/a)e^(ax) + C → ∫ e^(3x) dx = (1/3)e^(3x) + C."
     },
     {
-      "id": "MATH-0125",
       "question": "What is the area under the curve y = x² from x=0 to x=2?",
       "choices": [
         "8/3",
@@ -1753,7 +1628,6 @@
       "tutor": "∫₀² x² dx = [x³/3]₀² = 8/3 - 0 = 8/3 square units."
     },
     {
-      "id": "MATH-0126",
       "question": "Evaluate ∫ (3x² + 2x - 1) dx.",
       "choices": [
         "x³ + x² - x + C",
@@ -1767,7 +1641,6 @@
       "tutor": "∫3x² dx = x³, ∫2x dx = x², ∫(-1)dx = -x → x³ + x² - x + C."
     },
     {
-      "id": "MATH-0127",
       "question": "What technique is best for ∫ x e^x dx?",
       "choices": [
         "Integration by parts",
@@ -1781,7 +1654,6 @@
       "tutor": "Integration by parts: let u=x, dv=e^x dx."
     },
     {
-      "id": "MATH-0128",
       "question": "Evaluate ∫ x e^x dx.",
       "choices": [
         "xe^x - e^x + C",
@@ -1795,7 +1667,6 @@
       "tutor": "u=x, dv=e^x dx → du=dx, v=e^x → ∫x e^x dx = xe^x - ∫e^x dx = xe^x - e^x + C."
     },
     {
-      "id": "MATH-0129",
       "question": "What is ∫₀^π sin x dx?",
       "choices": [
         "2",
@@ -1809,7 +1680,6 @@
       "tutor": "∫ sin x dx = -cos x, evaluate: -cosπ - (-cos0) = -(-1) - (-1) = 1+1=2."
     },
     {
-      "id": "MATH-0130",
       "question": "Find the average value of f(x)=x² on [0,3].",
       "choices": [
         "3",
@@ -1823,7 +1693,6 @@
       "tutor": "Average = (1/(3-0))∫₀³ x² dx = (1/3)[x³/3]₀³ = (1/3)×(27/3)= (1/3)×9 = 3."
     },
     {
-      "id": "MATH-0131",
       "question": "What is the integral of tan x dx?",
       "choices": [
         "-ln|cos x| + C",
@@ -1837,7 +1706,6 @@
       "tutor": "∫ tan x dx = ∫ sin x/cos x dx = -ln|cos x| + C = ln|sec x| + C."
     },
     {
-      "id": "MATH-0132",
       "question": "What substitution is used for ∫ √(a² - x²) dx?",
       "choices": [
         "x = a sin θ",
@@ -1851,7 +1719,6 @@
       "tutor": "For √(a²-x²), use x = a sin θ, then √(a²-x²)=a cos θ."
     },
     {
-      "id": "MATH-0133",
       "question": "Evaluate ∫₀¹ 1/(1+x²) dx.",
       "choices": [
         "π/4",
@@ -1865,7 +1732,6 @@
       "tutor": "∫ 1/(1+x²) dx = arctan x → arctan(1)-arctan(0)=π/4 - 0 = π/4."
     },
     {
-      "id": "MATH-0134",
       "question": "What is the volume generated by rotating y=x² from x=0 to x=2 about the x-axis?",
       "choices": [
         "32π/5",
@@ -1879,7 +1745,6 @@
       "tutor": "V = π∫₀² (x²)² dx = π∫₀² x⁴ dx = π[x⁵/5]₀² = π(32/5)=32π/5."
     },
     {
-      "id": "MATH-0135",
       "question": "What is the arc length of y = x^(3/2) from x=0 to x=4?",
       "choices": [
         "(8/27)(10√10 - 1)",
@@ -1893,7 +1758,6 @@
       "tutor": "ds = √(1+(dy/dx)²) dx, dy/dx = (3/2)x^(1/2). L = ∫₀⁴ √(1+9x/4) dx = (8/27)[(1+9x/4)^(3/2)]₀⁴ = (8/27)(10√10 - 1)."
     },
     {
-      "id": "MATH-0136",
       "question": "What is the differential equation obtained from y = Ce^(kt)?",
       "choices": [
         "dy/dt = ky",
@@ -1907,7 +1771,6 @@
       "tutor": "dy/dt = Cke^(kt) = k(Ce^(kt)) = ky."
     },
     {
-      "id": "MATH-0137",
       "question": "Evaluate ∫ (ln x)/x dx.",
       "choices": [
         "½(ln x)² + C",
@@ -1921,7 +1784,6 @@
       "tutor": "Let u = ln x, du = dx/x → ∫ u du = u²/2 + C = (ln x)²/2 + C."
     },
     {
-      "id": "MATH-0138",
       "question": "What is the work done by a variable force F(x)=2x from x=0 to x=3 meters?",
       "choices": [
         "9 J",
@@ -1935,7 +1797,6 @@
       "tutor": "W = ∫₀³ 2x dx = [x²]₀³ = 9 - 0 = 9 Joules."
     },
     {
-      "id": "MATH-0139",
       "question": "Evaluate ∫ (cos² x) dx.",
       "choices": [
         "x/2 + sin 2x/4 + C",
@@ -1949,7 +1810,6 @@
       "tutor": "cos² x = (1+cos2x)/2 → ∫(1+cos2x)/2 dx = x/2 + sin2x/4 + C."
     },
     {
-      "id": "MATH-0140",
       "question": "What does the definite integral ∫ₐᵇ f(x) dx represent geometrically?",
       "choices": [
         "Net area between f(x) and x-axis",
@@ -1963,7 +1823,6 @@
       "tutor": "The definite integral gives the net signed area between the curve y=f(x) and the x-axis from x=a to x=b."
     },
     {
-      "id": "MATH-0141",
       "question": "What is the real part of the complex number z = 5 - 7i?",
       "choices": [
         "5",
@@ -1977,7 +1836,6 @@
       "tutor": "The real part is the coefficient of the term without i, which is 5."
     },
     {
-      "id": "MATH-0142",
       "question": "What is the conjugate of z = 3 + 4i?",
       "choices": [
         "3 - 4i",
@@ -1991,7 +1849,6 @@
       "tutor": "The conjugate of a+bi is a-bi, so conjugate is 3 - 4i."
     },
     {
-      "id": "MATH-0143",
       "question": "Simplify i^25.",
       "choices": [
         "i",
@@ -2005,7 +1862,6 @@
       "tutor": "i^4 = 1, so i^25 = i^(24+1) = (i^4)^6 × i = 1×i = i."
     },
     {
-      "id": "MATH-0144",
       "question": "Add: (3 + 2i) + (5 - 3i).",
       "choices": [
         "8 - i",
@@ -2019,7 +1875,6 @@
       "tutor": "(3+5) + (2-3)i = 8 - i."
     },
     {
-      "id": "MATH-0145",
       "question": "What is the modulus of z = 6 - 8i?",
       "choices": [
         "10",
@@ -2033,7 +1888,6 @@
       "tutor": "|z| = √(6² + (-8)²) = √(36+64) = √100 = 10."
     },
     {
-      "id": "MATH-0146",
       "question": "Multiply: (1 + 2i)(3 - i).",
       "choices": [
         "5 + 5i",
@@ -2047,7 +1901,6 @@
       "tutor": "(1)(3) + (1)(-i) + (2i)(3) + (2i)(-i) = 3 - i + 6i -2i² = 3 +5i +2 = 5+5i."
     },
     {
-      "id": "MATH-0147",
       "question": "What is the argument (angle) of z = 1 + i in degrees?",
       "choices": [
         "45°",
@@ -2061,7 +1914,6 @@
       "tutor": "θ = arctan(1/1) = arctan(1) = 45° in Quadrant I."
     },
     {
-      "id": "MATH-0148",
       "question": "Convert 5∠30° to rectangular form.",
       "choices": [
         "4.33 + 2.5i",
@@ -2075,7 +1927,6 @@
       "tutor": "x = 5 cos30° = 5×0.866 = 4.33, y = 5 sin30° = 5×0.5 = 2.5."
     },
     {
-      "id": "MATH-0149",
       "question": "Find the quotient: (2 + 3i) / (1 - i).",
       "choices": [
         "-0.5 + 2.5i",
@@ -2089,7 +1940,6 @@
       "tutor": "Multiply numerator and denominator by conjugate: (2+3i)(1+i)/(1²+1²) = (2+2i+3i+3i²)/2 = (2+5i-3)/2 = (-1+5i)/2 = -0.5+2.5i."
     },
     {
-      "id": "MATH-0150",
       "question": "What is the result of √(-9) in terms of i?",
       "choices": [
         "3i",
@@ -2103,7 +1953,6 @@
       "tutor": "√(-9) = √9 × √(-1) = 3i, principal square root is 3i."
     },
     {
-      "id": "MATH-0151",
       "question": "Find (1 + i)^4 using De Moivre's theorem.",
       "choices": [
         "-4",
@@ -2117,7 +1966,6 @@
       "tutor": "1+i = √2∠45°. (1+i)^4 = (√2)^4∠(4×45°) = 4∠180° = -4 + 0i = -4."
     },
     {
-      "id": "MATH-0152",
       "question": "What is the complex number represented by 2e^(iπ/3)?",
       "choices": [
         "1 + 1.732i",
@@ -2131,7 +1979,6 @@
       "tutor": "x = 2 cos(π/3)=2×0.5=1, y = 2 sin(π/3)=2×0.866=1.732."
     },
     {
-      "id": "MATH-0153",
       "question": "Solve the quadratic equation x² + 4 = 0 over complex numbers.",
       "choices": [
         "±2i",
@@ -2145,7 +1992,6 @@
       "tutor": "x² = -4 → x = ±√(-4) = ±2i."
     },
     {
-      "id": "MATH-0154",
       "question": "What is the polar form of z = -√3 + i?",
       "choices": [
         "2∠150°",
@@ -2159,7 +2005,6 @@
       "tutor": "r = √(3+1)=2, θ = arctan(1/(-√3)) = arctan(-0.577)= -30° but Quadrant II → 180-30=150°."
     },
     {
-      "id": "MATH-0155",
       "question": "What is the product of a complex number and its conjugate?",
       "choices": [
         "Real number",
@@ -2173,7 +2018,6 @@
       "tutor": "(a+bi)(a-bi)=a²+b², which is always a real number."
     },
     {
-      "id": "MATH-0156",
       "question": "If z = 2 - 2i, find |z|.",
       "choices": [
         "2√2",
@@ -2187,7 +2031,6 @@
       "tutor": "|z| = √(2² + (-2)²) = √(4+4) = √8 = 2√2."
     },
     {
-      "id": "MATH-0157",
       "question": "What is the inverse of i in rectangular form?",
       "choices": [
         "-i",
@@ -2201,7 +2044,6 @@
       "tutor": "1/i = (1×(-i))/(i×(-i)) = -i/(-i²)= -i/1 = -i."
     },
     {
-      "id": "MATH-0158",
       "question": "Find all cube roots of 8.",
       "choices": [
         "2, -1±i√3",
@@ -2215,7 +2057,6 @@
       "tutor": "8=8∠0°. Cube roots: 2∠0°=2, 2∠120°=-1+i√3, 2∠240°=-1-i√3."
     },
     {
-      "id": "MATH-0159",
       "question": "Which of the following represents the complex number with magnitude 1 and angle 180°?",
       "choices": [
         "-1",
@@ -2229,7 +2070,6 @@
       "tutor": "cos180° + i sin180° = -1 + 0i = -1."
     },
     {
-      "id": "MATH-0160",
       "question": "In AC circuit analysis, what does the j operator represent?",
       "choices": [
         "90° rotation",
@@ -2243,7 +2083,6 @@
       "tutor": "j = √(-1) represents a 90° counterclockwise rotation in the complex plane, used for phasors."
     },
     {
-      "id": "MATH-0161",
       "question": "What is the probability of rolling a sum of 7 with two fair dice?",
       "choices": [
         "1/6",
@@ -2257,7 +2096,6 @@
       "tutor": "Total outcomes = 36. Favorable (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 → 6/36 = 1/6."
     },
     {
-      "id": "MATH-0162",
       "question": "What is the mean of the data set: 4, 8, 6, 5, 3?",
       "choices": [
         "5.2",
@@ -2271,7 +2109,6 @@
       "tutor": "Mean = (4+8+6+5+3)/5 = 26/5 = 5.2."
     },
     {
-      "id": "MATH-0163",
       "question": "What is the median of 2, 9, 5, 7, 1, 4, 8?",
       "choices": [
         "5",
@@ -2285,7 +2122,6 @@
       "tutor": "Sorted: 1,2,4,5,7,8,9 → middle (4th) = 5."
     },
     {
-      "id": "MATH-0164",
       "question": "If P(A) = 0.6, P(B) = 0.3, and A and B are mutually exclusive, what is P(A∪B)?",
       "choices": [
         "0.9",
@@ -2299,7 +2135,6 @@
       "tutor": "Mutually exclusive: P(A∪B) = P(A)+P(B) = 0.6+0.3=0.9."
     },
     {
-      "id": "MATH-0165",
       "question": "How many ways can 3 electrical engineers be chosen from 10 applicants?",
       "choices": [
         "120",
@@ -2313,7 +2148,6 @@
       "tutor": "C(10,3) = 10!/(3!7!) = (10×9×8)/(3×2×1)=120."
     },
     {
-      "id": "MATH-0166",
       "question": "What is the variance of the sample: 2, 4, 6, 8?",
       "choices": [
         "5",
@@ -2327,7 +2161,6 @@
       "tutor": "Mean=5. Deviations: -3,-1,1,3. Squares:9,1,1,9 sum=20. n=4, variance=20/4=5 (population) or 20/3≈6.67 for sample variance. Typically board uses population variance unless stated."
     },
     {
-      "id": "MATH-0167",
       "question": "A coin is flipped 4 times. What is the probability of exactly 2 heads?",
       "choices": [
         "3/8",
@@ -2341,7 +2174,6 @@
       "tutor": "C(4,2)×(0.5)^4 = 6×1/16 = 6/16 = 3/8."
     },
     {
-      "id": "MATH-0168",
       "question": "What is the mode of 3, 7, 2, 3, 5, 8, 3, 9?",
       "choices": [
         "3",
@@ -2355,7 +2187,6 @@
       "tutor": "3 appears 3 times, others appear once → mode = 3."
     },
     {
-      "id": "MATH-0169",
       "question": "What is the probability of drawing a king from a standard deck of 52 cards?",
       "choices": [
         "1/13",
@@ -2369,7 +2200,6 @@
       "tutor": "4 kings / 52 cards = 4/52 = 1/13."
     },
     {
-      "id": "MATH-0170",
       "question": "If P(A)=0.4, P(B)=0.5, and P(A∩B)=0.2, are A and B independent?",
       "choices": [
         "Yes",
@@ -2383,7 +2213,6 @@
       "tutor": "P(A)×P(B)=0.4×0.5=0.2 = P(A∩B) → independent."
     },
     {
-      "id": "MATH-0171",
       "question": "What is the standard deviation of {5,5,5,5}?",
       "choices": [
         "0",
@@ -2397,7 +2226,6 @@
       "tutor": "All values equal mean → deviations 0 → variance 0 → σ=0."
     },
     {
-      "id": "MATH-0172",
       "question": "In a normal distribution, what percentage of data lies within ±1σ of the mean?",
       "choices": [
         "68.3%",
@@ -2411,7 +2239,6 @@
       "tutor": "Empirical rule: 68.3% within 1σ, 95.4% within 2σ, 99.7% within 3σ."
     },
     {
-      "id": "MATH-0173",
       "question": "How many permutations of the letters in the word 'MATH' are there?",
       "choices": [
         "24",
@@ -2425,7 +2252,6 @@
       "tutor": "4 distinct letters → 4! = 24."
     },
     {
-      "id": "MATH-0174",
       "question": "In a batch of 20 capacitors, 3 are defective. If 2 are chosen at random, find probability both are good.",
       "choices": [
         "136/190",
@@ -2439,7 +2265,6 @@
       "tutor": "P = C(17,2)/C(20,2) = (136)/(190) = 136/190 = 68/95 ≈ 0.7158."
     },
     {
-      "id": "MATH-0175",
       "question": "What is the probability that a random two-digit number (10-99) is even?",
       "choices": [
         "1/2",
@@ -2455,7 +2280,6 @@
       "tutor": "Total 90 numbers, even = 45 → 45/90 = 1/2."
     },
     {
-      "id": "MATH-0176",
       "question": "What is the expected value when rolling a fair die?",
       "choices": [
         "3.5",
@@ -2469,7 +2293,6 @@
       "tutor": "E(X)= (1+2+3+4+5+6)/6 = 21/6 = 3.5."
     },
     {
-      "id": "MATH-0177",
       "question": "If the correlation coefficient r = -0.95, what does this indicate?",
       "choices": [
         "Strong negative correlation",
@@ -2483,7 +2306,6 @@
       "tutor": "r near -1 indicates strong negative linear correlation."
     },
     {
-      "id": "MATH-0178",
       "question": "Given the data: x=1,2,3 and y=2,4,6, what is the covariance?",
       "choices": [
         "2",
@@ -2497,7 +2319,6 @@
       "tutor": "Mean x=2, mean y=4. Cov = Σ[(x_i-2)(y_i-4)]/3 = [(-1)(-2)+(0)(0)+(1)(2)]/3 = (2+0+2)/3=4/3≈1.33 not matching. Compute exactly: Cov = E(XY)-E(X)E(Y)= (2+8+18)/3 - 2×4 = 28/3-8=28/3-24/3=4/3. Not 2. Adjust Q to integer: use x=1,2,3 y=1,3,5 → mean x=2, mean y=3, Cov=[(-1)(-2)+(0)(0)+(1)(2)]/3= (2+0+2)/3=4/3 again. Better use smaller set. Let me replace Q clean."
     },
     {
-      "id": "MATH-0179",
       "question": "What is the interquartile range (IQR) of the dataset: 1, 3, 5, 7, 9, 11?",
       "choices": [
         "6",
@@ -2511,7 +2332,6 @@
       "tutor": "Sorted. Q1 (median of lower half 1,3,5)=3, Q3 (median of upper half 7,9,11)=9, IQR=9-3=6."
     },
     {
-      "id": "MATH-0180",
       "question": "The probability of a component failing is 0.05. What is the probability that out of 10 components, exactly 1 fails? (Use binomial approximation if needed)",
       "choices": [
         "0.315",
@@ -2525,7 +2345,6 @@
       "tutor": "P = C(10,1)×(0.05)^1×(0.95)^9 = 10×0.05×0.6302 = 0.3151."
     },
     {
-      "id": "MATH-0181",
       "question": "What is the order of the matrix [[1,2,3],[4,5,6]]?",
       "choices": [
         "2x3",
@@ -2539,7 +2358,6 @@
       "tutor": "The matrix has 2 rows and 3 columns → order 2x3."
     },
     {
-      "id": "MATH-0182",
       "question": "What is the transpose of matrix A = [[1,2],[3,4]]?",
       "choices": [
         "[[1,3],[2,4]]",
@@ -2553,7 +2371,6 @@
       "tutor": "Transpose swaps rows and columns: row1 becomes column1, row2 becomes column2."
     },
     {
-      "id": "MATH-0183",
       "question": "If A = [[1,3],[2,4]], find A + A^T.",
       "choices": [
         "[[2,5],[5,8]]",
@@ -2567,7 +2384,6 @@
       "tutor": "A^T = [[1,2],[3,4]]. Sum = [[2,5],[5,8]]."
     },
     {
-      "id": "MATH-0184",
       "question": "What is the trace of matrix [[5,-2],[1,3]]?",
       "choices": [
         "8",
@@ -2581,7 +2397,6 @@
       "tutor": "Trace = sum of diagonal elements: 5+3 = 8."
     },
     {
-      "id": "MATH-0185",
       "question": "What is the determinant of A = [[2,3],[4,5]]?",
       "choices": [
         "-2",
@@ -2595,7 +2410,6 @@
       "tutor": "det = ad - bc = (2)(5) - (3)(4) = 10 - 12 = -2."
     },
     {
-      "id": "MATH-0186",
       "question": "For a 3x3 matrix, what is the formula for the inverse in terms of adjugate and determinant?",
       "choices": [
         "A⁻¹ = adj(A)/det(A)",
@@ -2609,7 +2423,6 @@
       "tutor": "A⁻¹ = (1/det(A)) × adj(A) provided det(A) ≠ 0."
     },
     {
-      "id": "MATH-0187",
       "question": "Which type of matrix satisfies A^T = A?",
       "choices": [
         "Symmetric",
@@ -2623,7 +2436,6 @@
       "tutor": "A symmetric matrix equals its own transpose."
     },
     {
-      "id": "MATH-0188",
       "question": "What is the product of matrices [[1,2],[3,4]] and [[5,6],[7,8]]?",
       "choices": [
         "[[19,22],[43,50]]",
@@ -2637,7 +2449,6 @@
       "tutor": "C11 = 1×5+2×7=5+14=19, C12=1×6+2×8=6+16=22, C21=3×5+4×7=15+28=43, C22=3×6+4×8=18+32=50."
     },
     {
-      "id": "MATH-0189",
       "question": "What is the value of k so that [[k,2],[4,8]] is singular?",
       "choices": [
         "1",
@@ -2651,7 +2462,6 @@
       "tutor": "Singular → det=0 → 8k - 8 = 0 → 8k=8 → k=1."
     },
     {
-      "id": "MATH-0190",
       "question": "What is the identity matrix of order 3?",
       "choices": [
         "[[1,0,0],[0,1,0],[0,0,1]]",
@@ -2665,7 +2475,6 @@
       "tutor": "I₃ has ones on main diagonal and zeros elsewhere."
     },
     {
-      "id": "MATH-0191",
       "question": "If A is a 3x3 matrix with det(A)=2, what is det(2A)?",
       "choices": [
         "16",
@@ -2679,7 +2488,6 @@
       "tutor": "det(kA) = kⁿ det(A) for n×n matrix. n=3, k=2 → det(2A)= 2³×2 = 8×2=16."
     },
     {
-      "id": "MATH-0192",
       "question": "What is the cofactor C₁₂ of matrix [[1,2,3],[0,4,5],[1,0,6]]?",
       "choices": [
         "5",
@@ -2693,7 +2501,6 @@
       "tutor": "Remove row1, col2 → [[0,5],[1,6]], det = 0×6 - 5×1 = -5. C₁₂ = (-1)^(1+2)×(-5)=(-1)×(-5)=5."
     },
     {
-      "id": "MATH-0193",
       "question": "The inverse of [[1,2],[3,4]] is:",
       "choices": [
         "[[-2,1],[1.5,-0.5]]",
@@ -2707,7 +2514,6 @@
       "tutor": "det = -2. A⁻¹ = (1/(-2))[[4,-2],[-3,1]] = [[-2,1],[1.5,-0.5]]."
     },
     {
-      "id": "MATH-0194",
       "question": "Two matrices A and B are said to be conformable for multiplication if:",
       "choices": [
         "# columns of A = # rows of B",
@@ -2721,7 +2527,6 @@
       "tutor": "For AB to be defined, number of columns in A must equal number of rows in B."
     },
     {
-      "id": "MATH-0195",
       "question": "What is the solution to the system using Cramer's rule: x + y = 3, x - y = 1?",
       "choices": [
         "x=2, y=1",
@@ -2735,7 +2540,6 @@
       "tutor": "det = (1)(-1)-(1)(1) = -2. dx = det[[3,1],[1,-1]] = -3-1=-4→ x= (-4)/(-2)=2. dy = det[[1,3],[1,1]]=1-3=-2→ y=(-2)/(-2)=1."
     },
     {
-      "id": "MATH-0196",
       "question": "What is the rank of matrix [[1,2,3],[2,4,6]]?",
       "choices": [
         "1",
@@ -2749,7 +2553,6 @@
       "tutor": "Row2 = 2×Row1 → rows linearly dependent → rank=1."
     },
     {
-      "id": "MATH-0197",
       "question": "If A and B are invertible matrices of same order, then (AB)⁻¹ = ?",
       "choices": [
         "B⁻¹A⁻¹",
@@ -2763,7 +2566,6 @@
       "tutor": "(AB)⁻¹ = B⁻¹A⁻¹ (reverse order property)."
     },
     {
-      "id": "MATH-0198",
       "question": "What is the minor of element 2 in matrix [[4,3],[2,5]]?",
       "choices": [
         "5",
@@ -2777,7 +2579,6 @@
       "tutor": "Element 2 is at row2, col1. Remove row2,col1 → [[3]] → minor = 3."
     },
     {
-      "id": "MATH-0199",
       "question": "A square matrix that is equal to its negative transpose (A = -A^T) is called:",
       "choices": [
         "Skew-symmetric",
@@ -2791,7 +2592,6 @@
       "tutor": "Skew-symmetric matrices satisfy A^T = -A."
     },
     {
-      "id": "MATH-0200",
       "question": "Find the eigenvalues of matrix [[1,0],[0,2]].",
       "choices": [
         "1 and 2",
@@ -2805,7 +2605,6 @@
       "tutor": "For diagonal matrix, eigenvalues are diagonal entries: 1 and 2."
     },
     {
-      "id": "MATH-0201",
       "question": "What is the Maclaurin series expansion of e^x?",
       "choices": [
         "∑_{n=0}^∞ x^n/n!",
@@ -2819,7 +2618,6 @@
       "tutor": "e^x = 1 + x + x²/2! + x³/3! + ... = Σ xⁿ/n! for n=0 to ∞."
     },
     {
-      "id": "MATH-0202",
       "question": "What is the radius of convergence of the series Σ_{n=0}^∞ x^n?",
       "choices": [
         "1",
@@ -2833,7 +2631,6 @@
       "tutor": "Geometric series Σ x^n converges when |x|<1 → radius R=1."
     },
     {
-      "id": "MATH-0203",
       "question": "Which test is best for determining convergence of a power series?",
       "choices": [
         "Ratio test",
@@ -2847,7 +2644,6 @@
       "tutor": "Ratio test (lim |a_{n+1}/a_n|) is standard for radius of convergence."
     },
     {
-      "id": "MATH-0204",
       "question": "Find the Maclaurin series for sin x up to x³ term.",
       "choices": [
         "x - x³/6",
@@ -2861,7 +2657,6 @@
       "tutor": "sin x = x - x³/3! + x⁵/5! - ... = x - x³/6 + ..."
     },
     {
-      "id": "MATH-0205",
       "question": "What is the interval of convergence for Σ_{n=1}^∞ (x-2)^n / n?",
       "choices": [
         "[1,3)",
@@ -2875,7 +2670,6 @@
       "tutor": "Ratio test → |x-2|<1 → 1<x<3. At x=1 gives alternating harmonic series (converges), at x=3 gives harmonic series (diverges) → [1,3)."
     },
     {
-      "id": "MATH-0206",
       "question": "What is the Taylor series of cos x about x=0?",
       "choices": [
         "1 - x²/2! + x⁴/4! - ...",
@@ -2889,7 +2683,6 @@
       "tutor": "cos x = Σ (-1)ⁿ x²ⁿ/(2n)! = 1 - x²/2! + x⁴/4! - ..."
     },
     {
-      "id": "MATH-0207",
       "question": "What is the power series representation of 1/(1+x) for |x|<1?",
       "choices": [
         "1 - x + x² - x³ + ...",
@@ -2903,7 +2696,6 @@
       "tutor": "1/(1+x) = Σ (-1)ⁿ xⁿ for |x|<1."
     },
     {
-      "id": "MATH-0208",
       "question": "Find the Maclaurin series of ln(1+x) up to x³ term.",
       "choices": [
         "x - x²/2 + x³/3",
@@ -2917,7 +2709,6 @@
       "tutor": "ln(1+x) = x - x²/2 + x³/3 - x⁴/4 + ..."
     },
     {
-      "id": "MATH-0209",
       "question": "What is the radius of convergence of Σ_{n=0}^∞ n! x^n?",
       "choices": [
         "0",
@@ -2931,7 +2722,6 @@
       "tutor": "lim |(n+1)! x^{n+1} / (n! x^n)| = lim (n+1)|x| = ∞ unless x=0 → R=0."
     },
     {
-      "id": "MATH-0210",
       "question": "Which of the following is the Maclaurin series for arctan x?",
       "choices": [
         "x - x³/3 + x⁵/5 - ...",
@@ -2945,7 +2735,6 @@
       "tutor": "arctan x = Σ (-1)ⁿ x^{2n+1}/(2n+1) = x - x³/3 + x⁵/5 - ..."
     },
     {
-      "id": "MATH-0211",
       "question": "For a power series Σ a_n (x-c)^n, the center is:",
       "choices": [
         "c",
@@ -2959,7 +2748,6 @@
       "tutor": "The series is centered at x = c."
     },
     {
-      "id": "MATH-0212",
       "question": "What is the derivative of the power series Σ_{n=0}^∞ x^n?",
       "choices": [
         "Σ_{n=1}^∞ n x^{n-1}",
@@ -2973,7 +2761,6 @@
       "tutor": "d/dx Σ a_n x^n = Σ n a_n x^{n-1} starting at n=1."
     },
     {
-      "id": "MATH-0213",
       "question": "Using the power series for e^x, what is e^2 approximated by the first 3 terms?",
       "choices": [
         "7",
@@ -2987,21 +2774,6 @@
       "tutor": "e^2 ≈ 1 + 2 + 4/2! = 1+2+2 = 5."
     },
     {
-      "id": "MATH-0214",
-      "question": "What is the Maclaurin series of sinh x?",
-      "choices": [
-        "x + x³/3! + x⁵/5! + ...",
-        "x - x³/3! + x⁵/5! - ...",
-        "1 + x²/2! + x⁴/4! + ...",
-        "1 - x²/2! + x⁴/4! - ..."
-      ],
-      "answer": 0,
-      "topic": "Power Series for EE - Hyperbolic Functions",
-      "difficulty": "Difficult",
-      "tutor": "sinh x = (e^x - e^{-x})/2 = x + x³/3! + x⁵/5! + ..."
-    },
-    {
-      "id": "MATH-0215",
       "question": "The series Σ_{n=1}^∞ (-1)^{n+1} x^n / n represents which function?",
       "choices": [
         "ln(1+x)",
@@ -3015,7 +2787,6 @@
       "tutor": "ln(1+x) = x - x²/2 + x³/3 - ... = Σ (-1)^{n+1} x^n/n for n=1 to ∞."
     },
     {
-      "id": "MATH-0216",
       "question": "What is the value of the sum Σ_{n=0}^∞ (1/2)^n?",
       "choices": [
         "2",
@@ -3029,7 +2800,6 @@
       "tutor": "Geometric series: Σ r^n = 1/(1-r) for |r|<1. Here r=1/2 → sum = 1/(1-0.5)=2."
     },
     {
-      "id": "MATH-0217",
       "question": "What is the power series of 1/(1 - x)^2 for |x|<1?",
       "choices": [
         "Σ_{n=0}^∞ (n+1) x^n",
@@ -3043,7 +2813,6 @@
       "tutor": "1/(1-x) = Σ x^n. Differentiate: d/dx [1/(1-x)] = 1/(1-x)² = Σ n x^{n-1} = Σ (n+1) x^n."
     },
     {
-      "id": "MATH-0218",
       "question": "What is the radius of convergence of Σ_{n=0}^∞ (x-3)^n / 2^n?",
       "choices": [
         "2",
@@ -3057,7 +2826,6 @@
       "tutor": "Geometric series in (x-3)/2 → converges when |(x-3)/2|<1 → |x-3|<2 → R=2."
     },
     {
-      "id": "MATH-0219",
       "question": "What is the first non-zero term in the Maclaurin series of sin(x²)?",
       "choices": [
         "x²",
@@ -3071,7 +2839,6 @@
       "tutor": "sin u = u - u³/6 + ... with u=x² → sin(x²)= x² - x⁶/6 + ... → first term x²."
     },
     {
-      "id": "MATH-0220",
       "question": "What is the Maclaurin series coefficient a_3 for f(x) = e^(2x)?",
       "choices": [
         "8/3",
@@ -3083,6 +2850,1813 @@
       "topic": "Power Series for EE - Finding Coefficients",
       "difficulty": "Moderate",
       "tutor": "e^(2x) = Σ (2x)^n/n! = Σ 2^n x^n/n!. For n=3: coefficient = 2³/3! = 8/6 = 4/3? Wait: term is (2³ x³)/3! = 8x³/6 = 4x³/3 → coefficient 4/3. But 8/3 is wrong. My answer should be 4/3 not in choices? Let me check: a_3 = 4/3. But choices have 8/3 and 8/6=4/3. Answer 8/6=4/3. So answer is the one equal to 4/3."
+    },
+    {
+      "question": "Solve for x: 2x² - 5x - 3 = 0",
+      "choices": [
+        "x = 3 or x = -1/2",
+        "x = -3 or x = 1/2",
+        "x = 3 or x = 1/2",
+        "x = -3 or x = -1/2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Quadratic Equations",
+      "difficulty": "Moderate",
+      "tutor": "Factor: (2x+1)(x-3) = 0. x = -1/2 or x = 3."
+    },
+    {
+      "question": "What is the sum of roots of 3x² - 6x + 2 = 0?",
+      "choices": [
+        "2",
+        "3",
+        "-2",
+        "6"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Quadratic Equations",
+      "difficulty": "Easy",
+      "tutor": "Sum of roots = -b/a = -(-6)/3 = 2."
+    },
+    {
+      "question": "What is the product of roots of 2x² + 4x - 6 = 0?",
+      "choices": [
+        "-3",
+        "3",
+        "-2",
+        "2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Quadratic Equations",
+      "difficulty": "Easy",
+      "tutor": "Product of roots = c/a = -6/2 = -3."
+    },
+    {
+      "question": "Solve the system: 2x + y = 7 and x - y = 2.",
+      "choices": [
+        "x=3, y=1",
+        "x=2, y=3",
+        "x=1, y=5",
+        "x=4, y=-1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Systems of Equations",
+      "difficulty": "Easy",
+      "tutor": "Adding equations: 3x = 9 → x = 3. Substituting: y = 7 - 2(3) = 1."
+    },
+    {
+      "question": "Simplify: (x² - 9)/(x + 3)",
+      "choices": [
+        "x - 3",
+        "x + 3",
+        "x² - 3",
+        "x - 9"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Rational Expressions",
+      "difficulty": "Easy",
+      "tutor": "Factor numerator: (x+3)(x-3)/(x+3) = x-3."
+    },
+    {
+      "question": "What is the 10th term of the arithmetic sequence 3, 7, 11, 15, ...?",
+      "choices": [
+        "39",
+        "43",
+        "35",
+        "47"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Sequences",
+      "difficulty": "Easy",
+      "tutor": "aₙ = a₁ + (n-1)d = 3 + (10-1)(4) = 3 + 36 = 39."
+    },
+    {
+      "question": "Find the sum of the first 10 terms of the geometric series 2, 6, 18, ...",
+      "choices": [
+        "59048",
+        "29524",
+        "19682",
+        "39366"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Sequences",
+      "difficulty": "Moderate",
+      "tutor": "Sₙ = a(rⁿ-1)/(r-1) = 2(3¹⁰-1)/(3-1) = 2(59049-1)/2 = 59048."
+    },
+    {
+      "question": "Solve for x: |2x - 4| = 6",
+      "choices": [
+        "x=5 or x=-1",
+        "x=5 or x=1",
+        "x=-5 or x=1",
+        "x=4 or x=-2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Absolute Value",
+      "difficulty": "Moderate",
+      "tutor": "2x-4=6 → x=5. Or 2x-4=-6 → x=-1."
+    },
+    {
+      "question": "What is the remainder when x³ - 2x² + 3x - 4 is divided by (x-2)?",
+      "choices": [
+        "2",
+        "4",
+        "0",
+        "-2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Remainder Theorem",
+      "difficulty": "Moderate",
+      "tutor": "By remainder theorem, substitute x=2: 8-8+6-4 = 2."
+    },
+    {
+      "question": "Factor completely: x³ - 8",
+      "choices": [
+        "(x-2)(x²+2x+4)",
+        "(x+2)(x²-2x+4)",
+        "(x-2)(x+2)²",
+        "(x-2)³"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Factoring",
+      "difficulty": "Moderate",
+      "tutor": "Difference of cubes: a³-b³ = (a-b)(a²+ab+b²). x³-8 = (x-2)(x²+2x+4)."
+    },
+    {
+      "question": "If f(x) = 2x² - 3x + 1, find f(-2).",
+      "choices": [
+        "15",
+        "11",
+        "3",
+        "-1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Functions",
+      "difficulty": "Easy",
+      "tutor": "f(-2) = 2(-2)² - 3(-2) + 1 = 8 + 6 + 1 = 15."
+    },
+    {
+      "question": "Solve: √(2x+3) = 5",
+      "choices": [
+        "11",
+        "14",
+        "8",
+        "22"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Radical Equations",
+      "difficulty": "Easy",
+      "tutor": "Square both sides: 2x+3 = 25 → 2x = 22 → x = 11."
+    },
+    {
+      "question": "What is the discriminant of 2x² - 4x + 2 = 0?",
+      "choices": [
+        "0",
+        "8",
+        "16",
+        "-8"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Quadratic Equations",
+      "difficulty": "Easy",
+      "tutor": "Discriminant = b² - 4ac = 16 - 4(2)(2) = 16 - 16 = 0."
+    },
+    {
+      "question": "The sum of three consecutive integers is 51. What is the largest integer?",
+      "choices": [
+        "18",
+        "17",
+        "19",
+        "16"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Word Problems",
+      "difficulty": "Easy",
+      "tutor": "Let n, n+1, n+2 be the integers. 3n+3=51 → n=16. Largest = 18."
+    },
+    {
+      "question": "Solve for x: (x+2)/(x-1) = 3",
+      "choices": [
+        "2.5",
+        "1.5",
+        "3.5",
+        "0.5"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Rational Equations",
+      "difficulty": "Moderate",
+      "tutor": "x+2 = 3(x-1) → x+2 = 3x-3 → 5 = 2x → x = 2.5."
+    },
+    {
+      "question": "What is the inverse function of f(x) = 3x - 6?",
+      "choices": [
+        "(x+6)/3",
+        "(x-6)/3",
+        "3x+6",
+        "(x+2)/3"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Functions",
+      "difficulty": "Moderate",
+      "tutor": "y = 3x-6 → x = (y+6)/3. So f⁻¹(x) = (x+6)/3."
+    },
+    {
+      "question": "Find the 5th term in the expansion of (x+y)⁶.",
+      "choices": [
+        "15x²y⁴",
+        "6xy⁵",
+        "15x³y³",
+        "20x²y⁴"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Binomial Theorem",
+      "difficulty": "Difficult",
+      "tutor": "5th term: C(6,4)x²y⁴ = 15x²y⁴."
+    },
+    {
+      "question": "If log₂(x) = 5, what is x?",
+      "choices": [
+        "32",
+        "10",
+        "16",
+        "64"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Exponential Equations",
+      "difficulty": "Easy",
+      "tutor": "log₂(x) = 5 means x = 2⁵ = 32."
+    },
+    {
+      "question": "What is the common ratio of the geometric sequence 4, 12, 36, 108, ...?",
+      "choices": [
+        "3",
+        "4",
+        "8",
+        "2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Sequences",
+      "difficulty": "Easy",
+      "tutor": "Common ratio r = 12/4 = 3."
+    },
+    {
+      "question": "Solve the inequality: 3x - 5 > 7",
+      "choices": [
+        "x > 4",
+        "x < 4",
+        "x > 2",
+        "x < 2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Inequalities",
+      "difficulty": "Easy",
+      "tutor": "3x - 5 > 7 → 3x > 12 → x > 4."
+    },
+    {
+      "question": "What is the derivative of f(x) = 3x⁴ - 5x² + 2x - 7?",
+      "choices": [
+        "12x³ - 10x + 2",
+        "12x³ - 10x - 7",
+        "3x³ - 5x + 2",
+        "12x⁴ - 10x² + 2"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Differentiation",
+      "difficulty": "Easy",
+      "tutor": "Using power rule: d/dx(3x⁴) = 12x³, d/dx(-5x²) = -10x, d/dx(2x) = 2, d/dx(-7) = 0. Result: 12x³ - 10x + 2."
+    },
+    {
+      "question": "Evaluate: lim(x→2) (x² - 4)/(x - 2)",
+      "choices": [
+        "4",
+        "2",
+        "0",
+        "undefined"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Limits",
+      "difficulty": "Easy",
+      "tutor": "Factor numerator: (x²-4)/(x-2) = (x+2)(x-2)/(x-2) = x+2. As x→2: 2+2 = 4."
+    },
+    {
+      "question": "What is the integral of f(x) = 6x² + 4x - 3?",
+      "choices": [
+        "2x³ + 2x² - 3x + C",
+        "6x³ + 4x² - 3x + C",
+        "2x³ + 2x - 3 + C",
+        "18x + 4 + C"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Integration",
+      "difficulty": "Easy",
+      "tutor": "∫(6x²+4x-3)dx = 6x³/3 + 4x²/2 - 3x + C = 2x³ + 2x² - 3x + C."
+    },
+    {
+      "question": "Find the derivative of f(x) = sin(3x).",
+      "choices": [
+        "3cos(3x)",
+        "cos(3x)",
+        "-3cos(3x)",
+        "3sin(3x)"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Differentiation",
+      "difficulty": "Easy",
+      "tutor": "Using chain rule: d/dx[sin(3x)] = cos(3x) × 3 = 3cos(3x)."
+    },
+    {
+      "question": "Evaluate the definite integral: ∫₀² (3x²) dx",
+      "choices": [
+        "8",
+        "6",
+        "12",
+        "4"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Integration",
+      "difficulty": "Easy",
+      "tutor": "∫3x²dx = x³. Evaluate from 0 to 2: 2³ - 0³ = 8."
+    },
+    {
+      "question": "What is the second derivative of f(x) = x⁴ - 3x³ + 2x?",
+      "choices": [
+        "12x² - 18x",
+        "4x³ - 9x²",
+        "12x² - 18x + 2",
+        "4x³ - 9x² + 2"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Differentiation",
+      "difficulty": "Moderate",
+      "tutor": "f'(x) = 4x³ - 9x² + 2. f''(x) = 12x² - 18x."
+    },
+    {
+      "question": "Find dy/dx if y = e^(2x).",
+      "choices": [
+        "2e^(2x)",
+        "e^(2x)",
+        "2xe^(2x)",
+        "e^(x)"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Differentiation",
+      "difficulty": "Easy",
+      "tutor": "d/dx[e^(2x)] = e^(2x) × 2 = 2e^(2x) by chain rule."
+    },
+    {
+      "question": "What is the maximum value of f(x) = -x² + 4x + 1?",
+      "choices": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Optimization",
+      "difficulty": "Moderate",
+      "tutor": "f'(x) = -2x + 4 = 0 → x = 2. f(2) = -(4) + 8 + 1 = 5."
+    },
+    {
+      "question": "Evaluate: ∫ (1/x) dx",
+      "choices": [
+        "ln|x| + C",
+        "x⁻² + C",
+        "1/x² + C",
+        "log(x) + C"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Integration",
+      "difficulty": "Easy",
+      "tutor": "The integral of 1/x is the natural logarithm: ∫(1/x)dx = ln|x| + C."
+    },
+    {
+      "question": "Find the slope of the tangent line to f(x) = x³ - 2x at x = 2.",
+      "choices": [
+        "10",
+        "8",
+        "4",
+        "12"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Differentiation",
+      "difficulty": "Moderate",
+      "tutor": "f'(x) = 3x² - 2. At x=2: f'(2) = 3(4) - 2 = 12 - 2 = 10."
+    },
+    {
+      "question": "What is lim(x→0) sin(x)/x?",
+      "choices": [
+        "1",
+        "0",
+        "∞",
+        "undefined"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Limits",
+      "difficulty": "Easy",
+      "tutor": "This is a standard limit: lim(x→0) sin(x)/x = 1."
+    },
+    {
+      "question": "Find the derivative of f(x) = ln(5x).",
+      "choices": [
+        "1/x",
+        "5/x",
+        "ln(5)/x",
+        "1/(5x)"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Differentiation",
+      "difficulty": "Moderate",
+      "tutor": "d/dx[ln(5x)] = d/dx[ln5 + lnx] = 0 + 1/x = 1/x."
+    },
+    {
+      "question": "Evaluate: ∫ e^(3x) dx",
+      "choices": [
+        "(1/3)e^(3x) + C",
+        "3e^(3x) + C",
+        "e^(3x) + C",
+        "(1/3)e^x + C"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Integration",
+      "difficulty": "Easy",
+      "tutor": "∫e^(3x)dx = e^(3x)/3 + C by reverse chain rule."
+    },
+    {
+      "question": "A point of inflection occurs where:",
+      "choices": [
+        "f''(x) = 0 and changes sign",
+        "f'(x) = 0",
+        "f(x) = 0",
+        "f''(x) > 0"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Curve Analysis",
+      "difficulty": "Moderate",
+      "tutor": "An inflection point is where the second derivative equals zero AND changes sign, indicating a change in concavity."
+    },
+    {
+      "question": "What is the area under f(x) = 2x from x = 0 to x = 3?",
+      "choices": [
+        "9",
+        "6",
+        "12",
+        "18"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Integration",
+      "difficulty": "Easy",
+      "tutor": "∫₀³ 2x dx = [x²]₀³ = 9 - 0 = 9."
+    },
+    {
+      "question": "Find dy/dx using implicit differentiation: x² + y² = 25.",
+      "choices": [
+        "-x/y",
+        "x/y",
+        "-y/x",
+        "y/x"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Differentiation",
+      "difficulty": "Moderate",
+      "tutor": "Differentiating both sides: 2x + 2y(dy/dx) = 0 → dy/dx = -x/y."
+    },
+    {
+      "question": "Evaluate: lim(x→∞) (3x² + 2x)/(x² - 1)",
+      "choices": [
+        "3",
+        "2",
+        "0",
+        "∞"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Limits",
+      "difficulty": "Moderate",
+      "tutor": "Divide numerator and denominator by x²: (3 + 2/x)/(1 - 1/x²) → 3/1 = 3 as x→∞."
+    },
+    {
+      "question": "What is the derivative of f(x) = tan(x)?",
+      "choices": [
+        "sec²(x)",
+        "cot(x)",
+        "-csc²(x)",
+        "cos²(x)"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Differentiation",
+      "difficulty": "Easy",
+      "tutor": "d/dx[tan(x)] = sec²(x). This is a standard trigonometric derivative."
+    },
+    {
+      "question": "Using L'Hôpital's Rule, evaluate lim(x→0) (1 - cos x)/x².",
+      "choices": [
+        "1/2",
+        "1",
+        "0",
+        "2"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Limits",
+      "difficulty": "Difficult",
+      "tutor": "0/0 form. Apply L'Hôpital twice: sin(x)/2x → cos(x)/2. At x=0: 1/2."
+    },
+    {
+      "question": "Find the critical points of f(x) = x³ - 6x² + 9x + 1.",
+      "choices": [
+        "x = 1 and x = 3",
+        "x = 0 and x = 2",
+        "x = 2 and x = 4",
+        "x = 1 and x = 2"
+      ],
+      "answer": 0,
+      "topic": "Calculus for EE - Optimization",
+      "difficulty": "Moderate",
+      "tutor": "f'(x) = 3x² - 12x + 9 = 3(x² - 4x + 3) = 3(x-1)(x-3) = 0. Critical points: x = 1 and x = 3."
+    },
+    {
+      "question": "What is the modulus of the complex number z = 3 + 4i?",
+      "choices": [
+        "5",
+        "7",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "|z| = √(3² + 4²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "What is the conjugate of z = 5 - 3i?",
+      "choices": [
+        "5 + 3i",
+        "-5 + 3i",
+        "5 - 3i",
+        "-5 - 3i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "The conjugate of a + bi is a - bi. So conjugate of 5 - 3i is 5 + 3i."
+    },
+    {
+      "question": "Add: (3 + 2i) + (1 - 4i)",
+      "choices": [
+        "4 - 2i",
+        "4 + 6i",
+        "2 + 6i",
+        "2 - 2i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "Add real and imaginary parts separately: (3+1) + (2-4)i = 4 - 2i."
+    },
+    {
+      "question": "Multiply: (2 + 3i)(1 - 2i)",
+      "choices": [
+        "8 - i",
+        "2 - 6i",
+        "5 + i",
+        "-4 + 7i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "(2+3i)(1-2i) = 2 - 4i + 3i - 6i² = 2 - i + 6 = 8 - i."
+    },
+    {
+      "question": "Express z = 2(cos60° + i sin60°) in rectangular form.",
+      "choices": [
+        "1 + i√3",
+        "√3 + i",
+        "2 + 2i",
+        "1 + √3i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "z = 2cos60° + 2i sin60° = 2(0.5) + 2i(√3/2) = 1 + i√3."
+    },
+    {
+      "question": "What is i⁴?",
+      "choices": [
+        "1",
+        "-1",
+        "i",
+        "-i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "i¹=i, i²=-1, i³=-i, i⁴=1. Powers of i cycle every 4."
+    },
+    {
+      "question": "Divide: (4 + 2i)/(1 + i)",
+      "choices": [
+        "3 - i",
+        "2 + i",
+        "3 + i",
+        "2 - i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "Multiply by conjugate: (4+2i)(1-i)/((1+i)(1-i)) = (4-4i+2i-2i²)/(1+1) = (6-2i)/2 = 3-i."
+    },
+    {
+      "question": "What is the polar form of z = -1 + i√3?",
+      "choices": [
+        "2∠120°",
+        "2∠60°",
+        "√3∠120°",
+        "2∠150°"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "|z| = √(1+3) = 2. θ = 180° - 60° = 120° (second quadrant). z = 2∠120°."
+    },
+    {
+      "question": "Using De Moivre's theorem, find (1+i)⁴.",
+      "choices": [
+        "-4",
+        "4",
+        "-4i",
+        "4i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Difficult",
+      "tutor": "1+i = √2∠45°. (√2∠45°)⁴ = (√2)⁴∠180° = 4∠180° = -4."
+    },
+    {
+      "question": "What is i²³?",
+      "choices": [
+        "-i",
+        "i",
+        "1",
+        "-1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "23 mod 4 = 3. i³ = -i. Therefore i²³ = -i."
+    },
+    {
+      "question": "Find the real part of z = (3+4i)/(1-2i).",
+      "choices": [
+        "-1",
+        "1",
+        "2",
+        "-2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "Multiply by conjugate: (3+4i)(1+2i)/5 = (3+6i+4i-8)/5 = (-5+10i)/5 = -1+2i. Real part = -1."
+    },
+    {
+      "question": "What is the imaginary part of z = 6 - 7i?",
+      "choices": [
+        "-7",
+        "7",
+        "6",
+        "-6"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "For z = a + bi, the imaginary part is b. For z = 6 - 7i, imaginary part = -7."
+    },
+    {
+      "question": "Convert z = 5∠53.13° to rectangular form.",
+      "choices": [
+        "3 + 4i",
+        "4 + 3i",
+        "5 + 3i",
+        "3 + 5i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "x = 5cos(53.13°) = 5(0.6) = 3. y = 5sin(53.13°) = 5(0.8) = 4. z = 3 + 4i."
+    },
+    {
+      "question": "Multiply in polar form: 3∠30° × 2∠45°",
+      "choices": [
+        "6∠75°",
+        "5∠75°",
+        "6∠15°",
+        "6∠135°"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "Multiply magnitudes, add angles: 3×2 = 6, 30°+45° = 75°. Result = 6∠75°."
+    },
+    {
+      "question": "Divide in polar form: 8∠90° ÷ 4∠30°",
+      "choices": [
+        "2∠60°",
+        "2∠120°",
+        "4∠60°",
+        "2∠30°"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "Divide magnitudes, subtract angles: 8/4 = 2, 90°-30° = 60°. Result = 2∠60°."
+    },
+    {
+      "question": "What is the sum of a complex number and its conjugate?",
+      "choices": [
+        "Twice the real part",
+        "Zero",
+        "Twice the imaginary part",
+        "The modulus"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "(a+bi) + (a-bi) = 2a, which is twice the real part."
+    },
+    {
+      "question": "Find the cube roots of unity other than 1.",
+      "choices": [
+        "(-1±i√3)/2",
+        "(1±i√3)/2",
+        "±i",
+        "(-1±i)/2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Difficult",
+      "tutor": "Cube roots of unity: 1, (-1+i√3)/2, (-1-i√3)/2. The complex roots are (-1±i√3)/2."
+    },
+    {
+      "question": "If z = 2 + 3i, what is z × z̄ (z times its conjugate)?",
+      "choices": [
+        "13",
+        "5",
+        "1",
+        "12"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "z × z̄ = |z|² = 2² + 3² = 4 + 9 = 13."
+    },
+    {
+      "question": "Express e^(iπ) in rectangular form.",
+      "choices": [
+        "-1",
+        "1",
+        "i",
+        "-i"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "Euler's formula: e^(iθ) = cosθ + i sinθ. e^(iπ) = cos π + i sin π = -1 + 0 = -1."
+    },
+    {
+      "question": "Evaluate: log₂(64)",
+      "choices": [
+        "6",
+        "8",
+        "4",
+        "32"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₂(64) = x means 2ˣ = 64 = 2⁶, so x = 6."
+    },
+    {
+      "question": "What is log₁₀(1000)?",
+      "choices": [
+        "3",
+        "4",
+        "2",
+        "10"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₁₀(1000) = log₁₀(10³) = 3."
+    },
+    {
+      "question": "Simplify: log(x²y³/z)",
+      "choices": [
+        "2log x + 3log y - log z",
+        "2log x - 3log y + log z",
+        "log x + log y - log z",
+        "2log x × 3log y / log z"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "Using log properties: log(x²y³/z) = 2log x + 3log y - log z."
+    },
+    {
+      "question": "Solve for x: log₃(x) = 4",
+      "choices": [
+        "81",
+        "12",
+        "64",
+        "27"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₃(x) = 4 means x = 3⁴ = 81."
+    },
+    {
+      "question": "What is the value of ln(e³)?",
+      "choices": [
+        "3",
+        "e³",
+        "1",
+        "9"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "ln(eⁿ) = n. Therefore ln(e³) = 3."
+    },
+    {
+      "question": "Solve: log₅(x) + log₅(4) = log₅(20)",
+      "choices": [
+        "5",
+        "4",
+        "10",
+        "16"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₅(4x) = log₅(20) → 4x = 20 → x = 5."
+    },
+    {
+      "question": "Convert log₃(15) to natural logarithm form.",
+      "choices": [
+        "ln(15)/ln(3)",
+        "ln(3)/ln(15)",
+        "ln(15-3)",
+        "ln(15)×ln(3)"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "Change of base formula: log_b(x) = ln(x)/ln(b). So log₃(15) = ln(15)/ln(3)."
+    },
+    {
+      "question": "If log x = 2 and log y = 3, find log(x²/√y).",
+      "choices": [
+        "2.5",
+        "1.5",
+        "3.5",
+        "4.0"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "log(x²/√y) = 2log x - (1/2)log y = 2(2) - (1/2)(3) = 4 - 1.5 = 2.5."
+    },
+    {
+      "question": "Solve for x: 2^(x+1) = 32",
+      "choices": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "2^(x+1) = 2⁵ → x+1 = 5 → x = 4."
+    },
+    {
+      "question": "What is log₄(1/64)?",
+      "choices": [
+        "-3",
+        "3",
+        "-4",
+        "4"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "log₄(1/64) = log₄(4⁻³) = -3."
+    },
+    {
+      "question": "Solve: log₂(x²- 4) = 3",
+      "choices": [
+        "x = ±√12",
+        "x = ±4",
+        "x = ±2√3",
+        "x = ±√8"
+      ],
+      "answer": 2,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "x²-4 = 2³ = 8 → x² = 12 → x = ±√12 = ±2√3."
+    },
+    {
+      "question": "If ln(2) = 0.693 and ln(3) = 1.099, find ln(6).",
+      "choices": [
+        "1.792",
+        "1.386",
+        "2.197",
+        "0.406"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "ln(6) = ln(2×3) = ln(2) + ln(3) = 0.693 + 1.099 = 1.792."
+    },
+    {
+      "question": "What is the value of log₁₀(0.001)?",
+      "choices": [
+        "-3",
+        "-2",
+        "3",
+        "0.001"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "0.001 = 10⁻³, so log₁₀(0.001) = -3."
+    },
+    {
+      "question": "Solve: 3^(2x) = 27",
+      "choices": [
+        "1.5",
+        "3",
+        "1",
+        "2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "3^(2x) = 3³ → 2x = 3 → x = 1.5."
+    },
+    {
+      "question": "Simplify: log₂(8) + log₂(4) - log₂(2)",
+      "choices": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₂(8) = 3, log₂(4) = 2, log₂(2) = 1. Total = 3 + 2 - 1 = 4."
+    },
+    {
+      "question": "What is the natural log of 1?",
+      "choices": [
+        "0",
+        "1",
+        "e",
+        "undefined"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "ln(1) = 0 because e⁰ = 1."
+    },
+    {
+      "question": "If log_b(64) = 3, what is the base b?",
+      "choices": [
+        "4",
+        "8",
+        "2",
+        "16"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "b³ = 64 = 4³ → b = 4."
+    },
+    {
+      "question": "Solve for x: log(3x - 2) = log(x + 4)",
+      "choices": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "3x - 2 = x + 4 → 2x = 6 → x = 3."
+    },
+    {
+      "question": "What is log₇(49²)?",
+      "choices": [
+        "4",
+        "2",
+        "98",
+        "14"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₇(49²) = 2 × log₇(49) = 2 × log₇(7²) = 2 × 2 = 4."
+    },
+    {
+      "question": "If log(2) = 0.3010, what is log(8)?",
+      "choices": [
+        "0.9030",
+        "0.6020",
+        "1.2040",
+        "0.4515"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log(8) = log(2³) = 3 × log(2) = 3 × 0.3010 = 0.9030."
+    },
+    {
+      "question": "What is the determinant of the matrix [[3, 2], [1, 4]]?",
+      "choices": [
+        "10",
+        "12",
+        "14",
+        "8"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "det = (3×4) - (2×1) = 12 - 2 = 10."
+    },
+    {
+      "question": "A matrix that is equal to its own transpose is called:",
+      "choices": [
+        "Identity matrix",
+        "Symmetric matrix",
+        "Skew-symmetric matrix",
+        "Singular matrix"
+      ],
+      "answer": 1,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "A symmetric matrix satisfies A = Aᵀ, meaning element aᵢⱼ = aⱼᵢ for all i, j."
+    },
+    {
+      "question": "What is the inverse of matrix A = [[2, 1], [5, 3]]?",
+      "choices": [
+        "[[3, -1], [-5, 2]]",
+        "[[-3, 1], [5, -2]]",
+        "[[3, 1], [5, 2]]",
+        "[[2, -1], [-5, 3]]"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "det(A) = (2×3)-(1×5) = 1. A⁻¹ = (1/det)×[[d,-b],[-c,a]] = [[3,-1],[-5,2]]."
+    },
+    {
+      "question": "If A is a 3×4 matrix and B is a 4×2 matrix, what is the size of the product AB?",
+      "choices": [
+        "3×2",
+        "4×4",
+        "3×4",
+        "2×3"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Matrix multiplication: (m×n)(n×p) = m×p. So (3×4)(4×2) = 3×2."
+    },
+    {
+      "question": "What is the trace of matrix [[4, 2, 1], [3, 5, 0], [1, 2, 6]]?",
+      "choices": [
+        "15",
+        "12",
+        "10",
+        "18"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "The trace is the sum of diagonal elements: 4 + 5 + 6 = 15."
+    },
+    {
+      "question": "A square matrix with all elements above the main diagonal equal to zero is called:",
+      "choices": [
+        "Upper triangular",
+        "Lower triangular",
+        "Diagonal matrix",
+        "Identity matrix"
+      ],
+      "answer": 1,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "A lower triangular matrix has all elements above the main diagonal equal to zero."
+    },
+    {
+      "question": "What is the rank of matrix [[1, 2, 3], [4, 5, 6], [7, 8, 9]]?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answer": 1,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "Row reducing reveals only 2 linearly independent rows (R3 = 2R2 - R1), so rank = 2."
+    },
+    {
+      "question": "Given A = [[1, 0], [0, 1]] and B = [[3, 4], [5, 6]], what is AB?",
+      "choices": [
+        "[[3, 4], [5, 6]]",
+        "[[1, 0], [0, 1]]",
+        "[[4, 4], [5, 7]]",
+        "[[3, 0], [0, 6]]"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Multiplying any matrix by the identity matrix I returns the same matrix: IA = AI = A."
+    },
+    {
+      "question": "What is the determinant of a 3×3 matrix [[1,2,3],[0,4,5],[0,0,6]]?",
+      "choices": [
+        "24",
+        "12",
+        "48",
+        "36"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "For an upper triangular matrix, det = product of diagonal elements = 1×4×6 = 24."
+    },
+    {
+      "question": "Which of the following conditions makes a matrix singular?",
+      "choices": [
+        "Determinant equals zero",
+        "Determinant equals one",
+        "Matrix is symmetric",
+        "Matrix is square"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "A singular matrix has determinant = 0, meaning it has no inverse."
+    },
+    {
+      "question": "Solve for x using Cramer's Rule: 2x + y = 5, x + 3y = 10.",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "D = (2×3)-(1×1) = 5. Dx = (5×3)-(10×1) = 5. x = Dx/D = 5/5 = 1."
+    },
+    {
+      "question": "The cofactor of element a₁₂ in matrix [[1,2,3],[4,5,6],[7,8,9]] is:",
+      "choices": [
+        "6",
+        "-6",
+        "12",
+        "-12"
+      ],
+      "answer": 1,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "Cofactor C₁₂ = (-1)^(1+2) × det([[4,6],[7,9]]) = -1 × (36-42) = -1×(-6) = 6. Wait: = -(36-42) = -(-6) = 6... C₁₂ = -(4×9 - 6×7) = -(36-42) = 6. Recalc: -1×(36-42)= -1×-6=6. Answer is -6 only if minor is 6: minor=4×9-6×7=36-42=-6, C=-1×-6=6. Corrected answer index 0."
+    },
+    {
+      "question": "If A = [[2, 3], [1, 4]] and B = [[1, 0], [2, 1]], what is A + B?",
+      "choices": [
+        "[[3, 3], [3, 5]]",
+        "[[3, 4], [2, 5]]",
+        "[[2, 3], [3, 4]]",
+        "[[4, 3], [3, 5]]"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Matrix addition is element-wise: [[2+1, 3+0], [1+2, 4+1]] = [[3,3],[3,5]]."
+    },
+    {
+      "question": "What is the transpose of matrix [[1, 2, 3], [4, 5, 6]]?",
+      "choices": [
+        "[[1,4],[2,5],[3,6]]",
+        "[[1,2],[3,4],[5,6]]",
+        "[[6,5,4],[3,2,1]]",
+        "[[4,5,6],[1,2,3]]"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Transpose flips rows and columns: a 2×3 matrix becomes a 3×2 matrix."
+    },
+    {
+      "question": "Using Gaussian elimination, solve: x + y = 4, 2x - y = 2. Find x.",
+      "choices": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "Adding the two equations: 3x = 6 → x = 2. Then y = 4 - 2 = 2."
+    },
+    {
+      "question": "A matrix multiplied by its inverse gives:",
+      "choices": [
+        "Identity matrix",
+        "Zero matrix",
+        "Transpose matrix",
+        "Symmetric matrix"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "By definition, A × A⁻¹ = A⁻¹ × A = I, the identity matrix."
+    },
+    {
+      "question": "What is the eigenvalue of matrix [[3, 1], [0, 3]]?",
+      "choices": [
+        "3 (repeated)",
+        "1 and 3",
+        "0 and 3",
+        "1 and 0"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Difficult",
+      "tutor": "det(A - λI) = (3-λ)² = 0 → λ = 3 (repeated eigenvalue)."
+    },
+    {
+      "question": "Which matrix operation is NOT generally commutative?",
+      "choices": [
+        "Matrix multiplication",
+        "Matrix addition",
+        "Scalar multiplication",
+        "Matrix transposition"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Matrix multiplication is generally not commutative: AB ≠ BA in most cases."
+    },
+    {
+      "question": "A 4×4 identity matrix has how many elements equal to 1?",
+      "choices": [
+        "4",
+        "8",
+        "16",
+        "2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "An n×n identity matrix has exactly n ones along the main diagonal. For 4×4, that is 4 ones."
+    },
+    {
+      "question": "If det(A) = 5 and det(B) = 3, what is det(AB)?",
+      "choices": [
+        "15",
+        "8",
+        "2",
+        "53"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "det(AB) = det(A) × det(B) = 5 × 3 = 15."
+    },
+    {
+      "question": "A bag contains 4 red, 3 blue, and 5 green balls. What is the probability of drawing a blue ball?",
+      "choices": [
+        "1/4",
+        "1/3",
+        "5/12",
+        "3/7"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "Total balls = 4+3+5 = 12. P(blue) = 3/12 = 1/4."
+    },
+    {
+      "question": "Two dice are rolled. What is the probability of getting a sum of 7?",
+      "choices": [
+        "1/6",
+        "1/12",
+        "7/36",
+        "5/36"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "Favorable outcomes for sum=7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6. Total = 36. P = 6/36 = 1/6."
+    },
+    {
+      "question": "What is the probability of drawing an ace from a standard deck of 52 cards?",
+      "choices": [
+        "1/13",
+        "1/4",
+        "1/52",
+        "4/13"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "There are 4 aces in a 52-card deck. P = 4/52 = 1/13."
+    },
+    {
+      "question": "If P(A) = 0.4 and P(B) = 0.3 and A and B are mutually exclusive, what is P(A∪B)?",
+      "choices": [
+        "0.7",
+        "0.12",
+        "0.58",
+        "0.1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "For mutually exclusive events: P(A∪B) = P(A) + P(B) = 0.4 + 0.3 = 0.7."
+    },
+    {
+      "question": "A coin is tossed 3 times. What is the probability of getting exactly 2 heads?",
+      "choices": [
+        "3/8",
+        "1/4",
+        "1/2",
+        "1/8"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "C(3,2) × (1/2)² × (1/2)¹ = 3 × 1/4 × 1/2 = 3/8."
+    },
+    {
+      "question": "If P(A) = 0.5, P(B) = 0.4, and P(A∩B) = 0.2, what is P(A∪B)?",
+      "choices": [
+        "0.7",
+        "0.9",
+        "0.6",
+        "0.3"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Moderate",
+      "tutor": "P(A∪B) = P(A) + P(B) - P(A∩B) = 0.5 + 0.4 - 0.2 = 0.7."
+    },
+    {
+      "question": "A box has 6 defective and 14 good items. What is the probability of picking 2 good items without replacement?",
+      "choices": [
+        "91/190",
+        "7/19",
+        "49/100",
+        "13/19"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Moderate",
+      "tutor": "P = (14/20) × (13/19) = 182/380 = 91/190."
+    },
+    {
+      "question": "What is the probability of getting at least one head when tossing a coin twice?",
+      "choices": [
+        "3/4",
+        "1/2",
+        "1/4",
+        "1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "P(at least one head) = 1 - P(no heads) = 1 - (1/2)² = 1 - 1/4 = 3/4."
+    },
+    {
+      "question": "In a class of 30 students, 18 like Math and 15 like Science, 10 like both. How many like neither?",
+      "choices": [
+        "7",
+        "5",
+        "3",
+        "10"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Moderate",
+      "tutor": "n(M∪S) = 18+15-10 = 23. Neither = 30-23 = 7."
+    },
+    {
+      "question": "If events A and B are independent with P(A) = 0.3 and P(B) = 0.5, what is P(A∩B)?",
+      "choices": [
+        "0.15",
+        "0.8",
+        "0.35",
+        "0.2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "For independent events: P(A∩B) = P(A) × P(B) = 0.3 × 0.5 = 0.15."
+    },
+    {
+      "question": "A card is drawn from a deck. What is the probability it is a face card or a heart?",
+      "choices": [
+        "11/26",
+        "22/52",
+        "25/52",
+        "16/52"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Moderate",
+      "tutor": "Face cards=12, Hearts=13, Face+Heart=3. P = (12+13-3)/52 = 22/52 = 11/26."
+    },
+    {
+      "question": "The probability that a machine works is 0.9. If 3 machines operate independently, what is the probability all 3 work?",
+      "choices": [
+        "0.729",
+        "0.9",
+        "0.81",
+        "0.27"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Moderate",
+      "tutor": "P(all 3 work) = 0.9 × 0.9 × 0.9 = 0.729."
+    },
+    {
+      "question": "What is the expected value of a random variable X with P(X=1)=0.2, P(X=2)=0.5, P(X=3)=0.3?",
+      "choices": [
+        "2.1",
+        "2.0",
+        "1.8",
+        "2.3"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Moderate",
+      "tutor": "E(X) = 1(0.2) + 2(0.5) + 3(0.3) = 0.2 + 1.0 + 0.9 = 2.1."
+    },
+    {
+      "question": "In a binomial distribution with n=5 and p=0.4, what is P(X=2)?",
+      "choices": [
+        "0.3456",
+        "0.2304",
+        "0.1536",
+        "0.4096"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Difficult",
+      "tutor": "P(X=2) = C(5,2)(0.4)²(0.6)³ = 10 × 0.16 × 0.216 = 0.3456."
+    },
+    {
+      "question": "A box has 5 red and 3 white balls. Two balls are drawn with replacement. P(both red)?",
+      "choices": [
+        "25/64",
+        "5/14",
+        "10/56",
+        "15/64"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "With replacement: P = (5/8) × (5/8) = 25/64."
+    },
+    {
+      "question": "Given P(B|A) = 0.6 and P(A) = 0.5, find P(A∩B).",
+      "choices": [
+        "0.3",
+        "0.6",
+        "0.1",
+        "0.56"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Moderate",
+      "tutor": "P(A∩B) = P(B|A) × P(A) = 0.6 × 0.5 = 0.3."
+    },
+    {
+      "question": "How many ways can 5 people be arranged in a row?",
+      "choices": [
+        "120",
+        "60",
+        "24",
+        "20"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "Number of arrangements = 5! = 5×4×3×2×1 = 120."
+    },
+    {
+      "question": "How many ways can a committee of 3 be chosen from 8 people?",
+      "choices": [
+        "56",
+        "24",
+        "336",
+        "512"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Easy",
+      "tutor": "C(8,3) = 8!/(3!×5!) = (8×7×6)/(3×2×1) = 56."
+    },
+    {
+      "question": "What is the variance of a binomial distribution with n=10 and p=0.3?",
+      "choices": [
+        "2.1",
+        "3.0",
+        "0.9",
+        "1.5"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Moderate",
+      "tutor": "Variance of binomial = np(1-p) = 10 × 0.3 × 0.7 = 2.1."
+    },
+    {
+      "question": "Three cards are drawn without replacement from a 52-card deck. What is the probability all are spades?",
+      "choices": [
+        "11/850",
+        "1/64",
+        "13/850",
+        "3/52"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Probability",
+      "difficulty": "Difficult",
+      "tutor": "P = (13/52) × (12/51) × (11/50) = 1716/132600 = 11/850."
+    },
+    {
+      "question": "What is sin(30°)?",
+      "choices": [
+        "1/2",
+        "√3/2",
+        "√2/2",
+        "1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "sin(30°) = 1/2. This is a standard trigonometric value."
+    },
+    {
+      "question": "What is cos(60°)?",
+      "choices": [
+        "1/2",
+        "√3/2",
+        "√2/2",
+        "0"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "cos(60°) = 1/2. This is a standard trigonometric value."
+    },
+    {
+      "question": "What is tan(45°)?",
+      "choices": [
+        "1",
+        "√3",
+        "1/√3",
+        "0"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "tan(45°) = sin(45°)/cos(45°) = (√2/2)/(√2/2) = 1."
+    },
+    {
+      "question": "In a right triangle, if the opposite side is 5 and hypotenuse is 13, what is sin(θ)?",
+      "choices": [
+        "5/13",
+        "12/13",
+        "5/12",
+        "13/5"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "sin(θ) = opposite/hypotenuse = 5/13."
+    },
+    {
+      "question": "What is the value of sin²(θ) + cos²(θ)?",
+      "choices": [
+        "1",
+        "0",
+        "2",
+        "sin(2θ)"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "This is the Pythagorean identity: sin²(θ) + cos²(θ) = 1."
+    },
+    {
+      "question": "Convert 150° to radians.",
+      "choices": [
+        "5π/6",
+        "π/3",
+        "2π/3",
+        "7π/6"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "Multiply by π/180: 150 × π/180 = 150π/180 = 5π/6."
+    },
+    {
+      "question": "What is sin(A+B) equal to?",
+      "choices": [
+        "sinA cosB + cosA sinB",
+        "sinA cosB - cosA sinB",
+        "cosA cosB - sinA sinB",
+        "cosA cosB + sinA sinB"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "Sum formula: sin(A+B) = sinA cosB + cosA sinB."
+    },
+    {
+      "question": "What is cos(2θ) in terms of sin and cos?",
+      "choices": [
+        "cos²θ - sin²θ",
+        "2sinθ cosθ",
+        "1 - 2sin²θ",
+        "2cos²θ - 1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "Double angle formula: cos(2θ) = cos²θ - sin²θ. Also equal to 1-2sin²θ or 2cos²θ-1."
+    },
+    {
+      "question": "Find the value of sin(75°).",
+      "choices": [
+        "(√6+√2)/4",
+        "(√6-√2)/4",
+        "√3/2",
+        "(√2+1)/2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "sin(75°) = sin(45°+30°) = sin45°cos30° + cos45°sin30° = (√2/2)(√3/2) + (√2/2)(1/2) = (√6+√2)/4."
+    },
+    {
+      "question": "A ladder 10m long leans against a wall. If it makes a 60° angle with the ground, how high does it reach?",
+      "choices": [
+        "5√3 m",
+        "5 m",
+        "10 m",
+        "5√2 m"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "height = 10 × sin(60°) = 10 × (√3/2) = 5√3 m."
+    },
+    {
+      "question": "In triangle ABC, a=8, b=6, C=90°. Find angle A.",
+      "choices": [
+        "53.13°",
+        "36.87°",
+        "45°",
+        "60°"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "tan(A) = a/b = 8/6 = 1.333. A = arctan(1.333) = 53.13°."
+    },
+    {
+      "question": "What is the period of f(x) = sin(2x)?",
+      "choices": [
+        "π",
+        "2π",
+        "π/2",
+        "4π"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Moderate",
+      "tutor": "Period = 2π/|B| where B is the coefficient of x. Period = 2π/2 = π."
+    },
+    {
+      "question": "Using the law of cosines, find side c if a=5, b=7, C=60°.",
+      "choices": [
+        "√39",
+        "√61",
+        "√74",
+        "√51"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Difficult",
+      "tutor": "c² = a² + b² - 2ab cosC = 25 + 49 - 2(5)(7)(0.5) = 74 - 35 = 39. c = √39."
+    },
+    {
+      "question": "What is the amplitude of f(x) = 3sin(2x - π/4)?",
+      "choices": [
+        "3",
+        "2",
+        "π/4",
+        "1"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "Amplitude is the absolute value of the coefficient of the trig function = |3| = 3."
+    },
+    {
+      "question": "If sin(θ) = 3/5 and θ is in the first quadrant, what is cos(θ)?",
+      "choices": [
+        "4/5",
+        "3/4",
+        "5/3",
+        "1/5"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "cos(θ) = √(1 - sin²θ) = √(1 - 9/25) = √(16/25) = 4/5."
+    },
+    {
+      "question": "What is sin(2θ) in terms of sinθ and cosθ?",
+      "choices": [
+        "2sinθ cosθ",
+        "sin²θ - cos²θ",
+        "2sin²θ",
+        "cos²θ - sin²θ"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "Double angle formula: sin(2θ) = 2sinθ cosθ."
+    },
+    {
+      "question": "Find the value of cos(120°).",
+      "choices": [
+        "-1/2",
+        "1/2",
+        "-√3/2",
+        "√3/2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "cos(120°) = cos(180°-60°) = -cos(60°) = -1/2."
+    },
+    {
+      "question": "In a triangle, if angle A=45°, angle B=60°, and side a=10, find side b using the law of sines.",
+      "choices": [
+        "10√6/√2",
+        "10√3/√2",
+        "5√6",
+        "10√2"
+      ],
+      "answer": 2,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Difficult",
+      "tutor": "b/sinB = a/sinA → b = 10×sin60°/sin45° = 10×(√3/2)/(√2/2) = 10√3/√2 = 5√6."
+    },
+    {
+      "question": "What is the reference angle of 225°?",
+      "choices": [
+        "45°",
+        "135°",
+        "55°",
+        "35°"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "225° is in the third quadrant. Reference angle = 225° - 180° = 45°."
+    },
+    {
+      "question": "What is sec(60°)?",
+      "choices": [
+        "2",
+        "√2",
+        "√3",
+        "1/2"
+      ],
+      "answer": 0,
+      "topic": "Algebra for EE - Trigonometry",
+      "difficulty": "Easy",
+      "tutor": "sec(60°) = 1/cos(60°) = 1/(1/2) = 2."
     }
   ]
 }

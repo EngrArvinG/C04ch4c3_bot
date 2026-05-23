@@ -1,0 +1,166 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "What is the modulus of the complex number z = 3 + 4i?",
+      "choices": ["5", "7", "3", "4"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "|z| = √(3² + 4²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "question": "What is the conjugate of z = 5 - 3i?",
+      "choices": ["5 + 3i", "-5 + 3i", "5 - 3i", "-5 - 3i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "The conjugate of a + bi is a - bi. So conjugate of 5 - 3i is 5 + 3i."
+    },
+    {
+      "question": "Add: (3 + 2i) + (1 - 4i)",
+      "choices": ["4 - 2i", "4 + 6i", "2 + 6i", "2 - 2i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "Add real and imaginary parts separately: (3+1) + (2-4)i = 4 - 2i."
+    },
+    {
+      "question": "Multiply: (2 + 3i)(1 - 2i)",
+      "choices": ["8 - i", "2 - 6i", "5 + i", "-4 + 7i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "(2+3i)(1-2i) = 2 - 4i + 3i - 6i² = 2 - i + 6 = 8 - i."
+    },
+    {
+      "question": "What is the argument (angle) of z = 1 + i in degrees?",
+      "choices": ["45°", "90°", "30°", "60°"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "θ = arctan(1/1) = arctan(1) = 45°."
+    },
+    {
+      "question": "Express z = 2(cos60° + i sin60°) in rectangular form.",
+      "choices": ["1 + i√3", "√3 + i", "2 + 2i", "1 + √3i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "z = 2cos60° + 2i sin60° = 2(0.5) + 2i(√3/2) = 1 + i√3."
+    },
+    {
+      "question": "What is i⁴?",
+      "choices": ["1", "-1", "i", "-i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "i¹=i, i²=-1, i³=-i, i⁴=1. Powers of i cycle every 4."
+    },
+    {
+      "question": "Divide: (4 + 2i)/(1 + i)",
+      "choices": ["3 - i", "2 + i", "3 + i", "2 - i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "Multiply by conjugate: (4+2i)(1-i)/((1+i)(1-i)) = (4-4i+2i-2i²)/(1+1) = (6-2i)/2 = 3-i."
+    },
+    {
+      "question": "What is the polar form of z = -1 + i√3?",
+      "choices": ["2∠120°", "2∠60°", "√3∠120°", "2∠150°"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "|z| = √(1+3) = 2. θ = 180° - 60° = 120° (second quadrant). z = 2∠120°."
+    },
+    {
+      "question": "Using De Moivre's theorem, find (1+i)⁴.",
+      "choices": ["-4", "4", "-4i", "4i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Difficult",
+      "tutor": "1+i = √2∠45°. (√2∠45°)⁴ = (√2)⁴∠180° = 4∠180° = -4."
+    },
+    {
+      "question": "What is i²³?",
+      "choices": ["-i", "i", "1", "-1"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "23 mod 4 = 3. i³ = -i. Therefore i²³ = -i."
+    },
+    {
+      "question": "Find the real part of z = (3+4i)/(1-2i).",
+      "choices": ["-1", "1", "2", "-2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "Multiply by conjugate: (3+4i)(1+2i)/5 = (3+6i+4i-8)/5 = (-5+10i)/5 = -1+2i. Real part = -1."
+    },
+    {
+      "question": "What is the imaginary part of z = 6 - 7i?",
+      "choices": ["-7", "7", "6", "-6"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "For z = a + bi, the imaginary part is b. For z = 6 - 7i, imaginary part = -7."
+    },
+    {
+      "question": "Convert z = 5∠53.13° to rectangular form.",
+      "choices": ["3 + 4i", "4 + 3i", "5 + 3i", "3 + 5i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "x = 5cos(53.13°) = 5(0.6) = 3. y = 5sin(53.13°) = 5(0.8) = 4. z = 3 + 4i."
+    },
+    {
+      "question": "Multiply in polar form: 3∠30° × 2∠45°",
+      "choices": ["6∠75°", "5∠75°", "6∠15°", "6∠135°"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "Multiply magnitudes, add angles: 3×2 = 6, 30°+45° = 75°. Result = 6∠75°."
+    },
+    {
+      "question": "Divide in polar form: 8∠90° ÷ 4∠30°",
+      "choices": ["2∠60°", "2∠120°", "4∠60°", "2∠30°"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "Divide magnitudes, subtract angles: 8/4 = 2, 90°-30° = 60°. Result = 2∠60°."
+    },
+    {
+      "question": "What is the sum of a complex number and its conjugate?",
+      "choices": ["Twice the real part", "Zero", "Twice the imaginary part", "The modulus"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "(a+bi) + (a-bi) = 2a, which is twice the real part."
+    },
+    {
+      "question": "Find the cube roots of unity other than 1.",
+      "choices": ["(-1±i√3)/2", "(1±i√3)/2", "±i", "(-1±i)/2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Difficult",
+      "tutor": "Cube roots of unity: 1, (-1+i√3)/2, (-1-i√3)/2. The complex roots are (-1±i√3)/2."
+    },
+    {
+      "question": "If z = 2 + 3i, what is z × z̄ (z times its conjugate)?",
+      "choices": ["13", "5", "1", "12"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Easy",
+      "tutor": "z × z̄ = |z|² = 2² + 3² = 4 + 9 = 13."
+    },
+    {
+      "question": "Express e^(iπ) in rectangular form.",
+      "choices": ["-1", "1", "i", "-i"],
+      "answer": 0,
+      "topic": "Algebra for EE - Complex Numbers",
+      "difficulty": "Moderate",
+      "tutor": "Euler's formula: e^(iθ) = cosθ + i sinθ. e^(iπ) = cos π + i sin π = -1 + 0 = -1."
+    }
+  ]
+}

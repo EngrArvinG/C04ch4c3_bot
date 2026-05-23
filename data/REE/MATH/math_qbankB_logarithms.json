@@ -1,0 +1,166 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "Evaluate: log₂(64)",
+      "choices": ["6", "8", "4", "32"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₂(64) = x means 2ˣ = 64 = 2⁶, so x = 6."
+    },
+    {
+      "question": "What is log₁₀(1000)?",
+      "choices": ["3", "4", "2", "10"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₁₀(1000) = log₁₀(10³) = 3."
+    },
+    {
+      "question": "Simplify: log(x²y³/z)",
+      "choices": ["2log x + 3log y - log z", "2log x - 3log y + log z", "log x + log y - log z", "2log x × 3log y / log z"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "Using log properties: log(x²y³/z) = 2log x + 3log y - log z."
+    },
+    {
+      "question": "Solve for x: log₃(x) = 4",
+      "choices": ["81", "12", "64", "27"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₃(x) = 4 means x = 3⁴ = 81."
+    },
+    {
+      "question": "What is the value of ln(e³)?",
+      "choices": ["3", "e³", "1", "9"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "ln(eⁿ) = n. Therefore ln(e³) = 3."
+    },
+    {
+      "question": "Solve: log₅(x) + log₅(4) = log₅(20)",
+      "choices": ["5", "4", "10", "16"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₅(4x) = log₅(20) → 4x = 20 → x = 5."
+    },
+    {
+      "question": "Convert log₃(15) to natural logarithm form.",
+      "choices": ["ln(15)/ln(3)", "ln(3)/ln(15)", "ln(15-3)", "ln(15)×ln(3)"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "Change of base formula: log_b(x) = ln(x)/ln(b). So log₃(15) = ln(15)/ln(3)."
+    },
+    {
+      "question": "If log x = 2 and log y = 3, find log(x²/√y).",
+      "choices": ["2.5", "1.5", "3.5", "4.0"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "log(x²/√y) = 2log x - (1/2)log y = 2(2) - (1/2)(3) = 4 - 1.5 = 2.5."
+    },
+    {
+      "question": "Solve for x: 2^(x+1) = 32",
+      "choices": ["4", "5", "3", "6"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "2^(x+1) = 2⁵ → x+1 = 5 → x = 4."
+    },
+    {
+      "question": "What is log₄(1/64)?",
+      "choices": ["-3", "3", "-4", "4"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "log₄(1/64) = log₄(4⁻³) = -3."
+    },
+    {
+      "question": "Solve: log₂(x²- 4) = 3",
+      "choices": ["x = ±√12", "x = ±4", "x = ±2√3", "x = ±√8"],
+      "answer": 2,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "x²-4 = 2³ = 8 → x² = 12 → x = ±√12 = ±2√3."
+    },
+    {
+      "question": "If ln(2) = 0.693 and ln(3) = 1.099, find ln(6).",
+      "choices": ["1.792", "1.386", "2.197", "0.406"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "ln(6) = ln(2×3) = ln(2) + ln(3) = 0.693 + 1.099 = 1.792."
+    },
+    {
+      "question": "What is the value of log₁₀(0.001)?",
+      "choices": ["-3", "-2", "3", "0.001"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "0.001 = 10⁻³, so log₁₀(0.001) = -3."
+    },
+    {
+      "question": "Solve: 3^(2x) = 27",
+      "choices": ["1.5", "3", "1", "2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "3^(2x) = 3³ → 2x = 3 → x = 1.5."
+    },
+    {
+      "question": "Simplify: log₂(8) + log₂(4) - log₂(2)",
+      "choices": ["4", "5", "3", "6"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₂(8) = 3, log₂(4) = 2, log₂(2) = 1. Total = 3 + 2 - 1 = 4."
+    },
+    {
+      "question": "What is the natural log of 1?",
+      "choices": ["0", "1", "e", "undefined"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "ln(1) = 0 because e⁰ = 1."
+    },
+    {
+      "question": "If log_b(64) = 3, what is the base b?",
+      "choices": ["4", "8", "2", "16"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "b³ = 64 = 4³ → b = 4."
+    },
+    {
+      "question": "Solve for x: log(3x - 2) = log(x + 4)",
+      "choices": ["3", "2", "4", "1"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Moderate",
+      "tutor": "3x - 2 = x + 4 → 2x = 6 → x = 3."
+    },
+    {
+      "question": "What is log₇(49²)?",
+      "choices": ["4", "2", "98", "14"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log₇(49²) = 2 × log₇(49) = 2 × log₇(7²) = 2 × 2 = 4."
+    },
+    {
+      "question": "If log(2) = 0.3010, what is log(8)?",
+      "choices": ["0.9030", "0.6020", "1.2040", "0.4515"],
+      "answer": 0,
+      "topic": "Algebra for EE - Logarithms",
+      "difficulty": "Easy",
+      "tutor": "log(8) = log(2³) = 3 × log(2) = 3 × 0.3010 = 0.9030."
+    }
+  ]
+}

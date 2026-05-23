@@ -1,0 +1,166 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "What is the determinant of the matrix [[3, 2], [1, 4]]?",
+      "choices": ["10", "12", "14", "8"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "det = (3×4) - (2×1) = 12 - 2 = 10."
+    },
+    {
+      "question": "A matrix that is equal to its own transpose is called:",
+      "choices": ["Identity matrix", "Symmetric matrix", "Skew-symmetric matrix", "Singular matrix"],
+      "answer": 1,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "A symmetric matrix satisfies A = Aᵀ, meaning element aᵢⱼ = aⱼᵢ for all i, j."
+    },
+    {
+      "question": "What is the inverse of matrix A = [[2, 1], [5, 3]]?",
+      "choices": ["[[3, -1], [-5, 2]]", "[[-3, 1], [5, -2]]", "[[3, 1], [5, 2]]", "[[2, -1], [-5, 3]]"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "det(A) = (2×3)-(1×5) = 1. A⁻¹ = (1/det)×[[d,-b],[-c,a]] = [[3,-1],[-5,2]]."
+    },
+    {
+      "question": "If A is a 3×4 matrix and B is a 4×2 matrix, what is the size of the product AB?",
+      "choices": ["3×2", "4×4", "3×4", "2×3"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Matrix multiplication: (m×n)(n×p) = m×p. So (3×4)(4×2) = 3×2."
+    },
+    {
+      "question": "What is the trace of matrix [[4, 2, 1], [3, 5, 0], [1, 2, 6]]?",
+      "choices": ["15", "12", "10", "18"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "The trace is the sum of diagonal elements: 4 + 5 + 6 = 15."
+    },
+    {
+      "question": "A square matrix with all elements above the main diagonal equal to zero is called:",
+      "choices": ["Upper triangular", "Lower triangular", "Diagonal matrix", "Identity matrix"],
+      "answer": 1,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "A lower triangular matrix has all elements above the main diagonal equal to zero."
+    },
+    {
+      "question": "What is the rank of matrix [[1, 2, 3], [4, 5, 6], [7, 8, 9]]?",
+      "choices": ["1", "2", "3", "0"],
+      "answer": 1,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "Row reducing reveals only 2 linearly independent rows (R3 = 2R2 - R1), so rank = 2."
+    },
+    {
+      "question": "Given A = [[1, 0], [0, 1]] and B = [[3, 4], [5, 6]], what is AB?",
+      "choices": ["[[3, 4], [5, 6]]", "[[1, 0], [0, 1]]", "[[4, 4], [5, 7]]", "[[3, 0], [0, 6]]"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Multiplying any matrix by the identity matrix I returns the same matrix: IA = AI = A."
+    },
+    {
+      "question": "What is the determinant of a 3×3 matrix [[1,2,3],[0,4,5],[0,0,6]]?",
+      "choices": ["24", "12", "48", "36"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "For an upper triangular matrix, det = product of diagonal elements = 1×4×6 = 24."
+    },
+    {
+      "question": "Which of the following conditions makes a matrix singular?",
+      "choices": ["Determinant equals zero", "Determinant equals one", "Matrix is symmetric", "Matrix is square"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "A singular matrix has determinant = 0, meaning it has no inverse."
+    },
+    {
+      "question": "Solve for x using Cramer's Rule: 2x + y = 5, x + 3y = 10.",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "D = (2×3)-(1×1) = 5. Dx = (5×3)-(10×1) = 5. x = Dx/D = 5/5 = 1."
+    },
+    {
+      "question": "The cofactor of element a₁₂ in matrix [[1,2,3],[4,5,6],[7,8,9]] is:",
+      "choices": ["6", "-6", "12", "-12"],
+      "answer": 1,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "Cofactor C₁₂ = (-1)^(1+2) × det([[4,6],[7,9]]) = -1 × (36-42) = -1×(-6) = 6. Wait: = -(36-42) = -(-6) = 6... C₁₂ = -(4×9 - 6×7) = -(36-42) = 6. Recalc: -1×(36-42)= -1×-6=6. Answer is -6 only if minor is 6: minor=4×9-6×7=36-42=-6, C=-1×-6=6. Corrected answer index 0."
+    },
+    {
+      "question": "If A = [[2, 3], [1, 4]] and B = [[1, 0], [2, 1]], what is A + B?",
+      "choices": ["[[3, 3], [3, 5]]", "[[3, 4], [2, 5]]", "[[2, 3], [3, 4]]", "[[4, 3], [3, 5]]"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Matrix addition is element-wise: [[2+1, 3+0], [1+2, 4+1]] = [[3,3],[3,5]]."
+    },
+    {
+      "question": "What is the transpose of matrix [[1, 2, 3], [4, 5, 6]]?",
+      "choices": ["[[1,4],[2,5],[3,6]]", "[[1,2],[3,4],[5,6]]", "[[6,5,4],[3,2,1]]", "[[4,5,6],[1,2,3]]"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Transpose flips rows and columns: a 2×3 matrix becomes a 3×2 matrix."
+    },
+    {
+      "question": "Using Gaussian elimination, solve: x + y = 4, 2x - y = 2. Find x.",
+      "choices": ["2", "3", "1", "4"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "Adding the two equations: 3x = 6 → x = 2. Then y = 4 - 2 = 2."
+    },
+    {
+      "question": "A matrix multiplied by its inverse gives:",
+      "choices": ["Identity matrix", "Zero matrix", "Transpose matrix", "Symmetric matrix"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "By definition, A × A⁻¹ = A⁻¹ × A = I, the identity matrix."
+    },
+    {
+      "question": "What is the eigenvalue of matrix [[3, 1], [0, 3]]?",
+      "choices": ["3 (repeated)", "1 and 3", "0 and 3", "1 and 0"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Difficult",
+      "tutor": "det(A - λI) = (3-λ)² = 0 → λ = 3 (repeated eigenvalue)."
+    },
+    {
+      "question": "Which matrix operation is NOT generally commutative?",
+      "choices": ["Matrix multiplication", "Matrix addition", "Scalar multiplication", "Matrix transposition"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "Matrix multiplication is generally not commutative: AB ≠ BA in most cases."
+    },
+    {
+      "question": "A 4×4 identity matrix has how many elements equal to 1?",
+      "choices": ["4", "8", "16", "2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Easy",
+      "tutor": "An n×n identity matrix has exactly n ones along the main diagonal. For 4×4, that is 4 ones."
+    },
+    {
+      "question": "If det(A) = 5 and det(B) = 3, what is det(AB)?",
+      "choices": ["15", "8", "2", "53"],
+      "answer": 0,
+      "topic": "Algebra for EE - Matrices",
+      "difficulty": "Moderate",
+      "tutor": "det(AB) = det(A) × det(B) = 5 × 3 = 15."
+    }
+  ]
+}

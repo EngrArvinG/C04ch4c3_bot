@@ -1,0 +1,166 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "Solve for x: 2x² - 5x - 3 = 0",
+      "choices": ["x = 3 or x = -1/2", "x = -3 or x = 1/2", "x = 3 or x = 1/2", "x = -3 or x = -1/2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Quadratic Equations",
+      "difficulty": "Moderate",
+      "tutor": "Factor: (2x+1)(x-3) = 0. x = -1/2 or x = 3."
+    },
+    {
+      "question": "What is the sum of roots of 3x² - 6x + 2 = 0?",
+      "choices": ["2", "3", "-2", "6"],
+      "answer": 0,
+      "topic": "Algebra for EE - Quadratic Equations",
+      "difficulty": "Easy",
+      "tutor": "Sum of roots = -b/a = -(-6)/3 = 2."
+    },
+    {
+      "question": "What is the product of roots of 2x² + 4x - 6 = 0?",
+      "choices": ["-3", "3", "-2", "2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Quadratic Equations",
+      "difficulty": "Easy",
+      "tutor": "Product of roots = c/a = -6/2 = -3."
+    },
+    {
+      "question": "Solve the system: 2x + y = 7 and x - y = 2.",
+      "choices": ["x=3, y=1", "x=2, y=3", "x=1, y=5", "x=4, y=-1"],
+      "answer": 0,
+      "topic": "Algebra for EE - Systems of Equations",
+      "difficulty": "Easy",
+      "tutor": "Adding equations: 3x = 9 → x = 3. Substituting: y = 7 - 2(3) = 1."
+    },
+    {
+      "question": "Simplify: (x² - 9)/(x + 3)",
+      "choices": ["x - 3", "x + 3", "x² - 3", "x - 9"],
+      "answer": 0,
+      "topic": "Algebra for EE - Rational Expressions",
+      "difficulty": "Easy",
+      "tutor": "Factor numerator: (x+3)(x-3)/(x+3) = x-3."
+    },
+    {
+      "question": "What is the 10th term of the arithmetic sequence 3, 7, 11, 15, ...?",
+      "choices": ["39", "43", "35", "47"],
+      "answer": 0,
+      "topic": "Algebra for EE - Sequences",
+      "difficulty": "Easy",
+      "tutor": "aₙ = a₁ + (n-1)d = 3 + (10-1)(4) = 3 + 36 = 39."
+    },
+    {
+      "question": "Find the sum of the first 10 terms of the geometric series 2, 6, 18, ...",
+      "choices": ["59048", "29524", "19682", "39366"],
+      "answer": 0,
+      "topic": "Algebra for EE - Sequences",
+      "difficulty": "Moderate",
+      "tutor": "Sₙ = a(rⁿ-1)/(r-1) = 2(3¹⁰-1)/(3-1) = 2(59049-1)/2 = 59048."
+    },
+    {
+      "question": "Solve for x: |2x - 4| = 6",
+      "choices": ["x=5 or x=-1", "x=5 or x=1", "x=-5 or x=1", "x=4 or x=-2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Absolute Value",
+      "difficulty": "Moderate",
+      "tutor": "2x-4=6 → x=5. Or 2x-4=-6 → x=-1."
+    },
+    {
+      "question": "What is the remainder when x³ - 2x² + 3x - 4 is divided by (x-2)?",
+      "choices": ["2", "4", "0", "-2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Remainder Theorem",
+      "difficulty": "Moderate",
+      "tutor": "By remainder theorem, substitute x=2: 8-8+6-4 = 2."
+    },
+    {
+      "question": "Factor completely: x³ - 8",
+      "choices": ["(x-2)(x²+2x+4)", "(x+2)(x²-2x+4)", "(x-2)(x+2)²", "(x-2)³"],
+      "answer": 0,
+      "topic": "Algebra for EE - Factoring",
+      "difficulty": "Moderate",
+      "tutor": "Difference of cubes: a³-b³ = (a-b)(a²+ab+b²). x³-8 = (x-2)(x²+2x+4)."
+    },
+    {
+      "question": "If f(x) = 2x² - 3x + 1, find f(-2).",
+      "choices": ["15", "11", "3", "-1"],
+      "answer": 0,
+      "topic": "Algebra for EE - Functions",
+      "difficulty": "Easy",
+      "tutor": "f(-2) = 2(-2)² - 3(-2) + 1 = 8 + 6 + 1 = 15."
+    },
+    {
+      "question": "Solve: √(2x+3) = 5",
+      "choices": ["11", "14", "8", "22"],
+      "answer": 0,
+      "topic": "Algebra for EE - Radical Equations",
+      "difficulty": "Easy",
+      "tutor": "Square both sides: 2x+3 = 25 → 2x = 22 → x = 11."
+    },
+    {
+      "question": "What is the discriminant of 2x² - 4x + 2 = 0?",
+      "choices": ["0", "8", "16", "-8"],
+      "answer": 0,
+      "topic": "Algebra for EE - Quadratic Equations",
+      "difficulty": "Easy",
+      "tutor": "Discriminant = b² - 4ac = 16 - 4(2)(2) = 16 - 16 = 0."
+    },
+    {
+      "question": "The sum of three consecutive integers is 51. What is the largest integer?",
+      "choices": ["18", "17", "19", "16"],
+      "answer": 0,
+      "topic": "Algebra for EE - Word Problems",
+      "difficulty": "Easy",
+      "tutor": "Let n, n+1, n+2 be the integers. 3n+3=51 → n=16. Largest = 18."
+    },
+    {
+      "question": "Solve for x: (x+2)/(x-1) = 3",
+      "choices": ["2.5", "1.5", "3.5", "0.5"],
+      "answer": 0,
+      "topic": "Algebra for EE - Rational Equations",
+      "difficulty": "Moderate",
+      "tutor": "x+2 = 3(x-1) → x+2 = 3x-3 → 5 = 2x → x = 2.5."
+    },
+    {
+      "question": "What is the inverse function of f(x) = 3x - 6?",
+      "choices": ["(x+6)/3", "(x-6)/3", "3x+6", "(x+2)/3"],
+      "answer": 0,
+      "topic": "Algebra for EE - Functions",
+      "difficulty": "Moderate",
+      "tutor": "y = 3x-6 → x = (y+6)/3. So f⁻¹(x) = (x+6)/3."
+    },
+    {
+      "question": "Find the 5th term in the expansion of (x+y)⁶.",
+      "choices": ["15x²y⁴", "6xy⁵", "15x³y³", "20x²y⁴"],
+      "answer": 0,
+      "topic": "Algebra for EE - Binomial Theorem",
+      "difficulty": "Difficult",
+      "tutor": "5th term: C(6,4)x²y⁴ = 15x²y⁴."
+    },
+    {
+      "question": "If log₂(x) = 5, what is x?",
+      "choices": ["32", "10", "16", "64"],
+      "answer": 0,
+      "topic": "Algebra for EE - Exponential Equations",
+      "difficulty": "Easy",
+      "tutor": "log₂(x) = 5 means x = 2⁵ = 32."
+    },
+    {
+      "question": "What is the common ratio of the geometric sequence 4, 12, 36, 108, ...?",
+      "choices": ["3", "4", "8", "2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Sequences",
+      "difficulty": "Easy",
+      "tutor": "Common ratio r = 12/4 = 3."
+    },
+    {
+      "question": "Solve the inequality: 3x - 5 > 7",
+      "choices": ["x > 4", "x < 4", "x > 2", "x < 2"],
+      "answer": 0,
+      "topic": "Algebra for EE - Inequalities",
+      "difficulty": "Easy",
+      "tutor": "3x - 5 > 7 → 3x > 12 → x > 4."
+    }
+  ]
+}
