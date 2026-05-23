@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is the most common transmission voltage in the Philippines?",
+      "choices": ["69 kV", "115 kV", "230 kV", "500 kV"],
+      "answer": 1,
+      "topic": "Power Transmission - Voltage Levels",
+      "difficulty": "Easy",
+      "tutor": "NGCP uses 115 kV and 230 kV as primary transmission voltages."
+    },
+    {
+      "question": "What is the relationship between line voltage and phase voltage in wye connection?",
+      "choices": ["VL = √3 Vph", "VL = Vph", "VL = 3 Vph", "VL = Vph/√3"],
+      "answer": 0,
+      "topic": "Power Transmission - Three-Phase Systems",
+      "difficulty": "Easy",
+      "tutor": "For wye: VL = √3 × Vph, with 30° phase shift."
+    },
+    {
+      "question": "What is the relationship between line current and phase current in delta connection?",
+      "choices": ["IL = √3 Iph", "IL = Iph", "IL = 3 Iph", "IL = Iph/√3"],
+      "answer": 0,
+      "topic": "Power Transmission - Three-Phase Systems",
+      "difficulty": "Easy",
+      "tutor": "For delta: IL = √3 × Iph."
+    },
+    {
+      "question": "What is the power formula for balanced three-phase system?",
+      "choices": ["P = √3 VL IL cosθ", "P = 3 VL IL cosθ", "P = VL IL cosθ", "P = Vph Iph cosθ"],
+      "answer": 0,
+      "topic": "Power Transmission - Three-Phase Power",
+      "difficulty": "Moderate",
+      "tutor": "P = √3 × VL × IL × PF (for balanced loads)."
+    },
+    {
+      "question": "What is the purpose of a transmission line?",
+      "choices": ["Bulk power over long distance", "Local distribution", "Step down voltage", "Generate power"],
+      "answer": 0,
+      "topic": "Power Transmission - Function",
+      "difficulty": "Easy",
+      "tutor": "Transmission lines carry bulk power from generation to substations."
+    },
+    {
+      "question": "What is the main advantage of high voltage transmission?",
+      "choices": ["Reduces losses", "Increases current", "Reduces voltage", "Simplifies protection"],
+      "answer": 0,
+      "topic": "Power Transmission - High Voltage",
+      "difficulty": "Easy",
+      "tutor": "Higher voltage reduces current, hence lower I²R losses."
+    },
+    {
+      "question": "What is the typical distribution voltage for residential areas?",
+      "choices": ["13.8 kV / 230 V", "115 kV", "230 kV", "69 kV"],
+      "answer": 0,
+      "topic": "Power Distribution - Voltage Levels",
+      "difficulty": "Easy",
+      "tutor": "Primary distribution: 13.8 kV, secondary: 230/400 V."
+    },
+    {
+      "question": "What is ACSR conductor?",
+      "choices": ["Aluminum Conductor Steel Reinforced", "All Copper Steel Reinforced", "Aluminum Core Steel Reinforced", "AC Steel Ring"],
+      "answer": 0,
+      "topic": "Power Transmission - Conductors",
+      "difficulty": "Easy",
+      "tutor": "ACSR has aluminum strands around steel core for strength and conductivity."
+    },
+    {
+      "question": "What is a transmission line surge arrester used for?",
+      "choices": ["Protect from lightning", "Reduce corona", "Improve power factor", "Step down voltage"],
+      "answer": 0,
+      "topic": "Power Transmission - Protection",
+      "difficulty": "Easy",
+      "tutor": "Surge arresters limit overvoltages from lightning or switching."
+    },
+    {
+      "question": "What is the effect of skin effect in transmission lines?",
+      "choices": ["Current flows on outer surface", "Current flows uniformly", "Reduces resistance", "Increases capacitance"],
+      "answer": 0,
+      "topic": "Power Transmission - Skin Effect",
+      "difficulty": "Moderate",
+      "tutor": "Skin effect causes AC current to concentrate at conductor surface."
+    },
+    {
+      "question": "What is corona discharge?",
+      "choices": ["Ionization of air around conductor", "Short circuit", "Ground fault", "Overcurrent"],
+      "answer": 0,
+      "topic": "Power Transmission - Corona",
+      "difficulty": "Moderate",
+      "tutor": "Corona occurs when electric field exceeds air dielectric strength, causing hissing and violet glow."
+    },
+    {
+      "question": "What is the sag of a transmission line?",
+      "choices": ["Vertical distance between supports", "Horizontal distance", "Conductor length", "Tower height"],
+      "answer": 0,
+      "topic": "Power Transmission - Sag",
+      "difficulty": "Easy",
+      "tutor": "Sag is the vertical dip of conductor between two supports."
+    },
+    {
+      "question": "What is the main cause of line sag?",
+      "choices": ["Temperature increase", "Wind only", "Ice only", "Conductor aging"],
+      "answer": 0,
+      "topic": "Power Transmission - Sag",
+      "difficulty": "Moderate",
+      "tutor": "Higher temperature expands conductor, increasing sag."
+    },
+    {
+      "question": "What is a distribution substation?",
+      "choices": ["Steps down voltage for distribution", "Generates power", "Steps up voltage", "Switches only"],
+      "answer": 0,
+      "topic": "Power Distribution - Substations",
+      "difficulty": "Easy",
+      "tutor": "Distribution substation reduces transmission voltage to primary distribution level."
+    },
+    {
+      "question": "What is the typical secondary distribution voltage in the Philippines?",
+      "choices": ["230 V / 400 V", "13.8 kV", "69 kV", "115 kV"],
+      "answer": 0,
+      "topic": "Power Distribution - Secondary",
+      "difficulty": "Easy",
+      "tutor": "Residential secondary voltage is 230V single-phase or 400V three-phase."
+    },
+    {
+      "question": "What is the function of a distribution transformer?",
+      "choices": ["Step down primary to utilization voltage", "Step up voltage", "Isolate only", "Correct power factor"],
+      "answer": 0,
+      "topic": "Power Distribution - Transformers",
+      "difficulty": "Easy",
+      "tutor": "Distribution transformer steps down primary (e.g., 13.8 kV) to 230/400 V."
+    },
+    {
+      "question": "What is the length of a typical distribution primary line?",
+      "choices": ["Up to several kilometers", "500 km", "1000 km", "50 km"],
+      "answer": 0,
+      "topic": "Power Distribution - Primary Lines",
+      "difficulty": "Moderate",
+      "tutor": "Primary distribution lines typically run from substation to load centers (few km)."
+    },
+    {
+      "question": "What is the difference between transmission and distribution?",
+      "choices": ["Transmission: bulk power, long distance; Distribution: local delivery", "Both are same", "Distribution is higher voltage", "Transmission is underground"],
+      "answer": 0,
+      "topic": "Power System - Comparison",
+      "difficulty": "Easy",
+      "tutor": "Transmission moves bulk power over long distances; distribution delivers to end users."
+    },
+    {
+      "question": "What is a tap changer in a transformer?",
+      "choices": ["Adjusts turns ratio", "Changes frequency", "Changes oil level", "Protects from lightning"],
+      "answer": 0,
+      "topic": "Power Distribution - Transformers",
+      "difficulty": "Moderate",
+      "tutor": "Tap changer adjusts transformer voltage ratio under load or off-load."
+    },
+    {
+      "question": "What is the purpose of a recloser in distribution?",
+      "choices": ["Automatically restore power after temporary fault", "Step down voltage", "Measure power", "Switch manually"],
+      "answer": 0,
+      "topic": "Power Distribution - Protection",
+      "difficulty": "Moderate",
+      "tutor": "Recloser opens on fault and recloses automatically; clears temporary faults."
+    },
+    {
+      "question": "What is the typical spacing of distribution poles in urban areas?",
+      "choices": ["30-50 m", "10-20 m", "100-150 m", "200-300 m"],
+      "answer": 0,
+      "topic": "Power Distribution - Pole Spacing",
+      "difficulty": "Moderate",
+      "tutor": "Typical pole spacing is 30-50 meters depending on conductor sag and terrain."
+    },
+    {
+      "question": "What is a sectionalizer?",
+      "choices": ["Isolates faulted section after recloser opens", "Steps down voltage", "Measures current", "Generates power"],
+      "answer": 0,
+      "topic": "Power Distribution - Protection",
+      "difficulty": "Difficult",
+      "tutor": "Sectionalizer opens after counting fault current interruptions to isolate faulted segment."
+    },
+    {
+      "question": "What is the purpose of a lightning arrester on a distribution line?",
+      "choices": ["Divert surge current to ground", "Step down voltage", "Measure lightning", "Improve power factor"],
+      "answer": 0,
+      "topic": "Power Distribution - Surge Protection",
+      "difficulty": "Easy",
+      "tutor": "Lightning arrester clamps overvoltage and diverts surge current to ground."
+    },
+    {
+      "question": "What is the nominal secondary voltage for commercial buildings?",
+      "choices": ["230/400 V three-phase", "13.8 kV", "69 kV", "115 kV"],
+      "answer": 0,
+      "topic": "Power Distribution - Secondary",
+      "difficulty": "Easy",
+      "tutor": "Commercial buildings typically use 230/400 V three-phase or 230 V single-phase."
+    },
+    {
+      "question": "What is the typical frequency of Philippine power system?",
+      "choices": ["60 Hz", "50 Hz", "400 Hz", "25 Hz"],
+      "answer": 0,
+      "topic": "Power System - Frequency",
+      "difficulty": "Easy",
+      "tutor": "Philippines uses 60 Hz (same as US, different from 50 Hz of Europe/Asia)."
+    }
+  ]
+}

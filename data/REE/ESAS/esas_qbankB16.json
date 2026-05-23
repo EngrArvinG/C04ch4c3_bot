@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the SI unit of dynamic viscosity?",
+      "choices": ["Pa·s", "m²/s", "N/m", "kg/m³"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Viscosity",
+      "difficulty": "Easy",
+      "tutor": "Dynamic viscosity μ is measured in Pascal-seconds (Pa·s) or N·s/m²."
+    },
+    {
+      "question": "What is the pressure at a depth of 10 m in water (ρ = 1000 kg/m³, g = 9.8 m/s²) assuming atmospheric pressure is neglected?",
+      "choices": ["98 kPa", "9.8 kPa", "980 kPa", "0.98 kPa"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Hydrostatics",
+      "difficulty": "Moderate",
+      "tutor": "P = ρgh = 1000 × 9.8 × 10 = 98,000 Pa = 98 kPa."
+    },
+    {
+      "question": "Which principle explains the buoyant force on a submerged object?",
+      "choices": ["Bernoulli's principle", "Archimedes' principle", "Pascal's principle", "Continuity equation"],
+      "answer": 1,
+      "topic": "Fluid Mechanics - Buoyancy",
+      "difficulty": "Easy",
+      "tutor": "Archimedes' principle: buoyant force equals weight of displaced fluid."
+    },
+    {
+      "question": "What is the continuity equation in fluid mechanics?",
+      "choices": ["A₁v₁ = A₂v₂", "P₁ + ½ρv₁² + ρgh₁ = P₂ + ½ρv₂² + ρgh₂", "F = ρQv", "Q = A×v"],
+      "answer": 3,
+      "topic": "Fluid Mechanics - Continuity",
+      "difficulty": "Easy",
+      "tutor": "Continuity equation: Q = A₁v₁ = A₂v₂ (incompressible flow)."
+    },
+    {
+      "question": "What is the Reynolds number used to determine?",
+      "choices": ["Flow regime (laminar or turbulent)", "Pressure drop", "Flow rate", "Velocity profile"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Flow Regimes",
+      "difficulty": "Moderate",
+      "tutor": "Reynolds number Re = ρvD/μ determines laminar (Re<2000) or turbulent (Re>4000) flow."
+    },
+    {
+      "question": "What does Pascal's principle state?",
+      "choices": ["Pressure applied to an enclosed fluid is transmitted undiminished", "Velocity increases as pressure decreases", "Flow rate is constant", "Buoyant force equals weight of displaced fluid"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Pascal's Law",
+      "difficulty": "Easy",
+      "tutor": "Pascal's principle: pressure change in an enclosed incompressible fluid is transmitted equally throughout."
+    },
+    {
+      "question": "What is the specific gravity of a fluid with density 800 kg/m³? (ρ_water = 1000 kg/m³)",
+      "choices": ["0.8", "1.25", "800", "0.08"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Properties",
+      "difficulty": "Moderate",
+      "tutor": "SG = ρ_fluid / ρ_water = 800/1000 = 0.8."
+    },
+    {
+      "question": "What is the kinematic viscosity ν if μ = 0.001 Pa·s and ρ = 1000 kg/m³?",
+      "choices": ["1 × 10⁻⁶ m²/s", "0.001 m²/s", "1 × 10⁻³ m²/s", "1 m²/s"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Viscosity",
+      "difficulty": "Difficult",
+      "tutor": "ν = μ/ρ = 0.001/1000 = 1 × 10⁻⁶ m²/s (1 cSt)."
+    },
+    {
+      "question": "What is the pressure head equivalent to 50 kPa in water? (ρ = 1000 kg/m³, g=9.8 m/s²)",
+      "choices": ["5.1 m", "0.51 m", "51 m", "0.051 m"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Hydrostatics",
+      "difficulty": "Difficult",
+      "tutor": "h = P/(ρg) = 50,000/(1000×9.8) = 5.102 m."
+    },
+    {
+      "question": "Which flow meter operates on the principle of Bernoulli's equation?",
+      "choices": ["Rotameter", "Venturi meter", "Electromagnetic flow meter", "Turbine meter"],
+      "answer": 1,
+      "topic": "Fluid Mechanics - Flow Measurement",
+      "difficulty": "Moderate",
+      "tutor": "Venturi meter uses pressure difference (Bernoulli) to measure flow rate."
+    },
+    {
+      "question": "What is the force on a 2 m² gate submerged vertically in water with its top at the surface? (ρ=1000 kg/m³, g=9.8 m/s²)",
+      "choices": ["19,600 N", "9,800 N", "39,200 N", "4,900 N"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Hydrostatic Forces",
+      "difficulty": "Difficult",
+      "tutor": "F = ρg × h_c × A = 1000×9.8×(1)×2 = 19,600 N (h_c is centroid depth)."
+    },
+    {
+      "question": "What does Bernoulli's equation assume?",
+      "choices": ["Steady, incompressible, inviscid flow along a streamline", "Turbulent flow only", "Compressible flow", "Unsteady flow"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Bernoulli's Principle",
+      "difficulty": "Easy",
+      "tutor": "Bernoulli assumes steady, incompressible, frictionless flow along a streamline."
+    },
+    {
+      "question": "What is the hydraulic grade line (HGL)?",
+      "choices": ["P/ρg + z", "v²/2g", "P/ρg + v²/2g + z", "P + ρgh"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Energy Grade Line",
+      "difficulty": "Difficult",
+      "tutor": "HGL = pressure head + elevation head = P/ρg + z."
+    },
+    {
+      "question": "What is the flow rate in a pipe of diameter 0.2 m if average velocity is 3 m/s?",
+      "choices": ["0.0942 m³/s", "0.942 m³/s", "0.00942 m³/s", "9.42 m³/s"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Flow Rate",
+      "difficulty": "Moderate",
+      "tutor": "A = πd²/4 = π(0.2)²/4 = 0.0314 m², Q = A×v = 0.0314×3 = 0.0942 m³/s."
+    },
+    {
+      "question": "What is the difference between absolute pressure and gauge pressure?",
+      "choices": ["Absolute = gauge + atmospheric", "Gauge = absolute + atmospheric", "Absolute = gauge - atmospheric", "They are the same"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Pressure",
+      "difficulty": "Easy",
+      "tutor": "Absolute pressure = gauge pressure + atmospheric pressure."
+    },
+    {
+      "question": "What is the Darcy-Weisbach equation used for?",
+      "choices": ["Calculating head loss due to friction in pipes", "Measuring flow velocity", "Determining buoyant force", "Finding Reynolds number"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Pipe Flow",
+      "difficulty": "Moderate",
+      "tutor": "Darcy-Weisbach: h_f = f × (L/D) × (v²/2g) for friction head loss."
+    },
+    {
+      "question": "What does the Moody chart provide?",
+      "choices": ["Friction factor f as function of Re and ε/D", "Velocity profile", "Pressure drop coefficient", "Flow regime"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Pipe Flow",
+      "difficulty": "Difficult",
+      "tutor": "Moody chart gives Darcy friction factor f for pipe flow based on Re and relative roughness."
+    },
+    {
+      "question": "What is the purpose of a pitot tube?",
+      "choices": ["Measure local fluid velocity", "Measure flow rate", "Measure pressure drop", "Measure density"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Flow Measurement",
+      "difficulty": "Moderate",
+      "tutor": "Pitot tube measures stagnation pressure to compute local velocity via Bernoulli."
+    },
+    {
+      "question": "What is the definition of specific weight?",
+      "choices": ["Weight per unit volume", "Mass per unit volume", "Force per unit area", "Volume per unit mass"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Properties",
+      "difficulty": "Easy",
+      "tutor": "Specific weight γ = ρg = weight/volume (N/m³)."
+    },
+    {
+      "question": "What happens to fluid velocity in a converging section of a pipe?",
+      "choices": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+      "answer": 0,
+      "topic": "Fluid Mechanics - Continuity",
+      "difficulty": "Easy",
+      "tutor": "By continuity A₁v₁ = A₂v₂, when area decreases, velocity increases."
+    }
+  ]
+}

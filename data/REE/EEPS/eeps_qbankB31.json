@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is a control system?",
+      "choices": ["Manipulates variables to achieve desired output", "Measures voltage only", "Generates power", "Stores energy"],
+      "answer": 0,
+      "topic": "Control System - Definition",
+      "difficulty": "Easy",
+      "tutor": "Control system regulates process variables to desired setpoint."
+    },
+    {
+      "question": "What is the difference between open-loop and closed-loop?",
+      "choices": ["Closed-loop uses feedback; open-loop does not", "Open-loop uses feedback", "Both same", "Closed-loop is manual"],
+      "answer": 0,
+      "topic": "Control System - Open vs Closed Loop",
+      "difficulty": "Easy",
+      "tutor": "Closed-loop uses feedback to correct errors; open-loop has no feedback."
+    },
+    {
+      "question": "What is feedback in control systems?",
+      "choices": ["Compare output to reference", "Input signal only", "Output only", "Disturbance only"],
+      "answer": 0,
+      "topic": "Control System - Feedback",
+      "difficulty": "Easy",
+      "tutor": "Feedback senses output and compares to desired reference."
+    },
+    {
+      "question": "What is a PID controller?",
+      "choices": ["Proportional-Integral-Derivative", "Positive-Integral-Differential", "Proportional-Integral-Delay", "Proportional-Inverse-Derivative"],
+      "answer": 0,
+      "topic": "Control System - PID Controller",
+      "difficulty": "Moderate",
+      "tutor": "PID controller has proportional, integral, and derivative terms for tuning."
+    },
+    {
+      "question": "What does the proportional term (P) do?",
+      "choices": ["Provides immediate response proportional to error", "Eliminates steady-state error", "Anticipates future error", "Adds delay"],
+      "answer": 0,
+      "topic": "Control System - PID (P)",
+      "difficulty": "Moderate",
+      "tutor": "P term produces output proportional to current error."
+    },
+    {
+      "question": "What does the integral term (I) do?",
+      "choices": ["Eliminates steady-state error", "Provides immediate response", "Anticipates future error", "Reduces overshoot"],
+      "answer": 0,
+      "topic": "Control System - PID (I)",
+      "difficulty": "Moderate",
+      "tutor": "I term accumulates past errors to eliminate offset."
+    },
+    {
+      "question": "What does the derivative term (D) do?",
+      "choices": ["Anticipates future error", "Eliminates steady-state error", "Provides immediate response", "Adds delay"],
+      "answer": 0,
+      "topic": "Control System - PID (D)",
+      "difficulty": "Moderate",
+      "tutor": "D term reacts to rate of error change, predicting future error."
+    },
+    {
+      "question": "What is a transfer function?",
+      "choices": ["Output/Input in Laplace domain", "Input/Output", "Output/Error", "Error/Output"],
+      "answer": 0,
+      "topic": "Control System - Transfer Function",
+      "difficulty": "Difficult",
+      "tutor": "Transfer function G(s) = Output(s)/Input(s) with zero initial conditions."
+    },
+    {
+      "question": "What is the Laplace transform of a unit step?",
+      "choices": ["1/s", "s", "1", "1/s²"],
+      "answer": 0,
+      "topic": "Control System - Laplace Transform",
+      "difficulty": "Difficult",
+      "tutor": "L{u(t)} = 1/s."
+    },
+    {
+      "question": "What is a first-order system?",
+      "choices": ["One energy storage element", "Two energy storage elements", "No energy storage", "Three energy storage elements"],
+      "answer": 0,
+      "topic": "Control System - First Order",
+      "difficulty": "Moderate",
+      "tutor": "First-order system has one pole and one energy storage element (e.g., RC)."
+    },
+    {
+      "question": "What is the time constant of a first-order system?",
+      "choices": ["Time to reach 63.2% of final value", "Time to reach 100%", "Time to reach 50%", "Time to reach 90%"],
+      "answer": 0,
+      "topic": "Control System - Time Constant",
+      "difficulty": "Easy",
+      "tutor": "τ is time to reach 63.2% of steady-state value."
+    },
+    {
+      "question": "What is a second-order system?",
+      "choices": ["Two energy storage elements", "One energy storage element", "No energy storage", "Three energy storage elements"],
+      "answer": 0,
+      "topic": "Control System - Second Order",
+      "difficulty": "Moderate",
+      "tutor": "Second-order system has two poles (e.g., RLC circuit)."
+    },
+    {
+      "question": "What is damping ratio ζ?",
+      "choices": ["Measure of oscillation decay", "Gain value", "Time constant", "Steady-state error"],
+      "answer": 0,
+      "topic": "Control System - Damping Ratio",
+      "difficulty": "Difficult",
+      "tutor": "ζ determines response: underdamped (ζ<1), critically damped (ζ=1), overdamped (ζ>1)."
+    },
+    {
+      "question": "What is the natural frequency ωn?",
+      "choices": ["Frequency of oscillation without damping", "Frequency at steady state", "Cutoff frequency", "Sampling frequency"],
+      "answer": 0,
+      "topic": "Control System - Natural Frequency",
+      "difficulty": "Difficult",
+      "tutor": "ωn is the frequency of oscillation if damping is zero."
+    },
+    {
+      "question": "What is a block diagram?",
+      "choices": ["Graphical representation of system", "Transfer function only", "Laplace transform only", "Time response only"],
+      "answer": 0,
+      "topic": "Control System - Block Diagram",
+      "difficulty": "Easy",
+      "tutor": "Block diagram shows system components and signal flow."
+    },
+    {
+      "question": "What is a summing junction in a block diagram?",
+      "choices": ["Adds/subtracts signals", "Multiplies signals", "Integrates signals", "Differentiates signals"],
+      "answer": 0,
+      "topic": "Control System - Summing Junction",
+      "difficulty": "Easy",
+      "tutor": "Summing point combines multiple signals."
+    },
+    {
+      "question": "What is steady-state error?",
+      "choices": ["Difference between output and reference as t→∞", "Initial error", "Peak error", "Error during transient"],
+      "answer": 0,
+      "topic": "Control System - Steady-State Error",
+      "difficulty": "Moderate",
+      "tutor": "Steady-state error is final deviation after transients die out."
+    },
+    {
+      "question": "What is the final value theorem?",
+      "choices": ["lim s→0 sF(s) = f(∞)", "lim s→∞ sF(s) = f(∞)", "lim t→0 f(t)", "lim s→0 F(s)"],
+      "answer": 0,
+      "topic": "Control System - Final Value Theorem",
+      "difficulty": "Difficult",
+      "tutor": "Final value theorem finds steady-state value from Laplace domain."
+    },
+    {
+      "question": "What is a PLC?",
+      "choices": ["Programmable Logic Controller", "Proportional Logic Controller", "Power Line Carrier", "Phase Locked Circuit"],
+      "answer": 0,
+      "topic": "Control System - PLC",
+      "difficulty": "Easy",
+      "tutor": "PLC is industrial computer for automation and control."
+    },
+    {
+      "question": "What is a SCADA system?",
+      "choices": ["Supervisory Control and Data Acquisition", "System Control and Data Analysis", "Supervisory Computer and Data Access", "Sequential Control and Data Acquisition"],
+      "answer": 0,
+      "topic": "Control System - SCADA",
+      "difficulty": "Easy",
+      "tutor": "SCADA monitors and controls remote industrial processes."
+    },
+    {
+      "question": "What is a sensor?",
+      "choices": ["Converts physical quantity to electrical signal", "Converts electrical to mechanical", "Amplifies signal", "Stores data"],
+      "answer": 0,
+      "topic": "Control System - Sensors",
+      "difficulty": "Easy",
+      "tutor": "Sensor measures process variable (e.g., temperature, pressure)."
+    },
+    {
+      "question": "What is an actuator?",
+      "choices": ["Converts control signal to physical action", "Converts physical to electrical", "Measures variable", "Stores energy"],
+      "answer": 0,
+      "topic": "Control System - Actuators",
+      "difficulty": "Easy",
+      "tutor": "Actuator (e.g., motor, valve) executes control command."
+    },
+    {
+      "question": "What is a servomechanism?",
+      "choices": ["Feedback control system for position/velocity", "Open-loop system", "PID controller only", "PLC only"],
+      "answer": 0,
+      "topic": "Control System - Servo",
+      "difficulty": "Moderate",
+      "tutor": "Servo system uses feedback to control mechanical position or speed."
+    },
+    {
+      "question": "What is the characteristic equation of a control system?",
+      "choices": ["Denominator of closed-loop transfer function = 0", "Numerator = 0", "G(s)H(s)=0", "1-G(s)H(s)=0"],
+      "answer": 0,
+      "topic": "Control System - Characteristic Equation",
+      "difficulty": "Difficult",
+      "tutor": "Characteristic equation = 1 + G(s)H(s) = 0, determines stability."
+    },
+    {
+      "question": "What is the Routh-Hurwitz criterion?",
+      "choices": ["Determines stability without solving roots", "Finds poles", "Finds zeros", "Finds gain"],
+      "answer": 0,
+      "topic": "Control System - Stability",
+      "difficulty": "Difficult",
+      "tutor": "Routh-Hurwitz checks if any poles have positive real parts."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "What is the real part of the complex number z = 5 - 7i?",
+      "choices": ["5", "-7", "7", "-5"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Basic Concepts",
+      "difficulty": "Easy",
+      "tutor": "The real part is the coefficient of the term without i, which is 5."
+    },
+    {
+      "question": "What is the conjugate of z = 3 + 4i?",
+      "choices": ["3 - 4i", "-3 + 4i", "-3 - 4i", "4 + 3i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Complex Conjugate",
+      "difficulty": "Easy",
+      "tutor": "The conjugate of a+bi is a-bi, so conjugate is 3 - 4i."
+    },
+    {
+      "question": "Simplify i^25.",
+      "choices": ["i", "1", "-1", "-i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Powers of i",
+      "difficulty": "Easy",
+      "tutor": "i^4 = 1, so i^25 = i^(24+1) = (i^4)^6 × i = 1×i = i."
+    },
+    {
+      "question": "Add: (3 + 2i) + (5 - 3i).",
+      "choices": ["8 - i", "8 + i", "2 - 5i", "2 + 5i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Addition",
+      "difficulty": "Easy",
+      "tutor": "(3+5) + (2-3)i = 8 - i."
+    },
+    {
+      "question": "What is the modulus of z = 6 - 8i?",
+      "choices": ["10", "14", "2", "100"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Modulus",
+      "difficulty": "Moderate",
+      "tutor": "|z| = √(6² + (-8)²) = √(36+64) = √100 = 10."
+    },
+    {
+      "question": "Multiply: (1 + 2i)(3 - i).",
+      "choices": ["5 + 5i", "1 + 5i", "5 + i", "1 + i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Multiplication",
+      "difficulty": "Moderate",
+      "tutor": "(1)(3) + (1)(-i) + (2i)(3) + (2i)(-i) = 3 - i + 6i -2i² = 3 +5i +2 = 5+5i."
+    },
+    {
+      "question": "What is the argument (angle) of z = 1 + i in degrees?",
+      "choices": ["45°", "135°", "225°", "315°"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Argument",
+      "difficulty": "Moderate",
+      "tutor": "θ = arctan(1/1) = arctan(1) = 45° in Quadrant I."
+    },
+    {
+      "question": "Convert 5∠30° to rectangular form.",
+      "choices": ["4.33 + 2.5i", "2.5 + 4.33i", "5 + 5i", "4.33 - 2.5i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Polar to Rectangular",
+      "difficulty": "Moderate",
+      "tutor": "x = 5 cos30° = 5×0.866 = 4.33, y = 5 sin30° = 5×0.5 = 2.5."
+    },
+    {
+      "question": "Find the quotient: (2 + 3i) / (1 - i).",
+      "choices": ["-0.5 + 2.5i", "0.5 - 2.5i", "2.5 + 0.5i", "2.5 - 0.5i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Division",
+      "difficulty": "Difficult",
+      "tutor": "Multiply numerator and denominator by conjugate: (2+3i)(1+i)/(1²+1²) = (2+2i+3i+3i²)/2 = (2+5i-3)/2 = (-1+5i)/2 = -0.5+2.5i."
+    },
+    {
+      "question": "What is the result of √(-9) in terms of i?",
+      "choices": ["3i", "-3i", "9i", "±3i"],
+      "answer": 3,
+      "topic": "Complex Numbers for EE - Imaginary Unit",
+      "difficulty": "Easy",
+      "tutor": "√(-9) = √9 × √(-1) = 3i, principal square root is 3i."
+    },
+    {
+      "question": "Find (1 + i)^4 using De Moivre's theorem.",
+      "choices": ["-4", "4", "4i", "-4i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - De Moivre's Theorem",
+      "difficulty": "Difficult",
+      "tutor": "1+i = √2∠45°. (1+i)^4 = (√2)^4∠(4×45°) = 4∠180° = -4 + 0i = -4."
+    },
+    {
+      "question": "What is the complex number represented by 2e^(iπ/3)?",
+      "choices": ["1 + 1.732i", "1.732 + i", "2 + 2i", "1 + i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Exponential Form",
+      "difficulty": "Moderate",
+      "tutor": "x = 2 cos(π/3)=2×0.5=1, y = 2 sin(π/3)=2×0.866=1.732."
+    },
+    {
+      "question": "Solve the quadratic equation x² + 4 = 0 over complex numbers.",
+      "choices": ["±2i", "±2", "±4i", "±4"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Quadratic Equations",
+      "difficulty": "Moderate",
+      "tutor": "x² = -4 → x = ±√(-4) = ±2i."
+    },
+    {
+      "question": "What is the polar form of z = -√3 + i?",
+      "choices": ["2∠150°", "2∠30°", "2∠210°", "2∠330°"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Rectangular to Polar",
+      "difficulty": "Difficult",
+      "tutor": "r = √(3+1)=2, θ = arctan(1/(-√3)) = arctan(-0.577)= -30° but Quadrant II → 180-30=150°."
+    },
+    {
+      "question": "What is the product of a complex number and its conjugate?",
+      "choices": ["Real number", "Pure imaginary", "Zero", "Complex number"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Conjugate Properties",
+      "difficulty": "Easy",
+      "tutor": "(a+bi)(a-bi)=a²+b², which is always a real number."
+    },
+    {
+      "question": "If z = 2 - 2i, find |z|.",
+      "choices": ["2√2", "4", "2", "8"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Modulus Calculation",
+      "difficulty": "Easy",
+      "tutor": "|z| = √(2² + (-2)²) = √(4+4) = √8 = 2√2."
+    },
+    {
+      "question": "What is the inverse of i in rectangular form?",
+      "choices": ["-i", "i", "1", "-1"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Multiplicative Inverse",
+      "difficulty": "Moderate",
+      "tutor": "1/i = (1×(-i))/(i×(-i)) = -i/(-i²)= -i/1 = -i."
+    },
+    {
+      "question": "Find all cube roots of 8.",
+      "choices": ["2, -1±i√3", "2, 2±i√3", "2, -2, -2i", "2, -2±2i√3"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Roots of Complex Numbers",
+      "difficulty": "Difficult",
+      "tutor": "8=8∠0°. Cube roots: 2∠0°=2, 2∠120°=-1+i√3, 2∠240°=-1-i√3."
+    },
+    {
+      "question": "Which of the following represents the complex number with magnitude 1 and angle 180°?",
+      "choices": ["-1", "1", "i", "-i"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Unit Circle",
+      "difficulty": "Easy",
+      "tutor": "cos180° + i sin180° = -1 + 0i = -1."
+    },
+    {
+      "question": "In AC circuit analysis, what does the j operator represent?",
+      "choices": ["90° rotation", "180° rotation", "Phase reversal", "Square root of 2"],
+      "answer": 0,
+      "topic": "Complex Numbers for EE - Electrical Applications",
+      "difficulty": "Easy",
+      "tutor": "j = √(-1) represents a 90° counterclockwise rotation in the complex plane, used for phasors."
+    }
+  ]
+}

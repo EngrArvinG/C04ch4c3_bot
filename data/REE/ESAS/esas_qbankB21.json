@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the primary function of management?",
+      "choices": ["Planning", "Organizing", "Controlling", "All of the above"],
+      "answer": 3,
+      "topic": "Engineering Management - Functions",
+      "difficulty": "Easy",
+      "tutor": "Management functions include planning, organizing, staffing, directing, and controlling."
+    },
+    {
+      "question": "Who is considered the father of scientific management?",
+      "choices": ["Henry Fayol", "Frederick Taylor", "Peter Drucker", "Elton Mayo"],
+      "answer": 1,
+      "topic": "Engineering Management - History",
+      "difficulty": "Easy",
+      "tutor": "Frederick Taylor pioneered scientific management and time-motion studies."
+    },
+    {
+      "question": "What does SWOT analysis stand for?",
+      "choices": ["Strengths, Weaknesses, Opportunities, Threats", "Schedule, Work, Organization, Time", "Strategy, Workforce, Operations, Technology", "Systems, Workflow, Output, Testing"],
+      "answer": 0,
+      "topic": "Engineering Management - Strategic Planning",
+      "difficulty": "Easy",
+      "tutor": "SWOT analyzes internal strengths/weaknesses and external opportunities/threats."
+    },
+    {
+      "question": "What is the span of control?",
+      "choices": ["Number of subordinates a manager supervises", "Manager's salary range", "Company's market share", "Project timeline"],
+      "answer": 0,
+      "topic": "Engineering Management - Organization",
+      "difficulty": "Easy",
+      "tutor": "Span of control refers to how many direct reports a manager has."
+    },
+    {
+      "question": "What is a Gantt chart used for?",
+      "choices": ["Project scheduling", "Financial analysis", "Quality control", "Employee evaluation"],
+      "answer": 0,
+      "topic": "Engineering Management - Project Management",
+      "difficulty": "Easy",
+      "tutor": "Gantt charts visually show task durations and dependencies over time."
+    },
+    {
+      "question": "What is the critical path in a project network?",
+      "choices": ["Longest path determining project duration", "Shortest path", "Path with most tasks", "Path with least cost"],
+      "answer": 0,
+      "topic": "Engineering Management - CPM/PERT",
+      "difficulty": "Moderate",
+      "tutor": "Critical path has zero slack; any delay extends project completion."
+    },
+    {
+      "question": "What does PERT stand for?",
+      "choices": ["Program Evaluation and Review Technique", "Project Estimation and Reporting Tool", "Performance Evaluation and Review Technique", "Planning Evaluation and Reporting Tool"],
+      "answer": 0,
+      "topic": "Engineering Management - PERT",
+      "difficulty": "Easy",
+      "tutor": "PERT uses three time estimates (optimistic, pessimistic, most likely) for uncertain tasks."
+    },
+    {
+      "question": "What is Maslow's hierarchy top need?",
+      "choices": ["Safety", "Self-actualization", "Esteem", "Belongingness"],
+      "answer": 1,
+      "topic": "Engineering Management - Motivation",
+      "difficulty": "Easy",
+      "tutor": "Maslow's pyramid: physiological, safety, love, esteem, self-actualization."
+    },
+    {
+      "question": "Who proposed Theory X and Theory Y?",
+      "choices": ["Douglas McGregor", "Abraham Maslow", "Frederick Herzberg", "Peter Drucker"],
+      "answer": 0,
+      "topic": "Engineering Management - Leadership",
+      "difficulty": "Moderate",
+      "tutor": "Theory X assumes workers are lazy; Theory Y assumes they are self-motivated."
+    },
+    {
+      "question": "What is the break-even point?",
+      "choices": ["Total revenue = Total cost", "Profit = maximum", "Loss = minimum", "Fixed cost = variable cost"],
+      "answer": 0,
+      "topic": "Engineering Management - Economics",
+      "difficulty": "Moderate",
+      "tutor": "Break-even is where no profit or loss occurs."
+    },
+    {
+      "question": "What is delegation of authority?",
+      "choices": ["Assigning tasks with responsibility", "Taking all decisions personally", "Eliminating middle management", "Increasing hierarchy levels"],
+      "answer": 0,
+      "topic": "Engineering Management - Authority",
+      "difficulty": "Easy",
+      "tutor": "Delegation transfers authority and responsibility to subordinates."
+    },
+    {
+      "question": "What is the primary purpose of quality control?",
+      "choices": ["Ensure products meet standards", "Reduce costs only", "Increase production speed", "Eliminate all defects"],
+      "answer": 0,
+      "topic": "Engineering Management - Quality",
+      "difficulty": "Easy",
+      "tutor": "QC checks products against specifications to maintain quality."
+    },
+    {
+      "question": "What does PDCA cycle stand for?",
+      "choices": ["Plan-Do-Check-Act", "Plan-Develop-Correct-Assess", "Prepare-Do-Check-Analyze", "Plan-Direct-Control-Act"],
+      "answer": 0,
+      "topic": "Engineering Management - Continuous Improvement",
+      "difficulty": "Moderate",
+      "tutor": "PDCA (Deming cycle) is for continuous process improvement."
+    },
+    {
+      "question": "What is the difference between leader and manager?",
+      "choices": ["Leader inspires; manager controls", "Leader controls; manager inspires", "Same thing", "Leader does planning only"],
+      "answer": 0,
+      "topic": "Engineering Management - Leadership",
+      "difficulty": "Easy",
+      "tutor": "Leaders focus on vision and motivation; managers focus on processes and control."
+    },
+    {
+      "question": "What is the main purpose of staffing?",
+      "choices": ["Hiring qualified personnel", "Firing employees", "Increasing salaries", "Reducing workforce"],
+      "answer": 0,
+      "topic": "Engineering Management - Staffing",
+      "difficulty": "Easy",
+      "tutor": "Staffing involves recruitment, selection, training, and development of employees."
+    },
+    {
+      "question": "What is the formula for labor productivity?",
+      "choices": ["Output / Labor hours", "Labor hours / Output", "Output × Labor hours", "Output - Labor hours"],
+      "answer": 0,
+      "topic": "Engineering Management - Productivity",
+      "difficulty": "Moderate",
+      "tutor": "Labor productivity measures output per unit of labor input."
+    },
+    {
+      "question": "What is the purpose of a feasibility study?",
+      "choices": ["Determine project viability", "Calculate profits only", "Design product only", "Hire workers"],
+      "answer": 0,
+      "topic": "Engineering Management - Feasibility",
+      "difficulty": "Easy",
+      "tutor": "Feasibility studies assess technical, economic, legal, and operational viability."
+    },
+    {
+      "question": "What is unity of command principle?",
+      "choices": ["Each employee reports to one boss", "Multiple bosses per employee", "No bosses needed", "Employees choose their boss"],
+      "answer": 0,
+      "topic": "Engineering Management - Organization",
+      "difficulty": "Easy",
+      "tutor": "Unity of command avoids conflicting instructions from multiple supervisors."
+    },
+    {
+      "question": "What is the primary role of an engineering manager?",
+      "choices": ["Technical decisions + people management", "Only technical work", "Only administration", "Only finance"],
+      "answer": 0,
+      "topic": "Engineering Management - Role",
+      "difficulty": "Easy",
+      "tutor": "Engineering managers blend technical expertise with management skills."
+    },
+    {
+      "question": "What does KPI stand for?",
+      "choices": ["Key Performance Indicator", "Knowledge Process Integration", "Key Personnel Index", "Kernel Program Interface"],
+      "answer": 0,
+      "topic": "Engineering Management - Performance",
+      "difficulty": "Easy",
+      "tutor": "KPIs measure how effectively an organization achieves key objectives."
+    }
+  ]
+}

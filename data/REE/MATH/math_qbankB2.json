@@ -1,0 +1,166 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "What is the value of sin(180° - θ) in terms of sin θ?",
+      "choices": ["-sin θ", "sin θ", "cos θ", "-cos θ"],
+      "answer": 1,
+      "topic": "Trigonometry for EE - Reduction Formulas",
+      "difficulty": "Easy",
+      "tutor": "sin(180° - θ) = sin θ (sine is positive in Quadrant II)."
+    },
+    {
+      "question": "If tan θ = 3/4 and θ is in Quadrant III, what is sin θ?",
+      "choices": ["-3/5", "3/5", "-4/5", "4/5"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Quadrant Signs",
+      "difficulty": "Moderate",
+      "tutor": "tan θ = 3/4 → sin θ = -3/5, cos θ = -4/5 in Quadrant III."
+    },
+    {
+      "question": "A 10-meter ladder leans against a wall making an angle of 60° with the ground. How high up the wall does the ladder reach?",
+      "choices": ["5 m", "8.66 m", "10 m", "20 m"],
+      "answer": 1,
+      "topic": "Trigonometry for EE - Right Triangle Applications",
+      "difficulty": "Easy",
+      "tutor": "Height = 10 × sin 60° = 10 × (√3/2) = 8.66 m."
+    },
+    {
+      "question": "What is the period of the function y = 3 cos(4x - π) + 2?",
+      "choices": ["π/4", "π/2", "π", "2π"],
+      "answer": 1,
+      "topic": "Trigonometry for EE - Periodic Functions",
+      "difficulty": "Easy",
+      "tutor": "Period = 2π/|B| = 2π/4 = π/2."
+    },
+    {
+      "question": "Simplify: cos²θ - sin²θ.",
+      "choices": ["1", "cos 2θ", "sin 2θ", "2 cos²θ - 1"],
+      "answer": 1,
+      "topic": "Trigonometry for EE - Double Angle Identities",
+      "difficulty": "Easy",
+      "tutor": "cos²θ - sin²θ = cos 2θ (double-angle identity)."
+    },
+    {
+      "question": "If csc θ = 13/5 and θ is acute, what is sec θ?",
+      "choices": ["13/12", "12/13", "5/13", "13/5"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Reciprocal Identities",
+      "difficulty": "Moderate",
+      "tutor": "csc θ = 13/5 → sin θ = 5/13 → cos θ = 12/13 → sec θ = 13/12."
+    },
+    {
+      "question": "What is the exact value of tan 15° using half-angle formula?",
+      "choices": ["2 - √3", "2 + √3", "√3 - 2", "1 - √3"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Half-Angle Formulas",
+      "difficulty": "Difficult",
+      "tutor": "tan(15°) = (1 - cos 30°)/sin 30° = (1 - √3/2)/(1/2) = 2 - √3."
+    },
+    {
+      "question": "In an AC circuit, voltage v(t) = 50 sin(120πt + 30°) V. What is the frequency in Hz?",
+      "choices": ["60 Hz", "50 Hz", "120 Hz", "30 Hz"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Sinusoidal Functions",
+      "difficulty": "Easy",
+      "tutor": "ω = 120π → f = ω/(2π) = 120π/(2π) = 60 Hz."
+    },
+    {
+      "question": "Solve for x in [0°, 360°): 2 sin²x - sin x - 1 = 0.",
+      "choices": ["90°, 210°, 330°", "30°, 150°, 270°", "90°, 270°, 330°", "30°, 150°, 210°"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Trigonometric Equations",
+      "difficulty": "Difficult",
+      "tutor": "Let u = sin x → 2u² - u -1=0 → (2u+1)(u-1)=0 → u=1 or u=-1/2 → x=90°, 210°, 330°."
+    },
+    {
+      "question": "What is the amplitude of the function y = -4 sin(3x - π/2)?",
+      "choices": ["4", "-4", "3", "π/2"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Amplitude",
+      "difficulty": "Easy",
+      "tutor": "Amplitude is absolute value of coefficient = | -4 | = 4."
+    },
+    {
+      "question": "Convert 135° to radians.",
+      "choices": ["π/4", "3π/4", "5π/4", "7π/4"],
+      "answer": 1,
+      "topic": "Trigonometry for EE - Angle Conversion",
+      "difficulty": "Easy",
+      "tutor": "135° × π/180 = 135π/180 = 3π/4."
+    },
+    {
+      "question": "Two AC currents are i₁ = 5 sin(ωt) and i₂ = 12 sin(ωt + 90°). What is the magnitude of their sum?",
+      "choices": ["17 A", "13 A", "7 A", "5 A"],
+      "answer": 1,
+      "topic": "Trigonometry for EE - Phasor Addition",
+      "difficulty": "Moderate",
+      "tutor": "Phasors: 5∠0° + 12∠90° = √(5²+12²) = 13 A."
+    },
+    {
+      "question": "If sec θ = -√2 and θ is in Quadrant III, what is cot θ?",
+      "choices": ["1", "-1", "√2", "-√2"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Quadrant Analysis",
+      "difficulty": "Moderate",
+      "tutor": "sec θ = -√2 → cos θ = -√2/2 → θ=225° → tan θ=1 → cot θ=1."
+    },
+    {
+      "question": "What is the phase shift of y = 2 sin(3x + π/4)?",
+      "choices": ["π/12 left", "π/12 right", "π/4 left", "π/4 right"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Phase Shift",
+      "difficulty": "Moderate",
+      "tutor": "Phase shift = -C/B = -(π/4)/3 = -π/12 → π/12 left."
+    },
+    {
+      "question": "Simplify: (sin θ + cos θ)².",
+      "choices": ["1 + sin 2θ", "1 - sin 2θ", "1 + cos 2θ", "1 - cos 2θ"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Algebraic Simplification",
+      "difficulty": "Moderate",
+      "tutor": "sin²θ + cos²θ + 2 sinθ cosθ = 1 + sin 2θ."
+    },
+    {
+      "question": "From the top of a 50-m tower, the angle of depression to a car is 30°. How far is the car from the base of the tower?",
+      "choices": ["28.87 m", "86.60 m", "50 m", "100 m"],
+      "answer": 1,
+      "topic": "Trigonometry for EE - Angle of Depression",
+      "difficulty": "Moderate",
+      "tutor": "tan 30° = 50/d → d = 50 / tan30° = 50 / (1/√3) = 50√3 = 86.60 m."
+    },
+    {
+      "question": "What is the maximum value of 3 sin x + 4 cos x?",
+      "choices": ["5", "7", "12", "25"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Linear Combinations",
+      "difficulty": "Difficult",
+      "tutor": "Max = √(3²+4²) = √25 = 5."
+    },
+    {
+      "question": "If sin A = 3/5 and sin B = 5/13, with A and B acute, find cos(A - B).",
+      "choices": ["56/65", "16/65", "33/65", "63/65"],
+      "answer": 3,
+      "topic": "Trigonometry for EE - Sum & Difference Formulas",
+      "difficulty": "Difficult",
+      "tutor": "cos A=4/5, cos B=12/13 → cos(A-B)=cosA cosB+sinA sinB = (4/5)(12/13)+(3/5)(5/13)=48/65+15/65=63/65."
+    },
+    {
+      "question": "What is the vertical shift of y = 3 cos(2x) - 1?",
+      "choices": ["-1", "1", "3", "0"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Vertical Translation",
+      "difficulty": "Easy",
+      "tutor": "Vertical shift is the constant term added outside = -1."
+    },
+    {
+      "question": "Prove the identity: (1 - cos²θ) / sin²θ = 1. What fundamental identity is used?",
+      "choices": ["sin²θ + cos²θ = 1", "tan²θ + 1 = sec²θ", "1 + cot²θ = csc²θ", "sin 2θ = 2 sinθ cosθ"],
+      "answer": 0,
+      "topic": "Trigonometry for EE - Pythagorean Identities",
+      "difficulty": "Moderate",
+      "tutor": "1 - cos²θ = sin²θ, so sin²θ/sin²θ = 1. Uses sin²θ + cos²θ = 1."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the SI unit of stress?",
+      "choices": ["Newton", "Pascal", "Joule", "Watt"],
+      "answer": 1,
+      "topic": "Strength of Materials - Stress",
+      "difficulty": "Easy",
+      "tutor": "Stress is force per unit area, measured in Pascals (Pa) or N/m²."
+    },
+    {
+      "question": "What is the definition of strain?",
+      "choices": ["Change in length / Original length", "Force / Area", "Stress × Area", "Original length / Change in length"],
+      "answer": 0,
+      "topic": "Strength of Materials - Strain",
+      "difficulty": "Easy",
+      "tutor": "Strain ε = ΔL / L₀, a dimensionless measure of deformation."
+    },
+    {
+      "question": "Hooke's law states that stress is proportional to strain within the:",
+      "choices": ["Plastic region", "Elastic limit", "Yield point", "Ultimate strength"],
+      "answer": 1,
+      "topic": "Strength of Materials - Hooke's Law",
+      "difficulty": "Easy",
+      "tutor": "Hooke's law: σ = Eε, valid within the elastic limit where deformation is reversible."
+    },
+    {
+      "question": "A steel rod of length 2 m and cross-sectional area 100 mm² is subjected to a tensile force of 20 kN. What is the stress? (1 mm² = 10⁻⁶ m²)",
+      "choices": ["200 MPa", "20 MPa", "2 MPa", "2000 MPa"],
+      "answer": 0,
+      "topic": "Strength of Materials - Stress Calculation",
+      "difficulty": "Moderate",
+      "tutor": "σ = F/A = 20,000 N / (100 × 10⁻⁶ m²) = 20,000 / 0.0001 = 200 × 10⁶ Pa = 200 MPa."
+    },
+    {
+      "question": "What is Young's modulus a measure of?",
+      "choices": ["Stiffness of a material", "Hardness", "Toughness", "Ductility"],
+      "answer": 0,
+      "topic": "Strength of Materials - Elastic Modulus",
+      "difficulty": "Easy",
+      "tutor": "Young's modulus E = σ/ε, representing material stiffness or resistance to elastic deformation."
+    },
+    {
+      "question": "What is the bending moment at the fixed end of a cantilever beam with a point load P at the free end?",
+      "choices": ["0", "P × L", "P × L/2", "P × L/4"],
+      "answer": 1,
+      "topic": "Strength of Materials - Beams",
+      "difficulty": "Moderate",
+      "tutor": "For cantilever with end load, maximum moment at fixed end M = P × L."
+    },
+    {
+      "question": "What is the formula for the deflection of a simply supported beam with a central point load?",
+      "choices": ["δ = PL³/(48EI)", "δ = PL³/(3EI)", "δ = 5wL⁴/(384EI)", "δ = PL/(AE)"],
+      "answer": 0,
+      "topic": "Strength of Materials - Beam Deflection",
+      "difficulty": "Difficult",
+      "tutor": "δ_max = PL³/(48EI) for simply supported beam with central point load."
+    },
+    {
+      "question": "What is the Poisson's ratio of a material?",
+      "choices": ["Negative ratio of lateral strain to axial strain", "Positive ratio of lateral strain to axial strain", "Ratio of stress to strain", "Ratio of length to area"],
+      "answer": 0,
+      "topic": "Strength of Materials - Poisson's Ratio",
+      "difficulty": "Moderate",
+      "tutor": "Poisson's ratio ν = - (lateral strain)/(axial strain), typically 0.25-0.35 for metals."
+    },
+    {
+      "question": "What is the maximum shear stress in a solid circular shaft under torsion?",
+      "choices": ["At the center", "At the outer surface", "Uniform throughout", "At the mid-radius"],
+      "answer": 1,
+      "topic": "Strength of Materials - Torsion",
+      "difficulty": "Moderate",
+      "tutor": "τ_max = T×r/J occurs at outer surface (r = radius)."
+    },
+    {
+      "question": "What is the polar moment of inertia for a solid circular shaft of diameter d?",
+      "choices": ["πd⁴/32", "πd⁴/64", "πd³/16", "πd²/4"],
+      "answer": 0,
+      "topic": "Strength of Materials - Torsion",
+      "difficulty": "Moderate",
+      "tutor": "J = πd⁴/32 for solid circular shaft (polar moment)."
+    },
+    {
+      "question": "A force of 5000 N is applied to a rod of diameter 10 mm. What is the tensile stress?",
+      "choices": ["63.66 MPa", "63.66 kPa", "636.6 MPa", "6.366 MPa"],
+      "answer": 0,
+      "topic": "Strength of Materials - Stress",
+      "difficulty": "Difficult",
+      "tutor": "A = πd²/4 = π(0.01)²/4 = 7.854×10⁻⁵ m², σ = 5000/7.854e-5 = 63.66×10⁶ Pa = 63.66 MPa."
+    },
+    {
+      "question": "What is the factor of safety?",
+      "choices": ["Ultimate stress / Allowable stress", "Allowable stress / Ultimate stress", "Yield stress × Ultimate stress", "Load / Area"],
+      "answer": 0,
+      "topic": "Strength of Materials - Factor of Safety",
+      "difficulty": "Easy",
+      "tutor": "FOS = Ultimate strength / Allowable working stress (or yield/working)."
+    },
+    {
+      "question": "What is the neutral axis in a beam?",
+      "choices": ["Axis where bending stress is zero", "Axis with maximum compressive stress", "Axis with maximum tensile stress", "Axis where shear is zero"],
+      "answer": 0,
+      "topic": "Strength of Materials - Bending",
+      "difficulty": "Moderate",
+      "tutor": "Neutral axis experiences zero longitudinal stress under pure bending."
+    },
+    {
+      "question": "What is the section modulus Z for a rectangular beam of width b and depth h?",
+      "choices": ["bh²/6", "bh³/12", "bh²/12", "bh³/6"],
+      "answer": 0,
+      "topic": "Strength of Materials - Bending",
+      "difficulty": "Moderate",
+      "tutor": "Z = I/c = (bh³/12) / (h/2) = bh²/6."
+    },
+    {
+      "question": "What is the maximum bending stress formula for a beam?",
+      "choices": ["σ = Mc/I", "σ = My/I", "τ = VQ/(Ib)", "δ = PL³/(48EI)"],
+      "answer": 0,
+      "topic": "Strength of Materials - Bending Stress",
+      "difficulty": "Difficult",
+      "tutor": "Bending stress σ = M×c / I, where c is distance from neutral axis to outer fiber."
+    },
+    {
+      "question": "What is the thermal stress in a rod fixed at both ends when temperature increases by ΔT?",
+      "choices": ["σ = EαΔT", "σ = αΔT", "σ = E/αΔT", "σ = αΔT/E"],
+      "answer": 0,
+      "topic": "Strength of Materials - Thermal Stress",
+      "difficulty": "Difficult",
+      "tutor": "Thermal stress σ = EαΔT when expansion is fully constrained."
+    },
+    {
+      "question": "What is the shear stress formula for a circular shaft in torsion?",
+      "choices": ["τ = Tr/J", "τ = Td/J", "τ = T/rJ", "τ = J/Tr"],
+      "answer": 0,
+      "topic": "Strength of Materials - Torsion",
+      "difficulty": "Moderate",
+      "tutor": "Shear stress τ = T×r / J, where T = torque, r = radius, J = polar moment."
+    },
+    {
+      "question": "What is the modulus of rigidity G?",
+      "choices": ["Shear stress / Shear strain", "Tensile stress / Tensile strain", "Bulk stress / Volumetric strain", "Stress / Strain"],
+      "answer": 0,
+      "topic": "Strength of Materials - Shear Modulus",
+      "difficulty": "Moderate",
+      "tutor": "G = τ/γ (shear stress over shear strain), also called shear modulus."
+    },
+    {
+      "question": "What is the relationship between E, G, and ν?",
+      "choices": ["G = E / [2(1+ν)]", "G = E(1+ν)/2", "G = E/(1-2ν)", "G = Eν/(1+ν)"],
+      "answer": 0,
+      "topic": "Strength of Materials - Elastic Constants",
+      "difficulty": "Difficult",
+      "tutor": "G = E / [2(1+ν)] relates Young's modulus, shear modulus, and Poisson's ratio."
+    },
+    {
+      "question": "What is the endurance limit of a material?",
+      "choices": ["Maximum stress for infinite fatigue life", "Yield stress", "Ultimate tensile stress", "Stress at fracture"],
+      "answer": 0,
+      "topic": "Strength of Materials - Fatigue",
+      "difficulty": "Moderate",
+      "tutor": "Endurance limit is the stress below which material can withstand infinite cycles without failure."
+    }
+  ]
+}

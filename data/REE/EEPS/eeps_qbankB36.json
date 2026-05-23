@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "A single-line diagram (SLD) is used to represent what?",
+      "choices": ["Power system using simplified symbols", "Detailed wiring of a control panel", "PCB component layout", "Logic gate connections"],
+      "answer": 0,
+      "topic": "Electric Systems - Single-Line Diagram",
+      "difficulty": "Easy",
+      "tutor": "SLD shows power flow with single line and standard symbols, omitting detailed connections."
+    },
+    {
+      "question": "In the Philippine power grid, the operating frequency is maintained at?",
+      "choices": ["60 Hz", "50 Hz", "400 Hz", "25 Hz"],
+      "answer": 0,
+      "topic": "Electric Systems - Frequency",
+      "difficulty": "Easy",
+      "tutor": "Philippines uses 60 Hz (same as US, Japan, Canada, unlike 50 Hz in Europe/Asia)."
+    },
+    {
+      "question": "Which part of the power system delivers electricity directly to residential consumers?",
+      "choices": ["Distribution system", "Transmission system", "Generation plant", "Substation only"],
+      "answer": 0,
+      "topic": "Electric Systems - Distribution",
+      "difficulty": "Easy",
+      "tutor": "Distribution system carries power from substations to end users via primary and secondary lines."
+    },
+    {
+      "question": "The movement of bulk power from generating stations to load centers over long distances is called?",
+      "choices": ["Transmission", "Distribution", "Substation switching", "Metering"],
+      "answer": 0,
+      "topic": "Electric Systems - Transmission",
+      "difficulty": "Easy",
+      "tutor": "Transmission system operates at high voltages (115 kV, 230 kV) for efficient long-distance power transfer."
+    },
+    {
+      "question": "A facility that changes voltage levels and contains switching equipment is known as?",
+      "choices": ["Substation", "Power plant", "Transmission tower", "Distribution pole"],
+      "answer": 0,
+      "topic": "Electric Systems - Substation",
+      "difficulty": "Easy",
+      "tutor": "Substation transforms voltage (step-up or step-down) and provides circuit switching/protection."
+    },
+    {
+      "question": "To increase voltage for long-distance transmission, which device is used?",
+      "choices": ["Step-up transformer", "Step-down transformer", "Isolation transformer", "Autotransformer"],
+      "answer": 0,
+      "topic": "Electric Systems - Transformers",
+      "difficulty": "Easy",
+      "tutor": "Step-up transformer increases voltage, reducing current and I²R losses in transmission lines."
+    },
+    {
+      "question": "A transformer that lowers voltage from primary distribution level to utilization level is called?",
+      "choices": ["Step-down transformer", "Step-up transformer", "Distribution transformer", "Both A and C"],
+      "answer": 3,
+      "topic": "Electric Systems - Transformers",
+      "difficulty": "Easy",
+      "tutor": "Step-down/distribution transformer reduces voltage (e.g., 13.8 kV to 230 V) for end users."
+    },
+    {
+      "question": "The typical primary distribution voltage level found in Philippine utility systems is?",
+      "choices": ["13.8 kV", "230 V", "115 kV", "500 kV"],
+      "answer": 0,
+      "topic": "Electric Systems - Distribution Voltages",
+      "difficulty": "Easy",
+      "tutor": "Primary distribution commonly operates at 13.8 kV or 34.5 kV, stepped down from transmission voltages."
+    },
+    {
+      "question": "For a single-family home in the Philippines, the standard secondary voltage supplied is?",
+      "choices": ["230 V", "13.8 kV", "69 kV", "115 V"],
+      "answer": 0,
+      "topic": "Electric Systems - Utilization Voltages",
+      "difficulty": "Easy",
+      "tutor": "Residential secondary voltage is 230 V single-phase (two wires: line and neutral)."
+    },
+    {
+      "question": "A three-phase system consists of three sinusoidal voltages separated by how many degrees?",
+      "choices": ["120°", "90°", "60°", "180°"],
+      "answer": 0,
+      "topic": "Electric Systems - Three-Phase",
+      "difficulty": "Easy",
+      "tutor": "Three-phase voltages are displaced by 120 electrical degrees, providing constant power transfer."
+    },
+    {
+      "question": "Compared to a single-phase system, a three-phase system delivers more power for the same copper weight because?",
+      "choices": ["Higher power per conductor", "Lower voltage drop", "Smaller neutral", "All of the above"],
+      "answer": 3,
+      "topic": "Electric Systems - Three-Phase Advantage",
+      "difficulty": "Moderate",
+      "tutor": "Three-phase uses conductors more efficiently, reducing material cost for same power."
+    },
+    {
+      "question": "In a wye (Y) connection, how are the three phase windings arranged?",
+      "choices": ["One end of each phase tied together at neutral", "End-to-end forming a closed loop", "Open at both ends", "Two phases in series"],
+      "answer": 0,
+      "topic": "Electric Systems - Wye Connection",
+      "difficulty": "Moderate",
+      "tutor": "In Y connection, all phase windings share a common neutral point; line voltage = √3 × phase voltage."
+    },
+    {
+      "question": "In a delta (Δ) connection, what is the relationship between line and phase voltages?",
+      "choices": ["VL = Vphase", "VL = √3 Vphase", "VL = Vphase/√3", "VL = 3 Vphase"],
+      "answer": 0,
+      "topic": "Electric Systems - Delta Connection",
+      "difficulty": "Moderate",
+      "tutor": "Delta connection has no neutral; line voltage equals phase voltage; line current = √3 × phase current."
+    },
+    {
+      "question": "The cosine of the angle between voltage and current in an AC circuit is known as?",
+      "choices": ["Power factor", "Efficiency", "Load factor", "Demand factor"],
+      "answer": 0,
+      "topic": "Electric Systems - Power Factor",
+      "difficulty": "Easy",
+      "tutor": "Power factor = real power (watts) / apparent power (VA) = cos θ."
+    },
+    {
+      "question": "When current lags behind voltage, the power factor is described as?",
+      "choices": ["Lagging (inductive)", "Leading (capacitive)", "Unity", "Zero"],
+      "answer": 0,
+      "topic": "Electric Systems - Lagging PF",
+      "difficulty": "Easy",
+      "tutor": "Inductive loads like motors and transformers cause lagging power factor."
+    },
+    {
+      "question": "A capacitive load such as a capacitor bank causes the power factor to be?",
+      "choices": ["Leading", "Lagging", "Unity", "Zero"],
+      "answer": 0,
+      "topic": "Electric Systems - Leading PF",
+      "difficulty": "Easy",
+      "tutor": "Capacitors cause current to lead voltage, resulting in leading power factor used for PF correction."
+    },
+    {
+      "question": "The ratio of maximum demand to total connected load is called?",
+      "choices": ["Demand factor", "Load factor", "Diversity factor", "Utilization factor"],
+      "answer": 0,
+      "topic": "Electric Systems - Demand Factor",
+      "difficulty": "Difficult",
+      "tutor": "Demand factor is always ≤1; it accounts for equipment not operating simultaneously."
+    },
+    {
+      "question": "The ratio of average load to peak load over a given period is known as?",
+      "choices": ["Load factor", "Demand factor", "Diversity factor", "Capacity factor"],
+      "answer": 0,
+      "topic": "Electric Systems - Load Factor",
+      "difficulty": "Difficult",
+      "tutor": "Load factor indicates energy utilization efficiency; higher values are desirable for cost savings."
+    },
+    {
+      "question": "The ratio of the sum of individual maximum demands to the system peak demand is called?",
+      "choices": ["Diversity factor", "Demand factor", "Load factor", "Coincidence factor"],
+      "answer": 0,
+      "topic": "Electric Systems - Diversity Factor",
+      "difficulty": "Difficult",
+      "tutor": "Diversity factor >1 allows transformer/feeder sizing lower than sum of individual peaks."
+    },
+    {
+      "question": "An unintended current path from a live conductor to earth is termed?",
+      "choices": ["Ground fault", "Short circuit", "Overload", "Open circuit"],
+      "answer": 0,
+      "topic": "Electric Systems - Ground Fault",
+      "difficulty": "Easy",
+      "tutor": "Ground fault can be detected by GFCI or ground relays; may cause electric shock."
+    },
+    {
+      "question": "A low-impedance connection between phases or between phase and neutral is called?",
+      "choices": ["Short circuit", "Ground fault", "Open circuit", "Overload"],
+      "answer": 0,
+      "topic": "Electric Systems - Short Circuit",
+      "difficulty": "Easy",
+      "tutor": "Short circuit results in very high current, requiring circuit breakers or fuses to clear."
+    },
+    {
+      "question": "Which entity is responsible for operating and maintaining the Philippine transmission grid?",
+      "choices": ["NGCP", "ERC", "DOE", "MERALCO"],
+      "answer": 0,
+      "topic": "Electric Systems - NGCP",
+      "difficulty": "Easy",
+      "tutor": "National Grid Corporation of the Philippines (NGCP) operates the country's transmission network."
+    },
+    {
+      "question": "A company that delivers electricity to end users within a specific franchise area is called?",
+      "choices": ["Distribution Utility (DU)", "Generation company", "Transmission operator", "System operator"],
+      "answer": 0,
+      "topic": "Electric Systems - DU",
+      "difficulty": "Easy",
+      "tutor": "DUs like MERALCO, VECO, CEPALCO distribute power to residential, commercial, and industrial customers."
+    },
+    {
+      "question": "A localized power grid that can operate independently or connected to the main grid is known as?",
+      "choices": ["Microgrid", "Macrogrid", "Smart grid", "Super grid"],
+      "answer": 0,
+      "topic": "Electric Systems - Microgrid",
+      "difficulty": "Moderate",
+      "tutor": "Microgrids integrate distributed generation (solar, batteries) and can island during outages."
+    },
+    {
+      "question": "A modern power grid that uses digital communication and automation for two-way data exchange is called?",
+      "choices": ["Smart grid", "Microgrid", "Island grid", "Legacy grid"],
+      "answer": 0,
+      "topic": "Electric Systems - Smart Grid",
+      "difficulty": "Moderate",
+      "tutor": "Smart grid enables real-time monitoring, demand response, and integration of renewable energy."
+    }
+  ]
+}

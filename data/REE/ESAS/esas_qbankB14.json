@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the primary constituent of mild steel?",
+      "choices": ["Carbon", "Iron", "Silicon", "Manganese"],
+      "answer": 1,
+      "topic": "Engineering Materials - Ferrous Metals",
+      "difficulty": "Easy",
+      "tutor": "Mild steel is primarily iron (Fe) with small amounts of carbon (0.05-0.25%) and other elements."
+    },
+    {
+      "question": "What is the property of a material to absorb energy and plastically deform without fracturing?",
+      "choices": ["Hardness", "Toughness", "Brittleness", "Elasticity"],
+      "answer": 1,
+      "topic": "Engineering Materials - Mechanical Properties",
+      "difficulty": "Easy",
+      "tutor": "Toughness is the ability to absorb energy and deform plastically before fracture."
+    },
+    {
+      "question": "Which of the following is a non-ferrous metal?",
+      "choices": ["Cast iron", "Steel", "Copper", "Carbon steel"],
+      "answer": 2,
+      "topic": "Engineering Materials - Non-Ferrous Metals",
+      "difficulty": "Easy",
+      "tutor": "Copper is a non-ferrous metal (contains no significant iron). Cast iron and steel are ferrous."
+    },
+    {
+      "question": "What does the modulus of elasticity (Young's modulus) measure?",
+      "choices": ["Plastic deformation", "Stiffness of a material", "Hardness", "Thermal conductivity"],
+      "answer": 1,
+      "topic": "Engineering Materials - Mechanical Properties",
+      "difficulty": "Moderate",
+      "tutor": "Young's modulus (E) measures a material's stiffness or resistance to elastic deformation."
+    },
+    {
+      "question": "What is the approximate carbon content of cast iron?",
+      "choices": ["0.1-0.3%", "0.5-1.0%", "2-4%", "0.01-0.1%"],
+      "answer": 2,
+      "topic": "Engineering Materials - Ferrous Metals",
+      "difficulty": "Moderate",
+      "tutor": "Cast iron contains 2-4% carbon, making it hard but brittle."
+    },
+    {
+      "question": "Which of the following materials is a good electrical conductor?",
+      "choices": ["Rubber", "Glass", "Copper", "Plastic"],
+      "answer": 2,
+      "topic": "Engineering Materials - Electrical Properties",
+      "difficulty": "Easy",
+      "tutor": "Copper has high electrical conductivity, widely used in wires and cables."
+    },
+    {
+      "question": "What is the process of heating and cooling metals to alter their physical properties?",
+      "choices": ["Machining", "Casting", "Heat treatment", "Welding"],
+      "answer": 2,
+      "topic": "Engineering Materials - Heat Treatment",
+      "difficulty": "Easy",
+      "tutor": "Heat treatment processes like annealing, quenching, and tempering modify metal properties."
+    },
+    {
+      "question": "What is the main alloying element in stainless steel?",
+      "choices": ["Nickel", "Chromium", "Manganese", "Molybdenum"],
+      "answer": 1,
+      "topic": "Engineering Materials - Stainless Steel",
+      "difficulty": "Moderate",
+      "tutor": "Chromium (at least 10.5%) provides corrosion resistance in stainless steel."
+    },
+    {
+      "question": "What is the unit of electrical resistivity?",
+      "choices": ["Ohm", "Ohm-meter", "Siemens", "Siemens per meter"],
+      "answer": 1,
+      "topic": "Engineering Materials - Electrical Properties",
+      "difficulty": "Moderate",
+      "tutor": "Electrical resistivity is measured in ohm-meters (Ω·m)."
+    },
+    {
+      "question": "Which type of bond is characteristic of metals?",
+      "choices": ["Ionic bond", "Covalent bond", "Metallic bond", "Van der Waals bond"],
+      "answer": 2,
+      "topic": "Engineering Materials - Atomic Structure",
+      "difficulty": "Easy",
+      "tutor": "Metallic bonds involve a 'sea' of delocalized electrons around positive metal ions."
+    },
+    {
+      "question": "What is the purpose of annealing in metals?",
+      "choices": ["Increase hardness", "Increase brittleness", "Reduce hardness and increase ductility", "Increase electrical resistance"],
+      "answer": 2,
+      "topic": "Engineering Materials - Heat Treatment",
+      "difficulty": "Moderate",
+      "tutor": "Annealing softens metals, reduces internal stress, and improves ductility."
+    },
+    {
+      "question": "Which of the following is a thermosetting polymer?",
+      "choices": ["Polyethylene", "PVC", "Bakelite", "Nylon"],
+      "answer": 2,
+      "topic": "Engineering Materials - Polymers",
+      "difficulty": "Moderate",
+      "tutor": "Bakelite is thermosetting (irreversibly hardens when heated). Polyethylene and PVC are thermoplastics."
+    },
+    {
+      "question": "What is the Poisson's ratio of a perfectly incompressible material?",
+      "choices": ["0", "0.3", "0.5", "1"],
+      "answer": 2,
+      "topic": "Engineering Materials - Mechanical Properties",
+      "difficulty": "Difficult",
+      "tutor": "Poisson's ratio ν = 0.5 for perfectly incompressible materials (e.g., rubber)."
+    },
+    {
+      "question": "What is the purpose of adding carbon to iron?",
+      "choices": ["Increase ductility", "Increase hardness and strength", "Reduce melting point", "Improve corrosion resistance"],
+      "answer": 1,
+      "topic": "Engineering Materials - Ferrous Metals",
+      "difficulty": "Moderate",
+      "tutor": "Carbon increases hardness and strength but reduces ductility in steel."
+    },
+    {
+      "question": "What is the most common crystal structure for metals?",
+      "choices": ["Simple cubic", "Body-centered cubic (BCC)", "Face-centered cubic (FCC)", "Both BCC and FCC"],
+      "answer": 3,
+      "topic": "Engineering Materials - Crystal Structures",
+      "difficulty": "Difficult",
+      "tutor": "Common metal structures: BCC (iron at room temp), FCC (aluminum, copper), HCP (zinc)."
+    },
+    {
+      "question": "Which of the following is a ceramic material?",
+      "choices": ["Brass", "Alumina (Al₂O₃)", "Polycarbonate", "Carbon steel"],
+      "answer": 1,
+      "topic": "Engineering Materials - Ceramics",
+      "difficulty": "Easy",
+      "tutor": "Alumina is a ceramic; brass is metal, polycarbonate is polymer, carbon steel is metal."
+    },
+    {
+      "question": "What is the difference between hardness and toughness?",
+      "choices": ["Hardness resists scratching; toughness resists impact", "Both are the same", "Hardness is for metals only", "Toughness is for polymers only"],
+      "answer": 0,
+      "topic": "Engineering Materials - Mechanical Properties",
+      "difficulty": "Moderate",
+      "tutor": "Hardness resists indentation/scratching; toughness resists fracture under impact."
+    },
+    {
+      "question": "What does the term 'creep' refer to in materials?",
+      "choices": ["Sudden fracture", "Time-dependent plastic deformation under constant stress", "Elastic recovery", "Thermal expansion"],
+      "answer": 1,
+      "topic": "Engineering Materials - Mechanical Behavior",
+      "difficulty": "Difficult",
+      "tutor": "Creep is slow, continuous deformation under constant load, especially at high temperatures."
+    },
+    {
+      "question": "What is the purpose of galvanizing steel?",
+      "choices": ["Increase strength", "Improve corrosion resistance", "Reduce weight", "Increase electrical conductivity"],
+      "answer": 1,
+      "topic": "Engineering Materials - Corrosion Protection",
+      "difficulty": "Easy",
+      "tutor": "Galvanizing applies a zinc coating to steel to prevent rusting (sacrificial protection)."
+    },
+    {
+      "question": "Which of the following has the highest thermal conductivity?",
+      "choices": ["Steel", "Copper", "Aluminum", "Stainless steel"],
+      "answer": 1,
+      "topic": "Engineering Materials - Thermal Properties",
+      "difficulty": "Moderate",
+      "tutor": "Copper has very high thermal conductivity (≈400 W/m·K), higher than aluminum and steel."
+    }
+  ]
+}

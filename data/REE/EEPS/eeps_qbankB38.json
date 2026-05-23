@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "A device that converts AC to DC using switching elements is called?",
+      "choices": ["Rectifier", "Inverter", "Cycloconverter", "Chopper"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Rectifier",
+      "difficulty": "Easy",
+      "tutor": "Rectifier uses diodes or thyristors to convert AC to DC for power supplies, battery chargers, and DC drives."
+    },
+    {
+      "question": "The component that converts DC to AC is known as?",
+      "choices": ["Inverter", "Rectifier", "Converter", "Transformer"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Inverter",
+      "difficulty": "Easy",
+      "tutor": "Inverter uses switching devices (IGBT, MOSFET) to produce AC from DC source like battery or solar panel."
+    },
+    {
+      "question": "A chopper circuit performs which type of conversion?",
+      "choices": ["DC to DC", "AC to DC", "DC to AC", "AC to AC"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Chopper",
+      "difficulty": "Moderate",
+      "tutor": "Chopper (DC-DC converter) changes DC voltage level by switching at high frequency."
+    },
+    {
+      "question": "A cycloconverter directly converts?",
+      "choices": ["AC to AC (frequency change)", "AC to DC", "DC to AC", "DC to DC"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Cycloconverter",
+      "difficulty": "Difficult",
+      "tutor": "Cycloconverter converts fixed frequency AC to variable frequency AC without intermediate DC link."
+    },
+    {
+      "question": "The semiconductor device most commonly used in modern inverters for motor drives is?",
+      "choices": ["IGBT", "SCR", "BJT", "GTO"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - IGBT",
+      "difficulty": "Moderate",
+      "tutor": "IGBT combines high voltage capability of BJT with fast switching of MOSFET; dominant in VFDs and inverters."
+    },
+    {
+      "question": "A device that combines a rectifier, DC link, and inverter in one unit for motor speed control is called?",
+      "choices": ["Variable Frequency Drive (VFD)", "Soft starter", "Servo drive", "Phase converter"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - VFD",
+      "difficulty": "Easy",
+      "tutor": "VFD controls induction motor speed by varying frequency and voltage output."
+    },
+    {
+      "question": "The main advantage of a PWM (Pulse Width Modulation) inverter over a square wave inverter is?",
+      "choices": ["Lower harmonic distortion", "Higher output voltage", "Simpler circuit", "Lower cost"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - PWM",
+      "difficulty": "Difficult",
+      "tutor": "PWM reduces harmonic content, producing near-sinusoidal current with minimal filtering."
+    },
+    {
+      "question": "A thyristor (SCR) turns off naturally when?",
+      "choices": ["Current goes to zero (natural commutation)", "Gate voltage removed", "Reverse voltage applied", "Temperature rises"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Thyristor",
+      "difficulty": "Moderate",
+      "tutor": "SCR is a latching device; it turns off only when anode current drops below holding current (natural commutation)."
+    },
+    {
+      "question": "For a 3-phase full-bridge rectifier with ideal diodes, the output ripple frequency is?",
+      "choices": ["360 Hz for 60 Hz input", "120 Hz", "60 Hz", "180 Hz"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Rectifier Ripple",
+      "difficulty": "Difficult",
+      "tutor": "Three-phase full-bridge rectifier produces 6 pulses per cycle, so ripple frequency = 6 × f = 360 Hz."
+    },
+    {
+      "question": "A buck converter produces an output voltage that is?",
+      "choices": ["Lower than input voltage", "Higher than input voltage", "Same as input", "Negative"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Buck Converter",
+      "difficulty": "Moderate",
+      "tutor": "Buck converter (step-down DC-DC) uses switching and filtering to reduce voltage."
+    },
+    {
+      "question": "A boost converter produces an output voltage that is?",
+      "choices": ["Higher than input voltage", "Lower than input voltage", "Same as input", "Inverted polarity"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Boost Converter",
+      "difficulty": "Moderate",
+      "tutor": "Boost converter steps up DC voltage by storing energy in inductor and releasing it to output."
+    },
+    {
+      "question": "The component that provides DC link voltage smoothing in a VFD is typically?",
+      "choices": ["Capacitor bank", "Inductor bank", "Resistor bank", "Transformer"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - DC Link",
+      "difficulty": "Moderate",
+      "tutor": "DC link capacitor filters rectified voltage and provides low-impedance source for inverter."
+    },
+    {
+      "question": "A device that protects electronic power equipment from voltage spikes is called?",
+      "choices": ["Surge arrester (MOV)", "Fuse", "Circuit breaker", "Thermal overload"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Surge Protection",
+      "difficulty": "Easy",
+      "tutor": "Metal Oxide Varistor (MOV) clamps transient overvoltages to safe levels."
+    },
+    {
+      "question": "In a power supply, the component that stores energy and smooths output ripple is?",
+      "choices": ["Capacitor", "Resistor", "Diode", "Transformer"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Filtering",
+      "difficulty": "Easy",
+      "tutor": "Capacitor (or LC filter) smooths rectified output by charging during peaks and discharging during valleys."
+    },
+    {
+      "question": "A switching power supply operates at high frequency to?",
+      "choices": ["Reduce transformer size and weight", "Increase efficiency", "Reduce ripple", "Increase output voltage"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - SMPS",
+      "difficulty": "Difficult",
+      "tutor": "Higher frequency allows smaller magnetic components, reducing cost and size of power supplies."
+    },
+    {
+      "question": "The typical switching frequency range for IGBTs in industrial VFDs is?",
+      "choices": ["2-16 kHz", "50-60 Hz", "100-200 Hz", "1-2 MHz"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Switching Frequency",
+      "difficulty": "Difficult",
+      "tutor": "IGBTs in VFDs typically switch 2-16 kHz; higher frequency reduces audible noise but increases losses."
+    },
+    {
+      "question": "A regenerative drive returns energy from the motor back to?",
+      "choices": ["AC supply line", "DC link capacitor", "Braking resistor", "Battery"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Regenerative Drive",
+      "difficulty": "Moderate",
+      "tutor": "Regenerative drive feeds braking energy back to utility, saving energy compared to resistor braking."
+    },
+    {
+      "question": "The purpose of a braking chopper in a VFD is?",
+      "choices": ["Dissipate excess regenerative energy in resistor", "Shorten deceleration time", "Protect from overvoltage", "All of the above"],
+      "answer": 3,
+      "topic": "Electronic Power Equipment - Braking Chopper",
+      "difficulty": "Difficult",
+      "tutor": "Braking chopper dumps excess DC link voltage from regeneration into a dynamic braking resistor."
+    },
+    {
+      "question": "A device that converts fixed voltage DC to variable voltage DC using high-frequency switching and isolation is called?",
+      "choices": ["Switched-mode power supply (SMPS)", "Linear regulator", "Rectifier", "Inverter"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - SMPS",
+      "difficulty": "Moderate",
+      "tutor": "SMPS uses flyback, forward, or push-pull topologies to provide regulated isolated DC output."
+    },
+    {
+      "question": "The main loss mechanism in a switching device (IGBT/MOSFET) during turn-on and turn-off is?",
+      "choices": ["Switching loss", "Conduction loss", "Gate loss", "Blocking loss"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Switching Losses",
+      "difficulty": "Difficult",
+      "tutor": "Switching loss occurs due to simultaneous voltage and current overlap during transitions."
+    },
+    {
+      "question": "A power factor correction (PFC) circuit in a power supply primarily reduces?",
+      "choices": ["Harmonic current drawn from mains", "Output ripple", "Switching frequency", "Transformer size"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - PFC",
+      "difficulty": "Difficult",
+      "tutor": "Active PFC shapes input current to follow voltage waveform, improving power factor and reducing harmonics."
+    },
+    {
+      "question": "The component used to isolate control circuit from power circuit in a switching supply is?",
+      "choices": ["Optocoupler", "Pulse transformer", "Relay", "Both A and B"],
+      "answer": 3,
+      "topic": "Electronic Power Equipment - Isolation",
+      "difficulty": "Moderate",
+      "tutor": "Optocoupler (light) or pulse transformer provides galvanic isolation between primary and secondary sides."
+    },
+    {
+      "question": "A soft starter differs from a VFD because it?",
+      "choices": ["Only reduces starting current, no speed control", "Controls speed", "Regenerates energy", "Uses PWM"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Soft Starter",
+      "difficulty": "Easy",
+      "tutor": "Soft starter reduces voltage during start to limit inrush; once at full speed, it bypasses to line."
+    },
+    {
+      "question": "The term 'dead time' in an inverter bridge refers to?",
+      "choices": ["Delay between switching off one device and turning on complementary device", "Time when output is zero", "Time when input is disconnected", "Startup delay"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - Dead Time",
+      "difficulty": "Difficult",
+      "tutor": "Dead time prevents shoot-through (simultaneous conduction) of upper and lower switches in inverter leg."
+    },
+    {
+      "question": "A device that converts AC to AC at the same frequency but different voltage using back-to-back thyristors is?",
+      "choices": ["AC voltage controller (phase control)", "Cycloconverter", "Matrix converter", "Both A and C"],
+      "answer": 0,
+      "topic": "Electronic Power Equipment - AC Controller",
+      "difficulty": "Difficult",
+      "tutor": "AC voltage controller uses triacs or anti-parallel SCRs to vary RMS voltage by phase-angle control."
+    }
+  ]
+}

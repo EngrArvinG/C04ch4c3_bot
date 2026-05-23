@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the SI unit of force?",
+      "choices": ["Joule", "Newton", "Pascal", "Watt"],
+      "answer": 1,
+      "topic": "Engineering Mechanics - Fundamentals",
+      "difficulty": "Easy",
+      "tutor": "The Newton (N) is the SI unit of force, defined as 1 kg·m/s²."
+    },
+    {
+      "question": "What is the sum of all forces acting on a body in equilibrium?",
+      "choices": ["Maximum", "Minimum", "Zero", "Constant"],
+      "answer": 2,
+      "topic": "Engineering Mechanics - Equilibrium",
+      "difficulty": "Easy",
+      "tutor": "For a body in equilibrium, the net force (vector sum) must be zero: ΣF = 0."
+    },
+    {
+      "question": "A 10 kg mass is suspended by a rope. What is the tension in the rope (g = 9.8 m/s²)?",
+      "choices": ["10 N", "98 N", "9.8 N", "980 N"],
+      "answer": 1,
+      "topic": "Engineering Mechanics - Statics",
+      "difficulty": "Moderate",
+      "tutor": "Tension = weight = mg = 10 kg × 9.8 m/s² = 98 N."
+    },
+    {
+      "question": "What is the moment of a force?",
+      "choices": ["Force × distance", "Force / distance", "Force × velocity", "Mass × acceleration"],
+      "answer": 0,
+      "topic": "Engineering Mechanics - Moments",
+      "difficulty": "Easy",
+      "tutor": "Moment (torque) = Force × perpendicular distance from pivot point."
+    },
+    {
+      "question": "A force of 50 N is applied perpendicular to a wrench handle 0.3 m long. What is the torque?",
+      "choices": ["15 N·m", "50 N·m", "0.3 N·m", "150 N·m"],
+      "answer": 0,
+      "topic": "Engineering Mechanics - Moments",
+      "difficulty": "Moderate",
+      "tutor": "τ = F × d = 50 N × 0.3 m = 15 N·m."
+    },
+    {
+      "question": "What is the condition for translational equilibrium?",
+      "choices": ["ΣF = 0", "ΣM = 0", "ΣF = constant", "ΣM = maximum"],
+      "answer": 0,
+      "topic": "Engineering Mechanics - Equilibrium",
+      "difficulty": "Easy",
+      "tutor": "Translational equilibrium requires net force = 0 (ΣF = 0)."
+    },
+    {
+      "question": "What is the condition for rotational equilibrium?",
+      "choices": ["ΣF = 0", "ΣM = 0", "ΣF = constant", "ΣM = maximum"],
+      "answer": 1,
+      "topic": "Engineering Mechanics - Equilibrium",
+      "difficulty": "Easy",
+      "tutor": "Rotational equilibrium requires net moment = 0 (ΣM = 0)."
+    },
+    {
+      "question": "A 200 N weight is placed 2 m from the left end of a 5 m uniform beam. Where must the fulcrum be for balance?",
+      "choices": ["At the center", "Closer to the weight", "At the right end", "Depends on beam weight"],
+      "answer": 3,
+      "topic": "Engineering Mechanics - Moments",
+      "difficulty": "Difficult",
+      "tutor": "Beam weight acts at center, so both beam weight and load position affect fulcrum location."
+    },
+    {
+      "question": "What is the efficiency of an ideal machine?",
+      "choices": ["0%", "50%", "100%", "Depends on load"],
+      "answer": 2,
+      "topic": "Engineering Mechanics - Machines",
+      "difficulty": "Easy",
+      "tutor": "An ideal machine has 100% efficiency (no friction losses)."
+    },
+    {
+      "question": "Which of Newton's laws states that action and reaction are equal and opposite?",
+      "choices": ["First law", "Second law", "Third law", "Law of gravitation"],
+      "answer": 2,
+      "topic": "Engineering Mechanics - Newton's Laws",
+      "difficulty": "Easy",
+      "tutor": "Newton's third law: For every action, there is an equal and opposite reaction."
+    },
+    {
+      "question": "A car accelerates from rest to 20 m/s in 5 seconds. What is the average acceleration?",
+      "choices": ["4 m/s²", "5 m/s²", "2 m/s²", "10 m/s²"],
+      "answer": 0,
+      "topic": "Engineering Mechanics - Kinematics",
+      "difficulty": "Moderate",
+      "tutor": "a = (v - u)/t = (20 - 0)/5 = 4 m/s²."
+    },
+    {
+      "question": "What is the frictional force on a 10 kg box on a horizontal surface with μ = 0.4 (g=9.8 m/s²)?",
+      "choices": ["39.2 N", "98 N", "10 N", "40 N"],
+      "answer": 0,
+      "topic": "Engineering Mechanics - Friction",
+      "difficulty": "Moderate",
+      "tutor": "F_friction = μ × N = 0.4 × (10×9.8) = 0.4 × 98 = 39.2 N."
+    },
+    {
+      "question": "What is the mechanical advantage of a lever with effort arm 4 m and load arm 1 m?",
+      "choices": ["0.25", "4", "5", "1"],
+      "answer": 1,
+      "topic": "Engineering Mechanics - Machines",
+      "difficulty": "Moderate",
+      "tutor": "MA = effort arm / load arm = 4/1 = 4."
+    },
+    {
+      "question": "What is the center of gravity of a uniform rod?",
+      "choices": ["At one end", "At the geometric center", "At the midpoint between ends", "Both B and C"],
+      "answer": 3,
+      "topic": "Engineering Mechanics - Center of Gravity",
+      "difficulty": "Easy",
+      "tutor": "For a uniform rod, the center of gravity is at its geometric center (midpoint)."
+    },
+    {
+      "question": "A 5 kg block is pulled with 20 N force on a frictionless surface. What is its acceleration?",
+      "choices": ["4 m/s²", "100 m/s²", "0.25 m/s²", "15 m/s²"],
+      "answer": 0,
+      "topic": "Engineering Mechanics - Dynamics",
+      "difficulty": "Moderate",
+      "tutor": "a = F/m = 20 N / 5 kg = 4 m/s² (Newton's second law)."
+    },
+    {
+      "question": "What is the resultant of two perpendicular forces of 3 N and 4 N?",
+      "choices": ["1 N", "5 N", "7 N", "12 N"],
+      "answer": 1,
+      "topic": "Engineering Mechanics - Vector Addition",
+      "difficulty": "Moderate",
+      "tutor": "R = √(3² + 4²) = √(9+16) = √25 = 5 N."
+    },
+    {
+      "question": "What is the principle of moments?",
+      "choices": ["Sum of clockwise moments = Sum of anticlockwise moments", "Sum of forces = 0", "Moment = Force × mass", "Moment = Power × time"],
+      "answer": 0,
+      "topic": "Engineering Mechanics - Moments",
+      "difficulty": "Easy",
+      "tutor": "The principle of moments states that for equilibrium, clockwise moments = anticlockwise moments."
+    },
+    {
+      "question": "A ladder rests against a wall. What forces act at the contact point with the wall?",
+      "choices": ["Normal reaction only", "Normal reaction and friction", "Only friction", "Weight only"],
+      "answer": 1,
+      "topic": "Engineering Mechanics - Friction",
+      "difficulty": "Difficult",
+      "tutor": "Wall exerts both normal force (perpendicular) and friction (parallel) to prevent slipping."
+    },
+    {
+      "question": "What is the slope of a velocity-time graph?",
+      "choices": ["Displacement", "Acceleration", "Force", "Work"],
+      "answer": 1,
+      "topic": "Engineering Mechanics - Kinematics",
+      "difficulty": "Moderate",
+      "tutor": "The slope of velocity-time graph gives acceleration (a = dv/dt)."
+    },
+    {
+      "question": "What is the area under a force-displacement graph?",
+      "choices": ["Work done", "Power", "Momentum", "Acceleration"],
+      "answer": 0,
+      "topic": "Engineering Mechanics - Work and Energy",
+      "difficulty": "Moderate",
+      "tutor": "Work done = ∫F·dx, which is the area under force-displacement curve."
+    }
+  ]
+}

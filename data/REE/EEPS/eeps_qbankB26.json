@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is the most common semiconductor material?",
+      "choices": ["Silicon", "Germanium", "Gallium", "Carbon"],
+      "answer": 0,
+      "topic": "Electronic Theory - Semiconductors",
+      "difficulty": "Easy",
+      "tutor": "Silicon (Si) is the most widely used semiconductor material."
+    },
+    {
+      "question": "What is a diode used for?",
+      "choices": ["Rectification", "Amplification", "Switching only", "Oscillation"],
+      "answer": 0,
+      "topic": "Electronic Theory - Diodes",
+      "difficulty": "Easy",
+      "tutor": "Diode allows current in one direction, primarily for rectification."
+    },
+    {
+      "question": "What is the forward voltage drop of a silicon diode?",
+      "choices": ["0.3 V", "0.7 V", "1.2 V", "2.0 V"],
+      "answer": 1,
+      "topic": "Electronic Theory - Diode Characteristics",
+      "difficulty": "Easy",
+      "tutor": "Typical silicon diode forward voltage is about 0.7 V."
+    },
+    {
+      "question": "What is the forward voltage drop of a germanium diode?",
+      "choices": ["0.3 V", "0.7 V", "1.2 V", "2.0 V"],
+      "answer": 0,
+      "topic": "Electronic Theory - Diode Characteristics",
+      "difficulty": "Moderate",
+      "tutor": "Germanium diode forward voltage is about 0.3 V."
+    },
+    {
+      "question": "What is the purpose of a Zener diode?",
+      "choices": ["Voltage regulation", "Rectification", "Amplification", "Light emission"],
+      "answer": 0,
+      "topic": "Electronic Theory - Zener Diode",
+      "difficulty": "Easy",
+      "tutor": "Zener diode operates in reverse breakdown to maintain constant voltage."
+    },
+    {
+      "question": "What is the beta (β) of a transistor?",
+      "choices": ["Ic/Ib", "Ic/Ie", "Ib/Ic", "Ie/Ib"],
+      "answer": 0,
+      "topic": "Electronic Theory - BJT",
+      "difficulty": "Moderate",
+      "tutor": "β = Ic/Ib is the common-emitter current gain."
+    },
+    {
+      "question": "What are the three terminals of a BJT?",
+      "choices": ["Emitter, Base, Collector", "Source, Gate, Drain", "Anode, Cathode, Gate", "Drain, Source, Body"],
+      "answer": 0,
+      "topic": "Electronic Theory - BJT",
+      "difficulty": "Easy",
+      "tutor": "BJT has Emitter (E), Base (B), and Collector (C)."
+    },
+    {
+      "question": "What are the three terminals of a FET?",
+      "choices": ["Source, Gate, Drain", "Emitter, Base, Collector", "Anode, Cathode, Gate", "Drain, Body, Source"],
+      "answer": 0,
+      "topic": "Electronic Theory - FET",
+      "difficulty": "Easy",
+      "tutor": "FET has Source (S), Gate (G), and Drain (D)."
+    },
+    {
+      "question": "What type of transistor is a MOSFET?",
+      "choices": ["Field-effect transistor", "Bipolar transistor", "Junction transistor", "Photo transistor"],
+      "answer": 0,
+      "topic": "Electronic Theory - MOSFET",
+      "difficulty": "Easy",
+      "tutor": "MOSFET is a type of field-effect transistor."
+    },
+    {
+      "question": "What is an op-amp?",
+      "choices": ["High gain differential amplifier", "Power transistor", "Rectifier diode", "Voltage regulator"],
+      "answer": 0,
+      "topic": "Electronic Theory - Op-Amp",
+      "difficulty": "Easy",
+      "tutor": "Operational amplifier (op-amp) is a high-gain differential voltage amplifier."
+    },
+    {
+      "question": "What is the ideal input impedance of an op-amp?",
+      "choices": ["Infinite", "Zero", "1 MΩ", "100 Ω"],
+      "answer": 0,
+      "topic": "Electronic Theory - Op-Amp",
+      "difficulty": "Moderate",
+      "tutor": "Ideal op-amp has infinite input impedance."
+    },
+    {
+      "question": "What is the ideal output impedance of an op-amp?",
+      "choices": ["Zero", "Infinite", "1 kΩ", "10 MΩ"],
+      "answer": 0,
+      "topic": "Electronic Theory - Op-Amp",
+      "difficulty": "Moderate",
+      "tutor": "Ideal op-amp has zero output impedance."
+    },
+    {
+      "question": "What is a rectifier?",
+      "choices": ["Converts AC to DC", "Converts DC to AC", "Amplifies signal", "Filters noise"],
+      "answer": 0,
+      "topic": "Electronic Theory - Rectifiers",
+      "difficulty": "Easy",
+      "tutor": "Rectifier converts alternating current to direct current."
+    },
+    {
+      "question": "What is the ripple frequency of a full-wave rectifier from 60 Hz input?",
+      "choices": ["60 Hz", "120 Hz", "30 Hz", "240 Hz"],
+      "answer": 1,
+      "topic": "Electronic Theory - Rectifiers",
+      "difficulty": "Difficult",
+      "tutor": "Full-wave rectifier doubles the frequency: 60 Hz input → 120 Hz ripple."
+    },
+    {
+      "question": "What is the ripple frequency of a half-wave rectifier from 60 Hz input?",
+      "choices": ["60 Hz", "120 Hz", "30 Hz", "240 Hz"],
+      "answer": 0,
+      "topic": "Electronic Theory - Rectifiers",
+      "difficulty": "Difficult",
+      "tutor": "Half-wave rectifier output frequency equals input frequency: 60 Hz."
+    },
+    {
+      "question": "What is the typical output voltage of a red LED?",
+      "choices": ["1.8-2.2 V", "0.7 V", "3.3 V", "5 V"],
+      "answer": 0,
+      "topic": "Electronic Theory - LEDs",
+      "difficulty": "Moderate",
+      "tutor": "Red LED forward voltage is typically 1.8-2.2 V."
+    },
+    {
+      "question": "What does a capacitor do in a power supply filter?",
+      "choices": ["Smooths ripple voltage", "Blocks DC", "Amplifies AC", "Converts voltage"],
+      "answer": 0,
+      "topic": "Electronic Theory - Filters",
+      "difficulty": "Easy",
+      "tutor": "Filter capacitor smooths rectified output by storing charge."
+    },
+    {
+      "question": "What is a thyristor?",
+      "choices": ["Latching semiconductor switch", "Diode", "Transistor", "Op-amp"],
+      "answer": 0,
+      "topic": "Electronic Theory - Thyristors",
+      "difficulty": "Moderate",
+      "tutor": "Thyristor (SCR) is a latching switch once triggered."
+    },
+    {
+      "question": "What does a 555 timer IC do?",
+      "choices": ["Oscillator and timer", "Amplification", "Rectification", "Logic gate"],
+      "answer": 0,
+      "topic": "Electronic Theory - 555 Timer",
+      "difficulty": "Moderate",
+      "tutor": "555 timer can be used as oscillator, monostable, or astable multivibrator."
+    },
+    {
+      "question": "What is the binary output of a NOT gate with input 1?",
+      "choices": ["0", "1", "2", "10"],
+      "answer": 0,
+      "topic": "Electronic Theory - Logic Gates",
+      "difficulty": "Easy",
+      "tutor": "NOT gate inverts input: 1 → 0."
+    },
+    {
+      "question": "What is the Boolean expression for an AND gate?",
+      "choices": ["A·B", "A+B", "A⊕B", "Ā"],
+      "answer": 0,
+      "topic": "Electronic Theory - Logic Gates",
+      "difficulty": "Easy",
+      "tutor": "AND gate output is 1 only if both A and B are 1."
+    },
+    {
+      "question": "What is the Boolean expression for an OR gate?",
+      "choices": ["A+B", "A·B", "A⊕B", "Ā"],
+      "answer": 0,
+      "topic": "Electronic Theory - Logic Gates",
+      "difficulty": "Easy",
+      "tutor": "OR gate output is 1 if at least one input is 1."
+    },
+    {
+      "question": "What is the Boolean expression for a NAND gate?",
+      "choices": ["Ā·B̄", "A·B̄", "Ā+B̄", "A+B̄"],
+      "answer": 2,
+      "topic": "Electronic Theory - Logic Gates",
+      "difficulty": "Difficult",
+      "tutor": "NAND = NOT AND = (A·B)̄ = Ā + B̄ (De Morgan)."
+    },
+    {
+      "question": "What is the collector current if β=100 and Ib=20 μA?",
+      "choices": ["2 mA", "0.2 mA", "20 mA", "200 mA"],
+      "answer": 0,
+      "topic": "Electronic Theory - BJT",
+      "difficulty": "Difficult",
+      "tutor": "Ic = β × Ib = 100 × 20×10⁻⁶ = 2×10⁻³ A = 2 mA."
+    },
+    {
+      "question": "What is the voltage gain of an op-amp inverting amplifier with Rf=100 kΩ and Rin=10 kΩ?",
+      "choices": ["-10", "10", "-100", "100"],
+      "answer": 0,
+      "topic": "Electronic Theory - Op-Amp",
+      "difficulty": "Difficult",
+      "tutor": "Av = -Rf/Rin = -100k/10k = -10."
+    }
+  ]
+}

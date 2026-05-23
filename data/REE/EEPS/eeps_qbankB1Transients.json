@@ -1,0 +1,686 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "There are no transients in pure resistive circuits because they",
+      "choices": ["offer high resistance", "obey Ohm's Law", "are linear circuits", "have no stored energy"],
+      "answer": 3,
+      "topic": "Transients - Basic Concepts",
+      "difficulty": "Easy",
+      "tutor": "Transients are caused by stored energy in inductors and capacitors that cannot change instantaneously. Pure resistive circuits have no L or C, hence no natural response or transients."
+    },
+    {
+      "question": "A series RC circuit with R = 2 kΩ and C = 10 μF is suddenly connected to a 10 V DC source at t = 0. The voltage across the capacitor at t = 20 ms is",
+      "choices": ["6.32 V", "3.68 V", "10 V", "0 V"],
+      "answer": 0,
+      "topic": "Transients - RC Circuits",
+      "difficulty": "Moderate",
+      "tutor": "τ = RC = 2000 × 10×10⁻⁶ = 0.02 s. At t=20ms=1τ, Vc=10(1-e⁻¹)=6.32V."
+    },
+    {
+      "question": "The time constant of a series RL circuit is",
+      "choices": ["L/R", "R/L", "RC", "√(LC)"],
+      "answer": 0,
+      "topic": "Transients - RL Circuits",
+      "difficulty": "Easy",
+      "tutor": "τ = L/R is the time for current to reach 63.2% of final value during growth."
+    },
+    {
+      "question": "For a single line-to-ground (LG) fault on phase A, the fault current Ia is equal to",
+      "choices": ["I1", "I2", "3I0", "I1 + I2 + I0"],
+      "answer": 2,
+      "topic": "Fault Analysis - Symmetrical Components",
+      "difficulty": "Moderate",
+      "tutor": "LG fault connects positive, negative and zero sequence networks in series, so I1=I2=I0 and Ia=3I0."
+    },
+    {
+      "question": "A balanced three-phase fault involves only the",
+      "choices": ["positive sequence network", "negative sequence network", "zero sequence network", "all three sequence networks"],
+      "answer": 0,
+      "topic": "Fault Analysis - Balanced Faults",
+      "difficulty": "Easy",
+      "tutor": "Balanced faults are symmetrical, therefore only positive sequence network is required (I2=I0=0)."
+    },
+    {
+      "question": "The initial current through an inductor cannot",
+      "choices": ["be zero", "change instantly", "reach steady state", "be continuous"],
+      "answer": 1,
+      "topic": "Transients - Inductor Behavior",
+      "difficulty": "Easy",
+      "tutor": "Inductor current is continuous: i(0⁻)=i(0⁺). It cannot jump instantaneously."
+    },
+    {
+      "question": "A double line-to-ground (LLG) fault connects the three sequence networks in",
+      "choices": ["series", "parallel", "series-parallel", "no connection"],
+      "answer": 1,
+      "topic": "Fault Analysis - Unsymmetrical Faults",
+      "difficulty": "Moderate",
+      "tutor": "Positive, negative and zero sequence networks are connected in parallel for LLG fault."
+    },
+    {
+      "question": "The DC offset in short-circuit current decays with time constant",
+      "choices": ["R/L", "L/R", "RC", "√(L/C)"],
+      "answer": 1,
+      "topic": "Fault Analysis - DC Offset",
+      "difficulty": "Moderate",
+      "tutor": "τ = L/R (or X/(ωR)). Higher X/R ratio means slower decay."
+    },
+    {
+      "question": "Underdamped response in series RLC circuit occurs when",
+      "choices": ["R < 2√(L/C)", "R > 2√(L/C)", "R = 2√(L/C)", "R = 0"],
+      "answer": 0,
+      "topic": "Transients - RLC Circuits",
+      "difficulty": "Difficult",
+      "tutor": "When damping factor α < natural frequency ω₀, R < 2√(L/C) gives oscillatory response."
+    },
+    {
+      "question": "The natural (transient) response eventually dies out due to",
+      "choices": ["resistance", "inductance", "capacitance", "source"],
+      "answer": 0,
+      "topic": "Transients - Damping",
+      "difficulty": "Easy",
+      "tutor": "Resistance dissipates stored energy as heat, causing the transient to decay."
+    },
+    {
+      "question": "A series RL circuit with R = 5 Ω and L = 0.1 H is connected to a 20 V DC source at t = 0. The steady-state current is",
+      "choices": ["2 A", "4 A", "0.4 A", "20 A"],
+      "answer": 1,
+      "topic": "Transients - RL Circuits",
+      "difficulty": "Moderate",
+      "tutor": "I_ss = V/R = 20/5 = 4 A. In steady state, inductor acts as short circuit."
+    },
+    {
+      "question": "In Laplace domain, the impedance of a capacitor is",
+      "choices": ["sC", "1/(sC)", "C", "1/C"],
+      "answer": 1,
+      "topic": "Transients - Laplace Transform",
+      "difficulty": "Moderate",
+      "tutor": "Z_C(s) = 1/(sC). s-domain turns integration into division by s."
+    },
+    {
+      "question": "For a line-to-line fault, the sequence networks are connected in",
+      "choices": ["series", "parallel", "positive and negative in series", "all three in parallel"],
+      "answer": 2,
+      "topic": "Fault Analysis - Unsymmetrical Faults",
+      "difficulty": "Moderate",
+      "tutor": "LL fault: positive and negative sequence networks in series, zero sequence open (no ground path)."
+    },
+    {
+      "question": "Switching surges are mainly produced by",
+      "choices": ["lightning", "energizing or de-energizing capacitive or inductive loads", "three-phase faults", "steady-state operation"],
+      "answer": 1,
+      "topic": "Transients - Switching Surges",
+      "difficulty": "Easy",
+      "tutor": "Opening/closing breakers on lines or capacitor banks causes switching surges, reaching 2-3 pu voltage."
+    },
+    {
+      "question": "In per-unit system, the fault current in pu is",
+      "choices": ["1 / Z_pu", "Z_pu", "MVA_base / Z_pu", "kV_base / Z_pu"],
+      "answer": 0,
+      "topic": "Fault Analysis - Per-Unit System",
+      "difficulty": "Moderate",
+      "tutor": "I_f(pu) = 1/Z_pu assuming pre-fault voltage = 1.0 pu."
+    },
+    {
+      "question": "The voltage across a capacitor cannot",
+      "choices": ["change instantly", "be continuous", "be zero at t=0⁺", "store energy"],
+      "answer": 0,
+      "topic": "Transients - Capacitor Behavior",
+      "difficulty": "Easy",
+      "tutor": "Capacitor voltage is continuous: Vc(0⁻)=Vc(0⁺). It cannot jump instantly."
+    },
+    {
+      "question": "In s-domain, the impedance of an inductor is",
+      "choices": ["1/(sL)", "sL", "L/s", "s/L"],
+      "answer": 1,
+      "topic": "Transients - Laplace Transform",
+      "difficulty": "Moderate",
+      "tutor": "Z_L(s) = sL. Derivative in time domain becomes multiplication by s."
+    },
+    {
+      "question": "The highest short-circuit current usually occurs in",
+      "choices": ["line-to-ground fault", "line-to-line fault", "double line-to-ground fault", "balanced three-phase fault"],
+      "answer": 3,
+      "topic": "Fault Analysis - Fault Current Magnitude",
+      "difficulty": "Moderate",
+      "tutor": "Balanced three-phase fault gives the highest symmetrical fault current."
+    },
+    {
+      "question": "Higher system X/R ratio means",
+      "choices": ["faster DC offset decay", "slower DC offset decay", "no DC offset", "lower fault current"],
+      "answer": 1,
+      "topic": "Fault Analysis - X/R Ratio",
+      "difficulty": "Moderate",
+      "tutor": "Time constant τ = X/(ωR) becomes larger, so DC offset decays more slowly."
+    },
+    {
+      "question": "Critical damping in RLC series circuit occurs when",
+      "choices": ["R < 2√(L/C)", "R = 2√(L/C)", "R > 2√(L/C)", "R = 0"],
+      "answer": 1,
+      "topic": "Transients - RLC Circuits",
+      "difficulty": "Difficult",
+      "tutor": "α = ω₀ → R = 2√(L/C) gives fastest non-oscillatory response."
+    },
+    {
+      "question": "Symmetrical component transformation is mainly used to analyze",
+      "choices": ["balanced faults only", "unsymmetrical faults", "steady-state power flow", "transient stability"],
+      "answer": 1,
+      "topic": "Fault Analysis - Symmetrical Components",
+      "difficulty": "Easy",
+      "tutor": "It simplifies LG, LL, and LLG fault calculations using Ia = I0 + I1 + I2."
+    },
+    {
+      "question": "Switching a large capacitor bank on a weak system can cause",
+      "choices": ["only steady-state overvoltage", "high inrush current and transient overvoltage", "no transient", "only DC offset"],
+      "answer": 1,
+      "topic": "Transients - Capacitor Switching",
+      "difficulty": "Moderate",
+      "tutor": "Inrush current can be 10–20 times rated and produce transient overvoltages."
+    },
+    {
+      "question": "In per-unit fault calculation, fault current I_f (pu) =",
+      "choices": ["Z_pu", "1 / Z_pu", "MVA_base / Z_pu", "kV_base / Z_pu"],
+      "answer": 1,
+      "topic": "Fault Analysis - Per-Unit System",
+      "difficulty": "Moderate",
+      "tutor": "I_f(pu) = 1/Z_pu assuming pre-fault voltage = 1.0 pu."
+    },
+    {
+      "question": "Maximum DC offset in fault current occurs when the fault is initiated at",
+      "choices": ["voltage peak", "voltage zero", "current peak", "current zero"],
+      "answer": 1,
+      "topic": "Fault Analysis - DC Offset",
+      "difficulty": "Difficult",
+      "tutor": "Voltage zero crossing gives maximum asymmetry. DC component = √2 I_sym sin(φ)."
+    },
+    {
+      "question": "During capacitor discharge through resistor, the voltage decays as",
+      "choices": ["V(1 - e^{-t/RC})", "V e^{-t/RC}", "V / RC", "constant"],
+      "answer": 1,
+      "topic": "Transients - RC Circuits",
+      "difficulty": "Moderate",
+      "tutor": "Exponential decay with time constant RC: Vc(t) = V₀ e^{-t/RC}."
+    },
+    {
+      "question": "The Laplace transform converts",
+      "choices": ["time domain to phasor domain", "differential equations to algebraic equations", "AC to DC only", "steady-state to transient"],
+      "answer": 1,
+      "topic": "Transients - Laplace Transform",
+      "difficulty": "Moderate",
+      "tutor": "It turns integro-differential equations into simple algebraic equations."
+    },
+    {
+      "question": "Negative sequence component produces",
+      "choices": ["no rotor heating", "double frequency rotor currents and heating", "only stator heating", "DC component"],
+      "answer": 1,
+      "topic": "Fault Analysis - Negative Sequence",
+      "difficulty": "Moderate",
+      "tutor": "It creates a field rotating backwards relative to rotor, inducing double-frequency currents and heating."
+    },
+    {
+      "question": "The per-unit impedance on new base is",
+      "choices": ["Z_old × (MVA_new/MVA_old) × (kV_old/kV_new)²", "Z_old only", "Z_old × MVA_old", "Z_old / kV"],
+      "answer": 0,
+      "topic": "Fault Analysis - Per-Unit System",
+      "difficulty": "Difficult",
+      "tutor": "Z_pu_new = Z_pu_old × (MVA_new/MVA_old) × (kV_old/kV_new)²."
+    },
+    {
+      "question": "When an inductive load is suddenly switched off, the voltage spike is due to",
+      "choices": ["C dv/dt", "L di/dt", "R only", "steady state"],
+      "answer": 1,
+      "topic": "Transients - Inductive Switching",
+      "difficulty": "Moderate",
+      "tutor": "v = L di/dt becomes very large when di/dt is high during switching."
+    },
+    {
+      "question": "Solidly grounded system has",
+      "choices": ["high zero sequence impedance", "low zero sequence impedance", "no zero sequence current", "infinite zero sequence impedance"],
+      "answer": 1,
+      "topic": "Fault Analysis - Grounding",
+      "difficulty": "Easy",
+      "tutor": "Solid grounding provides low-impedance path for ground fault current."
+    },
+    {
+      "question": "Total response in transient analysis is",
+      "choices": ["natural response only", "forced response only", "natural response + forced response", "particular solution only"],
+      "answer": 2,
+      "topic": "Transients - Total Response",
+      "difficulty": "Easy",
+      "tutor": "Total response = natural (homogeneous) + forced (particular) solution."
+    },
+    {
+      "question": "The most severe fault thermally (for heating) is usually the",
+      "choices": ["single line-to-ground fault", "line-to-line fault", "double line-to-ground fault", "three-phase fault"],
+      "answer": 3,
+      "topic": "Fault Analysis - Thermal Effects",
+      "difficulty": "Moderate",
+      "tutor": "Three-phase fault produces the highest symmetrical rms current for thermal rating."
+    },
+    {
+      "question": "In RLC series circuit, the natural frequency ω₀ is",
+      "choices": ["R/(2L)", "1/√(LC)", "R/L", "√(L/C)"],
+      "answer": 1,
+      "topic": "Transients - RLC Circuits",
+      "difficulty": "Moderate",
+      "tutor": "ω₀ = 1/√(LC) determines oscillation frequency when underdamped."
+    },
+    {
+      "question": "The universal time constant chart shows that at 5τ the response reaches approximately",
+      "choices": ["63.2%", "86.5%", "95%", "99.3%"],
+      "answer": 3,
+      "topic": "Transients - Time Constant",
+      "difficulty": "Easy",
+      "tutor": "At 5 time constants, the transient is essentially settled (99.3% of final value)."
+    },
+    {
+      "question": "Zero sequence current can flow only when",
+      "choices": ["system is ungrounded", "there is a ground return path", "fault is line-to-line", "load is balanced"],
+      "answer": 1,
+      "topic": "Fault Analysis - Zero Sequence",
+      "difficulty": "Moderate",
+      "tutor": "Requires a return path through ground or neutral. I₀ = (Ia+Ib+Ic)/3."
+    },
+    {
+      "question": "The transient response of a first-order system is characterized by",
+      "choices": ["oscillations", "exponential decay or growth", "constant value", "linear change"],
+      "answer": 1,
+      "topic": "Transients - First-Order Systems",
+      "difficulty": "Easy",
+      "tutor": "First-order systems have exponential response: e^{-t/τ} or 1-e^{-t/τ}."
+    },
+    {
+      "question": "In a series RL circuit, the time constant is the time when current reaches",
+      "choices": ["100% of final value", "63.2% of final value", "36.8% of final value", "50% of final value"],
+      "answer": 1,
+      "topic": "Transients - RL Circuits",
+      "difficulty": "Easy",
+      "tutor": "At t = τ, i(t) = I_final (1 - e⁻¹) = 0.632 I_final."
+    },
+    {
+      "question": "In a series RC circuit, the time constant is the time when voltage across capacitor reaches",
+      "choices": ["100% of final value", "63.2% of final value (charging)", "36.8% of initial value (discharging)", "Both B and C"],
+      "answer": 3,
+      "topic": "Transients - RC Circuits",
+      "difficulty": "Moderate",
+      "tutor": "Charging: Vc reaches 63.2% of final. Discharging: Vc decays to 36.8% of initial."
+    },
+    {
+      "question": "A line-to-ground fault current is higher than three-phase fault current when",
+      "choices": ["Z₀ is very small", "Z₀ is very large", "system is ungrounded", "never"],
+      "answer": 0,
+      "topic": "Fault Analysis - LG vs 3-Phase",
+      "difficulty": "Difficult",
+      "tutor": "If Z₀ < Z₁, LG fault current can exceed three-phase fault current."
+    },
+    {
+      "question": "The damping factor α in a series RLC circuit is given by",
+      "choices": ["R/(2L)", "1/√(LC)", "√(1/LC - (R/2L)²)", "R/2C"],
+      "answer": 0,
+      "topic": "Transients - RLC Circuits",
+      "difficulty": "Difficult",
+      "tutor": "α = R/(2L). The response depends on α relative to ω₀ = 1/√(LC)."
+    },
+    {
+      "question": "Overdamped response in a series RLC circuit occurs when",
+      "choices": ["R < 2√(L/C)", "R = 2√(L/C)", "R > 2√(L/C)", "R = 0"],
+      "answer": 2,
+      "topic": "Transients - RLC Circuits",
+      "difficulty": "Difficult",
+      "tutor": "Overdamped when R > 2√(L/C), giving two real and distinct roots."
+    },
+    {
+      "question": "Transient recovery voltage (TRV) across a circuit breaker contacts after interrupting a fault depends primarily on",
+      "choices": ["system inductance and capacitance", "load current only", "source voltage only", "breaker type only"],
+      "answer": 0,
+      "topic": "Transients - TRV",
+      "difficulty": "Difficult",
+      "tutor": "TRV is determined by the natural frequency of the system L and C components."
+    },
+    {
+      "question": "Ferroresonance occurs when",
+      "choices": ["linear inductor is in series with capacitor", "non-linear inductor (transformer) is in series with capacitor", "two capacitors are in parallel", "resistors are in series"],
+      "answer": 1,
+      "topic": "Transients - Ferroresonance",
+      "difficulty": "Difficult",
+      "tutor": "Occurs with nonlinear inductance (e.g., transformer magnetizing branch) in series with capacitance."
+    },
+    {
+      "question": "The initial rate of rise of restriking voltage (RRRV) across a circuit breaker is highest for",
+      "choices": ["long transmission lines", "short lines close to the breaker", "cables only", "loads with high resistance"],
+      "answer": 1,
+      "topic": "Transients - RRRV",
+      "difficulty": "Difficult",
+      "tutor": "Short lines near the breaker have higher natural frequency and steeper RRRV."
+    },
+    {
+      "question": "Lightning surges are characterized by",
+      "choices": ["high voltage, low current", "high voltage, high current, short duration", "low voltage, long duration", "only DC component"],
+      "answer": 1,
+      "topic": "Transients - Lightning",
+      "difficulty": "Easy",
+      "tutor": "Lightning surges have high voltage (millions of volts), high current (tens of kA), and very short duration (microseconds)."
+    },
+    {
+      "question": "Surge arresters are used to",
+      "choices": ["eliminate all surges", "limit the surge voltage magnitude", "increase fault current", "store surge energy"],
+      "answer": 1,
+      "topic": "Transients - Surge Protection",
+      "difficulty": "Easy",
+      "tutor": "Surge arresters clamp the voltage to a safe level by diverting surge current to ground."
+    },
+    {
+      "question": "The reflection coefficient for voltage at an open-circuit termination is",
+      "choices": ["0", "1", "-1", "2"],
+      "answer": 1,
+      "topic": "Transients - Traveling Waves",
+      "difficulty": "Difficult",
+      "tutor": "At open circuit, reflected voltage equals incident voltage, so Γ_v = +1 (voltage doubles)."
+    },
+    {
+      "question": "The reflection coefficient for voltage at a short-circuit termination is",
+      "choices": ["0", "1", "-1", "2"],
+      "answer": 2,
+      "topic": "Transients - Traveling Waves",
+      "difficulty": "Difficult",
+      "tutor": "At short circuit, reflected voltage is opposite polarity, so Γ_v = -1 (voltage becomes zero)."
+    },
+    {
+      "question": "Bewley lattice diagram is used to analyze",
+      "choices": ["steady-state power flow", "traveling wave reflections on transmission lines", "generator stability", "load flow"],
+      "answer": 1,
+      "topic": "Transients - Traveling Waves",
+      "difficulty": "Moderate",
+      "tutor": "Bewley lattice diagram tracks traveling wave reflections and refractions at line discontinuities."
+    },
+    {
+      "question": "The characteristic impedance of a lossless transmission line is",
+      "choices": ["√(L/C)", "√(C/L)", "R", "1/(RC)"],
+      "answer": 0,
+      "topic": "Transients - Traveling Waves",
+      "difficulty": "Moderate",
+      "tutor": "Z_c = √(L/C) for lossless line. Typical values: 400Ω for distribution, 200-300Ω for transmission."
+    },
+    {
+      "question": "The velocity of propagation on a lossless line is",
+      "choices": ["1/√(LC)", "√(LC)", "1/(RC)", "1/(L/C)"],
+      "answer": 0,
+      "topic": "Transients - Traveling Waves",
+      "difficulty": "Moderate",
+      "tutor": "v = 1/√(LC) ≈ speed of light (3×10⁸ m/s) for overhead lines."
+    },
+    {
+      "question": "Buchholz relay protects transformers against",
+      "choices": ["external short circuits", "internal incipient faults (arcing, insulation breakdown)", "overloading", "lightning surges"],
+      "answer": 1,
+      "topic": "Fault Analysis - Transformer Protection",
+      "difficulty": "Moderate",
+      "tutor": "Buchholz relay detects gas accumulation from internal arcing or insulation breakdown in oil-filled transformers."
+    },
+    {
+      "question": "In a purely inductive circuit, the transient current after switching on a DC source",
+      "choices": ["starts at zero and rises exponentially", "starts at maximum and decays", "is instantaneous", "oscillates"],
+      "answer": 0,
+      "topic": "Transients - Inductive Circuits",
+      "difficulty": "Moderate",
+      "tutor": "i(t) = (V/R)(1 - e^{-Rt/L}) = (V/R)(1 - e^{-t/τ})."
+    },
+    {
+      "question": "Energy stored in an inductor at steady state DC is",
+      "choices": ["½ LI²", "½ CV²", "LI", "L di/dt"],
+      "answer": 0,
+      "topic": "Transients - Energy Storage",
+      "difficulty": "Easy",
+      "tutor": "W = ½ LI², where I is the steady-state DC current."
+    },
+    {
+      "question": "For an RC circuit, the capacitor acts as an open circuit under steady-state DC conditions because",
+      "choices": ["its resistance is infinite", "its current becomes zero", "its voltage becomes zero", "its capacitance increases"],
+      "answer": 1,
+      "topic": "Transients - Capacitor Behavior",
+      "difficulty": "Easy",
+      "tutor": "In steady state DC, dV/dt = 0, so I = C dV/dt = 0 (open circuit)."
+    },
+    {
+      "question": "For an RL circuit, the inductor acts as a short circuit under steady-state DC conditions because",
+      "choices": ["its resistance is zero", "its voltage becomes zero", "its current becomes zero", "its inductance increases"],
+      "answer": 1,
+      "topic": "Transients - Inductor Behavior",
+      "difficulty": "Easy",
+      "tutor": "In steady state DC, di/dt = 0, so V = L di/dt = 0 (short circuit)."
+    },
+    {
+      "question": "The complete response of a circuit is",
+      "choices": ["zero-input response only", "zero-state response only", "zero-input response + zero-state response", "steady-state only"],
+      "answer": 2,
+      "topic": "Transients - Complete Response",
+      "difficulty": "Moderate",
+      "tutor": "Complete response = zero-input (due to initial conditions) + zero-state (due to sources)."
+    },
+    {
+      "question": "A zero-input response in a circuit is caused by",
+      "choices": ["external sources only", "initial stored energy only", "both sources and initial conditions", "none of these"],
+      "answer": 1,
+      "topic": "Transients - Zero-Input Response",
+      "difficulty": "Moderate",
+      "tutor": "Zero-input response occurs when sources are set to zero, only initial L or C energy remains."
+    },
+    {
+      "question": "A zero-state response in a circuit is caused by",
+      "choices": ["initial stored energy only", "external sources only", "both sources and initial conditions", "none of these"],
+      "answer": 1,
+      "topic": "Transients - Zero-State Response",
+      "difficulty": "Moderate",
+      "tutor": "Zero-state response occurs with zero initial conditions, only external sources applied."
+    },
+    {
+      "question": "In s-domain, initial capacitor voltage appears as",
+      "choices": ["voltage source Vc(0)/s in series with capacitor", "current source in parallel", "resistor only", "inductor"],
+      "answer": 0,
+      "topic": "Transients - Laplace Transform",
+      "difficulty": "Difficult",
+      "tutor": "Capacitor: impedance 1/(sC) in series with voltage source Vc(0)/s."
+    },
+    {
+      "question": "In s-domain, initial inductor current appears as",
+      "choices": ["current source Li(0) in parallel", "voltage source Li(0) in series", "resistor only", "capacitor"],
+      "answer": 1,
+      "topic": "Transients - Laplace Transform",
+      "difficulty": "Difficult",
+      "tutor": "Inductor: impedance sL in series with voltage source Li(0)."
+    },
+    {
+      "question": "The positive sequence impedance of a transmission line is usually",
+      "choices": ["equal to negative sequence impedance", "greater than zero sequence impedance", "less than zero sequence impedance", "equal to zero sequence impedance"],
+      "answer": 0,
+      "topic": "Fault Analysis - Sequence Impedances",
+      "difficulty": "Moderate",
+      "tutor": "For transmission lines, Z₁ = Z₂ (symmetrical lines), while Z₀ > Z₁ due to ground return."
+    },
+    {
+      "question": "Zero sequence impedance of a transmission line is larger than positive sequence impedance because",
+      "choices": ["current returns through ground", "conductors are spaced farther", "skin effect is stronger", "capacitance is higher"],
+      "answer": 0,
+      "topic": "Fault Analysis - Zero Sequence",
+      "difficulty": "Moderate",
+      "tutor": "Return path through earth has higher resistance and greater flux linkage, increasing Z₀."
+    },
+    {
+      "question": "The zero sequence impedance of a transformer depends on",
+      "choices": ["winding connection (Y/Δ/grounded Y)", "only core material", "only voltage rating", "only frequency"],
+      "answer": 0,
+      "topic": "Fault Analysis - Transformer Zero Sequence",
+      "difficulty": "Difficult",
+      "tutor": "For Y-grounded primary and Δ secondary, Z₀ = Z₁. Ungrounded Y gives infinite Z₀."
+    },
+    {
+      "question": "Arc flash hazard analysis is primarily concerned with",
+      "choices": ["steady-state current", "incident thermal energy from arc fault", "voltage drop", "power factor correction"],
+      "answer": 1,
+      "topic": "Fault Analysis - Arc Flash",
+      "difficulty": "Moderate",
+      "tutor": "Arc flash calculates incident energy (cal/cm²) for PPE selection and safe working distances."
+    },
+    {
+      "question": "The purpose of fault current limiting reactors is to",
+      "choices": ["increase fault current", "reduce fault current magnitude", "improve power factor", "store energy"],
+      "answer": 1,
+      "topic": "Fault Analysis - Fault Current Limiting",
+      "difficulty": "Moderate",
+      "tutor": "Series reactors add impedance to limit short-circuit currents within breaker ratings."
+    },
+    {
+      "question": "A transient is defined as",
+      "choices": ["steady-state condition", "a temporary change in voltage or current that occurs between steady states", "permanent fault", "normal operating condition"],
+      "answer": 1,
+      "topic": "Transients - Definition",
+      "difficulty": "Easy",
+      "tutor": "Transients are temporary changes from one steady-state condition to another."
+    },
+    {
+      "question": "Restriking voltage across circuit breaker contacts after current zero is",
+      "choices": ["line voltage only", "transient voltage that appears after arc extinction", "DC voltage only", "zero"],
+      "answer": 1,
+      "topic": "Transients - Circuit Breaker TRV",
+      "difficulty": "Moderate",
+      "tutor": "TRV is the transient voltage that appears across breaker contacts immediately after arc extinction."
+    },
+    {
+      "question": "Recovery voltage in a circuit breaker is",
+      "choices": ["steady-state voltage after transients die out", "peak voltage during fault", "initial voltage only", "arc voltage"],
+      "answer": 0,
+      "topic": "Transients - Circuit Breaker",
+      "difficulty": "Moderate",
+      "tutor": "Recovery voltage is the power-frequency voltage that appears across breaker contacts after transient oscillations subside."
+    },
+    {
+      "question": "Current chopping occurs in",
+      "choices": ["resistive circuits", "inductive circuits when current is forced to zero before natural zero", "capacitive circuits only", "DC circuits only"],
+      "answer": 1,
+      "topic": "Transients - Current Chopping",
+      "difficulty": "Difficult",
+      "tutor": "When interrupting small inductive currents, the arc may extinguish prematurely, causing overvoltages."
+    },
+    {
+      "question": "For a series RL circuit with R=10Ω and L=0.1H connected to 100V DC, the initial rate of rise of current di/dt at t=0⁺ is",
+      "choices": ["1000 A/s", "100 A/s", "10 A/s", "1 A/s"],
+      "answer": 0,
+      "topic": "Transients - RL Circuits",
+      "difficulty": "Difficult",
+      "tutor": "At t=0⁺, di/dt = V/L = 100/0.1 = 1000 A/s."
+    },
+    {
+      "question": "For a series RC circuit with R=1kΩ and C=10μF connected to 100V DC, the initial charging current at t=0⁺ is",
+      "choices": ["0.1 A", "0.01 A", "1 A", "10 A"],
+      "answer": 0,
+      "topic": "Transients - RC Circuits",
+      "difficulty": "Moderate",
+      "tutor": "At t=0⁺, capacitor acts as short, I = V/R = 100/1000 = 0.1 A."
+    },
+    {
+      "question": "In a parallel RLC circuit, the condition for oscillations is",
+      "choices": ["R < ½√(L/C)", "R > ½√(L/C)", "R = 0", "R = ∞"],
+      "answer": 0,
+      "topic": "Transients - Parallel RLC",
+      "difficulty": "Difficult",
+      "tutor": "Underdamped (oscillatory) when R < ½√(L/C)."
+    },
+    {
+      "question": "The surge impedance loading (SIL) of a transmission line is the power delivered when",
+      "choices": ["line is terminated by its characteristic impedance", "line is open-circuited", "line is short-circuited", "load is zero"],
+      "answer": 0,
+      "topic": "Transients - Traveling Waves",
+      "difficulty": "Difficult",
+      "tutor": "SIL = V²/Z_c, where Z_c = √(L/C). At SIL, voltage profile is flat."
+    },
+    {
+      "question": "Buchholz relay is installed in",
+      "choices": ["circuit breakers", "transformers with conservator tank", "cables", "transmission lines"],
+      "answer": 1,
+      "topic": "Fault Analysis - Transformer Protection",
+      "difficulty": "Easy",
+      "tutor": "Buchholz relay is mounted between transformer main tank and conservator tank."
+    },
+    {
+      "question": "Gas buildup in Buchholz relay indicates",
+      "choices": ["overloading only", "internal fault (arcing, insulation breakdown)", "external short circuit", "lightning strike"],
+      "answer": 1,
+      "topic": "Fault Analysis - Transformer Protection",
+      "difficulty": "Moderate",
+      "tutor": "Gas generation indicates internal arcing, overheating, or insulation failure."
+    },
+    {
+      "question": "Sudden pressure relay is used to protect",
+      "choices": ["transmission lines", "transformers against fast-developing internal faults", "generators", "capacitor banks"],
+      "answer": 1,
+      "topic": "Fault Analysis - Transformer Protection",
+      "difficulty": "Moderate",
+      "tutor": "Sudden pressure relay detects rapid pressure rise from internal arcing."
+    },
+    {
+      "question": "The natural frequency of a series RLC circuit is approximately",
+      "choices": ["1/(2π√(LC))", "2π√(LC)", "R/(2L)", "1/(RC)"],
+      "answer": 0,
+      "topic": "Transients - RLC Circuits",
+      "difficulty": "Moderate",
+      "tutor": "Natural frequency fₙ = 1/(2π√(LC)) when damping is low."
+    },
+    {
+      "question": "The closing resistor on a circuit breaker is used to",
+      "choices": ["increase fault current", "reduce switching surges", "increase arc voltage", "reduce load current"],
+      "answer": 1,
+      "topic": "Transients - Switching Surges",
+      "difficulty": "Difficult",
+      "tutor": "Closing resistor pre-insertion damps transients and limits overvoltages."
+    },
+    {
+      "question": "Line trapping is a method used in",
+      "choices": ["load flow studies", "power line carrier communication to keep the signal path", "fault location", "stability studies"],
+      "answer": 1,
+      "topic": "Transients - Line Trapping",
+      "difficulty": "Difficult",
+      "tutor": "Line traps (tuned to PLC frequency) present high impedance to carrier signals but low impedance to power frequency."
+    },
+    {
+      "question": "The purpose of a pre-insertion resistor in a circuit breaker is to",
+      "choices": ["limit inrush current and switching overvoltage", "increase breaking capacity", "reduce contact erosion", "shorten fault duration"],
+      "answer": 0,
+      "topic": "Transients - Pre-Insertion Resistor",
+      "difficulty": "Difficult",
+      "tutor": "Pre-insertion resistor is inserted briefly before main contacts close to dampen transients."
+    },
+    {
+      "question": "In traveling wave theory, the refraction coefficient for voltage is given by",
+      "choices": ["2Z₂/(Z₁+Z₂)", "(Z₂-Z₁)/(Z₁+Z₂)", "2Z₁/(Z₁+Z₂)", "(Z₁-Z₂)/(Z₁+Z₂)"],
+      "answer": 0,
+      "topic": "Transients - Traveling Waves",
+      "difficulty": "Difficult",
+      "tutor": "Refraction coefficient T_v = 2Z₂/(Z₁+Z₂)."
+    },
+    {
+      "question": "In traveling wave theory, the reflection coefficient for current at an open circuit is",
+      "choices": ["0", "1", "-1", "2"],
+      "answer": 2,
+      "topic": "Transients - Traveling Waves",
+      "difficulty": "Difficult",
+      "tutor": "At open circuit, Γ_i = -1 (current reflects with opposite sign, becomes zero at the end)."
+    },
+    {
+      "question": "The highest voltage stress on a transformer winding during a surge occurs at the",
+      "choices": ["neutral end", "line end", "middle of winding", "ground end"],
+      "answer": 1,
+      "topic": "Transients - Surge Distribution",
+      "difficulty": "Difficult",
+      "tutor": "For steep-front surges, initial voltage distribution is nonlinear, highest stress at line end."
+    },
+    {
+      "question": "The impulse ratio for a rod gap is defined as",
+      "choices": ["impulse breakdown voltage / power frequency breakdown voltage", "power frequency voltage / impulse voltage", "DC voltage / impulse voltage", "lightning voltage / switching voltage"],
+      "answer": 0,
+      "topic": "Transients - Insulation Coordination",
+      "difficulty": "Difficult",
+      "tutor": "Impulse ratio indicates how much higher the impulse breakdown is compared to power frequency."
+    }
+  ]
+}

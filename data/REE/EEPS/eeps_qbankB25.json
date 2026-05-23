@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is the SI unit of electric current?",
+      "choices": ["Volt", "Ampere", "Ohm", "Watt"],
+      "answer": 1,
+      "topic": "Electric Circuits - Basic Concepts",
+      "difficulty": "Easy",
+      "tutor": "Ampere (A) is the SI unit of electric current."
+    },
+    {
+      "question": "What is the equivalent resistance of two 10 Ω resistors in parallel?",
+      "choices": ["5 Ω", "10 Ω", "20 Ω", "0.1 Ω"],
+      "answer": 0,
+      "topic": "Electric Circuits - Parallel Resistance",
+      "difficulty": "Easy",
+      "tutor": "Req = (10×10)/(10+10) = 100/20 = 5 Ω."
+    },
+    {
+      "question": "What is the voltage across a 5 Ω resistor carrying 2 A?",
+      "choices": ["2.5 V", "5 V", "10 V", "0.4 V"],
+      "answer": 2,
+      "topic": "Electric Circuits - Ohm's Law",
+      "difficulty": "Easy",
+      "tutor": "V = IR = 2 × 5 = 10 V."
+    },
+    {
+      "question": "What is the total resistance of 6 Ω, 8 Ω, and 10 Ω in series?",
+      "choices": ["24 Ω", "2.4 Ω", "12 Ω", "14 Ω"],
+      "answer": 0,
+      "topic": "Electric Circuits - Series Resistance",
+      "difficulty": "Easy",
+      "tutor": "R_total = 6+8+10 = 24 Ω."
+    },
+    {
+      "question": "What is the power dissipated by a 10 Ω resistor with 5 A current?",
+      "choices": ["50 W", "100 W", "250 W", "500 W"],
+      "answer": 2,
+      "topic": "Electric Circuits - Power",
+      "difficulty": "Moderate",
+      "tutor": "P = I²R = 25 × 10 = 250 W."
+    },
+    {
+      "question": "What is the current in a 120 V circuit with 240 Ω resistance?",
+      "choices": ["0.5 A", "1 A", "2 A", "0.2 A"],
+      "answer": 0,
+      "topic": "Electric Circuits - Ohm's Law",
+      "difficulty": "Moderate",
+      "tutor": "I = V/R = 120/240 = 0.5 A."
+    },
+    {
+      "question": "What is the equivalent capacitance of two 10 μF capacitors in series?",
+      "choices": ["5 μF", "10 μF", "20 μF", "0.1 μF"],
+      "answer": 0,
+      "topic": "Electric Circuits - Series Capacitance",
+      "difficulty": "Moderate",
+      "tutor": "Ceq = (10×10)/(10+10) = 100/20 = 5 μF."
+    },
+    {
+      "question": "What is the equivalent inductance of two 10 H inductors in series (no mutual)?",
+      "choices": ["5 H", "10 H", "20 H", "0.1 H"],
+      "answer": 2,
+      "topic": "Electric Circuits - Series Inductance",
+      "difficulty": "Easy",
+      "tutor": "Leq = L1 + L2 = 10+10 = 20 H."
+    },
+    {
+      "question": "What is the time constant of an RC circuit with R=2 kΩ and C=50 μF?",
+      "choices": ["0.1 s", "0.5 s", "1 s", "2 s"],
+      "answer": 0,
+      "topic": "Electric Circuits - RC Time Constant",
+      "difficulty": "Difficult",
+      "tutor": "τ = RC = 2000 × 50×10⁻⁶ = 0.1 s."
+    },
+    {
+      "question": "What is the inductive reactance of a 0.1 H inductor at 60 Hz?",
+      "choices": ["37.7 Ω", "6.28 Ω", "62.8 Ω", "3.77 Ω"],
+      "answer": 0,
+      "topic": "Electric Circuits - Inductive Reactance",
+      "difficulty": "Difficult",
+      "tutor": "XL = 2πfL = 2π × 60 × 0.1 = 37.7 Ω."
+    },
+    {
+      "question": "What is the capacitive reactance of a 100 μF capacitor at 60 Hz?",
+      "choices": ["26.5 Ω", "53.1 Ω", "106.1 Ω", "13.3 Ω"],
+      "answer": 0,
+      "topic": "Electric Circuits - Capacitive Reactance",
+      "difficulty": "Difficult",
+      "tutor": "XC = 1/(2πfC) = 1/(2π×60×100×10⁻⁶) = 26.5 Ω."
+    },
+    {
+      "question": "What is the impedance of a series RC circuit with R=3 Ω and XC=4 Ω?",
+      "choices": ["5 Ω", "7 Ω", "1 Ω", "12 Ω"],
+      "answer": 0,
+      "topic": "Electric Circuits - Impedance",
+      "difficulty": "Moderate",
+      "tutor": "Z = √(R²+XC²) = √(9+16)=5 Ω."
+    },
+    {
+      "question": "What is the impedance of a series RL circuit with R=6 Ω and XL=8 Ω?",
+      "choices": ["10 Ω", "14 Ω", "2 Ω", "48 Ω"],
+      "answer": 0,
+      "topic": "Electric Circuits - Impedance",
+      "difficulty": "Moderate",
+      "tutor": "Z = √(6²+8²)=√(36+64)=√100=10 Ω."
+    },
+    {
+      "question": "What is the resonant frequency of an LC circuit with L=0.1 H and C=10 μF?",
+      "choices": ["159 Hz", "1591 Hz", "50 Hz", "500 Hz"],
+      "answer": 0,
+      "topic": "Electric Circuits - Resonance",
+      "difficulty": "Difficult",
+      "tutor": "f₀ = 1/(2π√(LC)) = 1/(2π√(0.1×10×10⁻⁶)) = 1/(2π×0.001) = 159 Hz."
+    },
+    {
+      "question": "At resonance in a series RLC circuit, the impedance equals:",
+      "choices": ["R", "0", "∞", "XL+XC"],
+      "answer": 0,
+      "topic": "Electric Circuits - Resonance",
+      "difficulty": "Moderate",
+      "tutor": "At resonance, XL = XC, so Z = R."
+    },
+    {
+      "question": "What is the phase relationship in a purely resistive circuit?",
+      "choices": ["V and I in phase", "V leads I by 90°", "V lags I by 90°", "V and I opposite"],
+      "answer": 0,
+      "topic": "Electric Circuits - AC Phase",
+      "difficulty": "Easy",
+      "tutor": "In a pure resistor, voltage and current are in phase (θ=0)."
+    },
+    {
+      "question": "In a purely inductive circuit, current ______ voltage by 90°.",
+      "choices": ["lags", "leads", "in phase with", "opposite to"],
+      "answer": 0,
+      "topic": "Electric Circuits - AC Phase",
+      "difficulty": "Easy",
+      "tutor": "In pure inductor, current lags voltage by 90°."
+    },
+    {
+      "question": "In a purely capacitive circuit, current ______ voltage by 90°.",
+      "choices": ["leads", "lags", "in phase with", "opposite to"],
+      "answer": 0,
+      "topic": "Electric Circuits - AC Phase",
+      "difficulty": "Easy",
+      "tutor": "In pure capacitor, current leads voltage by 90°."
+    },
+    {
+      "question": "What is the power factor of a purely inductive load?",
+      "choices": ["0 lagging", "0 leading", "1", "-1"],
+      "answer": 0,
+      "topic": "Electric Circuits - Power Factor",
+      "difficulty": "Easy",
+      "tutor": "Pure inductive load has PF = 0 lagging."
+    },
+    {
+      "question": "What is the power factor of a purely capacitive load?",
+      "choices": ["0 leading", "0 lagging", "1", "-1"],
+      "answer": 0,
+      "topic": "Electric Circuits - Power Factor",
+      "difficulty": "Easy",
+      "tutor": "Pure capacitive load has PF = 0 leading."
+    },
+    {
+      "question": "What is the real power formula in AC circuit?",
+      "choices": ["P = VI cosθ", "P = VI sinθ", "P = VI", "P = I²X"],
+      "answer": 0,
+      "topic": "Electric Circuits - AC Power",
+      "difficulty": "Easy",
+      "tutor": "Real power P = Vrms × Irms × cosθ."
+    },
+    {
+      "question": "What is the unit of reactive power?",
+      "choices": ["VAR", "Watt", "VA", "Joule"],
+      "answer": 0,
+      "topic": "Electric Circuits - AC Power",
+      "difficulty": "Easy",
+      "tutor": "Reactive power Q is measured in Volt-Ampere Reactive (VAR)."
+    },
+    {
+      "question": "What is Kirchhoff's Current Law (KCL)?",
+      "choices": ["Σ I_in = Σ I_out", "Σ V = 0", "V = IR", "P = VI"],
+      "answer": 0,
+      "topic": "Electric Circuits - Kirchhoff's Laws",
+      "difficulty": "Easy",
+      "tutor": "KCL: total current entering a node equals total leaving."
+    },
+    {
+      "question": "What is Kirchhoff's Voltage Law (KVL)?",
+      "choices": ["Σ V_rise = Σ V_drop", "Σ I = 0", "V = IR", "P = I²R"],
+      "answer": 0,
+      "topic": "Electric Circuits - Kirchhoff's Laws",
+      "difficulty": "Easy",
+      "tutor": "KVL: sum of voltages around any closed loop equals zero."
+    },
+    {
+      "question": "What is the energy stored in a 10 μF capacitor charged to 100 V?",
+      "choices": ["0.05 J", "0.5 J", "5 J", "50 J"],
+      "answer": 0,
+      "topic": "Electric Circuits - Energy Storage",
+      "difficulty": "Difficult",
+      "tutor": "W = ½CV² = 0.5 × 10×10⁻⁶ × 10000 = 0.05 J."
+    }
+  ]
+}

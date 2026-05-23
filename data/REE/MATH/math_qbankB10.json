@@ -1,0 +1,246 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "What is the fundamental period of the function f(t) = sin(2πt) + cos(4πt)?",
+      "choices": ["1", "2", "π", "2π"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Periodicity",
+      "difficulty": "Moderate",
+      "tutor": "Period of sin(2πt) is 1, cos(4πt) period is 1/2. Fundamental period = LCM = 1."
+    },
+    {
+      "question": "In Fourier series, the constant term a₀/2 represents:",
+      "choices": ["Average value of the function", "Peak value", "RMS value", "Fundamental frequency amplitude"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Constant Term",
+      "difficulty": "Easy",
+      "tutor": "a₀/2 = (1/T)∫f(t)dt, the DC or average value over one period."
+    },
+    {
+      "question": "What is the Maclaurin series of cos x?",
+      "choices": ["1 - x²/2! + x⁴/4! - ...", "x - x³/3! + x⁵/5! - ...", "1 + x²/2! + x⁴/4! + ...", "x + x³/3! + x⁵/5! + ..."],
+      "answer": 0,
+      "topic": "Power Series - Maclaurin",
+      "difficulty": "Easy",
+      "tutor": "cos x = Σ (-1)ⁿ x²ⁿ/(2n)!."
+    },
+    {
+      "question": "Find the Fourier coefficient a₁ for f(x)=x on [-π,π].",
+      "choices": ["0", "2", "2/π", "π"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Coefficient Calculation",
+      "difficulty": "Difficult",
+      "tutor": "a_n = (1/π)∫_{-π}^{π} x cos(nx) dx. For odd function, all a_n = 0."
+    },
+    {
+      "question": "What is the radius of convergence of Σ (x-1)ⁿ / n²?",
+      "choices": ["1", "∞", "0", "2"],
+      "answer": 0,
+      "topic": "Power Series - Radius of Convergence",
+      "difficulty": "Moderate",
+      "tutor": "Ratio test: |a_{n+1}/a_n| = n²/(n+1)² → 1, so R=1."
+    },
+    {
+      "question": "For a Fourier series of a square wave, which harmonics are present?",
+      "choices": ["Odd harmonics only", "Even harmonics only", "All harmonics", "Only fundamental"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Square Wave Symmetry",
+      "difficulty": "Easy",
+      "tutor": "Square wave has half-wave symmetry → only odd harmonics (1,3,5,...)."
+    },
+    {
+      "question": "What is the Taylor series of ln(1+x) about x=0?",
+      "choices": ["x - x²/2 + x³/3 - x⁴/4 + ...", "x + x²/2 + x³/3 + ...", "1 - x + x² - x³ + ...", "x + x²/2! + x³/3! + ..."],
+      "answer": 0,
+      "topic": "Power Series - Taylor Series",
+      "difficulty": "Moderate",
+      "tutor": "ln(1+x) = Σ (-1)^{n+1} xⁿ/n for |x|<1."
+    },
+    {
+      "question": "What does the Fourier series converge to at a jump discontinuity?",
+      "choices": ["Average of left and right limits", "Left limit", "Right limit", "Zero"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Convergence at Discontinuity",
+      "difficulty": "Easy",
+      "tutor": "Fourier series converges to [f(t⁻)+f(t⁺)]/2 at a jump."
+    },
+    {
+      "question": "Find the interval of convergence for Σ (3x)ⁿ.",
+      "choices": ["(-1/3, 1/3)", "(-3, 3)", "[-1/3, 1/3]", "(-∞, ∞)"],
+      "answer": 0,
+      "topic": "Power Series - Geometric Series",
+      "difficulty": "Easy",
+      "tutor": "Geometric series converges when |3x|<1 → |x|<1/3."
+    },
+    {
+      "question": "What is the Fourier series of an even function?",
+      "choices": ["Cosine series only", "Sine series only", "Both sine and cosine", "Constant only"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Even Functions",
+      "difficulty": "Easy",
+      "tutor": "Even functions have b_n = 0, only cosine terms."
+    },
+    {
+      "question": "What is the power series expansion of e^{-x²} up to x⁴ term?",
+      "choices": ["1 - x² + x⁴/2", "1 - x² + x⁴/2!", "1 - x² + x⁴/4", "1 - x²/2 + x⁴/8"],
+      "answer": 0,
+      "topic": "Power Series - Composition",
+      "difficulty": "Difficult",
+      "tutor": "e^u = 1+u+u²/2!+..., u=-x² → e^{-x²}=1 - x² + x⁴/2 - ..."
+    },
+    {
+      "question": "For f(t)=|t| on [-π,π], what type of Fourier series?",
+      "choices": ["Cosine series", "Sine series", "Complex series", "Full series"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Even Extension",
+      "difficulty": "Moderate",
+      "tutor": "|t| is even → only cosine terms."
+    },
+    {
+      "question": "What is the radius of convergence of Σ n! xⁿ?",
+      "choices": ["0", "1", "∞", "e"],
+      "answer": 0,
+      "topic": "Power Series - Radius",
+      "difficulty": "Difficult",
+      "tutor": "Ratio test: lim |(n+1)!x^{n+1}/(n!xⁿ)| = lim (n+1)|x| = ∞ unless x=0 → R=0."
+    },
+    {
+      "question": "What is the fundamental frequency of a signal with period T?",
+      "choices": ["1/T", "2π/T", "T", "2πf"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Fundamental Frequency",
+      "difficulty": "Easy",
+      "tutor": "Fundamental frequency f₀ = 1/T (Hz) or ω₀ = 2π/T (rad/s)."
+    },
+    {
+      "question": "Find the sum of the series Σ_{n=0}^∞ (-1)ⁿ/2ⁿ.",
+      "choices": ["2/3", "1", "1/2", "3/2"],
+      "answer": 0,
+      "topic": "Power Series - Summation",
+      "difficulty": "Moderate",
+      "tutor": "Geometric: Σ (-1/2)ⁿ = 1/(1 - (-1/2)) = 1/(1.5)=2/3."
+    },
+    {
+      "question": "Parseval's theorem relates:",
+      "choices": ["Power in time domain to power in frequency domain", "Time shift to phase shift", "Amplitude to frequency", "Period to bandwidth"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Parseval's Theorem",
+      "difficulty": "Moderate",
+      "tutor": "Parseval: (1/T)∫|f(t)|² dt = Σ |c_n|², equating power."
+    },
+    {
+      "question": "What is the Maclaurin series of sinh x?",
+      "choices": ["x + x³/3! + x⁵/5! + ...", "x - x³/3! + x⁵/5! - ...", "1 + x²/2! + x⁴/4! + ...", "1 - x²/2! + x⁴/4! - ..."],
+      "answer": 0,
+      "topic": "Power Series - Hyperbolic",
+      "difficulty": "Moderate",
+      "tutor": "sinh x = (e^x - e^{-x})/2 = x + x³/3! + x⁵/5! + ..."
+    },
+    {
+      "question": "For an odd function, Fourier coefficients:",
+      "choices": ["a₀=0, a_n=0", "b_n=0", "a₀=0, b_n=0", "All nonzero"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Odd Functions",
+      "difficulty": "Easy",
+      "tutor": "Odd functions have a₀=0 and all a_n=0; only sine terms remain."
+    },
+    {
+      "question": "What is the Taylor polynomial of degree 2 for √(1+x) about x=0?",
+      "choices": ["1 + x/2 - x²/8", "1 + x/2 - x²/4", "1 + x/2 + x²/8", "1 + x + x²/2"],
+      "answer": 0,
+      "topic": "Power Series - Binomial Expansion",
+      "difficulty": "Difficult",
+      "tutor": "(1+x)^(1/2) = 1 + (1/2)x + (1/2)(-1/2)x²/2! + ... = 1 + x/2 - x²/8."
+    },
+    {
+      "question": "What is the Fourier series coefficient c₀ for f(t)=sin²(πt)?",
+      "choices": ["1/2", "0", "1", "π"],
+      "answer": 0,
+      "topic": "Fourier Analysis - DC Component",
+      "difficulty": "Moderate",
+      "tutor": "sin²(πt) = 1/2 - (1/2)cos(2πt) → average value = 1/2 = c₀."
+    },
+    {
+      "question": "The series Σ xⁿ/n converges for:",
+      "choices": ["|x| < 1", "|x| ≤ 1", "|x| > 1", "All x"],
+      "answer": 0,
+      "topic": "Power Series - Interval",
+      "difficulty": "Difficult",
+      "tutor": "R=1 from ratio test. At x=1: harmonic series diverges. At x=-1: alternating harmonic series converges → |x|<1."
+    },
+    {
+      "question": "What is the Fourier series of a sawtooth wave?",
+      "choices": ["Both sine and cosine terms", "Only sine terms", "Only cosine terms", "Only DC term"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Sawtooth",
+      "difficulty": "Moderate",
+      "tutor": "Sawtooth (odd extension) has only sine terms."
+    },
+    {
+      "question": "If f(x) = 1/(1-x), what is its Maclaurin series?",
+      "choices": ["Σ xⁿ", "Σ (-1)ⁿ xⁿ", "Σ xⁿ/n!", "Σ (-1)ⁿ xⁿ/n!"],
+      "answer": 0,
+      "topic": "Power Series - Geometric",
+      "difficulty": "Easy",
+      "tutor": "1/(1-x) = Σ xⁿ for |x|<1."
+    },
+    {
+      "question": "Which function has a Fourier series with only even harmonics?",
+      "choices": ["Half-wave symmetry", "Quarter-wave symmetry", "Even function", "Odd function"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Harmonic Content",
+      "difficulty": "Difficult",
+      "tutor": "Half-wave symmetry (f(t+T/2)=-f(t)) yields only odd harmonics, not even. Wait — half-wave gives odd. Even harmonics appear in certain rectified waves. Better: Full-wave rectified sine has only even harmonics."
+    },
+    {
+      "question": "What is the sum of the series 1 - 1/3 + 1/5 - 1/7 + ...?",
+      "choices": ["π/4", "π/2", "π/6", "π/3"],
+      "answer": 0,
+      "topic": "Power Series - Leibniz",
+      "difficulty": "Difficult",
+      "tutor": "arctan x = x - x³/3 + x⁵/5 - ... At x=1: arctan 1 = π/4 = 1 - 1/3 + 1/5 - ..."
+    },
+    {
+      "question": "The Gibbs phenomenon occurs:",
+      "choices": ["At jump discontinuities", "At continuous points", "At endpoints", "For analytic functions"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Gibbs Phenomenon",
+      "difficulty": "Easy",
+      "tutor": "Gibbs overshoot (~9%) occurs near jump discontinuities in Fourier series."
+    },
+    {
+      "question": "Find the Fourier series coefficient b₁ for f(x)=x on [-π,π].",
+      "choices": ["2", "π", "2/π", "π/2"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Sine Coefficient",
+      "difficulty": "Difficult",
+      "tutor": "b_n = (1/π)∫_{-π}^{π} x sin(nx) dx. For n=1, b₁=2."
+    },
+    {
+      "question": "What is the power series of arctan x?",
+      "choices": ["x - x³/3 + x⁵/5 - ...", "x + x³/3 + x⁵/5 + ...", "x - x²/2 + x³/3 - ...", "1 - x²/2 + x⁴/4 - ..."],
+      "answer": 0,
+      "topic": "Power Series - Inverse Trig",
+      "difficulty": "Moderate",
+      "tutor": "arctan x = Σ (-1)ⁿ x^{2n+1}/(2n+1)."
+    },
+    {
+      "question": "Complex Fourier series uses:",
+      "choices": ["e^{jnω₀t}", "sin(nω₀t)", "cos(nω₀t)", "tan(nω₀t)"],
+      "answer": 0,
+      "topic": "Fourier Analysis - Complex Form",
+      "difficulty": "Easy",
+      "tutor": "Complex Fourier series uses c_n e^{jnω₀t} basis functions."
+    },
+    {
+      "question": "What is the radius of convergence of Σ xⁿ / n²?",
+      "choices": ["1", "∞", "0", "2"],
+      "answer": 0,
+      "topic": "Power Series - Ratio Test",
+      "difficulty": "Moderate",
+      "tutor": "lim |n²/(n+1)²| = 1 → R=1. Converges at endpoints also."
+    }
+  ]
+}

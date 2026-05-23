@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the atomic number of an element?",
+      "choices": ["Number of neutrons", "Number of protons", "Number of electrons in the valence shell", "Atomic mass"],
+      "answer": 1,
+      "topic": "General Chemistry - Atomic Structure",
+      "difficulty": "Easy",
+      "tutor": "The atomic number (Z) is the number of protons in the nucleus, which defines the element."
+    },
+    {
+      "question": "Which subatomic particle has a negative charge?",
+      "choices": ["Proton", "Neutron", "Electron", "Positron"],
+      "answer": 2,
+      "topic": "General Chemistry - Atomic Structure",
+      "difficulty": "Easy",
+      "tutor": "Electrons are negatively charged particles orbiting the nucleus."
+    },
+    {
+      "question": "What is the maximum number of electrons that can occupy the first energy level (n=1)?",
+      "choices": ["2", "8", "18", "32"],
+      "answer": 0,
+      "topic": "General Chemistry - Electron Configuration",
+      "difficulty": "Easy",
+      "tutor": "The maximum number of electrons in a shell is 2n². For n=1, 2(1)² = 2 electrons."
+    },
+    {
+      "question": "Which of the following is a noble gas?",
+      "choices": ["Oxygen", "Nitrogen", "Helium", "Hydrogen"],
+      "answer": 2,
+      "topic": "General Chemistry - Periodic Table",
+      "difficulty": "Easy",
+      "tutor": "Helium (He) is a noble gas in Group 18, characterized by a full valence shell."
+    },
+    {
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "choices": ["0", "7", "14", "1"],
+      "answer": 1,
+      "topic": "General Chemistry - Acids and Bases",
+      "difficulty": "Easy",
+      "tutor": "A neutral solution has pH = 7, where [H⁺] = [OH⁻] = 10⁻⁷ M."
+    },
+    {
+      "question": "What type of bond is formed by the sharing of electrons between atoms?",
+      "choices": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+      "answer": 1,
+      "topic": "General Chemistry - Chemical Bonding",
+      "difficulty": "Easy",
+      "tutor": "Covalent bonds involve sharing of electron pairs between nonmetal atoms."
+    },
+    {
+      "question": "What is the molar mass of water (H₂O)?",
+      "choices": ["16 g/mol", "18 g/mol", "20 g/mol", "2 g/mol"],
+      "answer": 1,
+      "topic": "General Chemistry - Stoichiometry",
+      "difficulty": "Moderate",
+      "tutor": "H: 1.008×2 = 2.016, O: 16.00, total ≈ 18.016 g/mol."
+    },
+    {
+      "question": "How many moles are present in 36 grams of water (H₂O)?",
+      "choices": ["1 mol", "2 mol", "3 mol", "0.5 mol"],
+      "answer": 1,
+      "topic": "General Chemistry - Stoichiometry",
+      "difficulty": "Moderate",
+      "tutor": "Moles = mass/molar mass = 36 g / 18 g/mol = 2 mol."
+    },
+    {
+      "question": "Which law states that the volume of a gas is directly proportional to its absolute temperature at constant pressure?",
+      "choices": ["Boyle's Law", "Charles's Law", "Avogadro's Law", "Gay-Lussac's Law"],
+      "answer": 1,
+      "topic": "General Chemistry - Gas Laws",
+      "difficulty": "Easy",
+      "tutor": "Charles's Law: V ∝ T at constant P and n."
+    },
+    {
+      "question": "What is the oxidation number of oxygen in most compounds?",
+      "choices": ["+1", "-1", "-2", "0"],
+      "answer": 2,
+      "topic": "General Chemistry - Oxidation States",
+      "difficulty": "Easy",
+      "tutor": "Oxygen typically has an oxidation state of -2, except in peroxides (-1) and OF₂ (+2)."
+    },
+    {
+      "question": "What is the balanced equation for the combustion of methane (CH₄)?",
+      "choices": ["CH₄ + O₂ → CO₂ + H₂O", "CH₄ + 2O₂ → CO₂ + 2H₂O", "2CH₄ + O₂ → 2CO₂ + H₂O", "CH₄ + O₂ → CO + 2H₂O"],
+      "answer": 1,
+      "topic": "General Chemistry - Chemical Equations",
+      "difficulty": "Moderate",
+      "tutor": "Balanced: CH₄ + 2O₂ → CO₂ + 2H₂O."
+    },
+    {
+      "question": "Which of the following is an example of a physical change?",
+      "choices": ["Rusting of iron", "Burning of wood", "Melting of ice", "Digestion of food"],
+      "answer": 2,
+      "topic": "General Chemistry - Physical vs Chemical Change",
+      "difficulty": "Easy",
+      "tutor": "Melting of ice is a phase change (solid to liquid) without changing chemical composition."
+    },
+    {
+      "question": "What is the electron configuration of sodium (atomic number 11)?",
+      "choices": ["1s² 2s² 2p⁶ 3s¹", "1s² 2s² 2p⁶ 3s²", "1s² 2s² 2p⁵ 3s²", "1s² 2s² 2p⁶ 3p¹"],
+      "answer": 0,
+      "topic": "General Chemistry - Electron Configuration",
+      "difficulty": "Moderate",
+      "tutor": "Na (Z=11): 1s² 2s² 2p⁶ 3s¹."
+    },
+    {
+      "question": "What is the concentration in ppm of a solution containing 0.005 g of solute in 1 kg of solvent?",
+      "choices": ["5 ppm", "50 ppm", "0.5 ppm", "500 ppm"],
+      "answer": 0,
+      "topic": "General Chemistry - Concentration Units",
+      "difficulty": "Difficult",
+      "tutor": "ppm = (mass of solute / mass of solution) × 10⁶ = (0.005/1000)×10⁶ = 5 ppm."
+    },
+    {
+      "question": "Which of the following is a strong electrolyte?",
+      "choices": ["Sugar solution", "Ethyl alcohol", "Sodium chloride solution", "Distilled water"],
+      "answer": 2,
+      "topic": "General Chemistry - Electrolytes",
+      "difficulty": "Easy",
+      "tutor": "NaCl dissociates completely into ions in water, making it a strong electrolyte."
+    },
+    {
+      "question": "A radioactive isotope decays from 100 g to 12.5 g in 3 half-lives. What is the half-life in terms of the total time T?",
+      "choices": ["T/3", "T/2", "T/4", "T"],
+      "answer": 0,
+      "topic": "General Chemistry - Nuclear Chemistry",
+      "difficulty": "Moderate",
+      "tutor": "After 3 half-lives, remaining = initial × (1/2)³ = 12.5 g. Half-life = total time T / 3."
+    },
+    {
+      "question": "What is the Lewis structure for carbon dioxide (CO₂)?",
+      "choices": ["O=C=O", "C-O-O", "O-C-O", "C=O=O"],
+      "answer": 0,
+      "topic": "General Chemistry - Lewis Structures",
+      "difficulty": "Moderate",
+      "tutor": "CO₂ has two double bonds: O=C=O, with carbon as central atom."
+    },
+    {
+      "question": "What is the pH of a 0.001 M HCl solution?",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 2,
+      "topic": "General Chemistry - pH Calculation",
+      "difficulty": "Difficult",
+      "tutor": "pH = -log[H⁺] = -log(1×10⁻³) = 3."
+    },
+    {
+      "question": "Which of the following is a property of acids?",
+      "choices": ["Turns red litmus blue", "Tastes bitter", "Turns blue litmus red", "Feels slippery"],
+      "answer": 2,
+      "topic": "General Chemistry - Acids and Bases",
+      "difficulty": "Easy",
+      "tutor": "Acids turn blue litmus paper red. Bases turn red litmus blue."
+    },
+    {
+      "question": "What is the wavelength region of light emitted when an electron in a hydrogen atom falls from n=3 to n=2?",
+      "choices": ["Infrared", "Visible (red)", "Ultraviolet", "X-ray"],
+      "answer": 1,
+      "topic": "General Chemistry - Atomic Spectra",
+      "difficulty": "Difficult",
+      "tutor": "The transition n=3 to n=2 emits visible red light (Balmer series, 656 nm)."
+    }
+  ]
+}

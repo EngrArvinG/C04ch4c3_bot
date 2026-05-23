@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is the purpose of a circuit breaker?",
+      "choices": ["Open circuit on fault", "Measure voltage", "Step down current", "Improve power factor"],
+      "answer": 0,
+      "topic": "Circuit Protection - Circuit Breakers",
+      "difficulty": "Easy",
+      "tutor": "Circuit breaker automatically interrupts fault current to protect equipment."
+    },
+    {
+      "question": "What is the difference between a fuse and a circuit breaker?",
+      "choices": ["Fuse is one-time; breaker can be reset", "Breaker is one-time; fuse can be reset", "Both are same", "Fuse is for AC only"],
+      "answer": 0,
+      "topic": "Circuit Protection - Fuse vs Breaker",
+      "difficulty": "Easy",
+      "tutor": "Fuse melts once and must be replaced; breaker trips and can be reset."
+    },
+    {
+      "question": "What does a ground fault circuit interrupter (GFCI) protect against?",
+      "choices": ["Ground faults (leakage current)", "Overload", "Short circuit only", "Overvoltage"],
+      "answer": 0,
+      "topic": "Circuit Protection - GFCI",
+      "difficulty": "Easy",
+      "tutor": "GFCI detects imbalance between hot and neutral (leakage to ground)."
+    },
+    {
+      "question": "What is the typical trip sensitivity of a GFCI?",
+      "choices": ["4-6 mA", "15-20 mA", "30 mA", "100 mA"],
+      "answer": 0,
+      "topic": "Circuit Protection - GFCI",
+      "difficulty": "Moderate",
+      "tutor": "GFCI trips at 4-6 mA to protect against electric shock."
+    },
+    {
+      "question": "What does an AFCI protect against?",
+      "choices": ["Arcing faults", "Ground faults", "Overload only", "Short circuit only"],
+      "answer": 0,
+      "topic": "Circuit Protection - AFCI",
+      "difficulty": "Moderate",
+      "tutor": "AFCI detects dangerous arcing that could cause fire."
+    },
+    {
+      "question": "What is the purpose of a lightning arrester?",
+      "choices": ["Divert surge to ground", "Step down voltage", "Measure lightning", "Open circuit on fault"],
+      "answer": 0,
+      "topic": "Circuit Protection - Surge Arresters",
+      "difficulty": "Easy",
+      "tutor": "Lightning arrester clamps overvoltage and diverts surge current to ground."
+    },
+    {
+      "question": "What is a relay in power systems?",
+      "choices": ["Detect fault and initiate trip", "Measure power", "Step down voltage", "Store energy"],
+      "answer": 0,
+      "topic": "Circuit Protection - Relays",
+      "difficulty": "Easy",
+      "tutor": "Protective relay senses fault and sends signal to circuit breaker."
+    },
+    {
+      "question": "What is an overcurrent relay?",
+      "choices": ["Trips when current exceeds setpoint", "Trips on undervoltage", "Trips on frequency deviation", "Trips on reverse power"],
+      "answer": 0,
+      "topic": "Circuit Protection - Overcurrent Relay",
+      "difficulty": "Easy",
+      "tutor": "Overcurrent relay operates when current exceeds predetermined value."
+    },
+    {
+      "question": "What is ANSI device number 50?",
+      "choices": ["Instantaneous overcurrent", "Time overcurrent", "Ground fault", "Distance relay"],
+      "answer": 0,
+      "topic": "Circuit Protection - ANSI Codes",
+      "difficulty": "Difficult",
+      "tutor": "ANSI 50 = Instantaneous overcurrent relay."
+    },
+    {
+      "question": "What is ANSI device number 51?",
+      "choices": ["Time overcurrent", "Instantaneous overcurrent", "Ground fault", "Distance relay"],
+      "answer": 0,
+      "topic": "Circuit Protection - ANSI Codes",
+      "difficulty": "Difficult",
+      "tutor": "ANSI 51 = Time overcurrent relay (inverse time)."
+    },
+    {
+      "question": "What is ANSI device number 87?",
+      "choices": ["Differential relay", "Overcurrent", "Ground fault", "Distance relay"],
+      "answer": 0,
+      "topic": "Circuit Protection - ANSI Codes",
+      "difficulty": "Difficult",
+      "tutor": "ANSI 87 = Differential protection relay."
+    },
+    {
+      "question": "What is the purpose of a differential relay?",
+      "choices": ["Compare currents at two points", "Measure voltage difference", "Detect overvoltage", "Measure frequency"],
+      "answer": 0,
+      "topic": "Circuit Protection - Differential Relay",
+      "difficulty": "Moderate",
+      "tutor": "Differential relay trips if difference between input and output currents exceeds threshold."
+    },
+    {
+      "question": "What is a recloser?",
+      "choices": ["Automatically restores power after temporary fault", "Isolates fault permanently", "Steps down voltage", "Measures current"],
+      "answer": 0,
+      "topic": "Circuit Protection - Recloser",
+      "difficulty": "Moderate",
+      "tutor": "Recloser opens on fault and recloses; clears temporary faults."
+    },
+    {
+      "question": "What is a sectionalizer?",
+      "choices": ["Isolates faulted section after recloser opens", "Restores power", "Steps down voltage", "Measures current"],
+      "answer": 0,
+      "topic": "Circuit Protection - Sectionalizer",
+      "difficulty": "Difficult",
+      "tutor": "Sectionalizer opens after counting fault current interruptions."
+    },
+    {
+      "question": "What is the interrupting rating of a circuit breaker?",
+      "choices": ["Maximum fault current it can interrupt", "Normal load current", "Short-time current", "Making current only"],
+      "answer": 0,
+      "topic": "Circuit Protection - Interrupting Rating",
+      "difficulty": "Moderate",
+      "tutor": "Interrupting rating is the maximum fault current breaker can safely clear."
+    },
+    {
+      "question": "What is the difference between fuse and circuit breaker time-current curve?",
+      "choices": ["Fuse has inverse time; breaker can be adjusted", "Both same", "Breaker is faster", "Fuse is adjustable"],
+      "answer": 0,
+      "topic": "Circuit Protection - Time-Current Curves",
+      "difficulty": "Difficult",
+      "tutor": "Both have inverse time characteristics, but breakers often have adjustable trip settings."
+    },
+    {
+      "question": "What is a ground fault relay?",
+      "choices": ["Detects ground leakage current", "Detects overload", "Detects overvoltage", "Detects phase reversal"],
+      "answer": 0,
+      "topic": "Circuit Protection - Ground Fault Relay",
+      "difficulty": "Moderate",
+      "tutor": "Ground fault relay measures residual or zero-sequence current."
+    },
+    {
+      "question": "What is the typical time delay for a fuse to blow at 10x rated current?",
+      "choices": ["< 0.1 sec", "1 sec", "5 sec", "10 sec"],
+      "answer": 0,
+      "topic": "Circuit Protection - Fuse Characteristics",
+      "difficulty": "Difficult",
+      "tutor": "At high overcurrent, fuse blows very fast (milliseconds to 0.1 sec)."
+    },
+    {
+      "question": "What is a motor protection relay?",
+      "choices": ["Protects against overload, stall, phase loss", "Only short circuit", "Only undervoltage", "Only overvoltage"],
+      "answer": 0,
+      "topic": "Circuit Protection - Motor Protection",
+      "difficulty": "Moderate",
+      "tutor": "Motor protection includes overload, locked rotor, phase unbalance, and ground fault."
+    },
+    {
+      "question": "What is the purpose of a thermal overload relay?",
+      "choices": ["Protect motor from sustained overcurrent", "Protect from short circuit", "Protect from ground fault", "Protect from lightning"],
+      "answer": 0,
+      "topic": "Circuit Protection - Thermal Overload",
+      "difficulty": "Easy",
+      "tutor": "Thermal overload relay mimics motor heating curve to protect from overheating."
+    },
+    {
+      "question": "What is a magnetic circuit breaker?",
+      "choices": ["Trips instantly on high overcurrent", "Trips on temperature", "Trips on undervoltage", "Trips on reverse current"],
+      "answer": 0,
+      "topic": "Circuit Protection - Magnetic Breaker",
+      "difficulty": "Moderate",
+      "tutor": "Magnetic breaker uses solenoid to trip instantly on short circuit."
+    },
+    {
+      "question": "What is a thermal-magnetic circuit breaker?",
+      "choices": ["Combination of thermal overload and magnetic short circuit protection", "Only thermal", "Only magnetic", "Electronic only"],
+      "answer": 0,
+      "topic": "Circuit Protection - Thermal-Magnetic Breaker",
+      "difficulty": "Moderate",
+      "tutor": "Thermal element for overload (slow), magnetic for short circuit (instant)."
+    },
+    {
+      "question": "What is the purpose of a surge protective device (SPD)?",
+      "choices": ["Limit transient overvoltages", "Limit steady-state overvoltage", "Limit under voltage", "Limit frequency"],
+      "answer": 0,
+      "topic": "Circuit Protection - SPD",
+      "difficulty": "Easy",
+      "tutor": "SPD clamps voltage spikes from lightning or switching."
+    },
+    {
+      "question": "What is the typical response time of a surge arrester?",
+      "choices": ["Nanoseconds", "Milliseconds", "Seconds", "Minutes"],
+      "answer": 0,
+      "topic": "Circuit Protection - Surge Arrester",
+      "difficulty": "Difficult",
+      "tutor": "Surge arresters respond in nanoseconds to divert fast-rising surges."
+    },
+    {
+      "question": "What is the purpose of a current limiting fuse?",
+      "choices": ["Limits peak fault current before it reaches zero", "Limits voltage", "Limits frequency", "Limits temperature"],
+      "answer": 0,
+      "topic": "Circuit Protection - Current Limiting Fuse",
+      "difficulty": "Difficult",
+      "tutor": "Current-limiting fuse melts and creates high resistance before first current peak."
+    }
+  ]
+}

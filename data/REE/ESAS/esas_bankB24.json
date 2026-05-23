@@ -1,0 +1,406 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the minimum size of copper conductor allowed for general wiring?",
+      "choices": ["14 AWG", "12 AWG", "10 AWG", "8 AWG"],
+      "answer": 0,
+      "topic": "PEC - Conductor Sizing",
+      "difficulty": "Easy",
+      "tutor": "PEC allows 14 AWG as minimum copper for general branch circuits (except fixtures)."
+    },
+    {
+      "question": "What is the maximum overcurrent protection for 14 AWG copper wire?",
+      "choices": ["15 A", "20 A", "25 A", "30 A"],
+      "answer": 0,
+      "topic": "PEC - Overcurrent Protection",
+      "difficulty": "Easy",
+      "tutor": "14 AWG copper is rated 15 A maximum overcurrent device."
+    },
+    {
+      "question": "What color is the grounding conductor?",
+      "choices": ["Green or bare", "Black", "White", "Red"],
+      "answer": 0,
+      "topic": "PEC - Conductor Identification",
+      "difficulty": "Easy",
+      "tutor": "Grounding conductors must be green, green with yellow stripe, or bare."
+    },
+    {
+      "question": "What is the minimum burial depth for direct burial UF cable under a driveway?",
+      "choices": ["24 inches", "18 inches", "12 inches", "6 inches"],
+      "answer": 0,
+      "topic": "PEC - Underground Wiring",
+      "difficulty": "Moderate",
+      "tutor": "Direct burial under driveways requires 24 inches cover."
+    },
+    {
+      "question": "What is the maximum number of current-carrying conductors in a 1-inch EMT before derating?",
+      "choices": ["3", "6", "9", "12"],
+      "answer": 0,
+      "topic": "PEC - Conduit Fill",
+      "difficulty": "Moderate",
+      "tutor": "Derating applies when more than 3 current-carrying conductors are bundled."
+    },
+    {
+      "question": "What is the minimum clearance of service drop conductors over a residential roof?",
+      "choices": ["3 ft", "6 ft", "8 ft", "10 ft"],
+      "answer": 0,
+      "topic": "PEC - Service Drop",
+      "difficulty": "Difficult",
+      "tutor": "Service drop must have at least 3 ft clearance over roof with slope ≥ 4:12."
+    },
+    {
+      "question": "What is the maximum distance between outlet boxes in a residential wall?",
+      "choices": ["6 ft", "12 ft", "18 ft", "24 ft"],
+      "answer": 1,
+      "topic": "PEC - Receptacle Spacing",
+      "difficulty": "Easy",
+      "tutor": "No point along floor line more than 6 ft from an outlet."
+    },
+    {
+      "question": "What is the required height for receptacle outlets above floor in residences?",
+      "choices": ["12 inches", "15 inches", "18 inches", "24 inches"],
+      "answer": 1,
+      "topic": "PEC - Receptacle Height",
+      "difficulty": "Easy",
+      "tutor": "Standard height is 15 inches (measured to top of box)."
+    },
+    {
+      "question": "What is the minimum size of service entrance for a single-family dwelling of 150 sq m?",
+      "choices": ["60 A", "100 A", "125 A", "200 A"],
+      "answer": 1,
+      "topic": "PEC - Service Sizing",
+      "difficulty": "Moderate",
+      "tutor": "Minimum service for dwelling is 100 A regardless of calculated load."
+    },
+    {
+      "question": "What is the maximum voltage drop for branch circuits?",
+      "choices": ["3%", "5%", "7%", "10%"],
+      "answer": 0,
+      "topic": "PEC - Voltage Drop",
+      "difficulty": "Easy",
+      "tutor": "PEC recommends max 3% for branch circuits, 5% total (feeder+branch)."
+    },
+    {
+      "question": "What type of protection is required for 15A and 20A receptacles in a wet location?",
+      "choices": ["GFCI", "AFCI", "Surge protector", "Isolation transformer"],
+      "answer": 0,
+      "topic": "PEC - GFCI Protection",
+      "difficulty": "Easy",
+      "tutor": "Wet locations (outdoors, bathrooms, kitchens) require GFCI."
+    },
+    {
+      "question": "What is the minimum clearance for a service head above grade?",
+      "choices": ["6 ft", "8 ft", "10 ft", "12 ft"],
+      "answer": 2,
+      "topic": "PEC - Service Head",
+      "difficulty": "Moderate",
+      "tutor": "Service head must be at least 10 ft above finished grade."
+    },
+    {
+      "question": "What is the maximum number of quarter bends in a conduit run?",
+      "choices": ["4", "3", "5", "2"],
+      "answer": 0,
+      "topic": "PEC - Conduit Bends",
+      "difficulty": "Easy",
+      "tutor": "Maximum is 360 degrees total (four 90° bends)."
+    },
+    {
+      "question": "What is the minimum ampacity for a small appliance branch circuit in a kitchen?",
+      "choices": ["15 A", "20 A", "25 A", "30 A"],
+      "answer": 1,
+      "topic": "PEC - Kitchen Circuits",
+      "difficulty": "Easy",
+      "tutor": "Small appliance circuits must be 20 A rated."
+    },
+    {
+      "question": "How many small appliance branch circuits are required for a residence?",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 1,
+      "topic": "PEC - Kitchen Circuits",
+      "difficulty": "Easy",
+      "tutor": "At least two 20 A small appliance circuits for kitchen, pantry, dining."
+    },
+    {
+      "question": "What is the minimum working space in front of an electrical panel?",
+      "choices": ["24 inches", "30 inches", "36 inches", "48 inches"],
+      "answer": 1,
+      "topic": "PEC - Working Space",
+      "difficulty": "Moderate",
+      "tutor": "Minimum depth of working space is 30 inches (or width of equipment)."
+    },
+    {
+      "question": "What is the required width of working space for electrical equipment?",
+      "choices": ["24 inches", "30 inches", "36 inches", "48 inches"],
+      "answer": 1,
+      "topic": "PEC - Working Space",
+      "difficulty": "Moderate",
+      "tutor": "Working space width must be at least 30 inches."
+    },
+    {
+      "question": "What is the maximum height of a service disconnect switch?",
+      "choices": ["5 ft", "6 ft", "6.5 ft", "7 ft"],
+      "answer": 2,
+      "topic": "PEC - Disconnect Height",
+      "difficulty": "Difficult",
+      "tutor": "Service disconnect handle must not exceed 6 ft 7 inches above floor."
+    },
+    {
+      "question": "What is the minimum size grounding electrode conductor for a 100 A service?",
+      "choices": ["8 AWG Cu", "6 AWG Cu", "4 AWG Cu", "2 AWG Cu"],
+      "answer": 0,
+      "topic": "PEC - Grounding",
+      "difficulty": "Difficult",
+      "tutor": "For 100 A service, min GEC is 8 AWG copper (Table 250.66)."
+    },
+    {
+      "question": "What is the required length of a driven ground rod?",
+      "choices": ["4 ft", "6 ft", "8 ft", "10 ft"],
+      "answer": 2,
+      "topic": "PEC - Ground Rods",
+      "difficulty": "Easy",
+      "tutor": "Minimum ground rod length is 8 ft (250.52)."
+    },
+    {
+      "question": "What is the maximum resistance of a single ground electrode?",
+      "choices": ["10 ohms", "25 ohms", "50 ohms", "100 ohms"],
+      "answer": 1,
+      "topic": "PEC - Grounding Resistance",
+      "difficulty": "Moderate",
+      "tutor": "If resistance >25 ohms, a second electrode must be added."
+    },
+    {
+      "question": "What is the minimum spacing between two ground rods?",
+      "choices": ["4 ft", "6 ft", "8 ft", "10 ft"],
+      "answer": 1,
+      "topic": "PEC - Ground Rods",
+      "difficulty": "Difficult",
+      "tutor": "Multiple rods must be at least 6 ft apart (250.53)."
+    },
+    {
+      "question": "What is the maximum load on a 15 A branch circuit for non-continuous loads?",
+      "choices": ["12 A", "15 A", "18 A", "20 A"],
+      "answer": 1,
+      "topic": "PEC - Branch Circuit Loading",
+      "difficulty": "Easy",
+      "tutor": "Continuous load max 80% (12A), non-continuous up to 15A."
+    },
+    {
+      "question": "What is the maximum continuous load on a 20 A branch circuit?",
+      "choices": ["16 A", "18 A", "20 A", "22 A"],
+      "answer": 0,
+      "topic": "PEC - Continuous Load",
+      "difficulty": "Easy",
+      "tutor": "Continuous load max = 80% of rating = 20×0.8=16 A."
+    },
+    {
+      "question": "What is the minimum number of lighting outlets for a residential hallway?",
+      "choices": ["0", "1", "2", "3"],
+      "answer": 1,
+      "topic": "PEC - Lighting Outlets",
+      "difficulty": "Easy",
+      "tutor": "Hallways of 10 ft or more require at least one lighting outlet."
+    },
+    {
+      "question": "What is the required AFCI protection for residential bedrooms?",
+      "choices": ["Yes", "No", "Only if exterior", "Only for lighting"],
+      "answer": 0,
+      "topic": "PEC - AFCI",
+      "difficulty": "Easy",
+      "tutor": "AFCI protection required for all 120V, 15/20A branch circuits in dwelling units."
+    },
+    {
+      "question": "What is the minimum clearance for overhead conductors over public streets?",
+      "choices": ["12 ft", "15 ft", "18 ft", "20 ft"],
+      "answer": 2,
+      "topic": "PEC - Overhead Clearance",
+      "difficulty": "Difficult",
+      "tutor": "Minimum 18 ft over public streets (Table 230.24)."
+    },
+    {
+      "question": "What is the minimum clearance for conductors over a residential driveway?",
+      "choices": ["10 ft", "12 ft", "15 ft", "18 ft"],
+      "answer": 1,
+      "topic": "PEC - Overhead Clearance",
+      "difficulty": "Difficult",
+      "tutor": "Minimum 12 ft over residential driveways."
+    },
+    {
+      "question": "What is the minimum size of THHN conductor for a 30 A circuit?",
+      "choices": ["14 AWG", "12 AWG", "10 AWG", "8 AWG"],
+      "answer": 2,
+      "topic": "PEC - Conductor Ampacity",
+      "difficulty": "Easy",
+      "tutor": "30 A circuit requires at least 10 AWG copper."
+    },
+    {
+      "question": "What is the maximum rating of a branch circuit supplying fixed lighting?",
+      "choices": ["15 A", "20 A", "25 A", "30 A"],
+      "answer": 3,
+      "topic": "PEC - Lighting Circuits",
+      "difficulty": "Moderate",
+      "tutor": "Branch circuit for fixed lighting max 30 A."
+    },
+    {
+      "question": "What is the minimum conductor size for a service neutral for a 200 A dwelling?",
+      "choices": ["6 AWG Cu", "4 AWG Cu", "2 AWG Cu", "1/0 AWG Cu"],
+      "answer": 2,
+      "topic": "PEC - Neutral Sizing",
+      "difficulty": "Difficult",
+      "tutor": "Neutral can be reduced but not smaller than 2 AWG Cu for 200 A service."
+    },
+    {
+      "question": "What is the maximum distance from a pool to a receptacle?",
+      "choices": ["6 ft", "10 ft", "15 ft", "20 ft"],
+      "answer": 3,
+      "topic": "PEC - Swimming Pools",
+      "difficulty": "Difficult",
+      "tutor": "Receptacles must be at least 20 ft from inside pool wall."
+    },
+    {
+      "question": "What is the required GFCI protection for pool lighting?",
+      "choices": ["Yes", "No", "Only for metal fixtures", "Only for 240V"],
+      "answer": 0,
+      "topic": "PEC - Pool Electrical",
+      "difficulty": "Easy",
+      "tutor": "All pool lighting circuits require GFCI protection."
+    },
+    {
+      "question": "What is the minimum size of conductor for a feeder tap?",
+      "choices": ["14 AWG", "12 AWG", "10 AWG", "8 AWG"],
+      "answer": 2,
+      "topic": "PEC - Tap Rules",
+      "difficulty": "Difficult",
+      "tutor": "Feeder tap conductors must be at least 10 AWG."
+    },
+    {
+      "question": "What is the maximum length of a 10 AWG feeder tap?",
+      "choices": ["10 ft", "15 ft", "25 ft", "50 ft"],
+      "answer": 0,
+      "topic": "PEC - Tap Rules",
+      "difficulty": "Difficult",
+      "tutor": "Tap not over 10 ft long if ampacity not less than tap load."
+    },
+    {
+      "question": "What is the minimum size of EGC for a 60 A circuit?",
+      "choices": ["14 AWG", "12 AWG", "10 AWG", "8 AWG"],
+      "answer": 2,
+      "topic": "PEC - Equipment Grounding",
+      "difficulty": "Difficult",
+      "tutor": "Table 250.122: 60 A circuit needs 10 AWG Cu EGC."
+    },
+    {
+      "question": "What is the maximum number of disconnecting throws to cut all service power?",
+      "choices": ["2", "4", "6", "8"],
+      "answer": 2,
+      "topic": "PEC - Service Disconnect",
+      "difficulty": "Easy",
+      "tutor": "Service can be disconnected by max 6 switches or breakers."
+    },
+    {
+      "question": "What is the minimum clearance for service conductors above a roof?",
+      "choices": ["3 ft", "6 ft", "8 ft", "10 ft"],
+      "answer": 2,
+      "topic": "PEC - Service Clearance",
+      "difficulty": "Moderate",
+      "tutor": "Minimum 8 ft clearance over roofs (with exceptions)."
+    },
+    {
+      "question": "What is the minimum size of conduit for 2 #12 THHN conductors?",
+      "choices": ["1/2 inch", "3/4 inch", "1 inch", "1.25 inch"],
+      "answer": 0,
+      "topic": "PEC - Conduit Fill",
+      "difficulty": "Easy",
+      "tutor": "1/2 EMT can hold up to 5 #12 THHN (Table C.1)."
+    },
+    {
+      "question": "What is the maximum ampacity of 8 AWG THHN copper in a 60°C terminal?",
+      "choices": ["40 A", "50 A", "55 A", "75 A"],
+      "answer": 0,
+      "topic": "PEC - Ampacity Correction",
+      "difficulty": "Difficult",
+      "tutor": "8 AWG THHN is 55A at 90°C but limited by terminal rating (60°C = 40A)."
+    },
+    {
+      "question": "What is the required number of ground rods if first has 30 ohms resistance?",
+      "choices": ["1 more", "2 more", "3 more", "None, acceptable"],
+      "answer": 0,
+      "topic": "PEC - Grounding",
+      "difficulty": "Easy",
+      "tutor": "If resistance >25 ohms, add a second rod."
+    },
+    {
+      "question": "What is the minimum distance of a wall receptacle from a doorway?",
+      "choices": ["3 ft", "6 ft", "8 ft", "No limit"],
+      "answer": 3,
+      "topic": "PEC - Receptacle Placement",
+      "difficulty": "Moderate",
+      "tutor": "No specific distance; but no point >6 ft from receptacle."
+    },
+    {
+      "question": "What is the minimum size of main bonding jumper for 400 A service?",
+      "choices": ["4 AWG Cu", "2 AWG Cu", "1/0 AWG Cu", "3/0 AWG Cu"],
+      "answer": 2,
+      "topic": "PEC - Bonding",
+      "difficulty": "Difficult",
+      "tutor": "Table 250.66: 400 A service uses 1/0 AWG Cu bonding jumper."
+    },
+    {
+      "question": "What is the maximum voltage drop for feeders?",
+      "choices": ["2%", "3%", "5%", "7%"],
+      "answer": 0,
+      "topic": "PEC - Voltage Drop",
+      "difficulty": "Moderate",
+      "tutor": "Feeder max 2% drop, total including branch max 5%."
+    },
+    {
+      "question": "What is the minimum depth for rigid metal conduit under a driveway?",
+      "choices": ["6 inches", "12 inches", "18 inches", "24 inches"],
+      "answer": 0,
+      "topic": "PEC - Underground",
+      "difficulty": "Moderate",
+      "tutor": "RMC requires only 6 inches cover under driveways."
+    },
+    {
+      "question": "What is the required GFCI protection for kitchen countertop receptacles?",
+      "choices": ["Yes", "No", "Only within 3 ft of sink", "Only for 20A circuits"],
+      "answer": 0,
+      "topic": "PEC - GFCI",
+      "difficulty": "Easy",
+      "tutor": "All kitchen countertop receptacles require GFCI protection."
+    },
+    {
+      "question": "What is the minimum size of service entrance for a commercial building with 80 A load?",
+      "choices": ["60 A", "80 A", "100 A", "125 A"],
+      "answer": 2,
+      "topic": "PEC - Commercial Service",
+      "difficulty": "Moderate",
+      "tutor": "Minimum service size for commercial is 100 A (not dwelling)."
+    },
+    {
+      "question": "What is the maximum rating of a receptacle on a 15 A individual branch circuit?",
+      "choices": ["10 A", "15 A", "20 A", "30 A"],
+      "answer": 1,
+      "topic": "PEC - Receptacles",
+      "difficulty": "Easy",
+      "tutor": "Receptacle rating must not exceed branch circuit rating."
+    },
+    {
+      "question": "What is the minimum size of THWN for a 100 A feeder in a dry location?",
+      "choices": ["4 AWG Cu", "3 AWG Cu", "2 AWG Cu", "1 AWG Cu"],
+      "answer": 2,
+      "topic": "PEC - Feeder Sizing",
+      "difficulty": "Difficult",
+      "tutor": "Table 310.16: 2 AWG Cu at 75°C is rated 115 A, sufficient for 100 A."
+    },
+    {
+      "question": "What is the maximum number of 14 AWG conductors in 3/4 EMT?",
+      "choices": ["9", "12", "15", "18"],
+      "answer": 1,
+      "topic": "PEC - Conduit Fill",
+      "difficulty": "Difficult",
+      "tutor": "3/4 EMT max fill for #14 THHN is 12 conductors (Chapter 9 Table)."
+    }
+  ]
+}

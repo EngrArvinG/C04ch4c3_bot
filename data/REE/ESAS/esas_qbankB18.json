@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the zeroth law of thermodynamics?",
+      "choices": ["Energy cannot be created or destroyed", "If two systems are in thermal equilibrium with a third, they are in equilibrium with each other", "Entropy of an isolated system increases", "Heat cannot be completely converted into work"],
+      "answer": 1,
+      "topic": "Thermodynamics - Zeroth Law",
+      "difficulty": "Easy",
+      "tutor": "Zeroth law establishes the concept of temperature and thermal equilibrium."
+    },
+    {
+      "question": "What is the SI unit of temperature?",
+      "choices": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
+      "answer": 2,
+      "topic": "Thermodynamics - Temperature Scales",
+      "difficulty": "Easy",
+      "tutor": "Kelvin (K) is the SI base unit of thermodynamic temperature."
+    },
+    {
+      "question": "What is the first law of thermodynamics?",
+      "choices": ["Energy cannot be created or destroyed, only transformed", "Entropy always increases", "Heat flows from hot to cold", "Pressure and volume are inversely related"],
+      "answer": 0,
+      "topic": "Thermodynamics - First Law",
+      "difficulty": "Easy",
+      "tutor": "First law: ΔU = Q - W, energy conservation in thermodynamic systems."
+    },
+    {
+      "question": "What is the efficiency of a Carnot engine operating between 500 K and 300 K?",
+      "choices": ["40%", "60%", "50%", "30%"],
+      "answer": 0,
+      "topic": "Thermodynamics - Carnot Cycle",
+      "difficulty": "Moderate",
+      "tutor": "η = 1 - T_C/T_H = 1 - 300/500 = 1 - 0.6 = 0.4 = 40%."
+    },
+    {
+      "question": "What does the second law of thermodynamics state about entropy?",
+      "choices": ["Entropy of an isolated system always increases or remains constant", "Entropy always decreases", "Entropy is constant", "Entropy is zero at absolute zero"],
+      "answer": 0,
+      "topic": "Thermodynamics - Second Law",
+      "difficulty": "Easy",
+      "tutor": "Second law: ΔS ≥ 0 for isolated systems (entropy never decreases)."
+    },
+    {
+      "question": "What is an isothermal process?",
+      "choices": ["Constant temperature", "Constant pressure", "Constant volume", "Constant entropy"],
+      "answer": 0,
+      "topic": "Thermodynamics - Processes",
+      "difficulty": "Easy",
+      "tutor": "Isothermal process occurs at constant temperature (ΔT = 0)."
+    },
+    {
+      "question": "What is the work done in an isobaric process?",
+      "choices": ["W = PΔV", "W = 0", "W = nRT ln(V₂/V₁)", "W = ΔU"],
+      "answer": 0,
+      "topic": "Thermodynamics - Work",
+      "difficulty": "Moderate",
+      "tutor": "For isobaric (constant pressure), W = P(V₂ - V₁) = PΔV."
+    },
+    {
+      "question": "What is an adiabatic process?",
+      "choices": ["No heat transfer", "Constant temperature", "Constant pressure", "Constant volume"],
+      "answer": 0,
+      "topic": "Thermodynamics - Processes",
+      "difficulty": "Easy",
+      "tutor": "Adiabatic process: Q = 0, no heat exchange with surroundings."
+    },
+    {
+      "question": "What is the specific gas constant R for air? (R_universal = 8.314 kJ/kmol·K, M_air = 28.97 kg/kmol)",
+      "choices": ["0.287 kJ/kg·K", "0.287 J/kg·K", "287 kJ/kg·K", "8.314 kJ/kg·K"],
+      "answer": 0,
+      "topic": "Thermodynamics - Ideal Gas",
+      "difficulty": "Difficult",
+      "tutor": "R = R_universal / M = 8.314 / 28.97 = 0.287 kJ/kg·K."
+    },
+    {
+      "question": "What is the triple point of water?",
+      "choices": ["0°C, 1 atm", "0.01°C, 611.2 Pa", "100°C, 1 atm", "-273.15°C, 0 Pa"],
+      "answer": 1,
+      "topic": "Thermodynamics - Phase Change",
+      "difficulty": "Moderate",
+      "tutor": "Triple point of water is 0.01°C (273.16 K) at 611.2 Pa, where ice, liquid, vapor coexist."
+    },
+    {
+      "question": "What is the heat required to change 1 kg of water at 100°C to steam at 100°C? (latent heat of vaporization = 2257 kJ/kg)",
+      "choices": ["2257 kJ", "4.18 kJ", "100 kJ", "4186 kJ"],
+      "answer": 0,
+      "topic": "Thermodynamics - Latent Heat",
+      "difficulty": "Moderate",
+      "tutor": "Q = m × h_fg = 1 kg × 2257 kJ/kg = 2257 kJ."
+    },
+    {
+      "question": "What is the coefficient of performance (COP) of a refrigerator?",
+      "choices": ["Q_c / W_in", "Q_h / W_in", "W_in / Q_c", "Q_h / Q_c"],
+      "answer": 0,
+      "topic": "Thermodynamics - Refrigeration",
+      "difficulty": "Moderate",
+      "tutor": "COP_R = Q_c / W_net (heat removed from cold reservoir divided by work input)."
+    },
+    {
+      "question": "What is an isentropic process?",
+      "choices": ["Constant entropy", "Constant temperature", "Constant pressure", "Constant volume"],
+      "answer": 0,
+      "topic": "Thermodynamics - Isentropic",
+      "difficulty": "Easy",
+      "tutor": "Isentropic process: ΔS = 0 (reversible and adiabatic)."
+    },
+    {
+      "question": "What is the thermal efficiency of a heat engine?",
+      "choices": ["η = W_net / Q_in", "η = Q_in / W_net", "η = Q_out / Q_in", "η = W_net / Q_out"],
+      "answer": 0,
+      "topic": "Thermodynamics - Heat Engines",
+      "difficulty": "Easy",
+      "tutor": "η = W_net / Q_in = (Q_in - Q_out)/Q_in."
+    },
+    {
+      "question": "What is absolute zero in Celsius?",
+      "choices": ["-273.15°C", "0°C", "-100°C", "-460°C"],
+      "answer": 0,
+      "topic": "Thermodynamics - Absolute Zero",
+      "difficulty": "Easy",
+      "tutor": "Absolute zero is 0 K = -273.15°C, theoretically lowest possible temperature."
+    },
+    {
+      "question": "What is the work done in a cycle?",
+      "choices": ["Net area enclosed in PV diagram", "PΔV only", "Zero for reversible cycles", "Maximum at constant volume"],
+      "answer": 0,
+      "topic": "Thermodynamics - Cyclic Processes",
+      "difficulty": "Moderate",
+      "tutor": "Net work for a cycle equals area enclosed by the path on PV diagram."
+    },
+    {
+      "question": "What is the specific heat capacity at constant pressure (cp) for an ideal gas related to cv?",
+      "choices": ["cp = cv + R", "cp = cv - R", "cp = cv × R", "cp = R/cv"],
+      "answer": 0,
+      "topic": "Thermodynamics - Specific Heats",
+      "difficulty": "Difficult",
+      "tutor": "For ideal gas, cp - cv = R (specific gas constant)."
+    },
+    {
+      "question": "What is the ratio of specific heats γ for a diatomic gas like air?",
+      "choices": ["1.4", "1.67", "1.3", "2.0"],
+      "answer": 0,
+      "topic": "Thermodynamics - Specific Heat Ratio",
+      "difficulty": "Moderate",
+      "tutor": "γ = cp/cv ≈ 1.4 for diatomic gases (air, N₂, O₂)."
+    },
+    {
+      "question": "What is a throttling process?",
+      "choices": ["Constant enthalpy", "Constant entropy", "Constant temperature", "Constant pressure"],
+      "answer": 0,
+      "topic": "Thermodynamics - Throttling",
+      "difficulty": "Difficult",
+      "tutor": "Throttling (Joule-Thomson) is isenthalpic: h₁ = h₂, pressure drops."
+    },
+    {
+      "question": "What is the entropy change for a reversible isothermal process?",
+      "choices": ["ΔS = Q/T", "ΔS = 0", "ΔS = cv ln(T₂/T₁)", "ΔS = R ln(V₂/V₁)"],
+      "answer": 0,
+      "topic": "Thermodynamics - Entropy",
+      "difficulty": "Difficult",
+      "tutor": "For reversible isothermal, ΔS = Q_rev / T."
+    }
+  ]
+}

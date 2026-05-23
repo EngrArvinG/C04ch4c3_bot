@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "A facility that converts various forms of energy into electrical energy is called?",
+      "choices": ["Power plant", "Substation", "Transformer station", "Distribution center"],
+      "answer": 0,
+      "topic": "Power Plant - Definition",
+      "difficulty": "Easy",
+      "tutor": "Power plant (generating station) converts thermal, nuclear, hydro, or renewable energy into electricity."
+    },
+    {
+      "question": "The prime mover in a hydroelectric power plant is?",
+      "choices": ["Water turbine", "Steam turbine", "Gas turbine", "Wind turbine"],
+      "answer": 0,
+      "topic": "Power Plant - Hydroelectric",
+      "difficulty": "Easy",
+      "tutor": "Hydro plant uses falling water to drive hydraulic turbine coupled to generator."
+    },
+    {
+      "question": "In a thermal power plant, which component converts high-pressure steam into mechanical rotation?",
+      "choices": ["Steam turbine", "Boiler", "Condenser", "Cooling tower"],
+      "answer": 0,
+      "topic": "Power Plant - Thermal",
+      "difficulty": "Easy",
+      "tutor": "Steam turbine expands high-pressure steam to rotate shaft connected to generator."
+    },
+    {
+      "question": "The component in a thermal plant that burns fuel to produce steam is called?",
+      "choices": ["Boiler", "Turbine", "Condenser", "Economizer"],
+      "answer": 0,
+      "topic": "Power Plant - Boiler",
+      "difficulty": "Easy",
+      "tutor": "Boiler (steam generator) converts chemical energy of fuel to thermal energy in steam."
+    },
+    {
+      "question": "A nuclear power plant uses which element as fuel for fission reaction?",
+      "choices": ["Uranium-235", "Plutonium-239", "Thorium-232", "All of the above"],
+      "answer": 3,
+      "topic": "Power Plant - Nuclear",
+      "difficulty": "Moderate",
+      "tutor": "Uranium-235 is most common; plutonium and thorium are also used in some reactor designs."
+    },
+    {
+      "question": "Which power plant type has the highest efficiency among fossil fuel plants?",
+      "choices": ["Combined cycle", "Simple gas turbine", "Subcritical coal", "Geothermal"],
+      "answer": 0,
+      "topic": "Power Plant - Combined Cycle",
+      "difficulty": "Moderate",
+      "tutor": "Combined cycle (gas turbine + steam turbine) can achieve 55-60% efficiency."
+    },
+    {
+      "question": "The component that condenses exhaust steam back to water in a thermal plant is the?",
+      "choices": ["Condenser", "Boiler", "Turbine", "Cooling tower"],
+      "answer": 0,
+      "topic": "Power Plant - Condenser",
+      "difficulty": "Easy",
+      "tutor": "Condenser creates vacuum, increasing turbine efficiency by maximizing pressure drop."
+    },
+    {
+      "question": "A diesel power plant uses which type of engine as prime mover?",
+      "choices": ["Internal combustion engine", "Steam engine", "Gas turbine", "Water turbine"],
+      "answer": 0,
+      "topic": "Power Plant - Diesel",
+      "difficulty": "Easy",
+      "tutor": "Diesel generator sets are used for standby or small isolated grids."
+    },
+    {
+      "question": "The resource used in geothermal power plant is?",
+      "choices": ["Underground steam/hot water", "Uranium", "Coal", "Natural gas"],
+      "answer": 0,
+      "topic": "Power Plant - Geothermal",
+      "difficulty": "Easy",
+      "tutor": "Philippines is second largest geothermal producer in the world after US."
+    },
+    {
+      "question": "Which renewable source has the highest capacity factor among solar, wind, and hydro?",
+      "choices": ["Hydro", "Solar PV", "Wind", "All similar"],
+      "answer": 0,
+      "topic": "Power Plant - Capacity Factor",
+      "difficulty": "Difficult",
+      "tutor": "Hydro can achieve 40-50% capacity factor; solar 15-25%; wind 30-40%."
+    },
+    {
+      "question": "The device that removes particulate matter from flue gas in a coal plant is?",
+      "choices": ["Electrostatic precipitator (ESP)", "Cooling tower", "Condenser", "Deaerator"],
+      "answer": 0,
+      "topic": "Power Plant - Emission Control",
+      "difficulty": "Moderate",
+      "tutor": "ESP uses high voltage to charge and collect fly ash particles from exhaust."
+    },
+    {
+      "question": "Which component in a power plant removes dissolved oxygen from feedwater to prevent corrosion?",
+      "choices": ["Deaerator", "Economizer", "Superheater", "Condenser"],
+      "answer": 0,
+      "topic": "Power Plant - Deaerator",
+      "difficulty": "Difficult",
+      "tutor": "Deaerator heats feedwater to release dissolved oxygen and other gases."
+    },
+    {
+      "question": "The efficiency of a thermal power plant is primarily limited by?",
+      "choices": ["Second law of thermodynamics (Carnot limit)", "Fuel quality", "Turbine size", "Generator losses"],
+      "answer": 0,
+      "topic": "Power Plant - Efficiency Limit",
+      "difficulty": "Moderate",
+      "tutor": "Carnot efficiency = 1 - Tc/Th; actual plants achieve 35-45% due to irreversibilities."
+    },
+    {
+      "question": "A pumped-storage hydro plant serves what primary purpose?",
+      "choices": ["Energy storage (peak shaving)", "Baseload generation", "Flood control", "Irrigation"],
+      "answer": 0,
+      "topic": "Power Plant - Pumped Storage",
+      "difficulty": "Moderate",
+      "tutor": "Pumped storage pumps water uphill during off-peak, generates during peak demand."
+    },
+    {
+      "question": "Which gas is most commonly used in gas turbine power plants?",
+      "choices": ["Natural gas", "Propane", "Hydrogen", "Biogas"],
+      "answer": 0,
+      "topic": "Power Plant - Gas Turbine",
+      "difficulty": "Easy",
+      "tutor": "Natural gas is preferred for combined cycle due to clean burning and high energy density."
+    },
+    {
+      "question": "The function of a cooling tower in a power plant is to?",
+      "choices": ["Reject waste heat to atmosphere", "Cool the generator", "Cool the transformer", "Condense steam"],
+      "answer": 0,
+      "topic": "Power Plant - Cooling Tower",
+      "difficulty": "Easy",
+      "tutor": "Cooling tower dissipates heat from condenser cooling water to ambient air."
+    },
+    {
+      "question": "A solar PV power plant directly converts sunlight into electricity using?",
+      "choices": ["Photovoltaic cells", "Solar thermal collectors", "Heat engines", "Steam turbines"],
+      "answer": 0,
+      "topic": "Power Plant - Solar PV",
+      "difficulty": "Easy",
+      "tutor": "PV cells use semiconductor junction to generate DC electricity from photons."
+    },
+    {
+      "question": "A solar thermal power plant uses mirrors to concentrate sunlight and produce?",
+      "choices": ["Steam for turbine", "Electricity directly", "Hot water only", "Hydrogen"],
+      "answer": 0,
+      "topic": "Power Plant - Solar Thermal",
+      "difficulty": "Moderate",
+      "tutor": "CSP (Concentrated Solar Power) heats fluid to generate steam for conventional turbine."
+    },
+    {
+      "question": "The main advantage of a run-of-river hydro plant compared to reservoir type is?",
+      "choices": ["No large dam or flooding", "Higher head", "Lower cost per MW", "Better water storage"],
+      "answer": 0,
+      "topic": "Power Plant - Run-of-River",
+      "difficulty": "Difficult",
+      "tutor": "Run-of-river has minimal environmental impact but lower capacity factor."
+    },
+    {
+      "question": "The country's largest geothermal power plant complex is located in?",
+      "choices": ["Leyte", "Batangas", "Albay", "North Cotabato"],
+      "answer": 0,
+      "topic": "Power Plant - Philippine Geothermal",
+      "difficulty": "Difficult",
+      "tutor": "Leyte Geothermal Production Field (LGPF) is the largest in the Philippines."
+    },
+    {
+      "question": "A biomass power plant uses organic materials such as?",
+      "choices": ["Rice husk, bagasse, wood chips", "Coal", "Natural gas", "Uranium"],
+      "answer": 0,
+      "topic": "Power Plant - Biomass",
+      "difficulty": "Easy",
+      "tutor": "Philippines uses agricultural waste (rice husk, coconut shells, sugarcane bagasse) for biomass."
+    },
+    {
+      "question": "The spinning reserve in a power system refers to?",
+      "choices": ["Generators synchronized and ready to increase output", "Offline spare units", "Battery storage", "Load shedding"],
+      "answer": 0,
+      "topic": "Power Plant - Spinning Reserve",
+      "difficulty": "Difficult",
+      "tutor": "Spinning reserve is online but lightly loaded capacity for contingency response."
+    },
+    {
+      "question": "The load that a power plant supplies continuously over long periods is called?",
+      "choices": ["Baseload", "Peak load", "Intermediate load", "Reserve load"],
+      "answer": 0,
+      "topic": "Power Plant - Baseload",
+      "difficulty": "Easy",
+      "tutor": "Baseload plants (nuclear, coal, geothermal) operate 24/7 at near-maximum output."
+    },
+    {
+      "question": "Peaking power plants are designed to operate?",
+      "choices": ["Only during high demand periods", "Continuously 24/7", "Only at night", "Only during emergencies"],
+      "answer": 0,
+      "topic": "Power Plant - Peaking",
+      "difficulty": "Easy",
+      "tutor": "Peakers (gas turbines, diesel) start quickly to meet daily demand spikes."
+    },
+    {
+      "question": "The overall efficiency of a power plant is defined as?",
+      "choices": ["Electrical output / Heat input", "Heat input / Electrical output", "Turbine output / Generator output", "Boiler output / Turbine input"],
+      "answer": 0,
+      "topic": "Power Plant - Efficiency Definition",
+      "difficulty": "Moderate",
+      "tutor": "Overall efficiency = (MWh sent out) / (Fuel energy input in MWh thermal)."
+    }
+  ]
+}

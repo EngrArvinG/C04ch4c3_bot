@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is modulation?",
+      "choices": ["Imposing information on carrier signal", "Removing noise", "Amplifying signal", "Filtering signal"],
+      "answer": 0,
+      "topic": "Communication - Modulation",
+      "difficulty": "Easy",
+      "tutor": "Modulation varies carrier properties (amplitude, frequency, phase) with message signal."
+    },
+    {
+      "question": "What is AM?",
+      "choices": ["Amplitude Modulation", "Angle Modulation", "Amplitude Multiplexing", "Analog Modulation"],
+      "answer": 0,
+      "topic": "Communication - AM",
+      "difficulty": "Easy",
+      "tutor": "AM varies carrier amplitude according to message signal."
+    },
+    {
+      "question": "What is FM?",
+      "choices": ["Frequency Modulation", "Frequency Multiplexing", "Fast Modulation", "Full Modulation"],
+      "answer": 0,
+      "topic": "Communication - FM",
+      "difficulty": "Easy",
+      "tutor": "FM varies carrier frequency according to message signal."
+    },
+    {
+      "question": "What is PM?",
+      "choices": ["Phase Modulation", "Pulse Modulation", "Power Modulation", "Phase Multiplexing"],
+      "answer": 0,
+      "topic": "Communication - PM",
+      "difficulty": "Moderate",
+      "tutor": "PM varies carrier phase according to message signal."
+    },
+    {
+      "question": "What is the advantage of FM over AM?",
+      "choices": ["Better noise immunity", "Less bandwidth", "Simpler circuit", "Longer range"],
+      "answer": 0,
+      "topic": "Communication - FM vs AM",
+      "difficulty": "Easy",
+      "tutor": "FM is more immune to amplitude noise because information is in frequency."
+    },
+    {
+      "question": "What is bandwidth?",
+      "choices": ["Frequency range occupied by signal", "Data rate", "Signal power", "Carrier frequency"],
+      "answer": 0,
+      "topic": "Communication - Bandwidth",
+      "difficulty": "Easy",
+      "tutor": "Bandwidth is the difference between highest and lowest frequencies in a signal."
+    },
+    {
+      "question": "What is the Nyquist theorem?",
+      "choices": ["Sampling rate ≥ 2 × max frequency", "Sampling rate = max frequency", "Sampling rate < max frequency", "Sampling rate = carrier frequency"],
+      "answer": 0,
+      "topic": "Communication - Nyquist",
+      "difficulty": "Difficult",
+      "tutor": "Nyquist: sampling rate must be at least twice the highest frequency to avoid aliasing."
+    },
+    {
+      "question": "What is aliasing?",
+      "choices": ["Undersampling causes false frequencies", "Oversampling", "Noise addition", "Signal amplification"],
+      "answer": 0,
+      "topic": "Communication - Aliasing",
+      "difficulty": "Difficult",
+      "tutor": "Aliasing occurs when sampling rate is below Nyquist, causing high frequencies to appear as low."
+    },
+    {
+      "question": "What is PCM?",
+      "choices": ["Pulse Code Modulation", "Phase Code Modulation", "Pulse Carrier Modulation", "Phase Carrier Modulation"],
+      "answer": 0,
+      "topic": "Communication - PCM",
+      "difficulty": "Moderate",
+      "tutor": "PCM converts analog signal to digital by sampling, quantizing, and encoding."
+    },
+    {
+      "question": "What is a transceiver?",
+      "choices": ["Transmitter + Receiver", "Transformer + Receiver", "Transistor + Receiver", "Transmission + Receiver"],
+      "answer": 0,
+      "topic": "Communication - Transceiver",
+      "difficulty": "Easy",
+      "tutor": "Transceiver combines transmitter and receiver in one unit."
+    },
+    {
+      "question": "What is a duplex communication?",
+      "choices": ["Two-way simultaneous communication", "One-way only", "Two-way alternating", "Broadcast only"],
+      "answer": 0,
+      "topic": "Communication - Duplex",
+      "difficulty": "Easy",
+      "tutor": "Duplex allows both parties to transmit and receive simultaneously (full-duplex)."
+    },
+    {
+      "question": "What is simplex communication?",
+      "choices": ["One-way only", "Two-way simultaneous", "Two-way alternating", "Broadcast only"],
+      "answer": 0,
+      "topic": "Communication - Simplex",
+      "difficulty": "Easy",
+      "tutor": "Simplex is one-way (e.g., radio broadcast)."
+    },
+    {
+      "question": "What is multiplexing?",
+      "choices": ["Combining multiple signals on one channel", "Splitting one signal to many", "Amplifying signal", "Filtering noise"],
+      "answer": 0,
+      "topic": "Communication - Multiplexing",
+      "difficulty": "Moderate",
+      "tutor": "Multiplexing shares a single channel among multiple users or signals."
+    },
+    {
+      "question": "What is TDM?",
+      "choices": ["Time Division Multiplexing", "Time Domain Modulation", "Transmission Data Multiplexing", "Time Division Modulation"],
+      "answer": 0,
+      "topic": "Communication - TDM",
+      "difficulty": "Moderate",
+      "tutor": "TDM allocates time slots to different signals on same channel."
+    },
+    {
+      "question": "What is FDM?",
+      "choices": ["Frequency Division Multiplexing", "Fast Data Multiplexing", "Frequency Domain Modulation", "Full Data Multiplexing"],
+      "answer": 0,
+      "topic": "Communication - FDM",
+      "difficulty": "Moderate",
+      "tutor": "FDM assigns different frequency bands to different signals."
+    },
+    {
+      "question": "What is a modem?",
+      "choices": ["Modulator-Demodulator", "Modulation-Demodulation", "Modern Modulator", "Multiple Demodulator"],
+      "answer": 0,
+      "topic": "Communication - Modem",
+      "difficulty": "Easy",
+      "tutor": "Modem converts digital data to analog for transmission and back."
+    },
+    {
+      "question": "What is the Shannon-Hartley theorem?",
+      "choices": ["C = B log₂(1 + S/N)", "C = B log₁₀(1 + S/N)", "C = 2B log₂(S/N)", "C = B (S/N)"],
+      "answer": 0,
+      "topic": "Communication - Shannon",
+      "difficulty": "Difficult",
+      "tutor": "Shannon gives maximum channel capacity (bps) for given bandwidth and SNR."
+    },
+    {
+      "question": "What is a decibel (dB)?",
+      "choices": ["Logarithmic ratio of powers", "Linear ratio", "Absolute power unit", "Voltage unit"],
+      "answer": 0,
+      "topic": "Communication - dB",
+      "difficulty": "Easy",
+      "tutor": "dB = 10 log₁₀(P1/P2) for power ratio."
+    },
+    {
+      "question": "What is dBm?",
+      "choices": ["dB relative to 1 mW", "dB relative to 1 W", "dB relative to 1 V", "Absolute power"],
+      "answer": 0,
+      "topic": "Communication - dBm",
+      "difficulty": "Moderate",
+      "tutor": "dBm is power relative to 1 milliwatt (0 dBm = 1 mW)."
+    },
+    {
+      "question": "What is a filter?",
+      "choices": ["Passes certain frequencies, blocks others", "Amplifies all frequencies", "Modulates signal", "Demodulates signal"],
+      "answer": 0,
+      "topic": "Communication - Filters",
+      "difficulty": "Easy",
+      "tutor": "Filter allows desired frequencies to pass while attenuating others."
+    },
+    {
+      "question": "What is a low-pass filter?",
+      "choices": ["Passes low frequencies, blocks high", "Passes high frequencies, blocks low", "Passes mid frequencies", "Blocks all"],
+      "answer": 0,
+      "topic": "Communication - Low-Pass Filter",
+      "difficulty": "Easy",
+      "tutor": "Low-pass filter attenuates frequencies above cutoff frequency."
+    },
+    {
+      "question": "What is a high-pass filter?",
+      "choices": ["Passes high frequencies, blocks low", "Passes low frequencies, blocks high", "Passes mid frequencies", "Blocks all"],
+      "answer": 0,
+      "topic": "Communication - High-Pass Filter",
+      "difficulty": "Easy",
+      "tutor": "High-pass filter attenuates frequencies below cutoff frequency."
+    },
+    {
+      "question": "What is a band-pass filter?",
+      "choices": ["Passes a range of frequencies", "Passes low only", "Passes high only", "Blocks all"],
+      "answer": 0,
+      "topic": "Communication - Band-Pass Filter",
+      "difficulty": "Easy",
+      "tutor": "Band-pass filter passes frequencies between lower and upper cutoffs."
+    },
+    {
+      "question": "What is the electromagnetic spectrum order from low to high frequency?",
+      "choices": ["Radio, Microwave, Infrared, Visible, UV, X-ray, Gamma", "Gamma, X-ray, UV, Visible, IR, Microwave, Radio", "Visible, Radio, Microwave, IR", "IR, Visible, UV, Radio"],
+      "answer": 0,
+      "topic": "Communication - EM Spectrum",
+      "difficulty": "Moderate",
+      "tutor": "Frequency increases from radio waves to gamma rays."
+    },
+    {
+      "question": "What is the typical frequency range for FM radio broadcast?",
+      "choices": ["88-108 MHz", "530-1700 kHz", "30-300 MHz", "300-3000 MHz"],
+      "answer": 0,
+      "topic": "Communication - FM Broadcast",
+      "difficulty": "Easy",
+      "tutor": "FM radio occupies 88 to 108 MHz band."
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What law created the Professional Regulation Commission (PRC)?",
+      "choices": ["RA 8981", "RA 7920", "RA 9266", "PD 223"],
+      "answer": 0,
+      "topic": "EE Law - PRC Law",
+      "difficulty": "Easy",
+      "tutor": "RA 8981 (PRC Modernization Act) reorganized and strengthened the PRC."
+    },
+    {
+      "question": "What is the implementing body of RA 7920?",
+      "choices": ["PRC", "DOLE", "BOE (Board of Electrical Engineering)", "NAPOCOR"],
+      "answer": 2,
+      "topic": "EE Law - RA 7920",
+      "difficulty": "Easy",
+      "tutor": "RA 7920 (New Electrical Engineering Law) is implemented by the Board of Electrical Engineering under PRC."
+    },
+    {
+      "question": "What is the official term of a Board of Electrical Engineering member?",
+      "choices": ["2 years", "3 years", "4 years", "5 years"],
+      "answer": 1,
+      "topic": "EE Law - Board Composition",
+      "difficulty": "Moderate",
+      "tutor": "BOE members serve a term of 3 years under RA 7920."
+    },
+    {
+      "question": "How many members compose the Board of Electrical Engineering?",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 2,
+      "topic": "EE Law - Board Composition",
+      "difficulty": "Easy",
+      "tutor": "The BOE has 3 members: a Chairman and 2 members."
+    },
+    {
+      "question": "What is the required number of years of practice before one can be appointed to the BOE?",
+      "choices": ["5 years", "10 years", "15 years", "20 years"],
+      "answer": 1,
+      "topic": "EE Law - Board Qualifications",
+      "difficulty": "Moderate",
+      "tutor": "BOE appointees must have at least 10 years of active EE practice."
+    },
+    {
+      "question": "What RA is known as the 'Electrical Engineering Law'?",
+      "choices": ["RA 7920", "RA 8981", "RA 9184", "RA 6713"],
+      "answer": 0,
+      "topic": "EE Law - RA 7920",
+      "difficulty": "Easy",
+      "tutor": "RA 7920 is the Philippine Electrical Engineering Law, enacted in 1995."
+    },
+    {
+      "question": "What law requires a Professional Identification Card (PIC) from PRC?",
+      "choices": ["RA 7920", "RA 8981", "PD 223", "RA 10912"],
+      "answer": 1,
+      "topic": "EE Law - PRC Modernization",
+      "difficulty": "Moderate",
+      "tutor": "RA 8981 mandates the issuance of PRC ID cards for registered professionals."
+    },
+    {
+      "question": "What is the Continuing Professional Development (CPD) law?",
+      "choices": ["RA 10912", "RA 7920", "RA 9184", "RA 6713"],
+      "answer": 0,
+      "topic": "CPD Law - RA 10912",
+      "difficulty": "Easy",
+      "tutor": "RA 10912 is the CPD Act of 2016, requiring CPD units for license renewal."
+    },
+    {
+      "question": "How many CPD units are required for electrical engineers per renewal cycle?",
+      "choices": ["15 units", "30 units", "45 units", "60 units"],
+      "answer": 2,
+      "topic": "CPD Law - Credit Units",
+      "difficulty": "Difficult",
+      "tutor": "PRC requires 45 CPD units for EEs every 3-year renewal cycle."
+    },
+    {
+      "question": "What law penalizes unethical practices and graft in government?",
+      "choices": ["RA 6713", "RA 3019", "RA 7920", "Both A and B"],
+      "answer": 3,
+      "topic": "Other Laws - Anti-Graft",
+      "difficulty": "Moderate",
+      "tutor": "RA 3019 (Anti-Graft and Corrupt Practices Act) and RA 6713 (Code of Conduct for Public Officials)."
+    },
+    {
+      "question": "What is the maximum penalty for practicing EE without a valid license?",
+      "choices": ["P10,000 fine", "P50,000 fine", "P100,000 fine and/or imprisonment", "License revocation only"],
+      "answer": 2,
+      "topic": "EE Law - Violations",
+      "difficulty": "Difficult",
+      "tutor": "RA 7920 penalizes unlicensed practice with fine up to P100,000 and/or imprisonment up to 2 years."
+    },
+    {
+      "question": "What is the lowest passing grade for a subject in the REE board exam?",
+      "choices": ["50%", "60%", "70%", "75%"],
+      "answer": 0,
+      "topic": "EE Law - Board Exam",
+      "difficulty": "Easy",
+      "tutor": "No subject grade below 50%, and average of all subjects at least 70%."
+    },
+    {
+      "question": "What is the required average passing grade for REE board exam?",
+      "choices": ["60%", "65%", "70%", "75%"],
+      "answer": 2,
+      "topic": "EE Law - Board Exam",
+      "difficulty": "Easy",
+      "tutor": "General average of 70% with no subject below 50%."
+    },
+    {
+      "question": "What is the validity period of a Professional Electrical Engineer (PEE) certificate?",
+      "choices": ["1 year", "2 years", "3 years", "Life"],
+      "answer": 2,
+      "topic": "EE Law - PEE",
+      "difficulty": "Moderate",
+      "tutor": "PEE certificate, like other professional licenses, is valid for 3 years."
+    },
+    {
+      "question": "What PD created the PRC originally?",
+      "choices": ["PD 223", "PD 1006", "PD 451", "PD 1080"],
+      "answer": 0,
+      "topic": "EE Law - PRC Creation",
+      "difficulty": "Moderate",
+      "tutor": "PD 223 (1973) created the Professional Regulation Commission."
+    },
+    {
+      "question": "Who appoints the members of the Board of Electrical Engineering?",
+      "choices": ["President of the Philippines", "PRC Commissioner", "DOLE Secretary", "IIEE President"],
+      "answer": 0,
+      "topic": "EE Law - Appointment",
+      "difficulty": "Easy",
+      "tutor": "BOE members are appointed by the President of the Philippines upon PRC recommendation."
+    },
+    {
+      "question": "What law mandates the use of Filipino technical terms in engineering?",
+      "choices": ["RA 7920", "RA 7104", "RA 8491", "None"],
+      "answer": 3,
+      "topic": "Other Laws - Language",
+      "difficulty": "Difficult",
+      "tutor": "No specific law mandates exclusively Filipino technical terms; English remains standard."
+    },
+    {
+      "question": "What is the primary purpose of RA 9184?",
+      "choices": ["Electrical safety", "Government procurement", "Professional regulation", "CPD"],
+      "answer": 1,
+      "topic": "Other Laws - Procurement",
+      "difficulty": "Easy",
+      "tutor": "RA 9184 (Government Procurement Reform Act) governs public bidding and contracts."
+    },
+    {
+      "question": "What is the maximum CPD units that can be earned from self-directed learning?",
+      "choices": ["5 units", "10 units", "15 units", "20 units"],
+      "answer": 0,
+      "topic": "CPD Law - Credit Limits",
+      "difficulty": "Difficult",
+      "tutor": "PRC allows max 5 CPD units from self-directed learning per renewal period."
+    },
+    {
+      "question": "What law requires electrical plans to be signed by a PEE?",
+      "choices": ["PD 1096", "RA 7920", "RA 9514", "Both A and B"],
+      "answer": 3,
+      "topic": "EE Law - Plan Signing",
+      "difficulty": "Moderate",
+      "tutor": "PD 1096 (NBC) and RA 7920 both require licensed PEE to sign electrical plans for large installations."
+    },
+    {
+      "question": "What is the Code of Ethics for Electrical Engineers embodied in?",
+      "choices": ["RA 7920", "PRC Resolution", "IIEE By-laws", "Both B and C"],
+      "answer": 3,
+      "topic": "EE Law - Code of Ethics",
+      "difficulty": "Moderate",
+      "tutor": "PRC Resolution and IIEE Code of Ethics govern EE professional conduct."
+    },
+    {
+      "question": "What law is known as the 'National Building Code'?",
+      "choices": ["PD 1096", "RA 6541", "PD 957", "RA 9514"],
+      "answer": 0,
+      "topic": "Other Laws - Building Code",
+      "difficulty": "Easy",
+      "tutor": "PD 1096 (1977) is the National Building Code of the Philippines."
+    },
+    {
+      "question": "What law is known as the 'Fire Code of the Philippines'?",
+      "choices": ["RA 9514", "PD 1185", "RA 7920", "Both A and B"],
+      "answer": 3,
+      "topic": "Other Laws - Fire Code",
+      "difficulty": "Moderate",
+      "tutor": "RA 9514 (2008) replaced PD 1185 as the Fire Code of the Philippines."
+    },
+    {
+      "question": "What is the minimum percentage of Filipino participation in engineering consultancy under RA 9184?",
+      "choices": ["60%", "75%", "80%", "100%"],
+      "answer": 0,
+      "topic": "Other Laws - Procurement",
+      "difficulty": "Difficult",
+      "tutor": "RA 9184 requires at least 60% Filipino equity for consultancy services."
+    },
+    {
+      "question": "What law mandates EE as a profession requiring state regulation?",
+      "choices": ["RA 7920", "PD 223", "RA 8981", "Constitution Art. II Sec. 14"],
+      "answer": 3,
+      "topic": "EE Law - Constitutional Basis",
+      "difficulty": "Difficult",
+      "tutor": "1987 Constitution Article II, Section 14 mandates state regulation of professions."
+    },
+    {
+      "question": "What is the penalty for impersonating a registered EE?",
+      "choices": ["Fine only", "Imprisonment only", "Fine and imprisonment", "License suspension"],
+      "answer": 2,
+      "topic": "EE Law - Violations",
+      "difficulty": "Moderate",
+      "tutor": "RA 7920 penalizes impersonation with fine and imprisonment."
+    },
+    {
+      "question": "Who may file a complaint against a registered EE?",
+      "choices": ["Any person", "PRC only", "BOE only", "IIEE only"],
+      "answer": 0,
+      "topic": "EE Law - Complaints",
+      "difficulty": "Easy",
+      "tutor": "Any person may file a verified complaint before the BOE."
+    },
+    {
+      "question": "What is the maximum fine for violating RA 7920?",
+      "choices": ["P20,000", "P50,000", "P100,000", "P500,000"],
+      "answer": 2,
+      "topic": "EE Law - Penalties",
+      "difficulty": "Moderate",
+      "tutor": "RA 7920 Section 46 imposes fine up to P100,000."
+    },
+    {
+      "question": "What is the maximum imprisonment term under RA 7920?",
+      "choices": ["6 months", "1 year", "2 years", "5 years"],
+      "answer": 2,
+      "topic": "EE Law - Penalties",
+      "difficulty": "Moderate",
+      "tutor": "Imprisonment up to 2 years for violations of RA 7920."
+    },
+    {
+      "question": "What law created the IIEE as a professional organization?",
+      "choices": ["RA 7920", "PD 223", "RA 1379", "None (private organization)"],
+      "answer": 3,
+      "topic": "EE Law - IIEE",
+      "difficulty": "Moderate",
+      "tutor": "IIEE is a private organization; RA 7920 recognizes it as the accredited professional organization (APO)."
+    },
+    {
+      "question": "What is the official journal of the PRC?",
+      "choices": ["The Philippine Gazette", "PRC Digest", "The Professional Regulation Commission Journal", "None"],
+      "answer": 2,
+      "topic": "EE Law - PRC Publications",
+      "difficulty": "Difficult",
+      "tutor": "PRC publishes The Professional Regulation Commission Journal."
+    },
+    {
+      "question": "What is the requirement for REE license renewal without CPD?",
+      "choices": ["Allowed with penalty", "Not allowed", "Allowed for one cycle only", "Special permit required"],
+      "answer": 1,
+      "topic": "CPD Law - Renewal",
+      "difficulty": "Easy",
+      "tutor": "CPD units are mandatory for license renewal under RA 10912."
+    },
+    {
+      "question": "What is the validity of a Special Professional License (SPL)?",
+      "choices": ["1 year", "2 years", "3 years", "Until project completion"],
+      "answer": 0,
+      "topic": "EE Law - SPL",
+      "difficulty": "Difficult",
+      "tutor": "SPL for foreign EEs is valid for 1 year, renewable."
+    },
+    {
+      "question": "Who issues the Certificate of Registration for EEs?",
+      "choices": ["BOE", "PRC Commissioner", "President", "IIEE"],
+      "answer": 1,
+      "topic": "EE Law - Registration",
+      "difficulty": "Easy",
+      "tutor": "PRC Commissioner issues Certificate of Registration upon BOE recommendation."
+    },
+    {
+      "question": "What law is known as the 'Philippine Electrical Code'?",
+      "choices": ["RA 7920", "PD 1096", "RA 184", "Part of RA 7920 implementing rules"],
+      "answer": 3,
+      "topic": "EE Law - PEC",
+      "difficulty": "Moderate",
+      "tutor": "PEC is part of the implementing rules of RA 7920, not a separate law."
+    },
+    {
+      "question": "What is the required number of years to become a PEE?",
+      "choices": ["3 years", "5 years", "7 years", "10 years"],
+      "answer": 2,
+      "topic": "EE Law - PEE Experience",
+      "difficulty": "Moderate",
+      "tutor": "At least 7 years of EE practice required for PEE eligibility."
+    },
+    {
+      "question": "What is the passing rate target per REE board exam?",
+      "choices": ["None fixed", "20%", "30%", "50%"],
+      "answer": 0,
+      "topic": "EE Law - Exam Statistics",
+      "difficulty": "Easy",
+      "tutor": "No fixed passing rate; it depends on exam difficulty and candidate performance."
+    },
+    {
+      "question": "What government agency oversees the BOE?",
+      "choices": ["DOLE", "PRC", "DENR", "DPWH"],
+      "answer": 1,
+      "topic": "EE Law - Oversight",
+      "difficulty": "Easy",
+      "tutor": "PRC has administrative supervision over all BOEs including Electrical Engineering."
+    },
+    {
+      "question": "What law mandates the use of English as medium of instruction in engineering?",
+      "choices": ["RA 7722", "RA 9155", "PD 1006", "No such law"],
+      "answer": 3,
+      "topic": "Other Laws - Language",
+      "difficulty": "Moderate",
+      "tutor": "No law mandates English; it's standard practice from CHED policies."
+    },
+    {
+      "question": "What is the effect of non-renewal of license for 3 consecutive cycles?",
+      "choices": ["Fine", "Re-exam required", "Revocation", "Automatic expiration"],
+      "answer": 1,
+      "topic": "EE Law - License Renewal",
+      "difficulty": "Difficult",
+      "tutor": "PRC may require re-examination if license expired for 3 cycles (9 years)."
+    },
+    {
+      "question": "What law provides for professional civil service eligibility for licensed EEs?",
+      "choices": ["PD 1080", "RA 7920", "RA 7041", "RA 6713"],
+      "answer": 0,
+      "topic": "Other Laws - Civil Service",
+      "difficulty": "Difficult",
+      "tutor": "PD 1080 grants civil service eligibility to board passers."
+    },
+    {
+      "question": "What is the requirement for signing electrical permits for low-voltage installations?",
+      "choices": ["REE only", "PEE only", "REE or PEE", "Master Electrician only"],
+      "answer": 2,
+      "topic": "EE Law - Plan Signing",
+      "difficulty": "Moderate",
+      "tutor": "REE can sign for low-voltage (up to 600V), PEE for higher voltages."
+    },
+    {
+      "question": "What law punishes sexual harassment in the workplace including engineering firms?",
+      "choices": ["RA 7877", "RA 6713", "RA 3019", "RA 11313"],
+      "answer": 0,
+      "topic": "Other Laws - Anti-Harassment",
+      "difficulty": "Moderate",
+      "tutor": "RA 7877 (Anti-Sexual Harassment Act of 1995)."
+    },
+    {
+      "question": "What law protects intellectual property of engineering designs?",
+      "choices": ["RA 8293", "RA 7920", "RA 10372", "Both A and C"],
+      "answer": 3,
+      "topic": "Other Laws - IP Code",
+      "difficulty": "Moderate",
+      "tutor": "RA 8293 (IP Code) amended by RA 10372 protects copyrights and patents."
+    },
+    {
+      "question": "What law mandates data privacy in engineering records?",
+      "choices": ["RA 10173", "RA 8792", "RA 10844", "RA 11467"],
+      "answer": 0,
+      "topic": "Other Laws - Data Privacy",
+      "difficulty": "Easy",
+      "tutor": "RA 10173 (Data Privacy Act of 2012) protects personal information."
+    },
+    {
+      "question": "What is the minimum passing score per subject in REE board?",
+      "choices": ["40%", "45%", "50%", "60%"],
+      "answer": 2,
+      "topic": "EE Law - Board Exam",
+      "difficulty": "Easy",
+      "tutor": "No subject grade below 50% as per BOE resolution."
+    },
+    {
+      "question": "What law provides for mandatory CPD for all professionals?",
+      "choices": ["RA 10912", "RA 7920", "RA 8981", "RA 9184"],
+      "answer": 0,
+      "topic": "CPD Law - RA 10912",
+      "difficulty": "Easy",
+      "tutor": "RA 10912 (CPD Act of 2016) makes CPD mandatory for all PRC-regulated professions."
+    },
+    {
+      "question": "What is the supervising agency for CPD implementation?",
+      "choices": ["CHED", "PRC", "TESDA", "IIEE"],
+      "answer": 1,
+      "topic": "CPD Law - Implementation",
+      "difficulty": "Easy",
+      "tutor": "PRC through the CPD Council implements RA 10912."
+    },
+    {
+      "question": "What is the maximum number of years a license may be suspended?",
+      "choices": ["1 year", "2 years", "3 years", "5 years"],
+      "answer": 2,
+      "topic": "EE Law - Sanctions",
+      "difficulty": "Moderate",
+      "tutor": "BOE may suspend license for up to 3 years under RA 7920."
+    },
+    {
+      "question": "What law mandates the use of renewable energy in the Philippines?",
+      "choices": ["RA 9513", "RA 9136", "RA 7920", "PD 1096"],
+      "answer": 0,
+      "topic": "Other Laws - Renewable Energy",
+      "difficulty": "Easy",
+      "tutor": "RA 9513 (Renewable Energy Act of 2008) promotes RE development."
+    }
+  ]
+}

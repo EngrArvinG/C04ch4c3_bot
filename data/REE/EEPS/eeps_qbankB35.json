@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is a resistor?",
+      "choices": ["Opposes current flow", "Stores charge", "Stores magnetic energy", "Amplifies signal"],
+      "answer": 0,
+      "topic": "Components - Resistor",
+      "difficulty": "Easy",
+      "tutor": "Resistor limits current and dissipates power as heat."
+    },
+    {
+      "question": "What is a capacitor?",
+      "choices": ["Stores energy in electric field", "Stores energy in magnetic field", "Opposes current", "Amplifies voltage"],
+      "answer": 0,
+      "topic": "Components - Capacitor",
+      "difficulty": "Easy",
+      "tutor": "Capacitor stores energy in electric field between plates."
+    },
+    {
+      "question": "What is an inductor?",
+      "choices": ["Stores energy in magnetic field", "Stores energy in electric field", "Opposes voltage change", "Amplifies current"],
+      "answer": 0,
+      "topic": "Components - Inductor",
+      "difficulty": "Easy",
+      "tutor": "Inductor stores energy in magnetic field; opposes current change."
+    },
+    {
+      "question": "What is a diode?",
+      "choices": ["Allows current in one direction", "Amplifies signal", "Stores charge", "Switches AC"],
+      "answer": 0,
+      "topic": "Components - Diode",
+      "difficulty": "Easy",
+      "tutor": "Diode conducts when forward-biased, blocks when reverse-biased."
+    },
+    {
+      "question": "What is a Zener diode used for?",
+      "choices": ["Voltage regulation", "Rectification", "Amplification", "Light emission"],
+      "answer": 0,
+      "topic": "Components - Zener Diode",
+      "difficulty": "Easy",
+      "tutor": "Zener diode maintains constant voltage in reverse breakdown."
+    },
+    {
+      "question": "What is an LED?",
+      "choices": ["Light Emitting Diode", "Low Energy Diode", "Laser Emitting Diode", "Linear Emitting Diode"],
+      "answer": 0,
+      "topic": "Components - LED",
+      "difficulty": "Easy",
+      "tutor": "LED emits light when forward-biased."
+    },
+    {
+      "question": "What is a photodiode?",
+      "choices": ["Converts light to current", "Converts current to light", "Amplifies light", "Blocks light"],
+      "answer": 0,
+      "topic": "Components - Photodiode",
+      "difficulty": "Moderate",
+      "tutor": "Photodiode generates current when exposed to light."
+    },
+    {
+      "question": "What is a transistor?",
+      "choices": ["Amplifies or switches signals", "Stores energy", "Rectifies AC", "Generates light"],
+      "answer": 0,
+      "topic": "Components - Transistor",
+      "difficulty": "Easy",
+      "tutor": "Transistor is a three-terminal semiconductor device for amplification/switching."
+    },
+    {
+      "question": "What are the three terminals of a BJT?",
+      "choices": ["Emitter, Base, Collector", "Source, Gate, Drain", "Anode, Cathode, Gate", "Drain, Source, Body"],
+      "answer": 0,
+      "topic": "Components - BJT",
+      "difficulty": "Easy",
+      "tutor": "BJT has Emitter (E), Base (B), and Collector (C)."
+    },
+    {
+      "question": "What are the three terminals of a FET?",
+      "choices": ["Source, Gate, Drain", "Emitter, Base, Collector", "Anode, Cathode, Gate", "Drain, Body, Source"],
+      "answer": 0,
+      "topic": "Components - FET",
+      "difficulty": "Easy",
+      "tutor": "FET has Source (S), Gate (G), and Drain (D)."
+    },
+    {
+      "question": "What is a MOSFET?",
+      "choices": ["Metal-Oxide-Semiconductor FET", "Metal-Oxide-Semiconductor BJT", "Metal-Oxide-Silicon FET", "Metal-Oxide-Silicon BJT"],
+      "answer": 0,
+      "topic": "Components - MOSFET",
+      "difficulty": "Moderate",
+      "tutor": "MOSFET is a voltage-controlled FET with insulated gate."
+    },
+    {
+      "question": "What is an SCR?",
+      "choices": ["Silicon Controlled Rectifier (thyristor)", "Silicon Carbon Resistor", "Signal Controlled Rectifier", "Synchronous Current Rectifier"],
+      "answer": 0,
+      "topic": "Components - SCR",
+      "difficulty": "Moderate",
+      "tutor": "SCR is a latching thyristor triggered by gate pulse."
+    },
+    {
+      "question": "What is a TRIAC?",
+      "choices": ["Bidirectional thyristor", "Unidirectional thyristor", "Transistor", "Diode"],
+      "answer": 0,
+      "topic": "Components - TRIAC",
+      "difficulty": "Difficult",
+      "tutor": "TRIAC conducts in both directions; used in AC dimmers."
+    },
+    {
+      "question": "What is a DIAC?",
+      "choices": ["Bidirectional trigger diode", "Unidirectional diode", "Transistor", "Capacitor"],
+      "answer": 0,
+      "topic": "Components - DIAC",
+      "difficulty": "Difficult",
+      "tutor": "DIAC conducts after breakdown voltage; used to trigger TRIAC."
+    },
+    {
+      "question": "What is an optocoupler?",
+      "choices": ["Transfers signal using light", "Amplifies signal", "Rectifies signal", "Filters signal"],
+      "answer": 0,
+      "topic": "Components - Optocoupler",
+      "difficulty": "Moderate",
+      "tutor": "Optocoupler isolates input from output using LED and phototransistor."
+    },
+    {
+      "question": "What is a thermistor?",
+      "choices": ["Temperature-sensitive resistor", "Voltage-sensitive resistor", "Current-sensitive resistor", "Light-sensitive resistor"],
+      "answer": 0,
+      "topic": "Components - Thermistor",
+      "difficulty": "Moderate",
+      "tutor": "Thermistor resistance changes with temperature (NTC or PTC)."
+    },
+    {
+      "question": "What is a varistor?",
+      "choices": ["Voltage-sensitive resistor", "Temperature-sensitive resistor", "Current-sensitive resistor", "Light-sensitive resistor"],
+      "answer": 0,
+      "topic": "Components - Varistor",
+      "difficulty": "Moderate",
+      "tutor": "Varistor (MOV) clamps voltage spikes for surge protection."
+    },
+    {
+      "question": "What is a relay?",
+      "choices": ["Electrically operated switch", "Manual switch", "Fuse", "Circuit breaker"],
+      "answer": 0,
+      "topic": "Components - Relay",
+      "difficulty": "Easy",
+      "tutor": "Relay uses coil to open/close contacts, isolating control from load."
+    },
+    {
+      "question": "What is a contactor?",
+      "choices": ["High-current relay", "Low-current relay", "Fuse", "Transformer"],
+      "answer": 0,
+      "topic": "Components - Contactor",
+      "difficulty": "Moderate",
+      "tutor": "Contactor is a heavy-duty relay for switching motors and heaters."
+    },
+    {
+      "question": "What is a solenoid?",
+      "choices": ["Electromagnet with movable plunger", "Fixed magnet", "Transformer", "Generator"],
+      "answer": 0,
+      "topic": "Components - Solenoid",
+      "difficulty": "Easy",
+      "tutor": "Solenoid converts electrical energy into linear motion."
+    },
+    {
+      "question": "What is a crystal oscillator?",
+      "choices": ["Uses quartz crystal for precise frequency", "RC oscillator", "LC oscillator", "Relaxation oscillator"],
+      "answer": 0,
+      "topic": "Components - Crystal Oscillator",
+      "difficulty": "Moderate",
+      "tutor": "Crystal oscillator provides stable frequency reference using piezoelectric effect."
+    },
+    {
+      "question": "What is a transformer?",
+      "choices": ["Changes voltage level using mutual induction", "Stores energy", "Amplifies power", "Rectifies AC"],
+      "answer": 0,
+      "topic": "Components - Transformer",
+      "difficulty": "Easy",
+      "tutor": "Transformer transfers electrical energy between circuits via magnetic coupling."
+    },
+    {
+      "question": "What is a CT?",
+      "choices": ["Current Transformer", "Capacitor Transformer", "Constant Transformer", "Control Transformer"],
+      "answer": 0,
+      "topic": "Components - CT",
+      "difficulty": "Easy",
+      "tutor": "Current transformer steps down high current for metering."
+    },
+    {
+      "question": "What is a PT?",
+      "choices": ["Potential Transformer", "Power Transformer", "Pulse Transformer", "Phase Transformer"],
+      "answer": 0,
+      "topic": "Components - PT",
+      "difficulty": "Easy",
+      "tutor": "Potential transformer steps down high voltage for metering."
+    },
+    {
+      "question": "What is a fuse?",
+      "choices": ["One-time overcurrent protection", "Resettable protection", "Voltage protection", "Frequency protection"],
+      "answer": 0,
+      "topic": "Components - Fuse",
+      "difficulty": "Easy",
+      "tutor": "Fuse melts when current exceeds rating, permanently opening the circuit."
+    }
+  ]
+}

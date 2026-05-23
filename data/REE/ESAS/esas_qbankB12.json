@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "Newton's first law of motion is also known as the law of:",
+      "choices": ["Acceleration", "Inertia", "Action-Reaction", "Gravity"],
+      "answer": 1,
+      "topic": "College Physics - Newton's Laws",
+      "difficulty": "Easy",
+      "tutor": "Newton's first law states that an object at rest stays at rest and an object in motion stays in motion unless acted upon by a net external force. This is the law of inertia."
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "choices": ["Joule", "Watt", "Newton", "Pascal"],
+      "answer": 2,
+      "topic": "College Physics - Units and Dimensions",
+      "difficulty": "Easy",
+      "tutor": "The Newton (N) is the SI unit of force, defined as 1 kg·m/s²."
+    },
+    {
+      "question": "A 2 kg object is moving with a velocity of 5 m/s. What is its kinetic energy?",
+      "choices": ["10 J", "25 J", "50 J", "5 J"],
+      "answer": 1,
+      "topic": "College Physics - Work and Energy",
+      "difficulty": "Moderate",
+      "tutor": "KE = ½mv² = ½ × 2 × (5)² = ½ × 2 × 25 = 25 J."
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth's surface approximately?",
+      "choices": ["9.8 m/s²", "9.8 m/s", "9.8 km/s²", "98 m/s²"],
+      "answer": 0,
+      "topic": "College Physics - Gravitation",
+      "difficulty": "Easy",
+      "tutor": "Standard acceleration due to gravity g ≈ 9.8 m/s² (or 9.81 m/s²)."
+    },
+    {
+      "question": "Which of the following is a scalar quantity?",
+      "choices": ["Velocity", "Force", "Displacement", "Mass"],
+      "answer": 3,
+      "topic": "College Physics - Scalar and Vector",
+      "difficulty": "Easy",
+      "tutor": "Mass has magnitude only; velocity, force, and displacement have both magnitude and direction (vectors)."
+    },
+    {
+      "question": "Ohm's law states the relationship between:",
+      "choices": ["Power and current", "Voltage, current, and resistance", "Energy and time", "Force and acceleration"],
+      "answer": 1,
+      "topic": "College Physics - Electricity",
+      "difficulty": "Easy",
+      "tutor": "Ohm's Law: V = IR, where V is voltage, I is current, and R is resistance."
+    },
+    {
+      "question": "A 10 Ω resistor carries a current of 2 A. What is the voltage across it?",
+      "choices": ["5 V", "20 V", "12 V", "8 V"],
+      "answer": 1,
+      "topic": "College Physics - Electricity",
+      "difficulty": "Easy",
+      "tutor": "V = IR = 2 A × 10 Ω = 20 V."
+    },
+    {
+      "question": "What is the frequency of a wave with period 0.02 seconds?",
+      "choices": ["50 Hz", "20 Hz", "0.02 Hz", "500 Hz"],
+      "answer": 0,
+      "topic": "College Physics - Wave Motion",
+      "difficulty": "Moderate",
+      "tutor": "f = 1/T = 1/0.02 = 50 Hz."
+    },
+    {
+      "question": "The speed of light in vacuum is approximately:",
+      "choices": ["3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10¹⁰ m/s", "3 × 10⁵ m/s"],
+      "answer": 1,
+      "topic": "College Physics - Optics",
+      "difficulty": "Easy",
+      "tutor": "The speed of light in vacuum c = 3.00 × 10⁸ m/s."
+    },
+    {
+      "question": "A car accelerates uniformly from rest to 20 m/s in 5 seconds. What is its acceleration?",
+      "choices": ["4 m/s²", "2 m/s²", "5 m/s²", "10 m/s²"],
+      "answer": 0,
+      "topic": "College Physics - Kinematics",
+      "difficulty": "Moderate",
+      "tutor": "a = (v - u)/t = (20 - 0)/5 = 4 m/s²."
+    },
+    {
+      "question": "What is the work done when a force of 10 N moves an object 5 m in the direction of the force?",
+      "choices": ["2 J", "50 J", "15 J", "0.5 J"],
+      "answer": 1,
+      "topic": "College Physics - Work and Energy",
+      "difficulty": "Easy",
+      "tutor": "W = F × d = 10 N × 5 m = 50 J."
+    },
+    {
+      "question": "What is the principle of conservation of energy?",
+      "choices": ["Energy can be created but not destroyed", "Energy can be destroyed but not created", "Energy cannot be created or destroyed, only transformed", "Energy is always lost as heat"],
+      "answer": 2,
+      "topic": "College Physics - Conservation Laws",
+      "difficulty": "Easy",
+      "tutor": "The law of conservation of energy states that energy cannot be created or destroyed, only converted from one form to another."
+    },
+    {
+      "question": "A 5 kg object is lifted 2 meters above the ground. What is its gravitational potential energy?",
+      "choices": ["10 J", "98 J", "49 J", "5 J"],
+      "answer": 1,
+      "topic": "College Physics - Work and Energy",
+      "difficulty": "Moderate",
+      "tutor": "PE = mgh = 5 kg × 9.8 m/s² × 2 m = 98 J."
+    },
+    {
+      "question": "What is the momentum of a 10 kg object moving at 3 m/s?",
+      "choices": ["30 kg·m/s", "3.33 kg·m/s", "0.3 kg·m/s", "13 kg·m/s"],
+      "answer": 0,
+      "topic": "College Physics - Momentum",
+      "difficulty": "Easy",
+      "tutor": "p = mv = 10 kg × 3 m/s = 30 kg·m/s."
+    },
+    {
+      "question": "The bending of light as it passes from one medium to another is called:",
+      "choices": ["Reflection", "Diffraction", "Refraction", "Dispersion"],
+      "answer": 2,
+      "topic": "College Physics - Optics",
+      "difficulty": "Easy",
+      "tutor": "Refraction is the bending of light due to a change in speed when passing between different media."
+    },
+    {
+      "question": "What is the efficiency of a machine that does 200 J of useful work from 500 J of input energy?",
+      "choices": ["40%", "25%", "50%", "60%"],
+      "answer": 0,
+      "topic": "College Physics - Work and Energy",
+      "difficulty": "Moderate",
+      "tutor": "Efficiency = (useful output / input) × 100% = (200/500)×100% = 40%."
+    },
+    {
+      "question": "What is the resonant frequency of an LC circuit with L = 0.1 H and C = 10 μF?",
+      "choices": ["159 Hz", "1591 Hz", "159.2 Hz", "15.9 Hz"],
+      "answer": 0,
+      "topic": "College Physics - Oscillations",
+      "difficulty": "Difficult",
+      "tutor": "f₀ = 1/(2π√(LC)) = 1/(2π√(0.1 × 10×10⁻⁶)) = 1/(2π√(10⁻⁶)) = 1/(2π×0.001) ≈ 159 Hz."
+    },
+    {
+      "question": "Two resistors of 4 Ω and 6 Ω are connected in series. What is the total resistance?",
+      "choices": ["2.4 Ω", "10 Ω", "24 Ω", "1.5 Ω"],
+      "answer": 1,
+      "topic": "College Physics - Electricity",
+      "difficulty": "Easy",
+      "tutor": "Series: R_total = R₁ + R₂ = 4 + 6 = 10 Ω."
+    },
+    {
+      "question": "What is the image distance for an object placed at the center of curvature of a concave mirror?",
+      "choices": ["At infinity", "At focus", "At the center of curvature", "Between focus and center"],
+      "answer": 2,
+      "topic": "College Physics - Optics",
+      "difficulty": "Moderate",
+      "tutor": "For a concave mirror, when object is at C, image is also at C, real, inverted, and same size."
+    },
+    {
+      "question": "A force of 50 N is applied to a spring with spring constant 200 N/m. What is the extension?",
+      "choices": ["0.25 m", "4 m", "0.5 m", "2 m"],
+      "answer": 0,
+      "topic": "College Physics - Elasticity",
+      "difficulty": "Moderate",
+      "tutor": "Hooke's Law: F = kx → x = F/k = 50/200 = 0.25 m."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is the principle of operation of a DC generator?",
+      "choices": ["Faraday's law of electromagnetic induction", "Ohm's law", "Coulomb's law", "Lenz's law"],
+      "answer": 0,
+      "topic": "Electrical Machines - DC Generators",
+      "difficulty": "Easy",
+      "tutor": "DC generator converts mechanical energy to electrical by electromagnetic induction."
+    },
+    {
+      "question": "What is the function of a commutator in a DC machine?",
+      "choices": ["Converts AC to DC", "Converts DC to AC", "Increases voltage", "Decreases current"],
+      "answer": 0,
+      "topic": "Electrical Machines - Commutator",
+      "difficulty": "Moderate",
+      "tutor": "Commutator rectifies AC armature voltage to DC output."
+    },
+    {
+      "question": "What are the main parts of a DC machine?",
+      "choices": ["Stator and rotor", "Primary and secondary", "Core and winding", "Field and armature"],
+      "answer": 3,
+      "topic": "Electrical Machines - DC Machine Parts",
+      "difficulty": "Easy",
+      "tutor": "Field produces magnetic flux; armature carries current."
+    },
+    {
+      "question": "What is back EMF in a DC motor?",
+      "choices": ["EMF opposing supply voltage", "EMF aiding supply voltage", "Supply voltage", "Zero at no load"],
+      "answer": 0,
+      "topic": "Electrical Machines - DC Motor Back EMF",
+      "difficulty": "Moderate",
+      "tutor": "Back EMF opposes armature current; Eb = Vt - IaRa."
+    },
+    {
+      "question": "What is the speed equation of a DC shunt motor?",
+      "choices": ["N ∝ (Vt - IaRa)/φ", "N ∝ φ/(Vt - IaRa)", "N ∝ Vt/φ", "N ∝ φ/Vt"],
+      "answer": 0,
+      "topic": "Electrical Machines - DC Shunt Motor",
+      "difficulty": "Difficult",
+      "tutor": "Speed N ∝ Eb/φ where Eb = Vt - IaRa."
+    },
+    {
+      "question": "What is the synchronous speed of an induction motor?",
+      "choices": ["Ns = 120f/P", "Ns = 60f/P", "Ns = 120P/f", "Ns = f/P"],
+      "answer": 0,
+      "topic": "Electrical Machines - Induction Motor",
+      "difficulty": "Easy",
+      "tutor": "Ns = 120 × frequency / number of poles (rpm)."
+    },
+    {
+      "question": "What is slip in an induction motor?",
+      "choices": ["(Ns - Nr)/Ns", "(Nr - Ns)/Ns", "Nr/Ns", "Ns/Nr"],
+      "answer": 0,
+      "topic": "Electrical Machines - Induction Motor Slip",
+      "difficulty": "Moderate",
+      "tutor": "Slip s = (Ns - Nr)/Ns, typically 2-5% at full load."
+    },
+    {
+      "question": "Why does an induction motor draw high starting current?",
+      "choices": ["No back EMF at start", "Low resistance", "High voltage", "Low inductance"],
+      "answer": 0,
+      "topic": "Electrical Machines - Starting Current",
+      "difficulty": "Moderate",
+      "tutor": "At start, rotor is stationary, slip=1, induced EMF is maximum, impedance is low."
+    },
+    {
+      "question": "What is the function of a squirrel cage rotor?",
+      "choices": ["Bars shorted by end rings", "Wound rotor with resistors", "Permanent magnet rotor", "Salient pole rotor"],
+      "answer": 0,
+      "topic": "Electrical Machines - Squirrel Cage Rotor",
+      "difficulty": "Easy",
+      "tutor": "Squirrel cage rotor has aluminum or copper bars shorted at both ends."
+    },
+    {
+      "question": "What is the difference between squirrel cage and wound rotor induction motor?",
+      "choices": ["Wound rotor has external resistors", "Squirrel cage has slip rings", "Both same", "Wound rotor is cheaper"],
+      "answer": 0,
+      "topic": "Electrical Machines - Induction Motor Types",
+      "difficulty": "Moderate",
+      "tutor": "Wound rotor has slip rings for external resistance; squirrel cage is simpler."
+    },
+    {
+      "question": "What is a synchronous motor?",
+      "choices": ["Rotor runs at synchronous speed", "Rotor runs slower than synchronous", "Rotor runs faster", "No rotor"],
+      "answer": 0,
+      "topic": "Electrical Machines - Synchronous Motor",
+      "difficulty": "Easy",
+      "tutor": "Synchronous motor rotates at exactly Ns = 120f/P."
+    },
+    {
+      "question": "What is the function of a damper winding in a synchronous motor?",
+      "choices": ["Prevents hunting", "Increases torque", "Reduces speed", "Starts the motor"],
+      "answer": 3,
+      "topic": "Electrical Machines - Damper Winding",
+      "difficulty": "Difficult",
+      "tutor": "Damper winding provides starting torque and damps oscillations."
+    },
+    {
+      "question": "What is the V-curve of a synchronous motor?",
+      "choices": ["Armature current vs field current", "Torque vs speed", "Power vs speed", "Voltage vs current"],
+      "answer": 0,
+      "topic": "Electrical Machines - Synchronous Motor V-Curve",
+      "difficulty": "Difficult",
+      "tutor": "V-curve shows armature current variation with field current at constant load."
+    },
+    {
+      "question": "What is a transformer?",
+      "choices": ["Transfers electrical energy between circuits", "Converts AC to DC", "Converts DC to AC", "Generates power"],
+      "answer": 0,
+      "topic": "Electrical Machines - Transformer",
+      "difficulty": "Easy",
+      "tutor": "Transformer transfers energy by electromagnetic induction without moving parts."
+    },
+    {
+      "question": "What is the turns ratio of a transformer?",
+      "choices": ["Np/Ns = Vp/Vs = Is/Ip", "Np/Ns = Ip/Is = Vs/Vp", "Np/Ns = Vp/Vs = Ip/Is", "Np/Ns = Vs/Vp"],
+      "answer": 0,
+      "topic": "Electrical Machines - Transformer Turns Ratio",
+      "difficulty": "Moderate",
+      "tutor": "Turns ratio a = Np/Ns = Vp/Vs = Is/Ip."
+    },
+    {
+      "question": "What are the losses in a transformer?",
+      "choices": ["Core loss and copper loss", "Only copper loss", "Only core loss", "Friction loss"],
+      "answer": 0,
+      "topic": "Electrical Machines - Transformer Losses",
+      "difficulty": "Easy",
+      "tutor": "Core losses (hysteresis & eddy) and copper losses (I²R)."
+    },
+    {
+      "question": "What is the efficiency of a transformer at full load?",
+      "choices": ["η = (V2I2 cosθ)/(V2I2 cosθ + Pc + Pcu)", "η = Pout/Pin", "η = (V1I1 cosθ)/(losses)", "η = Pcu/Pc"],
+      "answer": 0,
+      "topic": "Electrical Machines - Transformer Efficiency",
+      "difficulty": "Difficult",
+      "tutor": "Efficiency = output power / (output power + core loss + copper loss)."
+    },
+    {
+      "question": "What is voltage regulation of a transformer?",
+      "choices": ["(VNL - VFL)/VFL × 100%", "(VFL - VNL)/VNL × 100%", "VNL/VFL", "VFL/VNL"],
+      "answer": 0,
+      "topic": "Electrical Machines - Transformer Regulation",
+      "difficulty": "Difficult",
+      "tutor": "Voltage regulation measures voltage drop from no-load to full-load."
+    },
+    {
+      "question": "What is a generator?",
+      "choices": ["Converts mechanical to electrical", "Converts electrical to mechanical", "Stores energy", "Transfers energy"],
+      "answer": 0,
+      "topic": "Electrical Machines - Generator",
+      "difficulty": "Easy",
+      "tutor": "Generator converts mechanical energy (turbine, engine) to electrical energy."
+    },
+    {
+      "question": "What is the power angle of a synchronous generator?",
+      "choices": ["Angle between rotor and stator fields", "Phase angle between voltage and current", "Load angle", "Both A and C"],
+      "answer": 3,
+      "topic": "Electrical Machines - Synchronous Generator",
+      "difficulty": "Difficult",
+      "tutor": "Power angle δ is between rotor field and resultant stator field."
+    },
+    {
+      "question": "What is an alternator?",
+      "choices": ["AC generator", "DC generator", "DC motor", "Transformer"],
+      "answer": 0,
+      "topic": "Electrical Machines - Alternator",
+      "difficulty": "Easy",
+      "tutor": "Alternator is a synchronous AC generator."
+    },
+    {
+      "question": "What is the purpose of a brushless exciter?",
+      "choices": ["Supply field current without brushes", "Increase voltage", "Reduce losses", "Cool generator"],
+      "answer": 0,
+      "topic": "Electrical Machines - Excitation",
+      "difficulty": "Moderate",
+      "tutor": "Brushless exciter eliminates slip rings and brushes for reliability."
+    },
+    {
+      "question": "What is a universal motor?",
+      "choices": ["Runs on both AC and DC", "Runs only on AC", "Runs only on DC", "Runs on three-phase"],
+      "answer": 0,
+      "topic": "Electrical Machines - Universal Motor",
+      "difficulty": "Moderate",
+      "tutor": "Universal motor is series-wound and operates on AC or DC (power tools)."
+    },
+    {
+      "question": "What is the starting torque of a series DC motor?",
+      "choices": ["Very high", "Very low", "Zero", "Moderate"],
+      "answer": 0,
+      "topic": "Electrical Machines - DC Series Motor",
+      "difficulty": "Easy",
+      "tutor": "Series motor has very high starting torque, used in cranes and trains."
+    },
+    {
+      "question": "What happens if a series DC motor runs without load?",
+      "choices": ["Overspeed and may damage", "Runs normally", "Stops", "Overheats only"],
+      "answer": 0,
+      "topic": "Electrical Machines - DC Series Motor",
+      "difficulty": "Moderate",
+      "tutor": "No load causes dangerously high speed; never run series motor unloaded."
+    }
+  ]
+}

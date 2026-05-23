@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the primary duty of an electrical engineer according to the Code of Ethics?",
+      "choices": ["Public safety and welfare", "Maximize personal profit", "Compete with other engineers", "Reduce project costs only"],
+      "answer": 0,
+      "topic": "Ethics - Primary Duty",
+      "difficulty": "Easy",
+      "tutor": "The paramount duty is to protect public safety, health, and welfare."
+    },
+    {
+      "question": "Can an engineer advertise their services in a self-laudatory manner?",
+      "choices": ["Yes, freely", "No, it is prohibited", "Only with approval", "Only in print media"],
+      "answer": 1,
+      "topic": "Ethics - Advertising",
+      "difficulty": "Moderate",
+      "tutor": "Self-praise or misleading advertising is considered unprofessional."
+    },
+    {
+      "question": "What should an engineer do if they discover a colleague's unethical act?",
+      "choices": ["Report to proper authorities", "Ignore it", "Publicly shame them", "Keep secret"],
+      "answer": 0,
+      "topic": "Ethics - Reporting",
+      "difficulty": "Easy",
+      "tutor": "Engineers have a duty to report ethical violations to the Board or PRC."
+    },
+    {
+      "question": "May an engineer sign plans not prepared under their supervision?",
+      "choices": ["Yes", "No", "With client permission", "Only for small projects"],
+      "answer": 1,
+      "topic": "Ethics - Signing Plans",
+      "difficulty": "Easy",
+      "tutor": "Engineers sign only work they personally supervised or reviewed."
+    },
+    {
+      "question": "What is conflict of interest?",
+      "choices": ["Personal interest vs professional duty", "Working overtime", "Multiple clients", "Low salary"],
+      "answer": 0,
+      "topic": "Ethics - Conflict of Interest",
+      "difficulty": "Easy",
+      "tutor": "Conflict of interest arises when personal gain influences professional judgment."
+    },
+    {
+      "question": "Can an engineer accept commissions from contractors on projects they supervise?",
+      "choices": ["Yes", "No", "Only with disclosure", "If project is small"],
+      "answer": 1,
+      "topic": "Ethics - Commissions",
+      "difficulty": "Moderate",
+      "tutor": "Accepting kickbacks or hidden commissions is strictly prohibited."
+    },
+    {
+      "question": "What is the engineer's duty regarding confidential information?",
+      "choices": ["Protect it", "Share freely", "Sell it", "Ignore it"],
+      "answer": 0,
+      "topic": "Ethics - Confidentiality",
+      "difficulty": "Easy",
+      "tutor": "Engineers must safeguard client's confidential business or technical information."
+    },
+    {
+      "question": "May an engineer bid against another engineer using the same original design?",
+      "choices": ["Yes", "No", "With permission only", "If price is lower"],
+      "answer": 1,
+      "topic": "Ethics - Bidding",
+      "difficulty": "Difficult",
+      "tutor": "Using another's design without compensation is unfair competition."
+    },
+    {
+      "question": "What should an engineer do if a project violates safety codes?",
+      "choices": ["Refuse to approve", "Approve anyway", "Ignore it", "Ask client to waive liability"],
+      "answer": 0,
+      "topic": "Ethics - Safety",
+      "difficulty": "Easy",
+      "tutor": "Engineers must not approve any plan or work violating safety laws."
+    },
+    {
+      "question": "Can an engineer serve two clients with competing interests?",
+      "choices": ["Yes, always", "No", "With full disclosure and consent", "Only if fees are equal"],
+      "answer": 2,
+      "topic": "Ethics - Dual Clients",
+      "difficulty": "Moderate",
+      "tutor": "Simultaneous service to competing clients requires informed consent from both."
+    },
+    {
+      "question": "What is the penalty for practicing EE without a valid license?",
+      "choices": ["Fine and imprisonment", "Warning only", "Suspension", "Reprimand"],
+      "answer": 0,
+      "topic": "Ethics - Unlicensed Practice",
+      "difficulty": "Moderate",
+      "tutor": "RA 7920 imposes fine up to P100,000 and/or imprisonment up to 2 years."
+    },
+    {
+      "question": "May an engineer use their position to obtain personal favors?",
+      "choices": ["Yes", "No", "If not illegal", "With client approval"],
+      "answer": 1,
+      "topic": "Ethics - Influence Peddling",
+      "difficulty": "Easy",
+      "tutor": "Engineers must not use professional position for personal gain."
+    },
+    {
+      "question": "What is the engineer's obligation regarding continuing education?",
+      "choices": ["Mandatory CPD", "Optional", "Only for PEEs", "Only for academics"],
+      "answer": 0,
+      "topic": "Ethics - CPD",
+      "difficulty": "Easy",
+      "tutor": "RA 10912 mandates CPD units for license renewal to maintain competence."
+    },
+    {
+      "question": "Can an engineer publicly criticize another engineer's work?",
+      "choices": ["Yes, freely", "No, except with factual basis and proper forum", "Only anonymously", "Always allowed"],
+      "answer": 1,
+      "topic": "Ethics - Professional Criticism",
+      "difficulty": "Difficult",
+      "tutor": "Criticism must be constructive, factual, and through proper professional channels."
+    },
+    {
+      "question": "What should an engineer do if offered a bribe?",
+      "choices": ["Refuse and report", "Accept but ignore", "Accept and inform client", "Keep secret"],
+      "answer": 0,
+      "topic": "Ethics - Bribery",
+      "difficulty": "Easy",
+      "tutor": "Bribery is unethical and illegal; must be refused and reported."
+    },
+    {
+      "question": "May an engineer sign plans for a project they didn't design?",
+      "choices": ["Yes", "Only if they review and accept responsibility", "Never", "Only for government projects"],
+      "answer": 1,
+      "topic": "Ethics - Plan Signing",
+      "difficulty": "Moderate",
+      "tutor": "Engineers may sign after thorough review and assuming full responsibility."
+    },
+    {
+      "question": "What is the engineer's duty to the environment?",
+      "choices": ["Protect and enhance", "Ignore if profitable", "Minimize only when required", "No duty"],
+      "answer": 0,
+      "topic": "Ethics - Environment",
+      "difficulty": "Easy",
+      "tutor": "Engineers must promote sustainable development and environmental protection."
+    },
+    {
+      "question": "Can an engineer claim credit for work done by others?",
+      "choices": ["Yes", "No", "With permission", "If supervisor agrees"],
+      "answer": 1,
+      "topic": "Ethics - Credit",
+      "difficulty": "Easy",
+      "tutor": "Credit must be given to those who actually performed the work."
+    },
+    {
+      "question": "What is the IIEE's role in ethics enforcement?",
+      "choices": ["Recommend sanctions to BOE", "Imprison violators", "Collect fines", "None"],
+      "answer": 0,
+      "topic": "Ethics - IIEE",
+      "difficulty": "Difficult",
+      "tutor": "IIEE investigates complaints and recommends disciplinary action to BOE."
+    },
+    {
+      "question": "What does 'primum non nocere' mean in engineering ethics?",
+      "choices": ["First, do no harm", "Profit above all", "Client is always right", "Safety third"],
+      "answer": 0,
+      "topic": "Ethics - Core Principle",
+      "difficulty": "Moderate",
+      "tutor": "The primary ethical guideline is to avoid causing harm to public."
+    }
+  ]
+}

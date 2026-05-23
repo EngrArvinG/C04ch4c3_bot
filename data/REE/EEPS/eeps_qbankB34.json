@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What is the function of a capacitor bank?",
+      "choices": ["Power factor correction", "Voltage step up", "Current limiting", "Frequency conversion"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Capacitor Bank",
+      "difficulty": "Easy",
+      "tutor": "Capacitor bank supplies reactive power to improve power factor."
+    },
+    {
+      "question": "What is a reactor in power systems?",
+      "choices": ["Inductive device to limit current", "Capacitive device", "Resistive device", "Switching device"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Reactor",
+      "difficulty": "Moderate",
+      "tutor": "Reactor (inductor) limits fault current or filters harmonics."
+    },
+    {
+      "question": "What is a busbar?",
+      "choices": ["Conductor that distributes power", "Insulator", "Circuit breaker", "Transformer"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Busbar",
+      "difficulty": "Easy",
+      "tutor": "Busbar is a metallic strip for distributing electrical power to feeders."
+    },
+    {
+      "question": "What is a switchgear?",
+      "choices": ["Combination of switching and protection devices", "Only circuit breakers", "Only fuses", "Only transformers"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Switchgear",
+      "difficulty": "Easy",
+      "tutor": "Switchgear includes breakers, switches, fuses, and relays for control and protection."
+    },
+    {
+      "question": "What is the difference between switchgear and switchboard?",
+      "choices": ["Switchgear has drawout breakers; switchboard has fixed", "Switchboard has drawout", "Both same", "Switchgear is low voltage only"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Switchgear vs Switchboard",
+      "difficulty": "Difficult",
+      "tutor": "Switchgear typically has drawout circuit breakers; switchboards have fixed mounted."
+    },
+    {
+      "question": "What is a VFD?",
+      "choices": ["Variable Frequency Drive", "Voltage Frequency Device", "Variable Fault Detector", "Voltage Fault Device"],
+      "answer": 0,
+      "topic": "Electrical Equipment - VFD",
+      "difficulty": "Easy",
+      "tutor": "VFD controls motor speed by varying frequency and voltage."
+    },
+    {
+      "question": "What is a soft starter?",
+      "choices": ["Reduces starting current of motor", "Starts motor instantly", "Increases torque", "Reduces speed"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Soft Starter",
+      "difficulty": "Moderate",
+      "tutor": "Soft starter gradually increases voltage to reduce inrush current."
+    },
+    {
+      "question": "What is a UPS?",
+      "choices": ["Uninterruptible Power Supply", "Universal Power System", "Under Voltage Protection", "Ultra Power Supply"],
+      "answer": 0,
+      "topic": "Electrical Equipment - UPS",
+      "difficulty": "Easy",
+      "tutor": "UPS provides backup power during utility failure."
+    },
+    {
+      "question": "What is the difference between online and offline UPS?",
+      "choices": ["Online always powers load from inverter; offline switches on failure", "Offline always powers", "Both same", "Online is cheaper"],
+      "answer": 0,
+      "topic": "Electrical Equipment - UPS Types",
+      "difficulty": "Moderate",
+      "tutor": "Online UPS (double conversion) supplies conditioned power continuously; offline switches only when needed."
+    },
+    {
+      "question": "What is a battery charger?",
+      "choices": ["Converts AC to DC for charging batteries", "Converts DC to AC", "Steps down voltage", "Steps up voltage"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Battery Charger",
+      "difficulty": "Easy",
+      "tutor": "Battery charger supplies controlled DC current to recharge batteries."
+    },
+    {
+      "question": "What is a servo motor?",
+      "choices": ["Closed-loop controlled motor", "Open-loop motor", "Stepper motor", "Induction motor"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Servo Motor",
+      "difficulty": "Moderate",
+      "tutor": "Servo motor uses feedback (encoder) for precise position/speed control."
+    },
+    {
+      "question": "What is a stepper motor?",
+      "choices": ["Moves in discrete steps", "Continuous rotation", "No rotor", "AC only"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Stepper Motor",
+      "difficulty": "Easy",
+      "tutor": "Stepper motor rotates in fixed angular steps, used in printers and CNC."
+    },
+    {
+      "question": "What is a contactor?",
+      "choices": ["Electrically controlled switch for heavy loads", "Manual switch", "Fuse", "Circuit breaker"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Contactor",
+      "difficulty": "Easy",
+      "tutor": "Contactor is a relay for switching high-power circuits (motors, heaters)."
+    },
+    {
+      "question": "What is a relay?",
+      "choices": ["Electrically operated switch for low power", "High power switch", "Fuse", "Transformer"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Relay",
+      "difficulty": "Easy",
+      "tutor": "Relay uses small control signal to switch a larger circuit."
+    },
+    {
+      "question": "What is a PLC?",
+      "choices": ["Programmable Logic Controller", "Power Line Carrier", "Phase Locked Circuit", "Proportional Logic Controller"],
+      "answer": 0,
+      "topic": "Electrical Equipment - PLC",
+      "difficulty": "Easy",
+      "tutor": "PLC is industrial computer for automation and control."
+    },
+    {
+      "question": "What is a transducer?",
+      "choices": ["Converts one form of energy to another", "Stores energy", "Amplifies signal", "Filters noise"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Transducer",
+      "difficulty": "Easy",
+      "tutor": "Transducer converts physical quantity (pressure, temp) to electrical signal."
+    },
+    {
+      "question": "What is a thermistor?",
+      "choices": ["Temperature-sensitive resistor", "Voltage-sensitive resistor", "Current-sensitive resistor", "Light-sensitive resistor"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Thermistor",
+      "difficulty": "Moderate",
+      "tutor": "Thermistor resistance changes with temperature (NTC or PTC)."
+    },
+    {
+      "question": "What is a varistor?",
+      "choices": ["Voltage-sensitive resistor", "Temperature-sensitive", "Current-sensitive", "Light-sensitive"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Varistor",
+      "difficulty": "Moderate",
+      "tutor": "Varistor (MOV) clamps voltage spikes, used for surge protection."
+    },
+    {
+      "question": "What is an LVDT?",
+      "choices": ["Linear Variable Differential Transformer", "Low Voltage Digital Transformer", "Large Voltage Detection Tool", "Line Voltage Differential Transformer"],
+      "answer": 0,
+      "topic": "Electrical Equipment - LVDT",
+      "difficulty": "Difficult",
+      "tutor": "LVDT measures linear displacement using mutual inductance."
+    },
+    {
+      "question": "What is an encoder?",
+      "choices": ["Converts position to digital signal", "Converts speed to analog", "Amplifies signal", "Filters noise"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Encoder",
+      "difficulty": "Moderate",
+      "tutor": "Encoder provides feedback on motor shaft position and speed."
+    },
+    {
+      "question": "What is a resistor?",
+      "choices": ["Passive component that opposes current", "Stores energy", "Amplifies signal", "Generates voltage"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Resistor",
+      "difficulty": "Easy",
+      "tutor": "Resistor limits current and dissipates power as heat."
+    },
+    {
+      "question": "What is a potentiometer?",
+      "choices": ["Variable resistor", "Fixed resistor", "Capacitor", "Inductor"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Potentiometer",
+      "difficulty": "Easy",
+      "tutor": "Potentiometer (pot) is an adjustable voltage divider or variable resistor."
+    },
+    {
+      "question": "What is a solenoid?",
+      "choices": ["Electromagnet with movable plunger", "Fixed magnet", "Transformer", "Generator"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Solenoid",
+      "difficulty": "Easy",
+      "tutor": "Solenoid converts electrical energy into linear mechanical motion."
+    },
+    {
+      "question": "What is a hall effect sensor?",
+      "choices": ["Measures magnetic field", "Measures temperature", "Measures pressure", "Measures light"],
+      "answer": 0,
+      "topic": "Electrical Equipment - Hall Sensor",
+      "difficulty": "Moderate",
+      "tutor": "Hall sensor detects magnetic field and outputs proportional voltage."
+    },
+    {
+      "question": "What is an SCR?",
+      "choices": ["Silicon Controlled Rectifier (thyristor)", "Silicon Carbon Resistor", "Signal Conditioning Relay", "Synchronous Current Regulator"],
+      "answer": 0,
+      "topic": "Electrical Equipment - SCR",
+      "difficulty": "Moderate",
+      "tutor": "SCR is a latching semiconductor switch used in power control (rectifiers, dimmers)."
+    }
+  ]
+}

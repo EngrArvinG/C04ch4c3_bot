@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What law states that energy cannot be created or destroyed?",
+      "choices": ["First Law of Thermodynamics", "Second Law", "Newton's Law", "Ohm's Law"],
+      "answer": 0,
+      "topic": "Energy Conversion - Thermodynamics",
+      "difficulty": "Easy",
+      "tutor": "First Law: Energy is conserved, only converted from one form to another."
+    },
+    {
+      "question": "What is the efficiency of an ideal heat engine?",
+      "choices": ["100%", "50%", "Carnot efficiency", "0%"],
+      "answer": 2,
+      "topic": "Energy Conversion - Heat Engines",
+      "difficulty": "Easy",
+      "tutor": "Maximum possible efficiency is Carnot efficiency = 1 - Tc/Th."
+    },
+    {
+      "question": "What is the function of a transformer?",
+      "choices": ["Change voltage level", "Generate power", "Store energy", "Rectify AC"],
+      "answer": 0,
+      "topic": "Energy Conversion - Transformers",
+      "difficulty": "Easy",
+      "tutor": "Transformer transfers electrical energy between circuits by electromagnetic induction."
+    },
+    {
+      "question": "What is the turns ratio of a transformer with 100 primary turns and 1000 secondary turns?",
+      "choices": ["1:10", "10:1", "1:1", "100:1"],
+      "answer": 0,
+      "topic": "Energy Conversion - Transformers",
+      "difficulty": "Easy",
+      "tutor": "Turns ratio = Np:Ns = 100:1000 = 1:10."
+    },
+    {
+      "question": "What is the secondary voltage if Vp=120V and turns ratio=1:10?",
+      "choices": ["12 V", "120 V", "1200 V", "600 V"],
+      "answer": 2,
+      "topic": "Energy Conversion - Transformers",
+      "difficulty": "Moderate",
+      "tutor": "Vs/Vp = Ns/Np = 10 → Vs = 120×10 = 1200 V."
+    },
+    {
+      "question": "What type of motor uses a commutator?",
+      "choices": ["DC motor", "Induction motor", "Synchronous motor", "Stepper motor"],
+      "answer": 0,
+      "topic": "Energy Conversion - DC Motors",
+      "difficulty": "Easy",
+      "tutor": "DC motors use commutator to reverse current direction in armature coils."
+    },
+    {
+      "question": "What is the synchronous speed of a 4-pole 60 Hz induction motor?",
+      "choices": ["900 rpm", "1200 rpm", "1500 rpm", "1800 rpm"],
+      "answer": 3,
+      "topic": "Energy Conversion - Induction Motors",
+      "difficulty": "Difficult",
+      "tutor": "Ns = 120f/P = 120×60/4 = 1800 rpm."
+    },
+    {
+      "question": "What is the synchronous speed of a 6-pole 50 Hz induction motor?",
+      "choices": ["1000 rpm", "1200 rpm", "1500 rpm", "1800 rpm"],
+      "answer": 0,
+      "topic": "Energy Conversion - Induction Motors",
+      "difficulty": "Difficult",
+      "tutor": "Ns = 120f/P = 120×50/6 = 1000 rpm."
+    },
+    {
+      "question": "What is slip in an induction motor?",
+      "choices": ["(Ns - Nr)/Ns", "(Nr - Ns)/Ns", "Nr/Ns", "Ns/Nr"],
+      "answer": 0,
+      "topic": "Energy Conversion - Induction Motors",
+      "difficulty": "Moderate",
+      "tutor": "Slip s = (Ns - Nr)/Ns, typically 2-5% at full load."
+    },
+    {
+      "question": "What does a generator convert?",
+      "choices": ["Mechanical to electrical", "Electrical to mechanical", "AC to DC", "DC to AC"],
+      "answer": 0,
+      "topic": "Energy Conversion - Generators",
+      "difficulty": "Easy",
+      "tutor": "Generator converts mechanical energy into electrical energy."
+    },
+    {
+      "question": "What does a motor convert?",
+      "choices": ["Electrical to mechanical", "Mechanical to electrical", "AC to DC", "Thermal to electrical"],
+      "answer": 0,
+      "topic": "Energy Conversion - Motors",
+      "difficulty": "Easy",
+      "tutor": "Motor converts electrical energy into mechanical energy."
+    },
+    {
+      "question": "What is the purpose of a prime mover?",
+      "choices": ["Drive the generator", "Step up voltage", "Rectify current", "Store energy"],
+      "answer": 0,
+      "topic": "Energy Conversion - Prime Movers",
+      "difficulty": "Easy",
+      "tutor": "Prime mover (turbine, engine) supplies mechanical energy to generator."
+    },
+    {
+      "question": "What is the frequency of a 12-pole generator at 500 rpm?",
+      "choices": ["50 Hz", "60 Hz", "25 Hz", "30 Hz"],
+      "answer": 0,
+      "topic": "Energy Conversion - Generators",
+      "difficulty": "Difficult",
+      "tutor": "f = (P×N)/120 = (12×500)/120 = 6000/120 = 50 Hz."
+    },
+    {
+      "question": "What is the rotor speed of a 60 Hz 6-pole synchronous motor?",
+      "choices": ["1200 rpm", "1800 rpm", "3600 rpm", "720 rpm"],
+      "answer": 0,
+      "topic": "Energy Conversion - Synchronous Motors",
+      "difficulty": "Difficult",
+      "tutor": "Ns = 120f/P = 120×60/6 = 1200 rpm."
+    },
+    {
+      "question": "What is the main loss in a transformer core?",
+      "choices": ["Hysteresis and eddy currents", "Copper loss", "Stray loss", "Dielectric loss"],
+      "answer": 0,
+      "topic": "Energy Conversion - Transformer Losses",
+      "difficulty": "Moderate",
+      "tutor": "Core losses (iron losses) are hysteresis and eddy current losses."
+    },
+    {
+      "question": "What material reduces eddy current loss in transformers?",
+      "choices": ["Laminated silicon steel", "Copper", "Aluminum", "Plastic"],
+      "answer": 0,
+      "topic": "Energy Conversion - Transformer Core",
+      "difficulty": "Moderate",
+      "tutor": "Laminated silicon steel core reduces eddy current paths."
+    },
+    {
+      "question": "What is the efficiency of a 10 kW motor with 1 kW losses?",
+      "choices": ["90.9%", "80%", "85%", "95%"],
+      "answer": 0,
+      "topic": "Energy Conversion - Efficiency",
+      "difficulty": "Moderate",
+      "tutor": "η = Pout/Pin = 10/(10+1) = 10/11 = 90.9%."
+    },
+    {
+      "question": "What type of battery is rechargeable?",
+      "choices": ["Lead-acid", "Dry cell", "Zinc-carbon", "Alkaline"],
+      "answer": 0,
+      "topic": "Energy Conversion - Batteries",
+      "difficulty": "Easy",
+      "tutor": "Lead-acid, NiCd, Li-ion are rechargeable; dry cells are primary."
+    },
+    {
+      "question": "What is the nominal voltage of a single lead-acid cell?",
+      "choices": ["2 V", "1.5 V", "3.6 V", "1.2 V"],
+      "answer": 0,
+      "topic": "Energy Conversion - Batteries",
+      "difficulty": "Easy",
+      "tutor": "Lead-acid cell nominal voltage is 2 V."
+    },
+    {
+      "question": "What does an inverter do?",
+      "choices": ["DC to AC", "AC to DC", "Step up voltage", "Step down voltage"],
+      "answer": 0,
+      "topic": "Energy Conversion - Power Electronics",
+      "difficulty": "Easy",
+      "tutor": "Inverter converts DC (battery/solar) to AC."
+    },
+    {
+      "question": "What does a rectifier do?",
+      "choices": ["AC to DC", "DC to AC", "Step up voltage", "Step down voltage"],
+      "answer": 0,
+      "topic": "Energy Conversion - Power Electronics",
+      "difficulty": "Easy",
+      "tutor": "Rectifier converts AC to DC."
+    },
+    {
+      "question": "What is the voltage regulation of a transformer?",
+      "choices": ["(VNL - VFL)/VFL × 100%", "(VFL - VNL)/VNL × 100%", "VNL/VFL", "VFL/VNL"],
+      "answer": 0,
+      "topic": "Energy Conversion - Transformers",
+      "difficulty": "Difficult",
+      "tutor": "Voltage regulation measures voltage drop from no-load to full-load."
+    },
+    {
+      "question": "What is the rotor speed of a 4-pole induction motor with 5% slip at 60 Hz?",
+      "choices": ["1710 rpm", "1800 rpm", "1890 rpm", "1500 rpm"],
+      "answer": 0,
+      "topic": "Energy Conversion - Induction Motors",
+      "difficulty": "Difficult",
+      "tutor": "Ns=1800 rpm, Nr = Ns(1-s) = 1800×0.95 = 1710 rpm."
+    },
+    {
+      "question": "What is the back EMF of a DC motor at no load?",
+      "choices": ["Nearly equal to supply voltage", "Zero", "Twice supply voltage", "Half supply voltage"],
+      "answer": 0,
+      "topic": "Energy Conversion - DC Motors",
+      "difficulty": "Moderate",
+      "tutor": "At no load, back EMF ≈ Vt, Ia is very small."
+    },
+    {
+      "question": "What is the torque equation of a DC motor?",
+      "choices": ["T = kφIa", "T = kφIf", "T = kIaIf", "T = kφω"],
+      "answer": 0,
+      "topic": "Energy Conversion - DC Motors",
+      "difficulty": "Difficult",
+      "tutor": "Torque T = k × φ × Ia, where k = (PZ)/(2πa)."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What does CPU stand for?",
+      "choices": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Core Processing Utility"],
+      "answer": 0,
+      "topic": "Computer Fundamentals - Hardware",
+      "difficulty": "Easy",
+      "tutor": "CPU (Central Processing Unit) is the primary component that executes instructions in a computer."
+    },
+    {
+      "question": "Which of the following is a volatile memory?",
+      "choices": ["ROM", "Hard Disk", "RAM", "SSD"],
+      "answer": 2,
+      "topic": "Computer Fundamentals - Memory",
+      "difficulty": "Easy",
+      "tutor": "RAM (Random Access Memory) loses its data when power is turned off, making it volatile."
+    },
+    {
+      "question": "What is the binary equivalent of the decimal number 13?",
+      "choices": ["1101", "1011", "1110", "1001"],
+      "answer": 0,
+      "topic": "Computer Fundamentals - Number Systems",
+      "difficulty": "Moderate",
+      "tutor": "13 in binary: 8+4+1 = 1101₂."
+    },
+    {
+      "question": "Which programming language is primarily used for artificial intelligence and machine learning?",
+      "choices": ["C++", "Java", "Python", "Fortran"],
+      "answer": 2,
+      "topic": "Programming - Languages",
+      "difficulty": "Easy",
+      "tutor": "Python is widely used in AI/ML due to libraries like TensorFlow, PyTorch, and scikit-learn."
+    },
+    {
+      "question": "What does HTML stand for?",
+      "choices": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyper Transfer Markup Language", "Home Tool Markup Language"],
+      "answer": 0,
+      "topic": "Computer Fundamentals - Web Technologies",
+      "difficulty": "Easy",
+      "tutor": "HTML (Hyper Text Markup Language) is the standard language for creating web pages."
+    },
+    {
+      "question": "Which operator is used for integer division in Python?",
+      "choices": ["/", "//", "%", "**"],
+      "answer": 1,
+      "topic": "Programming - Python",
+      "difficulty": "Moderate",
+      "tutor": "// is floor division operator in Python, returning the integer quotient."
+    },
+    {
+      "question": "What is the output of 2 ** 3 in Python?",
+      "choices": ["6", "8", "9", "5"],
+      "answer": 1,
+      "topic": "Programming - Python",
+      "difficulty": "Moderate",
+      "tutor": "** is the exponentiation operator. 2³ = 8."
+    },
+    {
+      "question": "What is the decimal equivalent of hexadecimal number 1A?",
+      "choices": ["26", "16", "20", "18"],
+      "answer": 0,
+      "topic": "Computer Fundamentals - Number Systems",
+      "difficulty": "Difficult",
+      "tutor": "1A₁₆ = 1×16¹ + 10×16⁰ = 16 + 10 = 26."
+    },
+    {
+      "question": "Which of the following is a non-volatile memory?",
+      "choices": ["RAM", "Cache", "ROM", "Register"],
+      "answer": 2,
+      "topic": "Computer Fundamentals - Memory",
+      "difficulty": "Easy",
+      "tutor": "ROM (Read-Only Memory) retains data even when power is off."
+    },
+    {
+      "question": "What is the correct way to write a comment in C language?",
+      "choices": ["// comment", "# comment", "/* comment */", "Both A and C"],
+      "answer": 3,
+      "topic": "Programming - C Language",
+      "difficulty": "Easy",
+      "tutor": "C supports single-line comments (//) and multi-line comments (/* */)."
+    },
+    {
+      "question": "What does an AND gate output?",
+      "choices": ["1 if both inputs are 1", "1 if at least one input is 1", "0 if both inputs are 0", "1 if inputs are different"],
+      "answer": 0,
+      "topic": "Computer Fundamentals - Logic Gates",
+      "difficulty": "Easy",
+      "tutor": "AND gate outputs 1 only when both inputs are 1."
+    },
+    {
+      "question": "What is the output of the Boolean expression A·(A+B)?",
+      "choices": ["A", "B", "AB", "A+B"],
+      "answer": 0,
+      "topic": "Computer Fundamentals - Boolean Algebra",
+      "difficulty": "Difficult",
+      "tutor": "A·(A+B) = A·A + A·B = A + AB = A(1+B) = A."
+    },
+    {
+      "question": "Which data structure follows Last-In-First-Out (LIFO) principle?",
+      "choices": ["Queue", "Array", "Stack", "Linked List"],
+      "answer": 2,
+      "topic": "Programming - Data Structures",
+      "difficulty": "Easy",
+      "tutor": "Stack follows LIFO: last element pushed is the first popped."
+    },
+    {
+      "question": "What is the function of an operating system?",
+      "choices": ["Manage hardware and software resources", "Compile programs", "Store data permanently", "Display graphics only"],
+      "answer": 0,
+      "topic": "Computer Fundamentals - OS",
+      "difficulty": "Easy",
+      "tutor": "OS manages hardware, software, processes, memory, and provides user interface."
+    },
+    {
+      "question": "What is the octal equivalent of binary 101101?",
+      "choices": ["55", "45", "65", "35"],
+      "answer": 0,
+      "topic": "Computer Fundamentals - Number Systems",
+      "difficulty": "Difficult",
+      "tutor": "101101₂ = 101 101 = 5 5 = 55₈."
+    },
+    {
+      "question": "Which loop guarantees at least one execution in C?",
+      "choices": ["for loop", "while loop", "do-while loop", "none"],
+      "answer": 2,
+      "topic": "Programming - C Language",
+      "difficulty": "Moderate",
+      "tutor": "do-while loop executes the body first, then checks condition, ensuring at least one iteration."
+    },
+    {
+      "question": "What does SQL stand for?",
+      "choices": ["Structured Query Language", "Simple Query Language", "System Query Language", "Standard Query Language"],
+      "answer": 0,
+      "topic": "Programming - Databases",
+      "difficulty": "Easy",
+      "tutor": "SQL is used to manage and query relational databases."
+    },
+    {
+      "question": "What is the value of the binary number 1111 in decimal?",
+      "choices": ["8", "12", "15", "10"],
+      "answer": 2,
+      "topic": "Computer Fundamentals - Number Systems",
+      "difficulty": "Easy",
+      "tutor": "1111₂ = 8+4+2+1 = 15."
+    },
+    {
+      "question": "Which of the following is a high-level programming language?",
+      "choices": ["Assembly", "Machine Code", "Python", "Binary"],
+      "answer": 2,
+      "topic": "Programming - Language Types",
+      "difficulty": "Easy",
+      "tutor": "Python is a high-level language; assembly and machine code are low-level."
+    },
+    {
+      "question": "What is the purpose of a compiler?",
+      "choices": ["Converts high-level code to machine code", "Executes code line by line", "Manages memory", "Displays output"],
+      "answer": 0,
+      "topic": "Programming - Compilers",
+      "difficulty": "Easy",
+      "tutor": "A compiler translates entire high-level source code into machine code before execution."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "category": "ESAS",
+  "name": "Engineering Sciences and Allied Subjects",
+  "questions": [
+    {
+      "question": "What is the time value of money?",
+      "choices": ["Money loses value over time", "Money gains value over time", "Money has same value over time", "Money value is fixed"],
+      "answer": 0,
+      "topic": "Engineering Economics - Basic Concepts",
+      "difficulty": "Easy",
+      "tutor": "Money today is worth more than same amount in future due to earning potential."
+    },
+    {
+      "question": "What is the formula for simple interest?",
+      "choices": ["I = Prt", "I = P(1+r)^t", "F = P(1+i)^n", "A = P(A/P,i,n)"],
+      "answer": 0,
+      "topic": "Engineering Economics - Interest",
+      "difficulty": "Easy",
+      "tutor": "Simple interest: I = Principal × rate × time."
+    },
+    {
+      "question": "What is compound interest?",
+      "choices": ["Interest on principal only", "Interest on principal + accumulated interest", "Interest paid annually only", "Simple interest times n"],
+      "answer": 1,
+      "topic": "Engineering Economics - Interest",
+      "difficulty": "Easy",
+      "tutor": "Compound interest earns interest on both principal and prior interest."
+    },
+    {
+      "question": "What is the future worth of P10,000 after 3 years at 10% compound interest?",
+      "choices": ["P13,310", "P13,000", "P11,000", "P10,300"],
+      "answer": 0,
+      "topic": "Engineering Economics - Compound Interest",
+      "difficulty": "Moderate",
+      "tutor": "F = P(1+i)^n = 10000(1.1)^3 = 10000×1.331 = P13,310."
+    },
+    {
+      "question": "What is present worth factor (P/F)?",
+      "choices": ["(1+i)^n", "1/(1+i)^n", "(1+i)^n -1 / i", "i/(1+i)^n -1"],
+      "answer": 1,
+      "topic": "Engineering Economics - Discounting",
+      "difficulty": "Moderate",
+      "tutor": "(P/F,i,n) = 1/(1+i)^n to find present given future."
+    },
+    {
+      "question": "What is the annual worth of a project?",
+      "choices": ["Equivalent uniform annual cash flow", "Total cost divided by years", "Future worth times i", "Present worth times n"],
+      "answer": 0,
+      "topic": "Engineering Economics - Annual Worth",
+      "difficulty": "Moderate",
+      "tutor": "Annual Worth (AW) converts all cash flows to equivalent uniform annual amounts."
+    },
+    {
+      "question": "What is the payback period?",
+      "choices": ["Time to recover initial investment", "Total profit / investment", "IRR / n", "Annual cost × years"],
+      "answer": 0,
+      "topic": "Engineering Economics - Payback",
+      "difficulty": "Easy",
+      "tutor": "Payback period is time needed to recoup initial investment from cash inflows."
+    },
+    {
+      "question": "What is the formula for Capital Recovery Factor (CRF)?",
+      "choices": ["i(1+i)^n/((1+i)^n -1)", "(1+i)^n -1 / i", "1/(1+i)^n", "i/(1+i)^n"],
+      "answer": 0,
+      "topic": "Engineering Economics - Capital Recovery",
+      "difficulty": "Difficult",
+      "tutor": "CRF (A/P,i,n) = i(1+i)^n / [(1+i)^n - 1]."
+    },
+    {
+      "question": "What is the effective interest rate for 12% compounded monthly?",
+      "choices": ["12%", "12.68%", "12.36%", "13%"],
+      "answer": 1,
+      "topic": "Engineering Economics - Effective Interest",
+      "difficulty": "Difficult",
+      "tutor": "i_eff = (1 + r/m)^m -1 = (1+0.12/12)^12 -1 = 1.01^12 -1 = 12.68%."
+    },
+    {
+      "question": "What does IRR stand for?",
+      "choices": ["Internal Rate of Return", "Interest Rate Ratio", "Investment Return Rate", "Inflation Rate Return"],
+      "answer": 0,
+      "topic": "Engineering Economics - IRR",
+      "difficulty": "Easy",
+      "tutor": "IRR is discount rate where NPV = 0."
+    },
+    {
+      "question": "A project requires P100,000 investment and returns P30,000/year for 5 years. What is the simple payback?",
+      "choices": ["3.33 years", "4 years", "5 years", "2 years"],
+      "answer": 0,
+      "topic": "Engineering Economics - Payback",
+      "difficulty": "Moderate",
+      "tutor": "Payback = Investment / Annual return = 100,000/30,000 = 3.33 years."
+    },
+    {
+      "question": "What is the sinking fund factor (A/F)?",
+      "choices": ["i/[(1+i)^n -1]", "[(1+i)^n -1]/i", "i(1+i)^n/[(1+i)^n -1]", "1/(1+i)^n"],
+      "answer": 0,
+      "topic": "Engineering Economics - Sinking Fund",
+      "difficulty": "Difficult",
+      "tutor": "(A/F,i,n) = i / [(1+i)^n - 1]."
+    },
+    {
+      "question": "What is depreciation?",
+      "choices": ["Decrease in asset value over time", "Increase in asset value", "Tax paid on asset", "Maintenance cost"],
+      "answer": 0,
+      "topic": "Engineering Economics - Depreciation",
+      "difficulty": "Easy",
+      "tutor": "Depreciation allocates cost of asset over its useful life."
+    },
+    {
+      "question": "What is straight line depreciation annual rate?",
+      "choices": ["(Cost - Salvage)/Life", "Cost/Life", "(Cost+Salvage)/Life", "Cost×Life"],
+      "answer": 0,
+      "topic": "Engineering Economics - Depreciation",
+      "difficulty": "Moderate",
+      "tutor": "SL = (Initial Cost - Salvage Value) / Useful Life."
+    },
+    {
+      "question": "What is the present worth of a perpetuity of P10,000/year at 8%?",
+      "choices": ["P125,000", "P80,000", "P100,000", "P12,500"],
+      "answer": 0,
+      "topic": "Engineering Economics - Perpetuity",
+      "difficulty": "Difficult",
+      "tutor": "P = A / i = 10,000 / 0.08 = P125,000."
+    },
+    {
+      "question": "What is the benefit-cost ratio (BCR)?",
+      "choices": ["Present worth of benefits / Present worth of costs", "Costs / Benefits", "Benefits - Costs", "IRR - MARR"],
+      "answer": 0,
+      "topic": "Engineering Economics - BCR",
+      "difficulty": "Easy",
+      "tutor": "BCR = PV(Benefits) / PV(Costs). Project acceptable if BCR ≥ 1."
+    },
+    {
+      "question": "What does MARR stand for?",
+      "choices": ["Minimum Attractive Rate of Return", "Maximum Allowable Rate of Return", "Marginal Asset Return Rate", "Market Adjusted Rate of Return"],
+      "answer": 0,
+      "topic": "Engineering Economics - MARR",
+      "difficulty": "Easy",
+      "tutor": "MARR is the minimum acceptable return on an investment."
+    },
+    {
+      "question": "What is the capitalized cost of an asset?",
+      "choices": ["Initial cost + present worth of infinite renewals", "Annual cost × life", "Initial cost - salvage", "Depreciated value"],
+      "answer": 0,
+      "topic": "Engineering Economics - Capitalized Cost",
+      "difficulty": "Difficult",
+      "tutor": "CC = First cost + (Annual cost / i) for perpetual projects."
+    },
+    {
+      "question": "What is salvage value?",
+      "choices": ["Estimated value at end of useful life", "Initial purchase price", "Tax value", "Market value at purchase"],
+      "answer": 0,
+      "topic": "Engineering Economics - Depreciation",
+      "difficulty": "Easy",
+      "tutor": "Salvage value is residual worth after asset's useful life."
+    },
+    {
+      "question": "What is the decision rule for NPV?",
+      "choices": ["Accept if NPV > 0", "Accept if NPV < 0", "Accept if NPV = 0", "Accept if NPV > IRR"],
+      "answer": 0,
+      "topic": "Engineering Economics - NPV",
+      "difficulty": "Easy",
+      "tutor": "Positive NPV means project exceeds required return."
+    }
+  ]
+}

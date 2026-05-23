@@ -1,0 +1,166 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "What does a voltmeter measure?",
+      "choices": ["Voltage", "Current", "Resistance", "Power"],
+      "answer": 0,
+      "topic": "Instrumentation - Voltmeter",
+      "difficulty": "Easy",
+      "tutor": "Voltmeter measures potential difference between two points."
+    },
+    {
+      "question": "How is a voltmeter connected in a circuit?",
+      "choices": ["In parallel", "In series", "Across the source only", "Anywhere"],
+      "answer": 0,
+      "topic": "Instrumentation - Voltmeter",
+      "difficulty": "Easy",
+      "tutor": "Voltmeter connects in parallel to measure voltage across a component."
+    },
+    {
+      "question": "How is an ammeter connected in a circuit?",
+      "choices": ["In series", "In parallel", "Across the load", "To ground"],
+      "answer": 0,
+      "topic": "Instrumentation - Ammeter",
+      "difficulty": "Easy",
+      "tutor": "Ammeter connects in series to measure current through a branch."
+    },
+    {
+      "question": "What is the ideal resistance of an ammeter?",
+      "choices": ["Zero", "Infinite", "1 Ω", "10 kΩ"],
+      "answer": 0,
+      "topic": "Instrumentation - Ammeter",
+      "difficulty": "Moderate",
+      "tutor": "Ideal ammeter has zero resistance to avoid voltage drop."
+    },
+    {
+      "question": "What is the ideal resistance of a voltmeter?",
+      "choices": ["Infinite", "Zero", "1 Ω", "100 Ω"],
+      "answer": 0,
+      "topic": "Instrumentation - Voltmeter",
+      "difficulty": "Moderate",
+      "tutor": "Ideal voltmeter has infinite resistance to avoid loading the circuit."
+    },
+    {
+      "question": "What does an ohmmeter measure?",
+      "choices": ["Resistance", "Voltage", "Current", "Capacitance"],
+      "answer": 0,
+      "topic": "Instrumentation - Ohmmeter",
+      "difficulty": "Easy",
+      "tutor": "Ohmmeter measures resistance, typically with internal battery."
+    },
+    {
+      "question": "What is a multimeter?",
+      "choices": ["Measures voltage, current, resistance", "Measures only voltage", "Measures only current", "Measures power"],
+      "answer": 0,
+      "topic": "Instrumentation - Multimeter",
+      "difficulty": "Easy",
+      "tutor": "Multimeter combines voltmeter, ammeter, and ohmmeter functions."
+    },
+    {
+      "question": "What does a wattmeter measure?",
+      "choices": ["Power", "Voltage", "Current", "Energy"],
+      "answer": 0,
+      "topic": "Instrumentation - Wattmeter",
+      "difficulty": "Easy",
+      "tutor": "Wattmeter measures real power (watts) in AC or DC circuits."
+    },
+    {
+      "question": "How many coils does an analog wattmeter have?",
+      "choices": ["Two (current and voltage coils)", "One", "Three", "Four"],
+      "answer": 0,
+      "topic": "Instrumentation - Wattmeter",
+      "difficulty": "Moderate",
+      "tutor": "Electrodynamometer wattmeter has fixed current coil and moving voltage coil."
+    },
+    {
+      "question": "What does a power factor meter measure?",
+      "choices": ["cos θ", "sin θ", "tan θ", "sec θ"],
+      "answer": 0,
+      "topic": "Instrumentation - Power Factor Meter",
+      "difficulty": "Easy",
+      "tutor": "Power factor meter measures cosine of angle between voltage and current."
+    },
+    {
+      "question": "What instrument measures energy consumption?",
+      "choices": ["Kilowatt-hour meter", "Wattmeter", "Voltmeter", "Ammeter"],
+      "answer": 0,
+      "topic": "Instrumentation - Energy Meter",
+      "difficulty": "Easy",
+      "tutor": "KWh meter (electric meter) measures energy consumption over time."
+    },
+    {
+      "question": "What does a clamp meter measure?",
+      "choices": ["Current without breaking circuit", "Voltage", "Resistance", "Frequency"],
+      "answer": 0,
+      "topic": "Instrumentation - Clamp Meter",
+      "difficulty": "Easy",
+      "tutor": "Clamp meter measures current via magnetic coupling, no direct contact."
+    },
+    {
+      "question": "What is the principle of a moving coil instrument?",
+      "choices": ["Current in coil interacts with permanent magnet", "Heat expansion", "Electrostatic attraction", "Hall effect"],
+      "answer": 0,
+      "topic": "Instrumentation - Moving Coil",
+      "difficulty": "Moderate",
+      "tutor": "PMMC uses current in coil interacting with permanent magnet field."
+    },
+    {
+      "question": "What is the advantage of a digital multimeter (DMM)?",
+      "choices": ["High accuracy and input impedance", "Low cost only", "Analog display", "Slow response"],
+      "answer": 0,
+      "topic": "Instrumentation - DMM",
+      "difficulty": "Easy",
+      "tutor": "DMM offers high accuracy, high input impedance, and digital readout."
+    },
+    {
+      "question": "What is an oscilloscope used for?",
+      "choices": ["Display waveform", "Measure resistance", "Count pulses only", "Generate signals"],
+      "answer": 0,
+      "topic": "Instrumentation - Oscilloscope",
+      "difficulty": "Easy",
+      "tutor": "Oscilloscope displays voltage vs time waveform."
+    },
+    {
+      "question": "What is the function of a current transformer (CT)?",
+      "choices": ["Step down current for metering", "Step up voltage", "Isolate only", "Measure frequency"],
+      "answer": 0,
+      "topic": "Instrumentation - CT",
+      "difficulty": "Moderate",
+      "tutor": "CT reduces high primary current to standard 5A or 1A for meters."
+    },
+    {
+      "question": "What is the function of a potential transformer (PT)?",
+      "choices": ["Step down voltage for metering", "Step down current", "Isolate only", "Measure power"],
+      "answer": 0,
+      "topic": "Instrumentation - PT",
+      "difficulty": "Moderate",
+      "tutor": "PT steps down high voltage to standard 110V for meters."
+    },
+    {
+      "question": "What is the secondary rating of a standard CT?",
+      "choices": ["5 A", "1 A", "110 V", "220 V"],
+      "answer": 0,
+      "topic": "Instrumentation - CT",
+      "difficulty": "Easy",
+      "tutor": "Standard CT secondary is 5 A (or 1 A for some systems)."
+    },
+    {
+      "question": "What is the secondary rating of a standard PT?",
+      "choices": ["110 V", "5 A", "220 V", "440 V"],
+      "answer": 0,
+      "topic": "Instrumentation - PT",
+      "difficulty": "Easy",
+      "tutor": "Standard PT secondary is 110 V (line-to-line)."
+    },
+    {
+      "question": "What does a thermocouple measure?",
+      "choices": ["Temperature", "Pressure", "Flow", "Humidity"],
+      "answer": 0,
+      "topic": "Instrumentation - Thermocouple",
+      "difficulty": "Easy",
+      "tutor": "Thermocouple generates voltage proportional to temperature difference."
+    }
+  ]
+}

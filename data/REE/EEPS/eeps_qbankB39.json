@@ -1,0 +1,206 @@
+{
+  "category": "EEPS",
+  "name": "Electrical Engineering Professional Subjects",
+  "questions": [
+    {
+      "question": "The SI unit of luminous flux is?",
+      "choices": ["Lumen", "Lux", "Candela", "Watt"],
+      "answer": 0,
+      "topic": "Illumination - Luminous Flux",
+      "difficulty": "Easy",
+      "tutor": "Lumen (lm) measures total visible light emitted by a source."
+    },
+    {
+      "question": "The SI unit of illuminance (light on a surface) is?",
+      "choices": ["Lux", "Lumen", "Candela", "Foot-candle"],
+      "answer": 0,
+      "topic": "Illumination - Illuminance",
+      "difficulty": "Easy",
+      "tutor": "Lux = lumens per square meter (lm/m²)."
+    },
+    {
+      "question": "One foot-candle is equivalent to how many lux?",
+      "choices": ["10.76 lux", "1 lux", "100 lux", "0.0929 lux"],
+      "answer": 0,
+      "topic": "Illumination - Units Conversion",
+      "difficulty": "Moderate",
+      "tutor": "1 fc = 1 lm/ft² = 10.76 lux; 1 lux = 0.0929 fc."
+    },
+    {
+      "question": "The luminous intensity of a source in a given direction is measured in?",
+      "choices": ["Candela", "Lumen", "Lux", "Watt/steradian"],
+      "answer": 0,
+      "topic": "Illumination - Luminous Intensity",
+      "difficulty": "Easy",
+      "tutor": "Candela (cd) is the base SI unit for luminous intensity."
+    },
+    {
+      "question": "The efficacy of a lamp is expressed as?",
+      "choices": ["Lumens per watt (lm/W)", "Watts per lumen", "Lux per watt", "Candela per watt"],
+      "answer": 0,
+      "topic": "Illumination - Efficacy",
+      "difficulty": "Easy",
+      "tutor": "Efficacy measures how efficiently a lamp converts electrical power into visible light."
+    },
+    {
+      "question": "Which lamp has the highest luminous efficacy among common types?",
+      "choices": ["LED", "Incandescent", "Fluorescent", "High-pressure sodium"],
+      "answer": 3,
+      "topic": "Illumination - Lamp Efficacy",
+      "difficulty": "Difficult",
+      "tutor": "HPS lamps achieve 100-150 lm/W; LEDs 80-200 lm/W depending on type."
+    },
+    {
+      "question": "A 100 W incandescent lamp typically produces how many lumens?",
+      "choices": ["1200-1700 lm", "100 lm", "500 lm", "3000 lm"],
+      "answer": 0,
+      "topic": "Illumination - Incandescent Output",
+      "difficulty": "Moderate",
+      "tutor": "Incandescent efficacy is 12-17 lm/W; 100 W gives about 1200-1700 lm."
+    },
+    {
+      "question": "The color rendering index (CRI) measures?",
+      "choices": ["How accurately colors appear under a light source", "Color temperature", "Lamp efficacy", "Lamp life"],
+      "answer": 0,
+      "topic": "Illumination - CRI",
+      "difficulty": "Moderate",
+      "tutor": "CRI (0-100) compares color appearance to natural sunlight (CRI=100)."
+    },
+    {
+      "question": "A lamp with high CRI is preferred for?",
+      "choices": ["Retail stores, art galleries, hospitals", "Street lighting", "Warehouses", "Parking lots"],
+      "answer": 0,
+      "topic": "Illumination - CRI Applications",
+      "difficulty": "Easy",
+      "tutor": "High CRI (≥80) is needed where accurate color perception matters."
+    },
+    {
+      "question": "Correlated color temperature (CCT) of a warm white LED is approximately?",
+      "choices": ["2700-3000 K", "5000-6500 K", "1000 K", "10000 K"],
+      "answer": 0,
+      "topic": "Illumination - Color Temperature",
+      "difficulty": "Easy",
+      "tutor": "2700-3000 K gives yellowish warm light; 5000-6500 K gives cool daylight."
+    },
+    {
+      "question": "Daylight (noon sun) has a color temperature around?",
+      "choices": ["5500-6500 K", "2700-3000 K", "1000 K", "10000 K"],
+      "answer": 0,
+      "topic": "Illumination - Daylight CCT",
+      "difficulty": "Easy",
+      "tutor": "Noon sunlight is approximately 5600 K; cloudy sky can be 6500-8000 K."
+    },
+    {
+      "question": "The inverse square law for illuminance states that illuminance is?",
+      "choices": ["Inversely proportional to square of distance", "Directly proportional to distance", "Inversely proportional to distance", "Constant with distance"],
+      "answer": 0,
+      "topic": "Illumination - Inverse Square Law",
+      "difficulty": "Moderate",
+      "tutor": "E = I / d² for point source; doubling distance reduces illuminance to 1/4."
+    },
+    {
+      "question": "The cosine law of illumination states that illuminance on a surface is proportional to?",
+      "choices": ["Cosine of angle between light ray and surface normal", "Sine of angle", "Square of cosine", "Inverse cosine"],
+      "answer": 0,
+      "topic": "Illumination - Cosine Law",
+      "difficulty": "Difficult",
+      "tutor": "E = (I / d²) × cos θ, where θ is angle from perpendicular."
+    },
+    {
+      "question": "A point source of 500 cd is at 2 meters from a surface. The illuminance normal to the ray is?",
+      "choices": ["125 lux", "250 lux", "62.5 lux", "1000 lux"],
+      "answer": 0,
+      "topic": "Illumination - Inverse Square Calculation",
+      "difficulty": "Difficult",
+      "tutor": "E = I / d² = 500 / 4 = 125 lux (assuming perpendicular incidence)."
+    },
+    {
+      "question": "The recommended illuminance for office desk work (general) is?",
+      "choices": ["500 lux", "100 lux", "50 lux", "2000 lux"],
+      "answer": 0,
+      "topic": "Illumination - Recommended Levels",
+      "difficulty": "Moderate",
+      "tutor": "IESNA recommends 500 lux for office work; 300-500 for general tasks."
+    },
+    {
+      "question": "The main advantage of LED lamps over fluorescent is?",
+      "choices": ["Longer life, no mercury, instant start", "Higher CRI only", "Lower initial cost", "Same efficacy"],
+      "answer": 0,
+      "topic": "Illumination - LED Advantages",
+      "difficulty": "Easy",
+      "tutor": "LEDs last 25,000-100,000 hours, contain no mercury, and start instantly even in cold."
+    },
+    {
+      "question": "A fluorescent lamp requires a ballast to?",
+      "choices": ["Limit current and provide starting voltage", "Start without preheat", "Improve color", "Reduce flicker"],
+      "answer": 0,
+      "topic": "Illumination - Fluorescent Ballast",
+      "difficulty": "Moderate",
+      "tutor": "Ballast provides high starting voltage and limits operating current after arc strikes."
+    },
+    {
+      "question": "Electronic ballasts are preferred over magnetic ballasts because?",
+      "choices": ["Higher efficiency, lighter, no flicker", "Lower cost only", "Easier to install", "Compatible with all lamps"],
+      "answer": 0,
+      "topic": "Illumination - Electronic Ballast",
+      "difficulty": "Moderate",
+      "tutor": "Electronic ballasts operate at high frequency (20-60 kHz), eliminating flicker and improving efficacy."
+    },
+    {
+      "question": "Glare in lighting design is caused by?",
+      "choices": ["Excessive brightness contrast", "Low illuminance", "Poor CRI", "High color temperature"],
+      "answer": 0,
+      "topic": "Illumination - Glare",
+      "difficulty": "Easy",
+      "tutor": "Glare causes visual discomfort from direct or reflected high brightness."
+    },
+    {
+      "question": "The coefficient of utilization (CU) in lighting design accounts for?",
+      "choices": ["Light reaching workplane vs. lamp output", "Lamp depreciation", "Room size only", "Ceiling height only"],
+      "answer": 0,
+      "topic": "Illumination - Coefficient of Utilization",
+      "difficulty": "Difficult",
+      "tutor": "CU (0-1) depends on room geometry, surface reflectances, and luminaire efficiency."
+    },
+    {
+      "question": "The lumen method formula for average illuminance is?",
+      "choices": ["E = (N × L × CU × LLF) / Area", "E = (N × L) / Area", "E = (L × CU) / Area", "E = N × L × CU"],
+      "answer": 0,
+      "topic": "Illumination - Lumen Method",
+      "difficulty": "Difficult",
+      "tutor": "E = (lumens per lamp × number of lamps × CU × light loss factor) / area in m²."
+    },
+    {
+      "question": "Light loss factor (LLF) includes factors such as?",
+      "choices": ["Lamp lumen depreciation, dirt accumulation, voltage variation", "Only lamp life", "Only color temperature", "Only efficacy"],
+      "answer": 0,
+      "topic": "Illumination - Light Loss Factor",
+      "difficulty": "Difficult",
+      "tutor": "LLF accounts for lumen depreciation over time and environmental factors."
+    },
+    {
+      "question": "The main purpose of a lighting control system is?",
+      "choices": ["Energy savings and flexibility", "Increase illuminance", "Reduce lamp life", "Increase glare"],
+      "answer": 0,
+      "topic": "Illumination - Lighting Control",
+      "difficulty": "Easy",
+      "tutor": "Controls include occupancy sensors, daylight harvesting, dimming, and scheduling."
+    },
+    {
+      "question": "Daylight harvesting uses photosensors to?",
+      "choices": ["Dim electric lights when daylight is sufficient", "Turn off all lights", "Increase light output", "Change color temperature"],
+      "answer": 0,
+      "topic": "Illumination - Daylight Harvesting",
+      "difficulty": "Moderate",
+      "tutor": "Daylight harvesting reduces energy consumption by automatically adjusting artificial lighting."
+    },
+    {
+      "question": "The life rating of an LED lamp typically refers to?",
+      "choices": ["Time until lumen output drops to 70% (L70)", "Time until complete failure", "Warranty period", "Time until color shifts"],
+      "answer": 0,
+      "topic": "Illumination - LED Life",
+      "difficulty": "Difficult",
+      "tutor": "L70 (50,000-100,000 hours) means 70% of initial lumens remain, not catastrophic failure."
+    }
+  ]
+}

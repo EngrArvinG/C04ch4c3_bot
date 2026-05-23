@@ -1,0 +1,246 @@
+{
+  "category": "MATH",
+  "name": "Mathematics for Electrical Engineering",
+  "questions": [
+    {
+      "question": "What is the derivative of f(x) = 5x⁴ - 3x² + 7x - 2?",
+      "choices": ["20x³ - 6x + 7", "20x³ - 6x + 7x", "20x³ - 3x + 7", "5x³ - 3x + 7"],
+      "answer": 0,
+      "topic": "Differential Calculus - Basic Derivatives",
+      "difficulty": "Easy",
+      "tutor": "Using power rule: d/dx(5x⁴)=20x³, d/dx(-3x²)=-6x, d/dx(7x)=7, d/dx(-2)=0."
+    },
+    {
+      "question": "What is the slope of the tangent line to y = x² + 3x at x = 2?",
+      "choices": ["7", "5", "4", "8"],
+      "answer": 0,
+      "topic": "Differential Calculus - Tangent Slope",
+      "difficulty": "Easy",
+      "tutor": "dy/dx = 2x+3. At x=2, slope = 2(2)+3 = 7."
+    },
+    {
+      "question": "If y = sin(3x), what is dy/dx?",
+      "choices": ["3 cos(3x)", "cos(3x)", "-3 cos(3x)", "-cos(3x)"],
+      "answer": 0,
+      "topic": "Differential Calculus - Chain Rule",
+      "difficulty": "Easy",
+      "tutor": "dy/dx = cos(3x) × d/dx(3x) = 3 cos(3x)."
+    },
+    {
+      "question": "What is the derivative of f(x) = e^(2x) ln x?",
+      "choices": ["2e^(2x) ln x + e^(2x)/x", "2e^(2x) ln x - e^(2x)/x", "e^(2x) ln x + e^(2x)/x", "2e^(2x) ln x"],
+      "answer": 0,
+      "topic": "Differential Calculus - Product Rule",
+      "difficulty": "Moderate",
+      "tutor": "Product rule: f' = (2e^(2x))ln x + e^(2x)(1/x)."
+    },
+    {
+      "question": "What is the order of the differential equation d²y/dx² + 5(dy/dx)³ + y = sin x?",
+      "choices": ["2nd order", "1st order", "3rd order", "4th order"],
+      "answer": 0,
+      "topic": "Differential Equations - Order",
+      "difficulty": "Easy",
+      "tutor": "Order is determined by the highest derivative present, which is d²y/dx²."
+    },
+    {
+      "question": "What is the degree of the differential equation (d²y/dx²)³ + (dy/dx)⁴ + y = 0?",
+      "choices": ["3", "4", "2", "1"],
+      "answer": 0,
+      "topic": "Differential Equations - Degree",
+      "difficulty": "Moderate",
+      "tutor": "Degree is the power of the highest order derivative after rationalizing. Here, power of d²y/dx² is 3."
+    },
+    {
+      "question": "Find dy/dx of x²y + y² = 4x using implicit differentiation.",
+      "choices": ["(4 - 2xy)/(x² + 2y)", "(4 - 2xy)/(x² - 2y)", "(2xy - 4)/(x² + 2y)", "(2xy - 4)/(x² - 2y)"],
+      "answer": 0,
+      "topic": "Differential Calculus - Implicit Differentiation",
+      "difficulty": "Difficult",
+      "tutor": "Differentiate: 2xy + x²y' + 2yy' = 4 → y'(x²+2y) = 4-2xy → y' = (4-2xy)/(x²+2y)."
+    },
+    {
+      "question": "At what value of x does f(x) = x³ - 3x² + 2 have a relative maximum?",
+      "choices": ["x=0", "x=2", "x=1", "x=3"],
+      "answer": 0,
+      "topic": "Differential Calculus - Maxima & Minima",
+      "difficulty": "Moderate",
+      "tutor": "f'(x)=3x²-6x=3x(x-2)=0 → x=0 or 2. f''(0)=-6<0 → max at x=0."
+    },
+    {
+      "question": "What is the general solution of dy/dx = 2x?",
+      "choices": ["y = x² + C", "y = 2x + C", "y = x²/2 + C", "y = 2x² + C"],
+      "answer": 0,
+      "topic": "Differential Equations - Separation of Variables",
+      "difficulty": "Easy",
+      "tutor": "dy = 2x dx → ∫dy = ∫2x dx → y = x² + C."
+    },
+    {
+      "question": "What is the particular solution of dy/dx = 4x³ if y=3 when x=1?",
+      "choices": ["y = x⁴ + 2", "y = x⁴ - 1", "y = 4x⁴ - 1", "y = x⁴ + 3"],
+      "answer": 0,
+      "topic": "Differential Equations - Particular Solution",
+      "difficulty": "Moderate",
+      "tutor": "dy=4x³dx → y=x⁴+C. y(1)=1+C=3 → C=2 → y=x⁴+2."
+    },
+    {
+      "question": "Find the second derivative of f(x) = ln(2x+1).",
+      "choices": ["-4/(2x+1)²", "2/(2x+1)²", "-2/(2x+1)²", "4/(2x+1)²"],
+      "answer": 0,
+      "topic": "Differential Calculus - Higher Order Derivatives",
+      "difficulty": "Difficult",
+      "tutor": "f'(x)=2/(2x+1) → f''(x)=-4/(2x+1)²."
+    },
+    {
+      "question": "What is the integrating factor for the linear DE: dy/dx + 3y = e^x?",
+      "choices": ["e^(3x)", "e^(∫3 dx)", "3x", "e^(∫3y dx)"],
+      "answer": 0,
+      "topic": "Differential Equations - Integrating Factor",
+      "difficulty": "Moderate",
+      "tutor": "IF = e^(∫P(x)dx) = e^(∫3 dx) = e^(3x)."
+    },
+    {
+      "question": "If s(t) = t³ - 6t² + 9t + 2 gives position, when is velocity zero?",
+      "choices": ["t=1, 3", "t=2", "t=0, 4", "t=1, 2"],
+      "answer": 0,
+      "topic": "Differential Calculus - Rectilinear Motion",
+      "difficulty": "Moderate",
+      "tutor": "v = ds/dt = 3t²-12t+9 = 3(t²-4t+3)=3(t-1)(t-3)=0 → t=1,3."
+    },
+    {
+      "question": "What is the limit of (x² - 4)/(x - 2) as x approaches 2?",
+      "choices": ["4", "0", "2", "∞"],
+      "answer": 0,
+      "topic": "Differential Calculus - Limits",
+      "difficulty": "Easy",
+      "tutor": "Factor: (x-2)(x+2)/(x-2)=x+2 → limit = 2+2=4."
+    },
+    {
+      "question": "Which of the following is an exact differential equation?",
+      "choices": ["(2xy+1)dx + (x²+3)dy=0", "y dx + x dy=0", "dy/dx + y=0", "x dy + y dx=0"],
+      "answer": 0,
+      "topic": "Differential Equations - Exact DE",
+      "difficulty": "Difficult",
+      "tutor": "M=2xy+1, N=x²+3 → ∂M/∂y=2x, ∂N/∂x=2x → equal → exact."
+    },
+    {
+      "question": "What is the derivative of arctan(x) with respect to x?",
+      "choices": ["1/(1+x²)", "1/(1+x²)²", "-1/(1+x²)", "x/(1+x²)"],
+      "answer": 0,
+      "topic": "Differential Calculus - Inverse Trig Derivatives",
+      "difficulty": "Easy",
+      "tutor": "d/dx arctan x = 1/(1+x²)."
+    },
+    {
+      "question": "If f(x,y)=x²y + 3xy², what is ∂f/∂x?",
+      "choices": ["2xy + 3y²", "x² + 6xy", "2xy + 6xy", "x² + 3y²"],
+      "answer": 0,
+      "topic": "Differential Calculus - Partial Derivatives",
+      "difficulty": "Moderate",
+      "tutor": "Treat y as constant: ∂/∂x(x²y)=2xy, ∂/∂x(3xy²)=3y²."
+    },
+    {
+      "question": "What is the general solution of y'' - 4y' + 4y = 0?",
+      "choices": ["y = C₁e^(2x) + C₂xe^(2x)", "y = C₁e^(2x) + C₂e^(-2x)", "y = C₁e^(4x) + C₂xe^(4x)", "y = C₁cos2x + C₂sin2x"],
+      "answer": 0,
+      "topic": "Differential Equations - Homogeneous Linear DE",
+      "difficulty": "Difficult",
+      "tutor": "Auxiliary: r²-4r+4=(r-2)²=0 → repeated root r=2 → y = (C₁+C₂x)e^(2x)."
+    },
+    {
+      "question": "The radius of a sphere increases at 2 cm/s. How fast is volume increasing when r=5 cm?",
+      "choices": ["200π cm³/s", "100π cm³/s", "50π cm³/s", "25π cm³/s"],
+      "answer": 0,
+      "topic": "Differential Calculus - Related Rates",
+      "difficulty": "Difficult",
+      "tutor": "V=(4/3)πr³ → dV/dt=4πr² dr/dt = 4π(25)(2)=200π cm³/s."
+    },
+    {
+      "question": "What is the derivative of ln(cos x)?",
+      "choices": ["-tan x", "tan x", "-cot x", "cot x"],
+      "answer": 0,
+      "topic": "Differential Calculus - Logarithmic Differentiation",
+      "difficulty": "Moderate",
+      "tutor": "d/dx ln(cos x) = (1/cos x)(-sin x) = -tan x."
+    },
+    {
+      "question": "What is the linear approximation of √(x) at x=4?",
+      "choices": ["L(x)=2 + (x-4)/4", "L(x)=4 + (x-4)/2", "L(x)=2 + (x-4)/2", "L(x)=1 + (x-4)/4"],
+      "answer": 0,
+      "topic": "Differential Calculus - Linear Approximation",
+      "difficulty": "Moderate",
+      "tutor": "f(4)=2, f'(x)=1/(2√x) → f'(4)=1/4 → L(x)=2+(1/4)(x-4)."
+    },
+    {
+      "question": "A rectangular field is to be fenced with 400 m of fencing. What dimensions maximize area?",
+      "choices": ["100 m × 100 m", "150 m × 50 m", "120 m × 80 m", "200 m × 0 m"],
+      "answer": 0,
+      "topic": "Differential Calculus - Optimization",
+      "difficulty": "Difficult",
+      "tutor": "P=2l+2w=400 → l+w=200. A=lw=l(200-l). dA/dl=200-2l=0 → l=100, w=100."
+    },
+    {
+      "question": "What is the integrating factor for dy/dx - 2y = 5?",
+      "choices": ["e^(-2x)", "e^(2x)", "e^(5x)", "e^(2x)/2"],
+      "answer": 0,
+      "topic": "Differential Equations - Linear DE",
+      "difficulty": "Easy",
+      "tutor": "P(x) = -2 → IF = e^(∫-2 dx) = e^(-2x)."
+    },
+    {
+      "question": "What is the acceleration function if s(t)=4t³-2t²+5t?",
+      "choices": ["24t - 4", "12t² - 4t + 5", "12t - 4", "24t² - 4"],
+      "answer": 0,
+      "topic": "Differential Calculus - Acceleration",
+      "difficulty": "Moderate",
+      "tutor": "v=ds/dt=12t²-4t+5, a=dv/dt=24t-4."
+    },
+    {
+      "question": "For what value of x does f(x)=x³-6x² have an inflection point?",
+      "choices": ["x=2", "x=0", "x=4", "x=1"],
+      "answer": 0,
+      "topic": "Differential Calculus - Inflection Points",
+      "difficulty": "Moderate",
+      "tutor": "f'(x)=3x²-12x, f''(x)=6x-12=0 → x=2. f'' changes sign → inflection."
+    },
+    {
+      "question": "What is the general solution of dy/dx = (2y)/(x)?",
+      "choices": ["y = Cx²", "y = Cx", "y = C/x²", "y = Cx^2"],
+      "answer": 0,
+      "topic": "Differential Equations - Variable Separable",
+      "difficulty": "Easy",
+      "tutor": "Separate: dy/y = (2/x)dx → ln y = 2 ln x + C → y = Cx²."
+    },
+    {
+      "question": "Given y = 2cos(4t), what is the differential equation satisfied by y?",
+      "choices": ["d²y/dt² + 16y = 0", "d²y/dt² + 4y = 0", "d²y/dt² - 16y = 0", "dy/dt + 4y = 0"],
+      "answer": 0,
+      "topic": "Differential Equations - Simple Harmonic Motion",
+      "difficulty": "Difficult",
+      "tutor": "dy/dt = -8sin4t, d²y/dt² = -32cos4t = -16(2cos4t) = -16y → d²y/dt² + 16y=0."
+    },
+    {
+      "question": "If y = e^(mx) satisfies y'' - 5y' + 6y = 0, what is m?",
+      "choices": ["2 and 3", "-2 and -3", "1 and 6", "-1 and -6"],
+      "answer": 0,
+      "topic": "Differential Equations - Characteristic Equation",
+      "difficulty": "Moderate",
+      "tutor": "Substitute: m²e^(mx) -5me^(mx) + 6e^(mx)=0 → m²-5m+6=0 → (m-2)(m-3)=0 → m=2,3."
+    },
+    {
+      "question": "What is the derivative of x^x?",
+      "choices": ["x^x(ln x + 1)", "x^x(ln x)", "x^x(ln x - 1)", "x^(x-1) x"],
+      "answer": 0,
+      "topic": "Differential Calculus - Exponential Derivatives",
+      "difficulty": "Difficult",
+      "tutor": "Let y=x^x → ln y = x ln x → (1/y)dy/dx = ln x + 1 → dy/dx = x^x(ln x+1)."
+    },
+    {
+      "question": "A 10-ft ladder slides down a wall. If top slides down at 2 ft/s, how fast is bottom moving when top is 6 ft from ground?",
+      "choices": ["1.5 ft/s", "2 ft/s", "1 ft/s", "2.5 ft/s"],
+      "answer": 0,
+      "topic": "Differential Calculus - Related Rates Ladder",
+      "difficulty": "Difficult",
+      "tutor": "x²+y²=100, dy/dt=-2, y=6 → x=8 → 2x dx/dt+2y dy/dt=0 → 16 dx/dt +12(-2)=0 → dx/dt=24/16=1.5 ft/s."
+    }
+  ]
+}
